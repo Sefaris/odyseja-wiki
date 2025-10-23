@@ -32,8 +32,6 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 
 ## Autorzy
 
-- Oryginalny twórca solucji: MarekZ
-
 - Członkowie Teamu Sefaris:
 
   - [Tulipan](https://github.com/tulipanov)
