@@ -10,17 +10,17 @@ Nagur opowiada nam o specjalnych rybach, w których złodzieje przenoszą inform
 
 ## Kryjówka przemytników
 
-Zadania są powiązane z "[Gildia złodziei](sekcje/zadania/rozdzial_iv?id=gildia-złodziei)"
+Zadania są powiązane z [Gildia złodziei](sekcje/zadania/rozdzial_iv?id=gildia-złodziei)
 
-Po zadaniu "[Specjalne ryby](#specjalna-ryba)" Nagur daje nam mapę i klucz do jaskini przemytników, która znajduje się na nowych terenach w górach naprzeciw kapliczki Innosa przy farmie Lobarta. Musimy ubrać zbroje, która nie jest pancerzem żołnierza, ani pancerzem bandytów.
+Po zadaniu [Specjalne ryby](#specjalna-ryba) Nagur daje nam mapę i klucz do jaskini przemytników, która znajduje się na nowych terenach w górach naprzeciw kapliczki Innosa przy farmie Lobarta. Musimy ubrać zbroje, która nie jest pancerzem żołnierza, ani pancerzem bandytów.
 
-Po wejściu do jaskini rozmawiamy z Waine’em, który zleca nam pomóc innym przemytnikom.
+Po wejściu do jaskini rozmawiamy z Waine'em, który zleca nam pomóc innym przemytnikom.
 
 a) Robimy zadania wymienione poniżej
 
-b) Mówimy Waine’owi, że zrobiliśmy wszystko, a ten każe nam zapłacić i przymyka oko na nasze lenistwo.
+b) Mówimy Waine'owi, że zrobiliśmy wszystko, a ten każe nam zapłacić i przymyka oko na nasze lenistwo.
 
-Otrzymujemy zadanie "[Krwawe Puchary](#krwawe-puchary)", a kiedy je zrobimy, Waine odsyła nas do Nagura, gdzie zadanie się kończy.
+Otrzymujemy zadanie [Krwawe Puchary](#krwawe-puchary), a kiedy je zrobimy, Waine odsyła nas do Nagura, gdzie zadanie się kończy.
 
 ### Kusząca oferta
 
@@ -70,7 +70,7 @@ Znajdują się one kolejno w Domu Sędziego, Domu Lariusa, Domu Fernando, Domu V
 
 ## Spotkanie z szefem
 
-UWAGA: Podczas tego zadania rozpoczniemy bardzo ważny wątek “[Widzący](#widzący)”, poprzez przeczytanie kartki w skrzyni w kanałach  
+UWAGA: Podczas tego zadania rozpoczniemy bardzo ważny wątek “[Widzący](#widzący), poprzez przeczytanie kartki w skrzyni w kanałach  
 Po skończeniu zadań w jaskini przemytników, idziemy do
 
 a) WSPÓŁPRACA ZE STRAŻĄ Wambo, a następnie Nagura
@@ -141,7 +141,7 @@ Amenofis zleca nam zdobycie Szponu Beliara i pokazanie mu go (Misja ["Potężna 
 
 ## Niebiańska Tarcza
 
-Amenofis zleca nam zdobycie Niebiańskiej Tarczy. Po zrobieniu zadań "[Poszukiwania w świątyni Adanosa"](#poszukiwania-w-świątyni-adanosa) "[Biblioteka w kanionie](#biblioteka-w-kanionie)" "[Starożytna piramida](#starożytna-piramida)" "[Ukryta świątynia](#ukryta-świątynia)".
+Amenofis zleca nam zdobycie Niebiańskiej Tarczy. Po zrobieniu zadań [Poszukiwania w świątyni Adanosa](#poszukiwania-w-świątyni-adanosa) [Biblioteka w kanionie](#biblioteka-w-kanionie) [Starożytna piramida](#starożytna-piramida) [Ukryta świątynia](#ukryta-świątynia).
 
 W świątyni Tadmoru, do której dostajemy się w ramach misji od Merkuriusa, znajduje się skrzynka z tablicą, w której jest napisane, że dysk został ukryty w tajnej świątyni Adanosa. Teraz musimy iść do kanionu z lwami i wejść do portalu, skąd trafiamy przed drzwi "świątyni wahadeł". Przechodzimy przez świątynie, a następnie przez zarośniętą jaskinię, a następnie udajemy się do świątyni w ukrytej dolinie, gdzie musimy pokonać kościanych wojowników i ich lorda.
 
@@ -182,7 +182,7 @@ Amenofis zleca nam przeszukanie piramidy w Khorinis. Płyniemy podwodnym przejś
 
 ### Ukryta świątynia
 
-Amenofis zleca nam znalezienie ukrytej świątyni w Varancie. Najpierw musimy się dostać do Świątyni Tadmoru (Patrz: “Boski artefakt”). Jeśli jesteśmy już na tym etapie misji, Merkurius nauczy nas języka starożytnych, dzięki któremu będziemy w stanie przeczytać tabliczke znalezioną w świątyni. Tam dowiemy się, że poszukiwana przez nas świątynia znajduje się za "świątynią wahadeł"(zadanie [Niebiańska Tarcza](#niebiańska-tarcza)). Po przeczytaniu pulpitu misja się kończy.
+Amenofis zleca nam znalezienie ukrytej świątyni w Varancie. Najpierw musimy się dostać do Świątyni Tadmoru (Patrz: Boski artefakt). Jeśli jesteśmy już na tym etapie misji, Merkurius nauczy nas języka starożytnych, dzięki któremu będziemy w stanie przeczytać tabliczke znalezioną w świątyni. Tam dowiemy się, że poszukiwana przez nas świątynia znajduje się za świątynią wahadeł (zadanie [Niebiańska Tarcza](#niebiańska-tarcza)). Po przeczytaniu pulpitu misja się kończy.
 
 ## Prazkaz potrzebuje pomocy
 
@@ -264,7 +264,7 @@ Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się gr
 
 Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansona w Aszdodzie (Misja "Kości szkieletów")  Charona w Ugarze (Misja "Serca ognistych golemów") oraz Belasara w Armanie (Misja "Upiorne demony")
 
-Po rozprawieniu się z zadaniami udajemy się do Amru i robimy dla niego zadanie "[Prasmok](#prasmok)". Po tym zadaniu nauczy on nas języka czarnych magów, którego koniecznie się uczymy. Udajemy się teraz do Almansora i kradniemy mu klucz do biblioteki. Przechodzimy przez bibliotekę dostając się do kolejnych pomieszczeń za pomocą przełączników, a quest kończy się po przeczytaniu ostatniej księgi.
+Po rozprawieniu się z zadaniami udajemy się do Amru i robimy dla niego zadanie [Prasmok](#prasmok). Po tym zadaniu nauczy on nas języka czarnych magów, którego koniecznie się uczymy. Udajemy się teraz do Almansora i kradniemy mu klucz do biblioteki. Przechodzimy przez bibliotekę dostając się do kolejnych pomieszczeń za pomocą przełączników, a quest kończy się po przeczytaniu ostatniej księgi.
 
 ### Prasmok
 
@@ -354,4 +354,4 @@ Po rozmowie z Baal Handsharem, udajemy się do Arama, który zleca nam pozbycie 
 
 ### Wskazówka Kuternogi
 
-Patrz "[Złoto Piratów](sekcje/zadania/rozdzial_ii?id=złoto-piratów)"
+Patrz [Złoto Piratów](sekcje/zadania/rozdzial_ii?id=złoto-piratów)
