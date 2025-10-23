@@ -127,11 +127,11 @@ Zadanie dostajemy od Nolana gdy się dowiemy za co trafił do więzienia. By zab
 
 ### Spisek
 
-Zadanie możemy zacząć po przeczytaniu notatki, która była w jednym z ciał skrytobójców w trakcie wykonywania misji “[Naszyjnik królowej](#naszyjnik-królowej). Dowiadujemy się o spisku przeciwko królestwu więc musimy ostrzec o tym króla. Ten mówi, że porozmawiać na osobności możecie tylko po 20:00. Po przeanalizowaniu sytuacji musisz przebrać się za skrytobójcę (zbroja jest w worku, w ekwipunku) i wyruszyć na spotkanie z wodzem orków Ogroshem. Podczas rozmowy, ork, każe ci powiedzieć kto jest twoim przywódcą. Prawidłową odpowiedzią jest, że nie możesz tego zdradzić (sami dalej tego nie wiemy). Ork nam wierzy i mówi, że szaman wykona potężny rytuał, który zniszczy paladynów, a atak zaplanowany jest jednocześnie od frontu jak i od strony tajemnego przejścia. Dalej wykonując zadania “[Rytuał z Gothy](#rytuał-z-gothy), “[Atak na Vengard](#atak-na-vengard) oraz zabijając orków w tajemnym przejściu (tam gdzie byli skrytobójcy) możemy zdać raport królowi kończąc misję.
+Zadanie możemy zacząć po przeczytaniu notatki, która była w jednym z ciał skrytobójców w trakcie wykonywania misji [Naszyjnik królowej](#naszyjnik-królowej). Dowiadujemy się o spisku przeciwko królestwu więc musimy ostrzec o tym króla. Ten mówi, że porozmawiać na osobności możecie tylko po 20:00. Po przeanalizowaniu sytuacji musisz przebrać się za skrytobójcę (zbroja jest w worku, w ekwipunku) i wyruszyć na spotkanie z wodzem orków Ogroshem. Podczas rozmowy, ork, każe ci powiedzieć kto jest twoim przywódcą. Prawidłową odpowiedzią jest, że nie możesz tego zdradzić (sami dalej tego nie wiemy). Ork nam wierzy i mówi, że szaman wykona potężny rytuał, który zniszczy paladynów, a atak zaplanowany jest jednocześnie od frontu jak i od strony tajemnego przejścia. Dalej wykonując zadania [Rytuał z Gothy](#rytuał-z-gothy), [Atak na Vengard](#atak-na-vengard) oraz zabijając orków w tajemnym przejściu (tam gdzie byli skrytobójcy) możemy zdać raport królowi kończąc misję.
 
 ### Przywódca spisku
 
-Zadanie dostępne po misji “[Zemsta Lee](#w-poszukiwaniu-hektora) (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
+Zadanie dostępne po misji [Zemsta Lee](#w-poszukiwaniu-hektora) (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
 
 ### Rytuał z Gothy
 
@@ -139,17 +139,17 @@ By dowiedzieć się więcej o rytuale, Ogrosh wysyła nas do szamana Rovasha. Sz
 
 ### Atak na Vengard!
 
-Po zakończeniu zadania “[Rytuał z Gothy](#rytuał-z-gothy), król każe nam ostrzec paladyna Thordira i rozkazać by zebrał ludzi do przeciwstawienia się atakowi ze strony orków. Po pokonaniu orków wracamy do króla i kończymy zadanie.
+Po zakończeniu zadania [Rytuał z Gothy](#rytuał-z-gothy), król każe nam ostrzec paladyna Thordira i rozkazać by zebrał ludzi do przeciwstawienia się atakowi ze strony orków. Po pokonaniu orków wracamy do króla i kończymy zadanie.
 
 ### Ucieczka z więzienia
 
-Wymagane jest ukończenie “[Orkowie w Vengardzie](#zagubieni-orkowie), “[Spisek](#zlecenie-od-lorda-baldwina) oraz “[Naszyjnik królowej](#naszyjnik-królowej)
+Wymagane jest ukończenie [Orkowie w Vengardzie](#zagubieni-orkowie), [Spisek](#zlecenie-od-lorda-baldwina) oraz [Naszyjnik królowej](#naszyjnik-królowej)
 
 Rozmawiając z Nolanem mówi mu, że jesteśmy przekonani o jego niewinności i pomożemy mu w ucieczce. W tym celu rozmawiamy z dozorcą i dowiadujemy się, że zapomina się przy damach. Idziemy więc do pomieszczenia gdzie jest dama i pokojówka, kradniemy suknie, wracamy do Nolana i przekonujemy go, by to założył. Uciekamy z nim prosto do namiotu przed zamkiem, tam gdzie wcześniej stacjonowali orkowie.
 
 ### Magowie Ognia w mieście
 
-Mag ognia, Umrich, prosi nas byśmy sprawdzili czy ktoś z innych magów przeżył i dostarczył pewną księgę. Ciała magów znajdziemy na rynku, przed kapliczką Innosa blisko rynku oraz ostatni mag, który posiada już księgę, znajduje się w jednym z budynków głębiej w mieście (możliwe dopiero w trakcie zadania “[Spisek](#zlecenie-od-lorda-baldwina) lub po wybiciu miasta). Czytamy wszystkie notatki i wracamy do Umricha.
+Mag ognia, Umrich, prosi nas byśmy sprawdzili czy ktoś z innych magów przeżył i dostarczył pewną księgę. Ciała magów znajdziemy na rynku, przed kapliczką Innosa blisko rynku oraz ostatni mag, który posiada już księgę, znajduje się w jednym z budynków głębiej w mieście (możliwe dopiero w trakcie zadania [Spisek](#zlecenie-od-lorda-baldwina) lub po wybiciu miasta). Czytamy wszystkie notatki i wracamy do Umricha.
 
 ### Cenna figurka Innosa
 
@@ -195,7 +195,7 @@ W ciele bandyty znajdujemy notatkę o skarbie. Po znalezieniu skarbu w górach, 
 
 # Obóz Gońców Leśnych
 
-Zadanie dostajemy od króla Rhobara II. Każe nam wspomóc gońców leśnych. Po wykonaniu dla nich zadania “[Atak orków na Gońców Leśnych](#polowanie-na-krasnoludy) możemy wrócić do króla.
+Zadanie dostajemy od króla Rhobara II. Każe nam wspomóc gońców leśnych. Po wykonaniu dla nich zadania [Atak orków na Gońców Leśnych](#polowanie-na-krasnoludy) możemy wrócić do króla.
 
 ### Atak orków na Gońców Leśnych
 
@@ -229,7 +229,7 @@ Po oczyszczeniu Gothy z nieumarłych możemy wrócić do Potrosa, by mu o tym po
 
 ### Banda Ortegi
 
-Na drodze, w stronę Faring, możemy spotkać uciekiniera Adriana, który opowiada nam, że banda Ortegi powoduje, że cała okolica jest niebezpieczna. Po zrobieniu zadań “[Udręka z bandytami](#udręka-z-bandytami) oraz “[Kryjówka Ortegi](#nekromanta) (czyli pokonaniu wszystkich bandytów), wracamy do Adriana opowiedzieć mu o tym.
+Na drodze, w stronę Faring, możemy spotkać uciekiniera Adriana, który opowiada nam, że banda Ortegi powoduje, że cała okolica jest niebezpieczna. Po zrobieniu zadań [Udręka z bandytami](#udręka-z-bandytami) oraz [Kryjówka Ortegi](#nekromanta) (czyli pokonaniu wszystkich bandytów), wracamy do Adriana opowiedzieć mu o tym.
 
 ### Udręka z bandytami
 
@@ -245,7 +245,7 @@ Na granicy z Nordmarem przy górach możemy spotkać bandytę o imieniu Zach (lo
 
 ### Miecz poległego paladyna
 
-Samo zadanie mogliśmy dostać już wcześniej po rozmowie z Gernotem na statku przy zadaniu “[Stammler](#stammler). Wykonać je możemy dopiero w okolicach Faring. Miecza nie znajdziemy na pobojowisku, a w pobliskiej wieży strażniczej, w której stacjonują orkowie.
+Samo zadanie mogliśmy dostać już wcześniej po rozmowie z Gernotem na statku przy zadaniu [Stammler](#stammler). Wykonać je możemy dopiero w okolicach Faring. Miecza nie znajdziemy na pobojowisku, a w pobliskiej wieży strażniczej, w której stacjonują orkowie.
 
 # Buntownicy z Faring
 
@@ -257,7 +257,7 @@ Bo dostaniu się do buntowników, Aidan wysyła nas byśmy odnaleźli wysłannik
 
 ### Oddział pościgowy orków
 
-W trakcie zadania “[Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poinformowani, że Jokera ściągano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
+W trakcie zadania [Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poinformowani, że Jokera ściągano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
 
 ### Wieża strażnicza Faring
 
@@ -265,7 +265,7 @@ Zadanie rozpoczyna się, gdy wspominamy o wieży strażniczej Aidanowi. Zakończ
 
 ### Karawana orków
 
-Po zadaniu “[Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poproszeni o zniszczenie karawany podróżującej z Nordmaru. Znajdziemy ją na końcu lasu, a po pokonaniu mówimy Aidanowi. Obóz jest też zaznaczony na mapie.
+Po zadaniu [Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poproszeni o zniszczenie karawany podróżującej z Nordmaru. Znajdziemy ją na końcu lasu, a po pokonaniu mówimy Aidanowi. Obóz jest też zaznaczony na mapie.
 
 ## Wsparcie dla buntowników
 
@@ -273,7 +273,7 @@ Ostatnią misją zleconą przez Aidana jest przyprowadzenie minimum pięciu ludz
 
 ### Nolan
 
-W trakcie wykonywania misji “[Wsparcie dla buntowników](#wsparcie-dla-buntowników) gadamy z Nolanem dostając tę misję, pytając się go, czy nie zechciałby przyłączyć się do walki. Oddajemy mu naszą runę teleportacyjną do obozu buntowników w Faring, następnie odbieramy ją na miejscu i idziemy do Aidana kończąc zadanie.
+W trakcie wykonywania misji [Wsparcie dla buntowników](#wsparcie-dla-buntowników) gadamy z Nolanem dostając tę misję, pytając się go, czy nie zechciałby przyłączyć się do walki. Oddajemy mu naszą runę teleportacyjną do obozu buntowników w Faring, następnie odbieramy ją na miejscu i idziemy do Aidana kończąc zadanie.
 
 ### Brodolf
 
@@ -285,7 +285,7 @@ Degendharta mogliśmy spotkać w okolicach Vengardu w domku Gońców Leśnych (m
 
 ### Adrian
 
-Adriana mogliśmy spotkać już wcześniej przy Jokerze. Zgodzi się dołączyć po wykonaniu zadania “[Udręka z bandytami](#udręka-z-bandytami). Po wykonaniu zadania wracamy do Aidana kończąc misję.
+Adriana mogliśmy spotkać już wcześniej przy Jokerze. Zgodzi się dołączyć po wykonaniu zadania [Udręka z bandytami](#udręka-z-bandytami). Po wykonaniu zadania wracamy do Aidana kończąc misję.
 
 ### Niko
 
@@ -297,7 +297,7 @@ Niedaleko zamku buntowników z Faring mogliśmy spotkać farmera Melchiora, któ
 
 ### Zabłąkana owca
 
-Po wykonaniu zadania “[Farmer i potwór](#farmer-i-potwór), Melchior następnego dnia mówi nam, że uciekły jego owce przed wilkami. Zadanie kończy się po dostarczeniu trzech żywych owiec oraz zameldowaniu o jednej martwej. Owce są dobrze poukrywane i porozrzucane po okolicy.  
+Po wykonaniu zadania [Farmer i potwór](#farmer-i-potwór), Melchior następnego dnia mówi nam, że uciekły jego owce przed wilkami. Zadanie kończy się po dostarczeniu trzech żywych owiec oraz zameldowaniu o jednej martwej. Owce są dobrze poukrywane i porozrzucane po okolicy.  
 ![](images/image1.png)
 
 # Nordmar
@@ -313,7 +313,7 @@ Zadanie to zaczyna się automatycznie po wejściu do Nordmaru, a kończy po zdob
 
 ### Poszukiwanie Xardasa
 
-Zadanie to zaczyna się automatycznie po odpłynięciu z Athanos, a kończy po znalezieniu Xardasa (Patrz: “[Droga do wieży Xardasa](#droga-do-wieży-xardasa))
+Zadanie to zaczyna się automatycznie po odpłynięciu z Athanos, a kończy po znalezieniu Xardasa (Patrz: [Droga do wieży Xardasa](#droga-do-wieży-xardasa))
 
 ### Poszukiwanie skarbu w Wiecznych Lodach
 
@@ -325,7 +325,7 @@ Po spotkaniu Xardasa prosi on nas o pozbycie się obozu orków znajdującego si�
 
 ### Kamień przodków
 
-Xardas prosi nas o przyniesienie mu Kamienia Przodków, potrzebnego do wykonania amuletu ochrony przed ogniem. Podczas zadania “[Grób Snorre](#grób-snorre) otrzymamy pożądany przedmiot, z którym wracamy do Xardasa, a zadanie kończy się.
+Xardas prosi nas o przyniesienie mu Kamienia Przodków, potrzebnego do wykonania amuletu ochrony przed ogniem. Podczas zadania [Grób Snorre](#grób-snorre) otrzymamy pożądany przedmiot, z którym wracamy do Xardasa, a zadanie kończy się.
 
 ### Księga ze starej wieży
 
@@ -578,7 +578,7 @@ Ortwin opowiada nam o bandytach, którzy ciągle napadają obóz paladynów. Zna
 
 Stara kopalnia
 
-Questa zleca nam Ingmar, po zadaniu “[Napad bandytów](#napad-bandytów). Idziemy w miejsce starej kopalni i eksplorujemy tamte tereny, aż nie otrzymamy wpisu w dzienniku, po którym wracamy do Ingmara.
+Questa zleca nam Ingmar, po zadaniu [Napad bandytów](#napad-bandytów). Idziemy w miejsce starej kopalni i eksplorujemy tamte tereny, aż nie otrzymamy wpisu w dzienniku, po którym wracamy do Ingmara.
 
 ### Wtargnięcie bandytów
 

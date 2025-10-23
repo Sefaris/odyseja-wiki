@@ -70,7 +70,7 @@ Znajdują się one kolejno w Domu Sędziego, Domu Lariusa, Domu Fernando, Domu V
 
 ## Spotkanie z szefem
 
-UWAGA: Podczas tego zadania rozpoczniemy bardzo ważny wątek “[Widzący](#widzący), poprzez przeczytanie kartki w skrzyni w kanałach  
+UWAGA: Podczas tego zadania rozpoczniemy bardzo ważny wątek [Widzący](#widzący), poprzez przeczytanie kartki w skrzyni w kanałach  
 Po skończeniu zadań w jaskini przemytników, idziemy do
 
 a) WSPÓŁPRACA ZE STRAŻĄ Wambo, a następnie Nagura

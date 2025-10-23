@@ -3,7 +3,7 @@
 - Do pewnej części Varantu otrzymasz dostęp dopiero w 5 rozdziale, więc nie próbuj tam przechodzić górami
 - Nie atakuj orków i asasynów, dopóki nie skończysz z nimi zadań (lub nie zaczną Cię wszyscy atakować pierwsi)
 - Po wykonaniu zadań dla Saida i zaakceptowaniu jego oferty, asasyni i orkowie stają się agresywni.
-- Warto wykonać zadanie “[Oszukany](#oszukany)
+- Warto wykonać zadanie [Oszukany](#oszukany)
 
 ##
 
@@ -18,7 +18,7 @@ Ponownie rozmawiamy z Królem i teleportujemy się z powrotem na statek.
 
 ### Sztorm
 
-Zadanie informacyjne, które kończy się po ukończeniu zadań [“Dziura”](#dziura) i [“Człowiek za burtą”](#człowiek-za-burtą)
+Zadanie informacyjne, które kończy się po ukończeniu zadań [Dziura](#dziura) i [Człowiek za burtą](#człowiek-za-burtą)
 
 #### Dziura
 
@@ -97,7 +97,7 @@ Na koniec udajemy się do Haralda i powiadamiamy go o naszym sukcesie.
 
 ### Gildia Złodziei
 
-Po oszczędzeniu Rengaru podczas misji “[Złoto Jory](sekcje/zadania/rozdzial_iii?id=złoto-jory), możemy dołączyć (lub odrzucić ofertę) do gildii złodziei. Jeżeli zdecydujemy się dołączyć w rozdziale 3 możemy wykonać tylko “[Plan Rengaru](#plan-rengaru). Więcej zadań odblokujemy dopiero w rozdziale 4 od Nagura. Dodatkowym wymogiem jest wyzwolenie miasta. Dodatkowe zadania w 4 rozdziale to: “[Kradzież u Lutero](#kradzież-u-lutero) (po tym zadaniu mamy alternatywną ścieżkę zadań - “[Pośród złodziei](#pośród-złodziei) - po czym zadanie z gildią złodziei może się wcześniej zakończyć), po której ogarniają nas wyrzuty sumienia i możemy wydać gildię Lordowi Andre. Ten jednak nie ma czasu, więc udajemy się z tym do Wambo i twoim zadaniem będzie znaleźć tożsamość [przywódcy](#gildia-złodziei) oraz [pasera](#paser). Będziecie się spotykać po godzinie 20:00, w jaskini z teleportem obok cmentarza Martwej Harpii. “[Specjalna ryba](sekcje/zadania/rozdzial_v?id=specjalna-ryba), “[Kryjówka przemytników](#kryjówka-przemytników), “[Kontrabanda](#kontrabanda), “[Grzyby dla Krugera](#grzyby-dla-krugera), “[Tania ryżówka](#tania-ryżówka), “[Kusząca oferta](#kusząca-oferta), “[Krwawe puchary](#krwawe-puchary), “[Bart sprawia kłopoty](#bart-sprawia-kłopoty), “[Test odwagi](#test-odwagi), “[Topór bandyty”](#topór-bandyty). Po wykonaniu zadań dla przemytników dostaniemy od Nagura zadanie “[Okradnięcie Lorda Andre](#okradnięcie-lorda-andre). Kolejne zadania dostaniemy dopiero w 5 rozdziale, a dokładniej po odblokowaniu dostępu do [Aszdod](sekcje/zadania/rozdzial_v?id=aszdod). Nagur powie nam, że [szef przemytników oczekuje](#gildia-złodziei) na nas w ich kryjówce. Spotykamy tam Booze’a, któremu wcześniej wręczyliśmy piwo w kanalizacji. Twoim zadaniem obecnie jest zabicie wszystkich. Z ciała szefa przemytników zabieramy klucz do kufra oraz drzwi do jego pokoju. Dom znajduje się w przejściu do części gdzie mieszka Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę. Przy okazji w domu mogliśmy rozpocząć, po przeczytaniu notatki, zadanie “[Zamknięty pokó](#zamknięty-pokój)j”
+Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_iii?id=złoto-jory), możemy dołączyć (lub odrzucić ofertę) do gildii złodziei. Jeżeli zdecydujemy się dołączyć w rozdziale 3 możemy wykonać tylko [Plan Rengaru](#plan-rengaru). Więcej zadań odblokujemy dopiero w rozdziale 4 od Nagura. Dodatkowym wymogiem jest wyzwolenie miasta. Dodatkowe zadania w 4 rozdziale to: [Kradzież u Lutero](#kradzież-u-lutero) (po tym zadaniu mamy alternatywną ścieżkę zadań - [Pośród złodziei](#pośród-złodziei) - po czym zadanie z gildią złodziei może się wcześniej zakończyć), po której ogarniają nas wyrzuty sumienia i możemy wydać gildię Lordowi Andre. Ten jednak nie ma czasu, więc udajemy się z tym do Wambo i twoim zadaniem będzie znaleźć tożsamość [przywódcy](#gildia-złodziei) oraz [pasera](#paser). Będziecie się spotykać po godzinie 20:00, w jaskini z teleportem obok cmentarza Martwej Harpii. [Specjalna ryba](sekcje/zadania/rozdzial_v?id=specjalna-ryba), [Kryjówka przemytników](#kryjówka-przemytników), [Kontrabanda](#kontrabanda), [Grzyby dla Krugera](#grzyby-dla-krugera), [Tania ryżówka](#tania-ryżówka), [Kusząca oferta](#kusząca-oferta), [Krwawe puchary](#krwawe-puchary), [Bart sprawia kłopoty](#bart-sprawia-kłopoty), [Test odwagi](#test-odwagi), [Topór bandyty”](#topór-bandyty). Po wykonaniu zadań dla przemytników dostaniemy od Nagura zadanie [Okradnięcie Lorda Andre](#okradnięcie-lorda-andre). Kolejne zadania dostaniemy dopiero w 5 rozdziale, a dokładniej po odblokowaniu dostępu do [Aszdod](sekcje/zadania/rozdzial_v?id=aszdod). Nagur powie nam, że [szef przemytników oczekuje](#gildia-złodziei) na nas w ich kryjówce. Spotykamy tam Booze’a, któremu wcześniej wręczyliśmy piwo w kanalizacji. Twoim zadaniem obecnie jest zabicie wszystkich. Z ciała szefa przemytników zabieramy klucz do kufra oraz drzwi do jego pokoju. Dom znajduje się w przejściu do części gdzie mieszka Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę. Przy okazji w domu mogliśmy rozpocząć, po przeczytaniu notatki, zadanie [Zamknięty pokó](#zamknięty-pokój)j”
 
 ### Pośród złodziei
 
@@ -111,13 +111,13 @@ Po dołączeniu do gildii, Rengaru opowiada nam, że Jora ukrył dodatkowo cenne
 
 #### Stara zbroja paladyna
 
-W kufrze Jory znaleźliśmy dodatkowo zbroje paladyna. Rengaru nic sensownego nie może z nią zrobić więc pozwala nam ją zatrzymać. Daje nam jednak poradę, że możemy kogoś wrobić w posiadanie paladyńskiego ekwipunku. W tym celu należy pogadać z Hanną, która opowiada nam o denerwującym Valentino. Po rozmowie z nim Roland dochodzi do wniosku, że można podrzucić zbroję do jego kufra. Możemy to wykonać jednak dopiero w 4 rozdziale, po wyzwoleniu miasta (przy okazji zadania “[Krwawe Puchary](#krwawe-puchary)). Wtedy dopiero odblokuje się nam możliwość kradzieży klucza i podrzucenia zbroi do jego kufra.
+W kufrze Jory znaleźliśmy dodatkowo zbroje paladyna. Rengaru nic sensownego nie może z nią zrobić więc pozwala nam ją zatrzymać. Daje nam jednak poradę, że możemy kogoś wrobić w posiadanie paladyńskiego ekwipunku. W tym celu należy pogadać z Hanną, która opowiada nam o denerwującym Valentino. Po rozmowie z nim Roland dochodzi do wniosku, że można podrzucić zbroję do jego kufra. Możemy to wykonać jednak dopiero w 4 rozdziale, po wyzwoleniu miasta (przy okazji zadania [Krwawe Puchary](#krwawe-puchary)). Wtedy dopiero odblokuje się nam możliwość kradzieży klucza i podrzucenia zbroi do jego kufra.
 
 #### Kradzież u Lutero
 
 Nagur zleca nam przyniesienie mu cennej szkatułki Lutero. Należy go okraść i wziąć szkatułkę ze skrzyni w jego domu. O północy spotykamy Nagura w kanałach i oddajemy mu szkatułkę. Po kilku dniach można odebrać nagrodę i zakończyć zadanie.
 
-KONTYNUACJA WĄTKU W 5R “[SPECJALNA RYBA](sekcje/zadania/rozdzial_v?id=specjalna-ryba)
+KONTYNUACJA WĄTKU W 5R [SPECJALNA RYBA](sekcje/zadania/rozdzial_v?id=specjalna-ryba)
 
 #### Włamanie do Herolda
 
@@ -505,7 +505,7 @@ Po przyniesieniu skór dla Tabora, możemy mu pomóc w poszukiwaniach lwa Aslana
 
 ### Zaufanie koczowników
 
-Zadanie rozpoczyna się po rozmowie z Tamarą o ucieczce niewolników, a kończy się na zdobyciu zaufania Saida (Patrz [Koczownicy](#koczownicy)). Jest to zadanie wymagane, aby pchnąć zadanie “[Potężne zaklęcie](#potężne-zaklęcie)
+Zadanie rozpoczyna się po rozmowie z Tamarą o ucieczce niewolników, a kończy się na zdobyciu zaufania Saida (Patrz [Koczownicy](#koczownicy)). Jest to zadanie wymagane, aby pchnąć zadanie [Potężne zaklęcie](#potężne-zaklęcie)
 
 ### Potężne zaklęcie
 
@@ -531,7 +531,7 @@ Karczmarz opowiada nam o opuszczonym domu niedaleko areny i magazynu. Można tam
 
 ### Oszukany
 
-Klaas stracił całe złoto z wyprawy grając w kości. Jeśli oddamy mu 2000 złota, otrzymamy od niego mapę na [wyspę Mendozy](sekcje/zadania/rozdzial_vi?id=wyspa-mendozy). Po transakcji misja się kończy. Wieści możemy przekazać Lordowi Baldwinowi, odblokowując tym samym zadanie “[Wyspa Piratów](#wyspa-piratów). Wykonać je możemy dopiero w 6 rozdziale.
+Klaas stracił całe złoto z wyprawy grając w kości. Jeśli oddamy mu 2000 złota, otrzymamy od niego mapę na [wyspę Mendozy](sekcje/zadania/rozdzial_vi?id=wyspa-mendozy). Po transakcji misja się kończy. Wieści możemy przekazać Lordowi Baldwinowi, odblokowując tym samym zadanie [Wyspa Piratów](#wyspa-piratów). Wykonać je możemy dopiero w 6 rozdziale.
 
 ### Tytoń Bahala
 

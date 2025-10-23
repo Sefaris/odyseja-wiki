@@ -124,7 +124,7 @@ Po wykonaniu zadania [Zbyt obrazów](#zbyt-obrazów), Grant chce byśmy do niego
 
 #### Lojalność najemników orków
 
-Po zadaniu [“Sprawozdanie o sytuacji”](#sprawozdanie-o-sytuacji), Grant prosi nas, byśmy dowiedzieli się co sądzą o nim jego ludzie. By dowiedziedzieć się czegoś więcej, należy udać się do karczmarzy. Najpierw najlepiej iść prosto do karczmy Coragona (Kass), by się czegoś dowiedzieć, a następnie do karczmy Kardifa (Butch). Od Butcha jednak niczego istotnego nie byliśmy w stanie wyciągnąć. Wracamy więc do Granta, by poprosić go o pomoc. Radzi nam wrócić do Kassa, ponieważ zna się z Butchem od bardzo dawna. Dowiadujemy się, że Evans planuje zastąpić Granta oraz jak wyciągnąć więcej informacji od Butcha. Możemy zrobić to poprzez grę w kości. Pokonując go, oferujemy mu połowę zdobytej nagrody, co też przyjmuję. Potwierdzają się wcześniejsze przypuszczenia, że Evans planuje zastąpić Granta. Jak ma to zamiar zrobić możemy się dowiedzieć jednak od jego ludzi. Hamlet, jeden z ludzi Evansa, przebywa w koszarach. chroniąc więzienia. Ork strzegący przejścia nie ma zamiaru nas jednak przepuścić więc idziemy do Granta po zgodę. Po rozmowie z Hamletem dowiadujemy się, że Evans jest już bliski swojego planu, a najemnik orków Mark, lada chwila powinien dostarczyć pewien list jednemu z dowódców orków. Wracasz do Granta, a ten każe ci szybko odzyskać list. Przy pomocy kradzieży kieszonkowej zdobywamy list od Marka, czytamy go i wracamy do Granta. Chce, abyśmy sami dostarczyli jednak ten list i powiedzieli orkom, że jest od niego (odblokowując tym samym dostęp do górnego miasta). Wracamy następnie do Granta kończąc zadanie. Po naradzie z nim dochodzicie do wniosku, że najlepszym sposobem na osłabienie pozycji Evansa będzie pokonanie go na Arenie podczas misji “[Arena](#arena). Po naszym zwycięstwie wracamy do Granta zdać raport kończąc zadanie.
+Po zadaniu [Sprawozdanie o sytuacji](#sprawozdanie-o-sytuacji), Grant prosi nas, byśmy dowiedzieli się co sądzą o nim jego ludzie. By dowiedziedzieć się czegoś więcej, należy udać się do karczmarzy. Najpierw najlepiej iść prosto do karczmy Coragona (Kass), by się czegoś dowiedzieć, a następnie do karczmy Kardifa (Butch). Od Butcha jednak niczego istotnego nie byliśmy w stanie wyciągnąć. Wracamy więc do Granta, by poprosić go o pomoc. Radzi nam wrócić do Kassa, ponieważ zna się z Butchem od bardzo dawna. Dowiadujemy się, że Evans planuje zastąpić Granta oraz jak wyciągnąć więcej informacji od Butcha. Możemy zrobić to poprzez grę w kości. Pokonując go, oferujemy mu połowę zdobytej nagrody, co też przyjmuję. Potwierdzają się wcześniejsze przypuszczenia, że Evans planuje zastąpić Granta. Jak ma to zamiar zrobić możemy się dowiedzieć jednak od jego ludzi. Hamlet, jeden z ludzi Evansa, przebywa w koszarach. chroniąc więzienia. Ork strzegący przejścia nie ma zamiaru nas jednak przepuścić więc idziemy do Granta po zgodę. Po rozmowie z Hamletem dowiadujemy się, że Evans jest już bliski swojego planu, a najemnik orków Mark, lada chwila powinien dostarczyć pewien list jednemu z dowódców orków. Wracasz do Granta, a ten każe ci szybko odzyskać list. Przy pomocy kradzieży kieszonkowej zdobywamy list od Marka, czytamy go i wracamy do Granta. Chce, abyśmy sami dostarczyli jednak ten list i powiedzieli orkom, że jest od niego (odblokowując tym samym dostęp do górnego miasta). Wracamy następnie do Granta kończąc zadanie. Po naradzie z nim dochodzicie do wniosku, że najlepszym sposobem na osłabienie pozycji Evansa będzie pokonanie go na Arenie podczas misji [Arena](#arena). Po naszym zwycięstwie wracamy do Granta zdać raport kończąc zadanie.
 
 #### Dostęp do więzienia
 
@@ -168,12 +168,12 @@ Po zadaniach dla [Donshaka](#donshak), Grant wysyła nas do najemników na farm�
 
 ## Obóz orków
 
-Zadanie dostępne dopiero po przy zadaniu “[Propozycja sojuszu](#propozycja-sojuszu)  
-Po rozmowie z Khaledem na farmie Onara dowiadujesz się więcej o oblężeniu orków. Obawia się, że atak może nastąpić w każdej chwili. Rozmawiasz o tym z Lordem Andre i proponujesz mu sojusz z najemnikami, by przeciwstawić się zagrożeniu. Wracasz więc do Khaleda, a następnie znów do Lorda Andre, gdzie tym razem otrzymujesz zapewnienia. Przy kolejnej rozmowie z Khaledem, chce wiedzieć, co sądzą jego ludzie oraz czy można nam ufać. Wykonujemy więc zadanie “[Zaufanie najemników](#zaufanie-najemników), a po wykonaniu zadania, wracamy do Lorda Andre, że sojusz został przez najemników zaakceptowany. Jednak zamiast Lorda Andre, zastajesz Wulfgara, który opowiada ci o jego zniknięciu. Po odnalezieniu Andre, mówisz mu w końcu o sojuszu i spotykasz się ze wszystkimi na farmie Onara. Musisz pogadać tam z Khaledem i Lordem Andre, by rozpocząć atak. Po zwycięstwie nad orkami meldujesz o tym obu przywódcom. Jeżeli nie zaliczyło ci zadania, to potrzebujesz jeszcze zabić orków za Cavalornem (tych w jaskini).
+Zadanie dostępne dopiero po przy zadaniu [Propozycja sojuszu](#propozycja-sojuszu)  
+Po rozmowie z Khaledem na farmie Onara dowiadujesz się więcej o oblężeniu orków. Obawia się, że atak może nastąpić w każdej chwili. Rozmawiasz o tym z Lordem Andre i proponujesz mu sojusz z najemnikami, by przeciwstawić się zagrożeniu. Wracasz więc do Khaleda, a następnie znów do Lorda Andre, gdzie tym razem otrzymujesz zapewnienia. Przy kolejnej rozmowie z Khaledem, chce wiedzieć, co sądzą jego ludzie oraz czy można nam ufać. Wykonujemy więc zadanie [Zaufanie najemników](#zaufanie-najemników), a po wykonaniu zadania, wracamy do Lorda Andre, że sojusz został przez najemników zaakceptowany. Jednak zamiast Lorda Andre, zastajesz Wulfgara, który opowiada ci o jego zniknięciu. Po odnalezieniu Andre, mówisz mu w końcu o sojuszu i spotykasz się ze wszystkimi na farmie Onara. Musisz pogadać tam z Khaledem i Lordem Andre, by rozpocząć atak. Po zwycięstwie nad orkami meldujesz o tym obu przywódcom. Jeżeli nie zaliczyło ci zadania, to potrzebujesz jeszcze zabić orków za Cavalornem (tych w jaskini).
 
 ### Zaufanie najemników
 
-By zdobyć zaufanie najemników dla Khaleda, w celu zawarcia sojuszu, potrzeba wykonać zadania “[Dar chce palić](#dar-chce-palić), “[Lekarstwo dla Roda](#lekarstwo-dla-roda), “[Polowanie na wilki”](#polowanie-na-wilki), “[Pierścień wodnego kręgu](#pierścień-wodnego-kręgu), “[Oddział orków](#oddział-orków)
+By zdobyć zaufanie najemników dla Khaleda, w celu zawarcia sojuszu, potrzeba wykonać zadania [Dar chce palić](#dar-chce-palić), [Lekarstwo dla Roda](#lekarstwo-dla-roda), [Polowanie na wilki”](#polowanie-na-wilki), [Pierścień wodnego kręgu](#pierścień-wodnego-kręgu), [Oddział orków](#oddział-orków)
 
 #### Dar chce palić
 
@@ -202,20 +202,20 @@ Po zdobyciu [zaufania najemników](#zaufanie-najemników), idziemy powiedzieć t
 
 #### Wysłańcy ciemności
 
-Dostajemy to zadanie po rozwiązaniu “[Napadna Lorda Andre](#napad-na-lorda-andre). Zadanie kończy się samoistnie na Varancie podczas kontynuacji wątku głównego.
+Dostajemy to zadanie po rozwiązaniu [Napadna Lorda Andre](#napad-na-lorda-andre). Zadanie kończy się samoistnie na Varancie podczas kontynuacji wątku głównego.
 
 ### Wiadomość dla Lorda Baldwina
 
-Po wyzwoleniu farmy Onara, Lord Andre przekazuje nam pismo do przekazania Lordowi Baldwinowi. Wykonać to możemy jednak dopiero po zadaniu “[Ważne misje na Khorinis](#ważne-misje-na-khorinis), gdy przekażemy wszystkie informacje Gernotowi, odblokowując tym samym wejście na statek.
+Po wyzwoleniu farmy Onara, Lord Andre przekazuje nam pismo do przekazania Lordowi Baldwinowi. Wykonać to możemy jednak dopiero po zadaniu [Ważne misje na Khorinis](#ważne-misje-na-khorinis), gdy przekażemy wszystkie informacje Gernotowi, odblokowując tym samym wejście na statek.
 
 ### Wyzwolenie Khorinis
 
-Lord Andre mówi nam, że sytuacja jest tragiczna, oraz, że orkowie zajęli całe miasto oraz praktycznie całą wyspę. Ten wątek toczy się przez cały rozdział, musimy powoli wyzwolić Khorinis spod władzy Orków. Wykonujemy kolejne zadania dla Lorda Andre, wyzwalamy farmy, zdobywamy dla niego magiczne zwoje, wykonujemy również zadania dla najemników orków podczas infiltracji Khorinis, oraz rozbijamy obóz orków obok farmy Onara. Pod koniec wyzwolenia farmy Onara, dowiadujemy się, że żołnierze są zbyt zmęczeni, aby pomóc nam odbić miasto, więc musimy zająć się wszystkimi orkami w mieście bez pomocy. Wybijamy wszystkich najemników orków, adeptów, mrocznych magów oraz orków w Khorinis, po czym powinniśmy dostać informację, że Khorinis zostało wyzwolone. Teraz możemy przystąpić do sporej ilości zadań zawartych w dziale “[Khorinis](#khorinis) w 4R”  
+Lord Andre mówi nam, że sytuacja jest tragiczna, oraz, że orkowie zajęli całe miasto oraz praktycznie całą wyspę. Ten wątek toczy się przez cały rozdział, musimy powoli wyzwolić Khorinis spod władzy Orków. Wykonujemy kolejne zadania dla Lorda Andre, wyzwalamy farmy, zdobywamy dla niego magiczne zwoje, wykonujemy również zadania dla najemników orków podczas infiltracji Khorinis, oraz rozbijamy obóz orków obok farmy Onara. Pod koniec wyzwolenia farmy Onara, dowiadujemy się, że żołnierze są zbyt zmęczeni, aby pomóc nam odbić miasto, więc musimy zająć się wszystkimi orkami w mieście bez pomocy. Wybijamy wszystkich najemników orków, adeptów, mrocznych magów oraz orków w Khorinis, po czym powinniśmy dostać informację, że Khorinis zostało wyzwolone. Teraz możemy przystąpić do sporej ilości zadań zawartych w dziale [Khorinis](#khorinis) w 4R”  
 Wracamy do Lorda Andre z dobrymi wieściami, a ten mówi nam, że wykonaliśmy świetną robotę i teraz wszyscy mieszkańcy miasta mogą wrócić do swoich domów.
 
 ## Kopacze potrzebni na Tamorze
 
-Kopaczy znajdziemy w obozie nad wykopaliskami nad nowych terenach. Robimy dla nich zadania “[Kilofy](#kilofy) i ”[Osada rybacka](#osada-rybacka) Zadanie kończy się po przypłynięciu z nimi na Tamorę i rozprowadzeniu ich po kopalniach.
+Kopaczy znajdziemy w obozie nad wykopaliskami nad nowych terenach. Robimy dla nich zadania [Kilofy](#kilofy) i [Osada rybacka](#osada-rybacka) Zadanie kończy się po przypłynięciu z nimi na Tamorę i rozprowadzeniu ich po kopalniach.
 
 ### Kilofy
 
@@ -227,7 +227,7 @@ Po zdobyciu kilofów dla Slima, zleca on nam udanie się do osady rybackiej. Je�
 
 ## Obserwatorium
 
-Na nowym terenie możemy trafić do obserwatorium, w którym spotykamy Sejana. Opowiada nam o zagrożeniu, jednak sam do końca nie jest pewny, co dokładnie się wydarzy. W tym celu musisz zdobyć dla niego “[Dzienniki Xardasa](#dzienniki-xardasa). Po zdobyciu ich, Sejan przekazuje ci więcej informacji na temat Xardasa i pyta się czy patrzyłeś już przez teleskop. To, czy to zrobiliśmy, jednak nie ma większego znaczenia. Przychodzimy do niego następnego dnia, po tym, jak Sejan nastawił teleskop. Opowiada ci, że odkrył wyrwę w niebie jednak nie ma czasu na ciągłe obserwacje, dlatego musisz go zastąpić. Zobaczyłeś demony, przedostające się do świata, a o tym odkryciu informujesz natychmiast Sejana. Wysyła cię do grobowca paladynów, jednak przybywasz tam za późno, o czym musisz powiedzieć Sejanowi kończąc zadanie.
+Na nowym terenie możemy trafić do obserwatorium, w którym spotykamy Sejana. Opowiada nam o zagrożeniu, jednak sam do końca nie jest pewny, co dokładnie się wydarzy. W tym celu musisz zdobyć dla niego [Dzienniki Xardasa](#dzienniki-xardasa). Po zdobyciu ich, Sejan przekazuje ci więcej informacji na temat Xardasa i pyta się czy patrzyłeś już przez teleskop. To, czy to zrobiliśmy, jednak nie ma większego znaczenia. Przychodzimy do niego następnego dnia, po tym, jak Sejan nastawił teleskop. Opowiada ci, że odkrył wyrwę w niebie jednak nie ma czasu na ciągłe obserwacje, dlatego musisz go zastąpić. Zobaczyłeś demony, przedostające się do świata, a o tym odkryciu informujesz natychmiast Sejana. Wysyła cię do grobowca paladynów, jednak przybywasz tam za późno, o czym musisz powiedzieć Sejanowi kończąc zadanie.
 
 ### Dzienniki Xardasa
 
@@ -242,7 +242,7 @@ W [obserwatorium](#obserwatorium) znajdziemy kolejne 5 ksiąg przywoływania, k
 
 ### Grobowiec paladynów
 
-Zadanie dostaniemy w trakcie wykonywania “[Obserwatorium](#obserwatorium). Sejan wysyła nas byśmy poszli do grobowca paladynów po kamień duszy. Dojdziemy tam kierując się od obserwatorium ścieżką w dół i skręcając w prawo do zamkniętych wrót. Na końcu grobowca, otwierając skrzynkę, możemy zauważyć, że jest pusta. Nagle pojawia się czarny mag Cyon, z którym mieliśmy już kontakt na Adarmos. Po pokonaniu go wracamy do Sejana.
+Zadanie dostaniemy w trakcie wykonywania [Obserwatorium](#obserwatorium). Sejan wysyła nas byśmy poszli do grobowca paladynów po kamień duszy. Dojdziemy tam kierując się od obserwatorium ścieżką w dół i skręcając w prawo do zamkniętych wrót. Na końcu grobowca, otwierając skrzynkę, możemy zauważyć, że jest pusta. Nagle pojawia się czarny mag Cyon, z którym mieliśmy już kontakt na Adarmos. Po pokonaniu go wracamy do Sejana.
 
 # Zadania poboczne
 
@@ -292,7 +292,7 @@ Po rozmowie w klasztorze z paladynem Sergio możemy mu zaproponować by wspomóg
 
 ### Czarni magowie koło wieży Xardasa
 
-Ork pułkownik Zardok (alternatywnie Bartok, gdzie spotkaliśmy w nocy kruka Cavalorna), z miasta przy południowej bramie, chce byśmy pomogli czarnym magom w pobliżu wieży Xardasa. Idziemy tam. Po drodze możemy spotkać Bartoka, od którego będziemy w stanie dowiedzieć się trochę informacji. Idąc dalej zagada do nas jeden z adeptów magów - Achilles. Wyśle nas do przywódcy magów, z którym gadamy. Oferuje nam nagrodę 500 sztuk złota, jeśli wykonamy dla niego zadanie, na co się zgadzamy (podwyższenie ceny skutkuje walką po oddaniu książki). Dostajemy zadanie “Księga w wieży Xardasa”. Po dostarczeniu książki otrzymamy należną nagrodę (Uwaga! Książka będzie i tak potrzebna do zadania “[Dzienniki Xardasa](#dzienniki-xardasa), więc i tak będziemy zmuszeni do walki by ją odzyskać, jednak można to zrobić potem).
+Ork pułkownik Zardok (alternatywnie Bartok, gdzie spotkaliśmy w nocy kruka Cavalorna), z miasta przy południowej bramie, chce byśmy pomogli czarnym magom w pobliżu wieży Xardasa. Idziemy tam. Po drodze możemy spotkać Bartoka, od którego będziemy w stanie dowiedzieć się trochę informacji. Idąc dalej zagada do nas jeden z adeptów magów - Achilles. Wyśle nas do przywódcy magów, z którym gadamy. Oferuje nam nagrodę 500 sztuk złota, jeśli wykonamy dla niego zadanie, na co się zgadzamy (podwyższenie ceny skutkuje walką po oddaniu książki). Dostajemy zadanie “Księga w wieży Xardasa”. Po dostarczeniu książki otrzymamy należną nagrodę (Uwaga! Książka będzie i tak potrzebna do zadania [Dzienniki Xardasa](#dzienniki-xardasa), więc i tak będziemy zmuszeni do walki by ją odzyskać, jednak można to zrobić potem).
 
 #### Księga w wieży Xardasa
 
@@ -300,11 +300,11 @@ Czarny mag Roaz, który znajduje się przed wieżą Xardasa chce zdobyć znajduj
 
 #### Strażnicy latarni morskiej
 
-Po wykonaniu dla Zardoka “[Czarni magowie koło wieży Xardasa](#czarni-magowie-koło-wieży-xardasa), każe nam odprowadzić do latarni Jacka orków: Boleka (koło miejsca gdzie przemawiał Herold), Taboka (dom Eddy w porcie), Nempeka (magazyn portowy), Grampeka (na końcu molo przy statku). Gdy już porozmawiasz z orkami przy wschodniej bramie, to możesz zdecydować się zabić ich samemu idąc w stronę latarni lub razem z uchodźcami. Meldujesz wszystko Zardokowi.
+Po wykonaniu dla Zardoka [Czarni magowie koło wieży Xardasa](#czarni-magowie-koło-wieży-xardasa), każe nam odprowadzić do latarni Jacka orków: Boleka (koło miejsca gdzie przemawiał Herold), Taboka (dom Eddy w porcie), Nempeka (magazyn portowy), Grampeka (na końcu molo przy statku). Gdy już porozmawiasz z orkami przy wschodniej bramie, to możesz zdecydować się zabić ich samemu idąc w stronę latarni lub razem z uchodźcami. Meldujesz wszystko Zardokowi.
 
 ### Poszukiwania Xardasa w Varancie
 
-W trakcie wykonywania “[Grobowiec paladynów](#grobowiec-paladynów), Cyon powiedział, że kamień duszy jest w drodze do Varantu. Po rozmowie z Sejanem mamy za zadanie poszukać śladów Xardasa w Varancie. Dokładna lokalizacja będzie w [zachodnim Varancie](sekcje/zadania/rozdzial_iv?id=zachodni-varant), do której przejście będzie w pobliżu przełęczy do Ishtar. Potrzebujemy w wieży Xardasa znaleźć klucz do ukrytej skrzyni. Klucz do skrzyni znajduje się w piwnicy, a na piętrze mamy przełącznik do odkrycia kufra.
+W trakcie wykonywania [Grobowiec paladynów](#grobowiec-paladynów), Cyon powiedział, że kamień duszy jest w drodze do Varantu. Po rozmowie z Sejanem mamy za zadanie poszukać śladów Xardasa w Varancie. Dokładna lokalizacja będzie w [zachodnim Varancie](sekcje/zadania/rozdzial_iv?id=zachodni-varant), do której przejście będzie w pobliżu przełęczy do Ishtar. Potrzebujemy w wieży Xardasa znaleźć klucz do ukrytej skrzyni. Klucz do skrzyni znajduje się w piwnicy, a na piętrze mamy przełącznik do odkrycia kufra.
 
 ### Banita
 
@@ -332,7 +332,7 @@ Gunnar na farmie Onara opowiada nam o szaleńcu, który poszedł osiedlić się 
 
 #### Problem z goblinami
 
-Gilbert prosi nas o pozbycie się dużej grupy goblinów, które go od jakiegoś czasu dręczą. W zamian opowie ci więcej o kopalni rudy (może się przydać do zadania “[Grimok](#grimok)). Idziesz więc je zabić idąc wzdłuż wąwozu.
+Gilbert prosi nas o pozbycie się dużej grupy goblinów, które go od jakiegoś czasu dręczą. W zamian opowie ci więcej o kopalni rudy (może się przydać do zadania [Grimok](#grimok)). Idziesz więc je zabić idąc wzdłuż wąwozu.
 
 #### Potwór w kopalni
 
@@ -340,7 +340,7 @@ Po rozwiązaniu [problemu z goblinami](#problem-z-goblinami), Gilbert prosi nas 
 
 #### Ruda Gilberta
 
-By zdobyć rudę Gilberta, o której mówi nam po zadaniu [“Potwór w kopalni](#potwór-w-kopalni), należy przed kopalnią udać się na wzgórze. Ruda znajduje się przy czarnym trollu. Podnosimy i powiadamiamy Gilberta, że ją zdobyliśmy.
+By zdobyć rudę Gilberta, o której mówi nam po zadaniu [Potwór w kopalni](#potwór-w-kopalni), należy przed kopalnią udać się na wzgórze. Ruda znajduje się przy czarnym trollu. Podnosimy i powiadamiamy Gilberta, że ją zdobyliśmy.
 
 ### Jedzenie dla Groma
 
@@ -406,7 +406,7 @@ W opuszczonej chacie nad wioską rybacką znajdziemy notatkę pustelnika, który
 
 ### Admirał
 
-W wiosce goblinów spotykamy pirata Spencera, który przewodzi goblinami i ogrami. Pomagamy mu w zadaniu “[Rytuał](#rytuał) i “[Skarb w bagnie](#skarb-w-bagnie), po czym okazuje się on złym duchem, przed którym ostrzegał nas Kilian.
+W wiosce goblinów spotykamy pirata Spencera, który przewodzi goblinami i ogrami. Pomagamy mu w zadaniu [Rytuał](#rytuał) i [Skarb w bagnie](#skarb-w-bagnie), po czym okazuje się on złym duchem, przed którym ostrzegał nas Kilian.
 
 #### Rytuał
 

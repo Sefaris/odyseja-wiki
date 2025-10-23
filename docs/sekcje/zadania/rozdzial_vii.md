@@ -10,7 +10,7 @@ Zadanie dostajemy jeszcze w grobowcu w Varancie. Kończy się zabijając maga.
 
 ### Tajna droga do wyspy
 
-Idąc w głąb wyspy (za miejsce gdzie bezimienny pokonał smoka ożywieńca) będziemy przechodzić przez teleporty. Teleportując się przez ostatni kamień teleportacyjny należy wrócić na statek, przy okazji wykonując zadanie “[Zdrada Ganeluna](#zdrada-ganeluna) (druga droga prowadzi do twierdzy maga)
+Idąc w głąb wyspy (za miejsce gdzie bezimienny pokonał smoka ożywieńca) będziemy przechodzić przez teleporty. Teleportując się przez ostatni kamień teleportacyjny należy wrócić na statek, przy okazji wykonując zadanie [Zdrada Ganeluna](#zdrada-ganeluna) (druga droga prowadzi do twierdzy maga)
 
 ### Smoki
 
@@ -26,4 +26,4 @@ Zadanie rozpoczyna się po dotarciu do twierdzy Baal Handshara i kończy się po
 
 ### Zdrada Ganeluna
 
-Gdy przechodzimy przez ostatni teleport na wyspie trafiamy na Ganeluna. Okazuje się, że jest zdrajcą. Po pokonaniu go należy zameldować o tym Lordowi Baldwinowi (sprawdź też “[Potężna broń](sekcje/zadania/rozdzial_iv?id=potężna-broń) oraz “[Szpon Beliara](sekcje/zadania/rozdzial_iv?id=szpon-beliara))
+Gdy przechodzimy przez ostatni teleport na wyspie trafiamy na Ganeluna. Okazuje się, że jest zdrajcą. Po pokonaniu go należy zameldować o tym Lordowi Baldwinowi (sprawdź też [Potężna broń](sekcje/zadania/rozdzial_iv?id=potężna-broń) oraz [Szpon Beliara](sekcje/zadania/rozdzial_iv?id=szpon-beliara))
