@@ -1,42 +1,177 @@
-# Copilot Instructions - Odyseja Wiki Refactoring
+# Copilot Instructions - Odyseja Wiki Standardization
 
 ## Projekt
 
-Refaktoring dokumentacji wiki dla moda "Gothic 2: Odyseja" - naprawa linków wewnętrznych i zewnętrznych.
+Standaryzacja i refaktoring dokumentacji wiki dla moda "Gothic 2: Odyseja" - ujednolicenie formatowania, struktury i prezentacji zadań.
 
 ## Kontekst
 
-Dokumentacja została przeniesiona z Google Docs do Markdown/Docsify. Linki wymagają poprawy:
+Dokumentacja została przeniesiona z Google Docs do Markdown/Docsify, ale wymaga uporządkowania i standaryzacji:
 
-1. Wewnętrzne linki używają nieprawidłowego formatu Google Docs (`#h.xxxxxxxxx`)
-2. Zewnętrzne linki zawierają niepotrzebne Google redirecty
-3. Linki YouTube powinny być osadzone jako iframe
+1. Zadania mają niespójną strukturę i formatowanie
+2. Nagłówki są na różnych poziomach (błędy formatowania, nie rzeczywista hierarchia)
+3. Brak jasnej struktury rozdziałów i zadań
+4. Ostrzeżenia są zapisane w sposób chaotyczny (CAPSLOCK, przypadkowe formatowanie)
 
-## Zasady formatowania linków
+## Standard Formatowania - Format Minimalistyczny
 
-### 1. Linki wewnętrzne (w tym samym pliku)
+### Struktura pliku rozdziału
 
-**PRZED:** `[Nazwa zadania](#h.xxxxxxxxx)`  
-**PO:** `[Nazwa zadania](#slug-z-małych-liter-myślniki)`
+```markdown
+# Rozdział [numer]
 
-**Bez cudzysłowów!** Prawidłowo: `[Wieści z Vengardu](#wieści-z-vengardu)`
+## Najważniejsze informacje
 
-### 2. Linki międzyplikowe (między rozdziałami)
+> Ostrzeżenie krytyczne o możliwości zbugowania gry lub ważna informacja.
 
-**WAŻNE:** Docsify wymaga specjalnej składni z parametrem `?id=` dla linków międzyplikowych!
+**Wskazówki:**
 
-**PRZED:** `[Zadanie](#h.xxxxxxxxx)` (w innym rozdziale)  
-**PO:** `[Zadanie](sekcje/zadania/rozdzial_X?id=slug-zadania)`
+- Wskazówka 1
+- Wskazówka 2
+- Wskazówka 3
 
-**Przykłady:**
+## [Nazwa Lokacji]
 
-- `[Wiadomość dla Lorda Baldwina](sekcje/zadania/rozdzial_iii?id=wiadomość-dla-lorda-baldwina)`
-- `[Admirał](sekcje/zadania/rozdzial_iii?id=admirał)`
-- `[Nowicjusz za kratami](sekcje/zadania/rozdzial_vi?id=nowicjusz-za-kratami)`
+Lista ogólnych informacji o lokacji (opcjonalnie).
 
-**UWAGA:** Używamy `?id=` zamiast `#` dla linków międzyplikowych!
+## Zadania poboczne
 
-### 3. Generowanie slug-ów
+Sekcja dla zadań pobocznych (opcjonalnie).
+
+---
+
+### [Nazwa Zadania]
+
+Opis zadania i jego przebieg. Cała treść zachowana z oryginału, tylko uporządkowana pod jednym nagłówkiem.
+
+**Uwaga:** Ważna informacja lub ostrzeżenie o możliwości zbugowania gry.
+
+**Wskazówka:** Pomocna wskazówka.
+
+---
+
+### [Kolejne Zadanie]
+
+...
+```
+
+### Zasady nagłówków
+
+**WAŻNE:** Nie sugeruj się obecnymi poziomami nagłówków (###, ####, #####) - to błędy formatowania, nie rzeczywista hierarchia!
+
+**Nowa hierarchia:**
+
+1. `# Rozdział [numer]` - Tylko jeden na początku pliku (H1)
+2. `## Sekcja` - Najważniejsze informacje, Nazwa Lokacji, Zadania poboczne, itp. (H2)
+3. `### Nazwa Zadania` - **KAŻDE zadanie jest na poziomie H3** (H3)
+
+**ZASADA:** Wszystkie zadania są na tym samym poziomie `###` - nie ma "pod-zadań" ani zagnieżdżeń. To, co wygląda jak pod-zadania w obecnych plikach, to po prostu błędy formatowania.
+
+**Separatory:**
+
+- Dodaj `---` między zadaniami (H3)
+- **NIE dodawaj** `---` bezpośrednio po nagłówkach sekcji (H2) - Docsify automatycznie dodaje linię pod H2
+
+### Formatowanie ostrzeżeń i wskazówek
+
+**W sekcji "Najważniejsze informacje":**
+
+- Krytyczne ostrzeżenia jako blockquote: `> Tekst ostrzeżenia`
+- Wskazówki jako lista pod nagłówkiem `**Wskazówki:**`
+
+**W treści zadań:**
+
+- `**Uwaga:**` - dla ważnych informacji i ostrzeżeń o zbugowaniu gry/blokadzie questów
+- `**Wskazówka:**` - dla pomocnych porad
+
+### Co NIE robić
+
+- **NIE dodawaj** nowych sekcji typu "Zleceniodawca", "Nagroda", "Powiązane zadania" - dane często nie są dostępne
+- **NIE dodawaj** callout boxes, emoji, ikon - minimalistyczne podejście
+- **NIE twórz** sztucznej hierarchii zadań - wszystkie zadania są równoważne (H3)
+- **NIE zmieniaj** treści zadań - tylko uporządkuj formatowanie
+
+### Cel
+
+Uporządkować istniejącą treść bez dodawania nowych elementów. Zachować wszystko co jest, tylko w czystszej, bardziej czytelnej formie.
+
+## Plan Działania
+
+### Faza 1: Ujednolicenie nagłówków (AKTUALNA)
+
+**Cel:** Uporządkować hierarchię nagłówków we wszystkich plikach rozdziałów, przygotować grunt pod wdrożenie nowego standardu.
+
+**Zasady:**
+
+1. Każdy plik zaczyna się od `# Rozdział [numer]` (tylko jeden H1)
+2. Sekcje organizacyjne: `## Najważniejsze informacje`, `## Nazwa Lokacji`, `## Zadania poboczne` (H2)
+3. Wszystkie zadania to `### Nazwa Zadania` (H3) - **NIE MA POD-ZADAŃ!**
+4. Nie używamy H4, H5 i głębszych poziomów
+
+**Kolejność pracy:**
+
+- [ ] **Rozdział I** (`rozdzial_i.md`) - Analiza i ujednolicenie nagłówków
+- [ ] **Rozdział II** (`rozdzial_ii.md`) - Analiza i ujednolicenie nagłówków
+- [ ] **Rozdział III** (`rozdzial_iii.md`) - Analiza i ujednolicenie nagłówków
+- [ ] **Rozdział IV** (`rozdzial_iv.md`) - Analiza i ujednolicenie nagłówków
+- [ ] **Rozdział V** (`rozdzial_v.md`) - Analiza i ujednolicenie nagłówków
+- [ ] **Rozdział VI** (`rozdzial_vi.md`) - Analiza i ujednolicenie nagłówków
+- [ ] **Rozdział VII** (`rozdzial_vii.md`) - Analiza i ujednolicenie nagłówków
+
+**Proces dla każdego rozdziału:**
+
+1. **Analiza struktury** - Przeczytać plik i zidentyfikować wszystkie nagłówki
+2. **Mapowanie zadań** - Określić które są zadania (wszystkie na H3), które są sekcje organizacyjne (H2)
+3. **Korekta poziomów** - Dostosować poziomy nagłówków zgodnie z zasadami
+4. **Weryfikacja linków** - Sprawdzić czy linki wewnętrzne nadal działają po zmianie
+5. **Commit zmian** - Zapisać zmiany z opisem co zostało zrobione
+
+### Faza 2: Wdrożenie standardu formatowania
+
+**Cel:** Uporządkować treść zadań zgodnie z minimalistycznym standardem.
+
+**Kolejność pracy:**
+
+- [ ] **Rozdział I** - Formatowanie treści według standardu
+- [ ] **Rozdział II** - Formatowanie treści według standardu
+- [ ] **Rozdział III** - Formatowanie treści według standardu
+- [ ] **Rozdział IV** - Formatowanie treści według standardu
+- [ ] **Rozdział V** - Formatowanie treści według standardu
+- [ ] **Rozdział VI** - Formatowanie treści według standardu
+- [ ] **Rozdział VII** - Formatowanie treści według standardu
+
+**Proces dla każdego rozdziału:**
+
+1. **Nagłówek rozdziału** - Dodać nagłówek H1 + sekcję "Najważniejsze informacje"
+2. **Porządkowanie ostrzeżeń** - Zamienić CAPSLOCK na **KRYTYCZNE:**, **Uwaga:**, **Wskazówka:**
+3. **Czyszczenie treści** - Usunąć zbędne formatowanie, zachować treść
+4. **Weryfikacja** - Sprawdzić poprawność i czytelność
+5. **Commit zmian** - Zapisać zmiany
+
+### Faza 3: Weryfikacja i optymalizacja
+
+**Cel:** Upewnić się, że wszystko działa poprawnie i dokumentacja jest spójna.
+
+- [ ] Testy wszystkich linków wewnętrznych
+- [ ] Testy wszystkich linków międzyplikowych
+- [ ] Sprawdzenie spójności formatowania
+- [ ] Poprawki i udoskonalenia
+
+## Zasady Linków (zachowane z poprzedniej wersji)
+
+### Linki wewnętrzne (w tym samym pliku)
+
+```markdown
+[Nazwa zadania](#slug-z-małych-liter)
+```
+
+### Linki międzyplikowe (między rozdziałami)
+
+```markdown
+[Nazwa zadania](sekcje/zadania/rozdzial_X?id=slug-zadania)
+```
+
+### Generowanie slug-ów
 
 - Małe litery
 - Spacje → myślniki
@@ -45,149 +180,13 @@ Dokumentacja została przeniesiona z Google Docs do Markdown/Docsify. Linki wyma
 
 **Przykłady:**
 
-- `# Wieści z Vengardu` → `#wieści-z-vengardu`
-- `## Zatopiona flota/Cenny olej:` → `#zatopiona-flotacenny-olej`
-- `## Zięć dla Johana` → `#zięć-dla-johana`
-
-### 4. Google URL redirecty
-
-**PRZED:**
-
-```markdown
-[FILMIK](https://www.google.com/url?q=https://youtu.be/Zw1dMh3chms&sa=D&source=editors&ust=1761140639302650&usg=AOvVaw3HryXSQ3hdm163xt447XjO)
-```
-
-**PO (YouTube - iframe):**
-
-```html
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/Zw1dMh3chms"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen
-></iframe>
-```
-
-**PO (Imgur/inne obrazki - bezpośredni link):**
-
-````markdown
-**PO (Imgur/inne obrazki - bezpośredni link):**
-
-```markdown
-[LOKALIZACJA](https://i.imgur.com/q5FtSNd.png)
-```
-````
-
-### 4.1. Linki inline (w tekście)
-
-Jeśli link do YouTube lub obrazka jest częścią zdania (np. "jak widać na [tym filmie](...)"), powinien pozostać standardowym linkiem Markdown. **Nie zamieniamy go na iframe!**
-
-**PRZED (niepoprawnie, ale po usunięciu redirecta):**
-
-```markdown
-...jak widać na
-
-<iframe ...></iframe>
-```
-
-**PO (poprawnie):**
-
-```markdown
-...jak widać na [tym filmie](https://www.youtube.com/watch?v=VIDEO_ID).
-```
-
-### 5. Konwersja YouTube URL
-
-````
-
-### 4.1. Linki inline (w tekście)
-
-Jeśli link do YouTube lub obrazka jest częścią zdania (np. "jak widać na [tym filmie](...)"), powinien pozostać standardowym linkiem Markdown. **Nie zamieniamy go na iframe!**
-
-**PRZED (niepoprawnie, ale po usunięciu redirecta):**
-
-```markdown
-...jak widać na
-<iframe ...></iframe>
-````
-
-**PO (poprawnie):**
-
-```markdown
-...jak widać na [tym filmie](https://www.youtube.com/watch?v=VIDEO_ID).
-```
-
-### 5. Konwersja YouTube URL
-
-- YouTube watch: `https://www.youtube.com/watch?v=VIDEO_ID` → `https://www.youtube.com/embed/VIDEO_ID`
-- YouTube short: `https://youtu.be/VIDEO_ID` → `https://www.youtube.com/embed/VIDEO_ID`
-- Usunąć parametry `%3D` i inne URL encoding
-
-## Struktura plików
-
-```
-docs/sekcje/zadania/
-├── rozdzial_i.md    (Athanos - Rozdział I)
-├── rozdzial_ii.md   (Statek, wyspy - Rozdział II)
-├── rozdzial_iii.md  (Khorinis - Rozdział III)
-├── rozdzial_iv.md   (Varant, Jarkendar - Rozdział IV)
-├── rozdzial_v.md    (Khorinis cd., Aszdod - Rozdział V)
-├── rozdzial_vi.md   (Vengard, Nordmar - Rozdział VI)
-└── rozdzial_vii.md  (Królestwo Smoka - Rozdział VII)
-```
-
-## Mapowanie zadań między rozdziałami
-
-### Rozdział I → Rozdział III
-
-- `Wiadomość dla Lorda Baldwina` → `rozdzial_iii.md#wiadomość-dla-lorda-baldwina`
-
-### Rozdział I → Rozdział V
-
-- `Ugar` (wzmianka) → `rozdzial_v.md` (pełne zadania w rozdziale IV/V)
-
-### Rozdział II → Rozdział III
-
-- `Tamor` → niektóre zadania kontynuowane w `rozdzial_iii.md`
-- `Khorus` → zadania na `rozdzial_ii.md`
-
-## Plan działania (Todo List)
-
-**STRATEGIA:** ✅ Google redirecty wyczyszczone! Teraz konwersja linków #h.xxx w pozostałych rozdziałach.
-
-- [x] **Rozdział I** - Naprawione linki wewnętrzne i międzyplikowe + Google redirecty
-- [x] **Rozdział II** - Konwersja linków (#h.xxx → slug) + linki międzyplikowe + Google redirecty
-- [x] **Google Redirecty** - ✅ UKOŃCZONE! Wszystkie YouTube/Imgur linki oczyszczone
-  - [x] Rozdział I - Google redirecty
-  - [x] Rozdział II - Google redirecty
-  - [x] Rozdział III - Google redirecty
-  - [x] Rozdział IV - Google redirecty
-  - [x] Rozdział V - brak linków Google
-  - [x] Rozdział VI - Google redirecty
-  - [x] Rozdział VII - brak linków Google
-- [x] **Rozdział III** - Konwersja linków (#h.xxx → slug)
-- [x] **Rozdział IV** - Konwersja linków
-- [x] **Rozdział V** - Konwersja linków
-- [x] **Rozdział VI** - Konwersja linków
-- [x] **Rozdział VII** - Konwersja linków
-- [x] **Weryfikacja** - Testy wszystkich linków
-
-## Przykłady wykonanych zmian
-
-### Rozdział I - Kompletne poprawki:
-
-1. ✅ `[Wieści z Vengardu](#h.vw64zshzlmal)` → `[Wieści z Vengardu](#wieści-z-vengardu)`
-2. ✅ `[Zaginiona fajka](#h.llnopoi7nqt)` → `[Zaginiona fajka](#zaginiona-fajka)`
-3. ✅ `[Wiadomość dla Lorda Baldwina](#h.b15vrz91774)` → `[Wiadomość dla Lorda Baldwina](rozdzial_iii.md#wiadomość-dla-lorda-baldwina)`
+- `## Wieści z Vengardu` → `#wieści-z-vengardu`
+- `## Zatopiona flota` → `#zatopiona-flota`
 
 ## Notatki
 
 - Docsify automatycznie generuje slug-i z nagłówków
 - Polskie znaki są wspierane w slug-ach
-- Cudzysłowy w linkach są **NIEPOTRZEBNE** - usuwamy je
-- YouTube iframe można dodać bezpośrednio w Markdown
-- Docsify renderuje HTML poprawnie
+- Callout boxes wymagają dokładnej składni z `> [!TYPE]`
+- Emoji są wspierane natywnie w Markdown i Docsify
+- Zachowujemy spójność formatowania we wszystkich rozdziałach
