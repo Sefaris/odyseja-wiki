@@ -2,11 +2,9 @@
 
 Uwaga! Przed wyruszeniem do Myrtany lepiej wrócić na pozostałe wyspy jeśli chcemy wykonywać tam misje, ponieważ potem przez długi okres nie będziemy mogli podróżować.
 
-- Lokalizacja smoczej krwi - [FILM](https://youtu.be/ReEJFKW-Z_A&sa=D&source=editors&ust=1761140639588223&usg=AOvVaw2TikxUtkrXSzGFg5cqJ6vc)
+- Lokalizacja smoczej krwi - [FILM](https://youtu.be/ReEJFKW-Z_A)
 
-#
-
-Albatros
+# Albatros
 
 ### Bitwa morska
 
@@ -67,7 +65,7 @@ Sejan radzi nam zdobyć runę do zamku. W tym celu udajemy się by otworzyć skr
 
 ### Wyspa piratów
 
-Zadanie rozpoczyna się po pokazaniu mapy Lordowi Baldwinowi od pirata Klaasa z zadania [“Oszukany”](#h.29emhiv3ot10). Pirat Sam, którego znajdziemy już na wyspie, jest gotów powiedzieć nam, gdzie znajdziemy Mendozę. Zrobi to jednak dopiero po wykonaniu zadań pobocznych: “[Zdrajcy w załodze Mendozy](#h.ntr7z1jtx2ef)” oraz “[Dziennik Korsarza](#h.2hgngfhf87h)”. Po wykonaniu obu zadań, Sam mówi nam o Mendozie i zaczyna walkę, więc musimy go zabić.. Mendoza popłynął do Królestwa Smoka co raportujemy Lordowi Baldwinowi kończąc zadanie. W tym samym momencie kończymy zadanie “[Złoto piratów](#h.8ohic3b4ejwg)”.
+Zadanie rozpoczyna się po pokazaniu mapy Lordowi Baldwinowi od pirata Klaasa z zadania [Oszukany](sekcje/zadania/rozdzial_iv?id=oszukany). Pirat Sam, którego znajdziemy już na wyspie, jest gotów powiedzieć nam, gdzie znajdziemy Mendozę. Zrobi to jednak dopiero po wykonaniu zadań pobocznych: "[Zdrajcy w załodze Mendozy](#zdrajcy-w-załodze-mendozy)" oraz "[Dziennik Korsarza](#dziennik-korsarza)". Po wykonaniu obu zadań, Sam mówi nam o Mendozie i zaczyna walkę, więc musimy go zabić.. Mendoza popłynął do Królestwa Smoka co raportujemy Lordowi Baldwinowi kończąc zadanie. W tym samym momencie kończymy zadanie [Złoto piratów](sekcje/zadania/rozdzial_ii?id=złoto-piratów).
 
 ### Zdrajcy w załodze Mendozy
 
@@ -85,7 +83,7 @@ Przy piratach znajdziemy mapę z zaznaczonymi skarbami. Po wykopaniu i przeczyta
 
 - W zamku u jednego z handlarzy warto kupić wszystkie mapy, aby mieć lepszą orientację w terenie.
 - Nie odbijaj na starcie całego miasta
-- Należy wykonać najpierw zadanie [Twierdza](#h.xh3yhykf0q0t) przed wyruszeniem w dalszą drogę, ponieważ można zbugować sobie resztę zadań.
+- Należy wykonać najpierw zadanie [Twierdza](#twierdza) przed wyruszeniem w dalszą drogę, ponieważ można zbugować sobie resztę zadań.
 
 ### Twierdza
 
@@ -129,11 +127,11 @@ Zadanie dostajemy od Nolana gdy się dowiemy za co trafił do więzienia. By zab
 
 ### Spisek
 
-Zadanie możemy zacząć po przeczytaniu notatki, która była w jednym z ciał skrytobójców w trakcie wykonywania misji “[Naszyjnik królowej](#h.ejm3fov0chtf)”. Dowiadujemy się o spisku przeciwko królestwu więc musimy ostrzec o tym króla. Ten mówi, że porozmawiać na osobności możecie tylko po 20:00. Po przeanalizowaniu sytuacji musisz przebrać się za skrytobójcę (zbroja jest w worku, w ekwipunku) i wyruszyć na spotkanie z wodzem orków Ogroshem. Podczas rozmowy, ork, każe ci powiedzieć kto jest twoim przywódcą. Prawidłową odpowiedzią jest, że nie możesz tego zdradzić (sami dalej tego nie wiemy). Ork nam wierzy i mówi, że szaman wykona potężny rytuał, który zniszczy paladynów, a atak zaplanowany jest jednocześnie od frontu jak i od strony tajemnego przejścia. Dalej wykonując zadania “[Rytuał z Gothy](#h.f5s73w9h0k4)”, “[Atak na Vengard](#h.228zld6zs9bo)” oraz zabijając orków w tajemnym przejściu (tam gdzie byli skrytobójcy) możemy zdać raport królowi kończąc misję.
+Zadanie możemy zacząć po przeczytaniu notatki, która była w jednym z ciał skrytobójców w trakcie wykonywania misji “[Naszyjnik królowej](#naszyjnik-królowej)”. Dowiadujemy się o spisku przeciwko królestwu więc musimy ostrzec o tym króla. Ten mówi, że porozmawiać na osobności możecie tylko po 20:00. Po przeanalizowaniu sytuacji musisz przebrać się za skrytobójcę (zbroja jest w worku, w ekwipunku) i wyruszyć na spotkanie z wodzem orków Ogroshem. Podczas rozmowy, ork, każe ci powiedzieć kto jest twoim przywódcą. Prawidłową odpowiedzią jest, że nie możesz tego zdradzić (sami dalej tego nie wiemy). Ork nam wierzy i mówi, że szaman wykona potężny rytuał, który zniszczy paladynów, a atak zaplanowany jest jednocześnie od frontu jak i od strony tajemnego przejścia. Dalej wykonując zadania “[Rytuał z Gothy](#rytuał-z-gothy)”, “[Atak na Vengard](#atak-na-vengard)” oraz zabijając orków w tajemnym przejściu (tam gdzie byli skrytobójcy) możemy zdać raport królowi kończąc misję.
 
 ### Przywódca spisku
 
-Zadanie dostępne po misji “[Zemsta Lee](#h.k83yq76mdnio)” (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
+Zadanie dostępne po misji “[Zemsta Lee](#w-poszukiwaniu-hektora)” (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
 
 ### Rytuał z Gothy
 
@@ -141,17 +139,17 @@ By dowiedzieć się więcej o rytuale, Ogrosh wysyła nas do szamana Rovasha. Sz
 
 ### Atak na Vengard!
 
-Po zakończeniu zadania “[Rytuał z Gothy](#h.f5s73w9h0k4)”, król każe nam ostrzec paladyna Thordira i rozkazać by zebrał ludzi do przeciwstawienia się atakowi ze strony orków. Po pokonaniu orków wracamy do króla i kończymy zadanie.
+Po zakończeniu zadania “[Rytuał z Gothy](#rytuał-z-gothy)”, król każe nam ostrzec paladyna Thordira i rozkazać by zebrał ludzi do przeciwstawienia się atakowi ze strony orków. Po pokonaniu orków wracamy do króla i kończymy zadanie.
 
 ### Ucieczka z więzienia
 
-Wymagane jest ukończenie “[Orkowie w Vengardzie](#h.3co3geolgrag)”, “[Spisek](#h.syyov8cn65yp)” oraz “[Naszyjnik królowej](#h.ejm3fov0chtf)”
+Wymagane jest ukończenie “[Orkowie w Vengardzie](#zagubieni-orkowie)”, “[Spisek](#zlecenie-od-lorda-baldwina)” oraz “[Naszyjnik królowej](#naszyjnik-królowej)”
 
 Rozmawiając z Nolanem mówi mu, że jesteśmy przekonani o jego niewinności i pomożemy mu w ucieczce. W tym celu rozmawiamy z dozorcą i dowiadujemy się, że zapomina się przy damach. Idziemy więc do pomieszczenia gdzie jest dama i pokojówka, kradniemy suknie, wracamy do Nolana i przekonujemy go, by to założył. Uciekamy z nim prosto do namiotu przed zamkiem, tam gdzie wcześniej stacjonowali orkowie.
 
 ### Magowie Ognia w mieście
 
-Mag ognia, Umrich, prosi nas byśmy sprawdzili czy ktoś z innych magów przeżył i dostarczył pewną księgę. Ciała magów znajdziemy na rynku, przed kapliczką Innosa blisko rynku oraz ostatni mag, który posiada już księgę, znajduje się w jednym z budynków głębiej w mieście (możliwe dopiero w trakcie zadania “[Spisek](#h.syyov8cn65yp)” lub po wybiciu miasta). Czytamy wszystkie notatki i wracamy do Umricha.
+Mag ognia, Umrich, prosi nas byśmy sprawdzili czy ktoś z innych magów przeżył i dostarczył pewną księgę. Ciała magów znajdziemy na rynku, przed kapliczką Innosa blisko rynku oraz ostatni mag, który posiada już księgę, znajduje się w jednym z budynków głębiej w mieście (możliwe dopiero w trakcie zadania “[Spisek](#zlecenie-od-lorda-baldwina)” lub po wybiciu miasta). Czytamy wszystkie notatki i wracamy do Umricha.
 
 ### Cenna figurka Innosa
 
@@ -197,7 +195,7 @@ W ciele bandyty znajdujemy notatkę o skarbie. Po znalezieniu skarbu w górach, 
 
 # Obóz Gońców Leśnych
 
-Zadanie dostajemy od króla Rhobara II. Każe nam wspomóc gońców leśnych. Po wykonaniu dla nich zadania “[Atak orków na Gońców Leśnych](#h.84ejcxo4tzsv)” możemy wrócić do króla.
+Zadanie dostajemy od króla Rhobara II. Każe nam wspomóc gońców leśnych. Po wykonaniu dla nich zadania “[Atak orków na Gońców Leśnych](#polowanie-na-krasnoludy)” możemy wrócić do króla.
 
 ### Atak orków na Gońców Leśnych
 
@@ -231,7 +229,7 @@ Po oczyszczeniu Gothy z nieumarłych możemy wrócić do Potrosa, by mu o tym po
 
 ### Banda Ortegi
 
-Na drodze, w stronę Faring, możemy spotkać uciekiniera Adriana, który opowiada nam, że banda Ortegi powoduje, że cała okolica jest niebezpieczna. Po zrobieniu zadań “[Udręka z bandytami](#h.r2pbqg5bl9n)” oraz “[Kryjówka Ortegi](#h.5v8ygdqvl6xq)” (czyli pokonaniu wszystkich bandytów), wracamy do Adriana opowiedzieć mu o tym.
+Na drodze, w stronę Faring, możemy spotkać uciekiniera Adriana, który opowiada nam, że banda Ortegi powoduje, że cała okolica jest niebezpieczna. Po zrobieniu zadań “[Udręka z bandytami](#udręka-z-bandytami)” oraz “[Kryjówka Ortegi](#nekromanta)” (czyli pokonaniu wszystkich bandytów), wracamy do Adriana opowiedzieć mu o tym.
 
 ### Udręka z bandytami
 
@@ -247,7 +245,7 @@ Na granicy z Nordmarem przy górach możemy spotkać bandytę o imieniu Zach (lo
 
 ### Miecz poległego paladyna
 
-Samo zadanie mogliśmy dostać już wcześniej po rozmowie z Gernotem na statku przy zadaniu “[Stammler](#h.kkej3iadwcoh)”. Wykonać je możemy dopiero w okolicach Faring. Miecza nie znajdziemy na pobojowisku, a w pobliskiej wieży strażniczej, w której stacjonują orkowie.
+Samo zadanie mogliśmy dostać już wcześniej po rozmowie z Gernotem na statku przy zadaniu “[Stammler](#stammler)”. Wykonać je możemy dopiero w okolicach Faring. Miecza nie znajdziemy na pobojowisku, a w pobliskiej wieży strażniczej, w której stacjonują orkowie.
 
 # Buntownicy z Faring
 
@@ -259,7 +257,7 @@ Bo dostaniu się do buntowników, Aidan wysyła nas byśmy odnaleźli wysłannik
 
 ### Oddział pościgowy orków
 
-W trakcie zadania “[Wysłannik buntowników](#h.xlw3il6tfu1e)” zostaniemy poinformowani, że Jokera ściągano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
+W trakcie zadania “[Wysłannik buntowników](#wysłannik-buntowników)” zostaniemy poinformowani, że Jokera ściągano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
 
 ### Wieża strażnicza Faring
 
@@ -267,15 +265,15 @@ Zadanie rozpoczyna się, gdy wspominamy o wieży strażniczej Aidanowi. Zakończ
 
 ### Karawana orków
 
-Po zadaniu “[Wysłannik buntowników](#h.xlw3il6tfu1e)” zostaniemy poproszeni o zniszczenie karawany podróżującej z Nordmaru. Znajdziemy ją na końcu lasu, a po pokonaniu mówimy Aidanowi. Obóz jest też zaznaczony na mapie.
+Po zadaniu “[Wysłannik buntowników](#wysłannik-buntowników)” zostaniemy poproszeni o zniszczenie karawany podróżującej z Nordmaru. Znajdziemy ją na końcu lasu, a po pokonaniu mówimy Aidanowi. Obóz jest też zaznaczony na mapie.
 
 ## Wsparcie dla buntowników
 
-Ostatnią misją zleconą przez Aidana jest przyprowadzenie minimum pięciu ludzi do wsparcia. Będą to: [Nolan](#h.otc9zql9ufwn), [Brodolf](#h.zen2ydc6ay7p), [Degenhart](#h.gdijblch72l9), [Adrian](#h.74c5fzgaku4u), [Niko](#h.2ath846ojfjk).
+Ostatnią misją zleconą przez Aidana jest przyprowadzenie minimum pięciu ludzi do wsparcia. Będą to: [Nolan](#nolan), [Brodolf](#brodolf), [Degenhart](#degenhart), [Adrian](#adrian), [Niko](#niko).
 
 ### Nolan
 
-W trakcie wykonywania misji “[Wsparcie dla buntowników](#h.nfz9zxx7lnuw)” gadamy z Nolanem dostając tę misję, pytając się go, czy nie zechciałby przyłączyć się do walki. Oddajemy mu naszą runę teleportacyjną do obozu buntowników w Faring, następnie odbieramy ją na miejscu i idziemy do Aidana kończąc zadanie.
+W trakcie wykonywania misji “[Wsparcie dla buntowników](#wsparcie-dla-buntowników)” gadamy z Nolanem dostając tę misję, pytając się go, czy nie zechciałby przyłączyć się do walki. Oddajemy mu naszą runę teleportacyjną do obozu buntowników w Faring, następnie odbieramy ją na miejscu i idziemy do Aidana kończąc zadanie.
 
 ### Brodolf
 
@@ -287,11 +285,11 @@ Degendharta mogliśmy spotkać w okolicach Vengardu w domku Gońców Leśnych (m
 
 ### Adrian
 
-Adriana mogliśmy spotkać już wcześniej przy Jokerze. Zgodzi się dołączyć po wykonaniu zadania “[Udręka z bandytami](#h.r2pbqg5bl9n)”. Po wykonaniu zadania wracamy do Aidana kończąc misję.
+Adriana mogliśmy spotkać już wcześniej przy Jokerze. Zgodzi się dołączyć po wykonaniu zadania “[Udręka z bandytami](#udręka-z-bandytami)”. Po wykonaniu zadania wracamy do Aidana kończąc misję.
 
 ### Niko
 
-Niko mogliśmy spotkać razem z Degenhartem (miejsce zaznaczone na mapie). Zgodzi się dołączyć do buntowników, jeżeli uzyska zgodę od swojego przywódcy [Melandera](#h.ss8yt595qmwv). Następnie mówimy mu o tym i wracamy do Aidana
+Niko mogliśmy spotkać razem z Degenhartem (miejsce zaznaczone na mapie). Zgodzi się dołączyć do buntowników, jeżeli uzyska zgodę od swojego przywódcy [Melandera](#melander). Następnie mówimy mu o tym i wracamy do Aidana
 
 ## Farmer i potwór
 
@@ -299,23 +297,23 @@ Niedaleko zamku buntowników z Faring mogliśmy spotkać farmera Melchiora, któ
 
 ### Zabłąkana owca
 
-Po wykonaniu zadania “[Farmer i potwór](#h.obgrrhhtrk0v)”, Melchior następnego dnia mówi nam, że uciekły jego owce przed wilkami. Zadanie kończy się po dostarczeniu trzech żywych owiec oraz zameldowaniu o jednej martwej. Owce są dobrze poukrywane i porozrzucane po okolicy.  
+Po wykonaniu zadania “[Farmer i potwór](#farmer-i-potwór)”, Melchior następnego dnia mówi nam, że uciekły jego owce przed wilkami. Zadanie kończy się po dostarczeniu trzech żywych owiec oraz zameldowaniu o jednej martwej. Owce są dobrze poukrywane i porozrzucane po okolicy.  
 ![](images/image1.png)
 
 # Nordmar
 
-- Droga do Klanu Rudy - [FILM](https://www.google.com/url?q=https://youtu.be/tiC6dvWlRSE&sa=D&source=editors&ust=1761140639630979&usg=AOvVaw3RW3qz4fgkdcimip5SU2Mz)
-- Za zadanie [Stara pamiątka rodzinna](#h.owj0n5u70mr6) otrzymamy runę Deszczu Ognia
-- Za zadanie [Nordmarska starka](#h.tyar965rafil) możemy otrzymać przepis na miksturę +5HP i many
-- Za zadanie [Zaginiony amulet](#h.6c6cmsab950u) możemy otrzymać amulet +40 siły
+- Droga do Klanu Rudy - [FILM](https://youtu.be/tiC6dvWlRSE)
+- Za zadanie [Stara pamiątka rodzinna](#stara-pamiątka-rodzinna) otrzymamy runę Deszczu Ognia
+- Za zadanie [Nordmarska starka](#nordmarska-starka) możemy otrzymać przepis na miksturę +5HP i many
+- Za zadanie [Zaginiony amulet](#zaginiony-amulet) możemy otrzymać amulet +40 siły
 
 ### Nieznośne zimno
 
-Zadanie to zaczyna się automatycznie po wejściu do Nordmaru, a kończy po zdobyciu pancerza w [Wieży strażniczej Faring](#h.hpbm21xeqt32)
+Zadanie to zaczyna się automatycznie po wejściu do Nordmaru, a kończy po zdobyciu pancerza w [Wieży strażniczej Faring](#wieża-strażnicza-faring)
 
 ### Poszukiwanie Xardasa
 
-Zadanie to zaczyna się automatycznie po odpłynięciu z Athanos, a kończy po znalezieniu Xardasa (Patrz: “[Droga do wieży Xardasa](#h.v9pwh9ryapjz)”)
+Zadanie to zaczyna się automatycznie po odpłynięciu z Athanos, a kończy po znalezieniu Xardasa (Patrz: “[Droga do wieży Xardasa](#droga-do-wieży-xardasa)”)
 
 ### Poszukiwanie skarbu w Wiecznych Lodach
 
@@ -327,7 +325,7 @@ Po spotkaniu Xardasa prosi on nas o pozbycie się obozu orków znajdującego si�
 
 ### Kamień przodków
 
-Xardas prosi nas o przyniesienie mu Kamienia Przodków, potrzebnego do wykonania amuletu ochrony przed ogniem. Podczas zadania “[Grób Snorre](#h.35qyiycykfbn)” otrzymamy pożądany przedmiot, z którym wracamy do Xardasa, a zadanie kończy się.
+Xardas prosi nas o przyniesienie mu Kamienia Przodków, potrzebnego do wykonania amuletu ochrony przed ogniem. Podczas zadania “[Grób Snorre](#grób-snorre)” otrzymamy pożądany przedmiot, z którym wracamy do Xardasa, a zadanie kończy się.
 
 ### Księga ze starej wieży
 
@@ -359,11 +357,9 @@ Po zdobyciu wszystkich kluczy, obok kraty z teleportem, będzie wejście, który
 
 ### Mistrz kopaczy
 
-Otrzymujemy to zadanie po ukończeniu [Północna świątynia Beliara](#h.9axkef6nvhm1). Teraz musimy udać się do Olafa w Klanie Rudy. Powie on nam, że sam nie potrafi ulepszyć zbroi, ale może zrobić to ktoś, kto potrafi przekuwać pancerze, potrafi wykuwać rzeczy z rudy oraz jest Mistrzem Kopaczy. Do tego potrzebujemy dodatkowo 5 oszlifowanych akwamarynów (Kopalnia na Tamorze), 5 kawałków czerwonej rudy (Kopalnia w Ugarze lub wyspa z misji [Zagubieni orkowie](#h.hdcjcu3r15it)), 5 bryłek srebra (Kopalnia na Tamorze), 5 oszlifowanych rubinów (kopalnia na Khorusie lub wyspa z misji [Zagubieni orkowie](#h.hdcjcu3r15it)) I 5 oszlifowanych diamentów. Powinniśmy mieć wszystkie składniki, poza diamentami, które zdobędziemy [w tej jaskini.](https://www.google.com/url?q=https://imgur.com/a/hyvmGPg&sa=D&source=editors&ust=1761140639639434&usg=AOvVaw3WRyG_UsVuPfOsAXKrsbtP) Jeśli nie posiadamy jeszcze Mistrza Kopaczy, to możemy to nadrobić [u Scatty’ego](#h.e60v89t0pxw7). Teraz wraz z wszystkimi składnikami idziemy do stołu rzemieślniczego i ulepszamy zbroję, co kończy nasze zadanie.
+Otrzymujemy to zadanie po ukończeniu [Północna świątynia Beliara](#północna-świątynia-beliara). Teraz musimy udać się do Olafa w Klanie Rudy. Powie on nam, że sam nie potrafi ulepszyć zbroi, ale może zrobić to ktoś, kto potrafi przekuwać pancerze, potrafi wykuwać rzeczy z rudy oraz jest Mistrzem Kopaczy. Do tego potrzebujemy dodatkowo 5 oszlifowanych akwamarynów (Kopalnia na Tamorze), 5 kawałków czerwonej rudy (Kopalnia w Ugarze lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)), 5 bryłek srebra (Kopalnia na Tamorze), 5 oszlifowanych rubinów (kopalnia na Khorusie lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)) I 5 oszlifowanych diamentów. Powinniśmy mieć wszystkie składniki, poza diamentami, które zdobędziemy [w tej jaskini](https://imgur.com/a/hyvmGPg) Jeśli nie posiadamy jeszcze Mistrza Kopaczy, to możemy to nadrobić [u Scatty’ego](sekcje/zadania/rozdzial_iii?id=scatty). Teraz wraz z wszystkimi składnikami idziemy do stołu rzemieślniczego i ulepszamy zbroję, co kończy nasze zadanie.
 
-#
-
-Klan Rudy
+# Klan Rudy
 
 ### Atak ogrów
 
@@ -376,7 +372,7 @@ Leif dowiadując się o naszych pobudkach wysyła nas do Bjorna, który zgadza s
 ### Zemsta
 
 W domu przywódcy klanu znajdziemy Lee, który chce dostać się do królewskiego zamku i zabić hrabie Garaksa.  
-Przynosimy mu runę teleportacyjną do Vengardu (sami musimy sobie jakąś zostawić, drugą znajdziemy np. przy [Hektorze](#h.suu8xdguefbg)) Teraz teleportujemy się wraz z nim do zamku, a następnie gadamy z hrabią, który zgadza się wyjść przed zamek. Tam zabijamy go wraz z Lee, a zadanie się kończy
+Przynosimy mu runę teleportacyjną do Vengardu (sami musimy sobie jakąś zostawić, drugą znajdziemy np. przy [Hektorze](#hektor)) Teraz teleportujemy się wraz z nim do zamku, a następnie gadamy z hrabią, który zgadza się wyjść przed zamek. Tam zabijamy go wraz z Lee, a zadanie się kończy
 
 ### Zaginiony amulet
 
@@ -424,7 +420,7 @@ Dag ma co do nas wątpliwości i każe nam przynieść 12 skór szablozęba, kt�
 
 ### Śnieżna bestia
 
-Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii znajdującej się wysoko w górach Nordmaru. Wspinamy się w góry w Nordmarze [\[FILMIK\]](https://www.google.com/url?q=https://youtu.be/oH1cSUKtlOs&sa=D&source=editors&ust=1761140639645896&usg=AOvVaw0uODeGX1KzRVpCYp9lvCpz), po czym zabijamy albinosa stojącego pośród innych trolli. Ze skórą wracamy do Daga po nagrodę.
+Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii znajdującej się wysoko w górach Nordmaru. Wspinamy się w góry w Nordmarze [\[FILMIK\]](https://youtu.be/oH1cSUKtlOs), po czym zabijamy albinosa stojącego pośród innych trolli. Ze skórą wracamy do Daga po nagrodę.
 
 ### Milten chce dojść do Klanu Rudy
 
@@ -432,7 +428,7 @@ Eksplorując Nordmar napotykamy maga ognia Miltena, który chce dotrzeć do Klan
 
 # Klan Ognia
 
-Na teren Klanu Ognia dostaniemy się dzięki zadaniu [Północna świątynia Beliara](#h.9axkef6nvhm1)
+Na teren Klanu Ognia dostaniemy się dzięki zadaniu [Północna świątynia Beliara](#północna-świątynia-beliara)
 
 ### Polowanie na lodowe wilki
 
@@ -448,7 +444,7 @@ Ingolf zleca nam pozbycie się denerwujących goblinów nieopodal Klanu Ognia. P
 
 ### Zaginiony w lodach
 
-Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Znajduje się on na [dnie wąwozu z dużymi skałami.](https://www.google.com/url?q=https://i.imgur.com/tUA403L.png&sa=D&source=editors&ust=1761140639648040&usg=AOvVaw1vUiN56_Fz7maILeC6Ffq9) . Znajdujemy Ulfruna, zabijamy dla niego orków berserkerów i odprowadzamy go do Klanu Ognia [\[FILMIK Z DROGĄ\]](https://www.google.com/url?q=https://youtu.be/U-Imu1MJ4XA&sa=D&source=editors&ust=1761140639648235&usg=AOvVaw2KlXFu1aMIJknqUmay0QUy). Na koniec wracamy do Ansgara, a misja się kończy.
+Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Znajduje się on na [dnie wąwozu z dużymi skałami](https://i.imgur.com/tUA403L.png) . Znajdujemy Ulfruna, zabijamy dla niego orków berserkerów i odprowadzamy go do Klanu Ognia [\[FILMIK Z DROGĄ\]](https://youtu.be/U-Imu1MJ4XA). Na koniec wracamy do Ansgara, a misja się kończy.
 
 Oddział pościgowy orków
 
@@ -456,7 +452,7 @@ Od Ulfruna dowiadujemy się, że ściga go oddział orków berserkerów. Znajduj
 
 ### W drogę do ruin świątyni!
 
-Ansgar zgadza się zaprowadzić nas na tereny Isagratu.Pod warunkiem że pomożemy innym myśliwym w Klanie Ognia. Robimy zadania [Natrętne gobliny](#h.h8ey1xxsa4pu) [Polowanie na rozpruwacze](#h.s012p0luxr9l) [Polowanie na lodowe wilki](#h.sx18xqjpvacx), po czym wracamy do Ansgara dowiedzieć że o kolejnym zadaniu [Zaginiony w lodach](#h.x3bon6qmiexe), po którym zgadza się on nas zaprowadzić. Idziemy z nim w międzyczasie wykonując zadania [Jaskinia Trollów](#h.vbraspi094fs) i [Ochrona mostu](#h.n3gxsljruzca). Kiedy dojdziemy już do sekretnego wejścia, zadanie się kończy.
+Ansgar zgadza się zaprowadzić nas na tereny Isagratu.Pod warunkiem że pomożemy innym myśliwym w Klanie Ognia. Robimy zadania [Natrętne gobliny](#natrętne-gobliny) [Polowanie na rozpruwacze](#polowanie-na-rozpruwacze) [Polowanie na lodowe wilki](#polowanie-na-lodowe-wilki), po czym wracamy do Ansgara dowiedzieć że o kolejnym zadaniu [Zaginiony w lodach](#zaginiony-w-lodach), po którym zgadza się on nas zaprowadzić. Idziemy z nim w międzyczasie wykonując zadania [Jaskinia Trollów](#jaskinia-trollów) i [Ochrona mostu](#ochrona-mostu). Kiedy dojdziemy już do sekretnego wejścia, zadanie się kończy.
 
 ### Jaskinia trollów
 
@@ -464,7 +460,7 @@ Idąc z Ansgarem do Isagratu musimy przedostać się przez jaskinie pełną trol
 
 ### Stara pamiątka rodzinna
 
-Po dotarciu do ruin Isagratu, Ansgar opowiada nam o tym, że zgubił kiedyś na tych terenach miecz, który wpadł do wąwozu. Jeśli w trakcie eksploracji tych terenów się na niego natkniemy, możemy wrócić do Ansgara i mu go oddać, a w zamian otrzymamy runę deszczu ognia [\[FILMIK\]](https://www.google.com/url?q=https://youtu.be/Dn6rO6vnMCY&sa=D&source=editors&ust=1761140639650426&usg=AOvVaw1WH8yhiuYyPORbwv3W6pD2)
+Po dotarciu do ruin Isagratu, Ansgar opowiada nam o tym, że zgubił kiedyś na tych terenach miecz, który wpadł do wąwozu. Jeśli w trakcie eksploracji tych terenów się na niego natkniemy, możemy wrócić do Ansgara i mu go oddać, a w zamian otrzymamy runę deszczu ognia [\[FILMIK\]](https://youtu.be/Dn6rO6vnMCY)
 
 ### Ochrona mostu
 
@@ -506,15 +502,15 @@ Quest rozpoczyna się automatycznie po wejściu do GD. Musimy odnaleźć Lorda H
 
 ### Poszukiwanie smoków
 
-SubQuest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1). Lord Hagen zleca nam znalezienie wszystkich trucheł smoków. Idziemy w lokalizacje smoków z podstawki, zabieramy z nich loot i wracamy zdać relacje Hagenowi.
+SubQuest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem). Lord Hagen zleca nam znalezienie wszystkich trucheł smoków. Idziemy w lokalizacje smoków z podstawki, zabieramy z nich loot i wracamy zdać relacje Hagenowi.
 
 ### Wyzwolenie zamku
 
-SubQuest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1). Po [odnalezieniu smoków,](#h.xh0tfy6165ha) Lord Hagen zleca nam odbicie zamku spod panowania orków. Idziemy do środka, pozbywamy się zielonoskórych, aż nie dostaniemy wpisu w dzienniku. Po wszystkim wracamy do Lorda Hagena
+SubQuest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem). Po [odnalezieniu smoków,](#poszukiwanie-smoków) Lord Hagen zleca nam odbicie zamku spod panowania orków. Idziemy do środka, pozbywamy się zielonoskórych, aż nie dostaniemy wpisu w dzienniku. Po wszystkim wracamy do Lorda Hagena
 
 ### Negocjacje z Ur-Shakiem
 
-Po misji [Wyzwolenie zamku](#h.nsgxoxwby6aq) Hagen prosi nas o udanie się do Ur-Shaka, przywódcy orków w Górniczej Dolinie. Potrzebujemy do tego [Ulu-Mulu](#h.e2zzrj2weqcu), które zrobi dla nas ork Tarrok przebywający w Khorinis.  
+Po misji [Wyzwolenie zamku](#wyzwolenie-zamku) Hagen prosi nas o udanie się do Ur-Shaka, przywódcy orków w Górniczej Dolinie. Potrzebujemy do tego [Ulu-Mulu](#ulu-mulu), które zrobi dla nas ork Tarrok przebywający w Khorinis.  
 Po dostarczeniu mu składników, otrzymujemy Ulu-Mulu, które chroni nas przed gniewem orków (Jedynie Ur-Shaka, reszta pozostaje agresywna). Teraz musimy pozbyć się orków z kluczowych miejsc w Górniczej Doline. Są to:  
 • Zamek w Górniczej Dolinie  
 • Teren wokół Zamku  
@@ -522,41 +518,39 @@ Po dostarczeniu mu składników, otrzymujemy Ulu-Mulu, które chroni nas przed g
 • Składowisko za palisadą  
 • Port za palisadą  
 Teraz musimy wykonać co najmniej 7 z 8 poniższych zadań, aby Ur-Shak ugiął się przed paladynami i zgodził się na sojusz  
-• [Wyzwolenie Khorinis](#h.6tojktyafehu)• [Statki orków](#h.lj6g3pgdphnw)  
-• [Orkowie za murami](#h.xvbvdnrnmz42)• [Wyzwolenie zamku](#h.nsgxoxwby6aq)• [Poszukiwanie smoków](#h.xh0tfy6165ha)• [Orkowie w Górniczej Dolinie](#h.zh96533upmr)• [Ofiara dla Beliara](#h.hjevnn5iakvm) • [Oblężenie paladynów Hagena  
-](#h.rk5y604ud3qz)Po spełnieniu powyższego warunku idziemy do Ur-Shaka, następnie do Hagena, z powrotem do Ur-Shaka i do Hagena, gdzie zadanie się kończy.
+• [Wyzwolenie Khorinis](#wyzwolenie-khorinis)• [Statki orków](#statki-orków)  
+• [Orkowie za murami](#orkowie-za-murami)• [Wyzwolenie zamku](#wyzwolenie-zamku)• [Poszukiwanie smoków](#poszukiwanie-smoków)• [Orkowie w Górniczej Dolinie](#orkowie-w-górniczej-dolinie)• [Ofiara dla Beliara](#ofiara-dla-beliara) • [Oblężenie paladynów Hagena  
+](#oblężenie-paladynów-hagena)Po spełnieniu powyższego warunku idziemy do Ur-Shaka, następnie do Hagena, z powrotem do Ur-Shaka i do Hagena, gdzie zadanie się kończy.
 
 ### Ulu-Mulu
 
-SubQuest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1). Należy przynieść Tarrokowi język ognistego jaszczura, kieł trolla, kieł błotnego węża i róg cieniostwora. Po przyniesieniu składników otrzymujemy Ulu-Mulu, a quest się kończy.
+SubQuest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem). Należy przynieść Tarrokowi język ognistego jaszczura, kieł trolla, kieł błotnego węża i róg cieniostwora. Po przyniesieniu składników otrzymujemy Ulu-Mulu, a quest się kończy.
 
 ### Ofiara dla Beliara
 
-SubQuest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1). Należy się pozbyć orków z przed jaskini Olava, a następnie wypuścić stamtąd Garonda i dwóch rycerzy. Po wszystkim wracamy do Hagena i quest się kończy
+SubQuest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem). Należy się pozbyć orków z przed jaskini Olava, a następnie wypuścić stamtąd Garonda i dwóch rycerzy. Po wszystkim wracamy do Hagena i quest się kończy
 
 ### Statki orków
 
-SubQuest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1). Należy pozbyć się orków na statkach i w przystani za palisadą. Po otrzymaniu wpisu do dziennika wracamy do Ur-Shaka.
+SubQuest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem). Należy pozbyć się orków na statkach i w przystani za palisadą. Po otrzymaniu wpisu do dziennika wracamy do Ur-Shaka.
 
 ### Orkowie w Górniczej Dolinie
 
-Sub-Quest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1) zlecany przez Ur-Shaka. Polega on na rozbiciu obozów orków wokół zamku. Po tym jak dostaniemy komunikat na ekranie, można do niego wrócić i zakończyć zadanie.
+Sub-Quest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem) zlecany przez Ur-Shaka. Polega on na rozbiciu obozów orków wokół zamku. Po tym jak dostaniemy komunikat na ekranie, można do niego wrócić i zakończyć zadanie.
 
 ### Orkowie za murami
 
-Sub-Quest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1) zlecany przez Ur-Shaka. Polega on na rozbiciu obozów orków i stoczni za palisadą. Po tym jak dostaniemy komunikat na ekranie, można do niego wrócić i zakończyć zadanie.
+Sub-Quest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem) zlecany przez Ur-Shaka. Polega on na rozbiciu obozów orków i stoczni za palisadą. Po tym jak dostaniemy komunikat na ekranie, można do niego wrócić i zakończyć zadanie.
 
 ### Oblężenie paladynów Hagena
 
-Sub-Quest [Negocjacje z UrShakiem](#h.xwohx2y9cdt1) zlecany przez Hagena/Ur-Shaka. Polega on na rozbiciu oblężenie obozu Hagena. Po tym jak dostaniemy komunikat na ekranie, można wrócić do Hagena i zakończyć zadanie.
+Sub-Quest [Negocjacje z UrShakiem](#negocjacje-z-ur-shakiem) zlecany przez Hagena/Ur-Shaka. Polega on na rozbiciu oblężenie obozu Hagena. Po tym jak dostaniemy komunikat na ekranie, można wrócić do Hagena i zakończyć zadanie.
 
 ### Zło w Świątyni Śniącego
 
 Od Xardasa otrzymujemy teleport do Świątyni Śniącego, gdzie musimy pozbyć się Kościanego Lorda, który posiada Uriziel. Po zabiciu go, reszta nieumarłych również ginie, a quest się kończy.
 
-#
-
-Zadania poboczne
+# Zadania poboczne
 
 ### Albrecht
 
@@ -584,15 +578,15 @@ Ortwin opowiada nam o bandytach, którzy ciągle napadają obóz paladynów. Zna
 
 Stara kopalnia
 
-Questa zleca nam Ingmar, po zadaniu “[Napad bandytów](#h.aneoihfd7v35)”. Idziemy w miejsce starej kopalni i eksplorujemy tamte tereny, aż nie otrzymamy wpisu w dzienniku, po którym wracamy do Ingmara.
+Questa zleca nam Ingmar, po zadaniu “[Napad bandytów](#napad-bandytów)”. Idziemy w miejsce starej kopalni i eksplorujemy tamte tereny, aż nie otrzymamy wpisu w dzienniku, po którym wracamy do Ingmara.
 
 ### Wtargnięcie bandytów
 
-Po zrobieniu zadania [Napad bandytów](#h.aneoihfd7v35) Ortwin mówi nam o bandzie bandytów, którzy ulokowali się w okolicach [Wolnej Kopalni](#h.68pu9kte5jiu). Teraz idziemy do Ingmara, który wysyła nas na negocjacje z bandytami. Płacimy szefowi 3000 złota za zakończenie napadów i wracamy do Ingmara, co kończy nasze zadanie
+Po zrobieniu zadania [Napad bandytów](#napad-bandytów) Ortwin mówi nam o bandzie bandytów, którzy ulokowali się w okolicach [Wolnej Kopalni](#wolna-kopalnia). Teraz idziemy do Ingmara, który wysyła nas na negocjacje z bandytami. Płacimy szefowi 3000 złota za zakończenie napadów i wracamy do Ingmara, co kończy nasze zadanie
 
 ### Wolna Kopalnia
 
-Ingma wysyła nas w stroju bandyty do obozu bandytów w Wolnej Kopalni, aby dowiedzieć się o możliwościach wydobycia. W obozie rozmawiamy z Ryżowym Księciem, który prosi nas o [odzyskanie jego zaginionej torby rudy](#h.m5kzhwbdxezf), którą zgubił w kopalni. Kradniemy Shrike’owi klucz, a następnie rozmawiamy z księciem, który odwraca jego uwagę. Następnie wchodzimy do kopalni i eksplorujemy ją, przy okazji zabierając sakiewkę Ryżowego Księcia. Po wyjściu z kopalni Shrike nas atakuje, więc go zabijamy. Następnie idziemy do Księcia, który również nas atakuje, a po zabiciu go idziemy do Roscoe, który wysyła nas do Wedge’a. Po tym jak zostanie on przywódcą obozu, wracamy do Ingmara, a quest się kończy.
+Ingma wysyła nas w stroju bandyty do obozu bandytów w Wolnej Kopalni, aby dowiedzieć się o możliwościach wydobycia. W obozie rozmawiamy z Ryżowym Księciem, który prosi nas o [odzyskanie jego zaginionej torby rudy](#zgubiona-ruda), którą zgubił w kopalni. Kradniemy Shrike’owi klucz, a następnie rozmawiamy z księciem, który odwraca jego uwagę. Następnie wchodzimy do kopalni i eksplorujemy ją, przy okazji zabierając sakiewkę Ryżowego Księcia. Po wyjściu z kopalni Shrike nas atakuje, więc go zabijamy. Następnie idziemy do Księcia, który również nas atakuje, a po zabiciu go idziemy do Roscoe, który wysyła nas do Wedge’a. Po tym jak zostanie on przywódcą obozu, wracamy do Ingmara, a quest się kończy.
 
 ### Zgubiona ruda
 
@@ -604,7 +598,7 @@ Ratford prosi nas o przyniesienie mu 20 łusek smoka, które da nam Godar(który
 
 ### Pancerz Łowcy Smoków
 
-Po zadaniu [Smocze łuski](#h.uzf2ro42wqpa) dowiadujemy się, że Jan potrafi wykuwać pancerz łowcy smoków. Idziemy do niego, oddajemy mu 20 smoczych łusek (które znaleźliśmy w smokach lub odzyskaliśmy po pobiciu Ratforda) i 12 tysięcy sztuk złota, po czym otrzymujemy pancerz i dostajemy niewielki bonus do statystyk.
+Po zadaniu [Smocze łuski](#smocze-łuski) dowiadujemy się, że Jan potrafi wykuwać pancerz łowcy smoków. Idziemy do niego, oddajemy mu 20 smoczych łusek (które znaleźliśmy w smokach lub odzyskaliśmy po pobiciu Ratforda) i 12 tysięcy sztuk złota, po czym otrzymujemy pancerz i dostajemy niewielki bonus do statystyk.
 
 ### Mięso dla obozu bandytów
 
@@ -616,7 +610,7 @@ Xardas zleca nam zdobycie Uriziela, który ma przy sobie kościany lord z Świą
 
 ### Karczma w Górniczej Dolinie
 
-Pat otworzył knajpę w Górniczej Dolinie. Zleci Ci on questy [Fajka](#h.6ijxjg174mil), [Rej](#h.undon1g4hphc), [Czerwony pieprz](#h.mtux5ldlc4p7) oraz [Kradzież](#h.n2j375gqknip). Po zakończeniu wszystkich questów w knajpie zadanie się kończy po zapytaniu Pat’a “Co nowego?’.
+Pat otworzył knajpę w Górniczej Dolinie. Zleci Ci on questy [Fajka](#fajka), [Rej](#rej), [Czerwony pieprz](#czerwony-pieprz) oraz [Kradzież](#kradzież). Po zakończeniu wszystkich questów w knajpie zadanie się kończy po zapytaniu Pat’a “Co nowego?’.
 
 ### Fajka
 
@@ -624,7 +618,7 @@ Pat opowiada nam, że ktoś ukradł jego fajkę. Ma ją przy sobie Miles, więc 
 
 ### Rej
 
-Po zrobieniu zadań [Fajka](#h.6ijxjg174mil) [Poszukiwanie smoków](#h.xh0tfy6165ha) i [Napad bandytów](#h.aneoihfd7v35), następnego dnia Pat zagada nas o zaginięciu Reja. Przepytujemy teraz strażników przy ognisku obok namiotu, a następnie udajemy się do skały nad zamarzniętym wodospadem. Wykopujemy ją, a za nią znajdujemy Reja, który decyduje się wrócić do obozu
+Po zrobieniu zadań [Fajka](#fajka) [Poszukiwanie smoków](#poszukiwanie-smoków) i [Napad bandytów](#napad-bandytów), następnego dnia Pat zagada nas o zaginięciu Reja. Przepytujemy teraz strażników przy ognisku obok namiotu, a następnie udajemy się do skały nad zamarzniętym wodospadem. Wykopujemy ją, a za nią znajdujemy Reja, który decyduje się wrócić do obozu
 
 ### Gra w kości z Patem
 
@@ -632,19 +626,19 @@ Ogrywamy Pata z pieniędzy, co kończy naszą misje.
 
 ### Czerwony pieprz
 
-Po zrobieniu zadania [Rej](#h.undon1g4hphc) Pat prosi nas o przyniesienie mu worka czerwonego pieprzu. Możemy go kupić między innymi w Varancie. Po zdobyciu woreczka odnosimy go Patowi, a zadanie się kończy.
+Po zrobieniu zadania [Rej](#rej) Pat prosi nas o przyniesienie mu worka czerwonego pieprzu. Możemy go kupić między innymi w Varancie. Po zdobyciu woreczka odnosimy go Patowi, a zadanie się kończy.
 
 ### Martwi orkowie
 
-Po zrobieniu zadania [Rej](#h.undon1g4hphc) możliwym jest wejście na cmentarzysko orków. Udajemy się tam i spotykamy Biffa. Po zabiciu orków przed cmentarzyskiem, okazuje się, że żaden z nich nie miał klucza do cmentarzyska, a quest się kończy
+Po zrobieniu zadania [Rej](#rej) możliwym jest wejście na cmentarzysko orków. Udajemy się tam i spotykamy Biffa. Po zabiciu orków przed cmentarzyskiem, okazuje się, że żaden z nich nie miał klucza do cmentarzyska, a quest się kończy
 
 ### Biff
 
-Po zrobieniu zadania [Martwi orkowie](#h.m9vji98y4d0a) dowiadujemy się, że to Biff wrzucił Reja do zamarzniętej jaskini. Możemy dać mu nauczkę i go pobić, co zakończy naszą misję.
+Po zrobieniu zadania [Martwi orkowie](#martwi-orkowie) dowiadujemy się, że to Biff wrzucił Reja do zamarzniętej jaskini. Możemy dać mu nauczkę i go pobić, co zakończy naszą misję.
 
 ### Kradzież
 
-Po zrobieniu zadań [Rej](#h.undon1g4hphc) [Oblężenie paladynów Hagena](#h.rk5y604ud3qz) [Napad bandytów](#h.aneoihfd7v35) i [Czerwony pieprz](#h.mtux5ldlc4p7) Pat opowiada nam o kradzieżach żywności. Idziemy do Ortwina, który opowiada nam gdzie i jak doszło do kradzieży. Następnie śpimy do 2 w nocy i idziemy za karczmę, gdzie spotykamy Billy’iego, który nam ucieka. Idziemy teraz do Ortwina, a następnie do Pata, co kończy nasze zadanie.
+Po zrobieniu zadań [Rej](#rej) [Oblężenie paladynów Hagena](#oblężenie-paladynów-hagena) [Napad bandytów](#napad-bandytów) i [Czerwony pieprz](#czerwony-pieprz) Pat opowiada nam o kradzieżach żywności. Idziemy do Ortwina, który opowiada nam gdzie i jak doszło do kradzieży. Następnie śpimy do 2 w nocy i idziemy za karczmę, gdzie spotykamy Billy’iego, który nam ucieka. Idziemy teraz do Ortwina, a następnie do Pata, co kończy nasze zadanie.
 
 ### W ruinach klasztoru
 

@@ -1,6 +1,6 @@
 # Statek Wojenny Albatros
 
-- Nie warto wydawać “[Handlarza bagiennym zielem](#h.l3ylu1mxbi2q)”, jako że nauczy Cię on wcześnie kradzieży kieszonkowej, która jest niezbędna na kolejnych wyspach
+- Nie warto wydawać [Handlarza bagiennym zielem](#handel-bagiennym-zielem), jako że nauczy Cię on wcześnie kradzieży kieszonkowej, która jest niezbędna na kolejnych wyspach
 
 # Zadania główne i powiązane
 
@@ -10,7 +10,7 @@ Po tym jak trafiliśmy na statek gadamy z Gernotem, który wysyła nas do Harald
 
 ### Broń z magicznej rudy
 
-Zadanie jest dostępne u Hawka po nauczeniu się podstaw kowalstwa. By nauczył cię kuć broń z magicznej rudy potrzebuje dostać 5 bryłek magicznej rudy. Będziemy w stanie to zadanie wykonać na [Tamorze](#h.rdolu38q8a5g).
+Zadanie jest dostępne u Hawka po nauczeniu się podstaw kowalstwa. By nauczył cię kuć broń z magicznej rudy potrzebuje dostać 5 bryłek magicznej rudy. Będziemy w stanie to zadanie wykonać na [Tamorze](#tamora).
 
 ### Służba na statku
 
@@ -49,7 +49,7 @@ Po oddaniu patelni Albin chce abyśmy dostarczyli mu dwa tuziny ryb. Prawdopodob
 
 ### Bitwa z orkami
 
-Hawk chce abyśmy dostarczyli mu 12 orkowych broni. Te zadanie wykonasz dopiero na wyspie [Khorus](#h.tqvssk947nah).
+Hawk chce abyśmy dostarczyli mu 12 orkowych broni. Te zadanie wykonasz dopiero na wyspie [Khorus](#khorus).
 
 ### Kto więcej wypije
 
@@ -73,30 +73,30 @@ Dostajemy je, jeżeli chcemy uczyć się alchemii. Mag ognia potrzebuje 20 rośl
 
 Od Wolfganga dowiadujemy się, że Harald wie sporo o paladynach. Idąc do niego i poruszając tę kwestię dowiadujemy się, że każdy otrzymuje swoje wynagrodzenie. Po wykonaniu większości wcześniejszych misji, dostaniemy u Gernota opcje odebrania należnego złota.
 
-#
+# Wyspa Jonesa
 
-Wyspa Jonesa
+Aby odpłynąć z tej wyspy musimy zrobić możliwie wiele zadań na Bosmana oraz ukończyć zadanie "Szczątki statku"
 
-Aby odpłynąć z tej wyspy musimy zrobić możliwie wiele zadań na Bosmana oraz ukończyć zadanie “Szczątki statku”
-
-##
+## Szczątki statku
 
 Szczątki statku
 
-Dandolo prosi nas byśmy zbadali wrak statku na wyspie nieopodal. Zadanie kończy się przekazując mu 100 sztuk złota jednak warto przeszukać całą wyspę w celu odnalezienia pięciu dzienników i mapy skarbu. [\[LOKALIZACJA DZIENNIKÓW\]](https://www.google.com/url?q=https://i.imgur.com/xc6LtFM.jpg&sa=D&source=editors&ust=1761140639320521&usg=AOvVaw3zSfDlDVDe1scq-fQl3jRm)
+Dandolo prosi nas byśmy zbadali wrak statku na wyspie nieopodal. Zadanie kończy się przekazując mu 100 sztuk złota jednak warto przeszukać całą wyspę w celu odnalezienia pięciu dzienników i mapy skarbu.
+
+<img src="https://i.imgur.com/xc6LtFM.jpg" alt="Lokalizacja dzienników" style="max-width: 100%; height: auto;">
 
 ## Złoto piratów
 
-Po zbadaniu wysepki i odnalezieniu 5 dzienników w skrzyni na szczycie znajdujemy mapę skarbów. Opowiadamy o tym Dandolo, a następnie Halvarowi po czym dowiadujemy się na temat Mendozy. Po drodze w Khorinis dowiadujemy się więcej robiąc zadania: „[Admirał](#h.s97vc7afnkgf)” oraz „[Skarb w bagnie](#h.v9xeugpxkrtr)”. Następnie w Varancie, po spotkaniu Rotbarta, otrzymujemy klucz do skrzyni znajdującej się na statku, gdzie znajdujemy kolejną mapę skarbów oraz list od Mendozy. Skarb znajduję się przy brzegu jakbyś pływał za plecami Ernsta od miejsca lądowania. Trafiamy na piratów. Pajk ma przy sobie list, z którego dowiadujemy się na temat jednego ze skarbów Mendozy. Po zdobyciu wracamy do Pajka przy czym możemy mu powiedzieć prawdę lub skłamać. Prawda prowadzi do walki. Jeśli uda ci się dostać mapę na [wyspę Mendozy](#h.vq6oss6m7csh) od pirata Klausa (najważniejsze) w Ugarze, to możesz tam popłynąć statkiem  by następnie dowiedzieć się od Sama po zrobieniu dla niego zadań, że Mendoza obecnie przebywa w Królestwie Smoka. Na tym zadanie się kończy, ponieważ nie odwiedzimy tego miejsca.
+Po zbadaniu wysepki i odnalezieniu 5 dzienników w skrzyni na szczycie znajdujemy mapę skarbów. Opowiadamy o tym Dandolo, a następnie Halvarowi po czym dowiadujemy się na temat Mendozy. Po drodze w Khorinis dowiadujemy się więcej robiąc zadania: „[Admirał](sekcje/zadania/rozdzial_iii?id=admirał)” oraz „[Skarb w bagnie](sekcje/zadania/rozdzial_iii?id=skarb-w-bagnie)”. Następnie w Varancie, po spotkaniu Rotbarta, otrzymujemy klucz do skrzyni znajdującej się na statku, gdzie znajdujemy kolejną mapę skarbów oraz list od Mendozy. Skarb znajduję się przy brzegu jakbyś pływał za plecami Ernsta od miejsca lądowania. Trafiamy na piratów. Pajk ma przy sobie list, z którego dowiadujemy się na temat jednego ze skarbów Mendozy. Po zdobyciu wracamy do Pajka przy czym możemy mu powiedzieć prawdę lub skłamać. Prawda prowadzi do walki. Jeśli uda ci się dostać mapę na wyspę Mendozy od pirata Klausa (najważniejsze) w Ugarze, to możesz tam popłynąć statkiem  by następnie dowiedzieć się od Sama po zrobieniu dla niego zadań, że Mendoza obecnie przebywa w Królestwie Smoka. Na tym zadanie się kończy, ponieważ nie odwiedzimy tego miejsca.
 
 # Kondera
 
 Głównym celem jest zdobycie informacji o flocie orków i naprawienie kaplicy Innosa
 
-- Na tej wyspie nauczysz się ważnego przepisu (dostaniesz wpis w dzienniku po misji “[Ważne zadanie Griseldy](#h.8qtou4xq2eiy)”)  i odkryjesz nową roślinę, z której będziesz robił zupki +1 siły
-- Istotną misją jest również “[Pierścień szybkości](#h.6aybzal17c4i)”, jako że nieprędko wrócisz na tę wyspę, jeśli nie zacząłeś tej misji tutaj.
+- Na tej wyspie nauczysz się ważnego przepisu (dostaniesz wpis w dzienniku po misji [Ważne zadanie Griseldy](#ważne-zadanie-griseldy)) i odkryjesz nową roślinę, z której będziesz robił zupki +1 siły
+- Istotną misją jest również [Pierścień szybkości](#pierścień-szybkości), jako że nieprędko wrócisz na tę wyspę, jeśli nie zacząłeś tej misji tutaj.
 - Świerszczowa pokrzywa pojawia się dopiero po otrzymaniu misji od Griseldy.
-- Przed odpłynięciem można pobić zarówno Oskara jak i Griselde, aby odzyskać pokrzywę i zupę
+- Przed odpłynięciem można pobić zarówno Oskara jak i Griselde, aby odzyskać pokrzywę i zupę
 
 # Zadania główne i powiązane
 
@@ -114,7 +114,11 @@ Misja aktywuje się po dojściu do mostu, który obecnie jest podniesiony do gó
 
 ##### Sandrok się nudzi
 
-W celu wykonania tej misji potrzebujemy znaleźć 3 tabliczki. [\[LOKALIZACJA TABLICZEK\]](https://www.google.com/url?q=https://imgur.com/a/zwVr9vL&sa=D&source=editors&ust=1761140639324067&usg=AOvVaw1hTFW4KB-ukOMlJTF97OgQ)Zielona znajduje się obok krwiopijców jak idziemy w stronę kamiennego kręgu.  
+W celu wykonania tej misji potrzebujemy znaleźć 3 tabliczki.
+
+[LOKALIZACJA TABLICZEK](https://imgur.com/a/zwVr9vL)
+
+Zielona znajduje się obok krwiopijców jak idziemy w stronę kamiennego kręgu.  
 Czerwoną tabliczkę chroni pełzacz wojownik w podziemnej jaskini.  
 Do niebieskiej tabliczki należy popłynąć na skałę otoczoną mgłą, która znajduje się niedaleko twierdzy Sandroka. Po zebraniu tabliczek odkładamy je w piwnicy Sandroka, dzięki czemu odblokowujemy przejście do biblioteki. Po przeszukaniu jej wracamy do Sandroka kończąc misję.
 
@@ -144,24 +148,26 @@ Gyges zleca nam zabicie szarego wilka, który znajduje się nieopodal.
 
 Szukając przejścia do Sandroka prawdopodobnie dostałeś wpis na temat goblinów-piratów. Gobliny wyruszyły w podróż tratwami. Pierwsze znajdziesz na Tamorze, następne na Khorus, ostatnie na Khorinis tym samym kończąc misję.
 
-## [Pierścień szybkości](#h.27s2abu5chyd)
+## Pierścień szybkości
 
 W jaskini z goblinami-piratami natrafiłeś na notatkę nijakiego Berengara. Opowiada on o swoim pierścieniu szybkości, więc postanawiasz iść jego śladem.  
 Druga notatka znajduje się na Tamorze w jednej ze skrzyń w wieży strażniczej zamku.  
 Trzeci list znajduje się w skrzyni na Adarmos w budynku Rosha.  
 Czwarta w hotelu Hanny na piętrze, w rogu pokoju. Tam dowiadujemy się o miejscu pobytu Salandrila, którego okradamy.  
 Piąta w skrzyni u Salandrila,a szósta w osadzie rybackiej.  
-a ostatnia mówi ci o lokalizacji pierścienia, a właściwie przepisu na stworzenie go. Znajduje się w skrzyni na bagnie gdzie znajduje się też wrak pirackiego statku. \[[SCREEN](https://www.google.com/url?q=https://i.imgur.com/S6aPdiq.png&sa=D&source=editors&ust=1761140639327133&usg=AOvVaw0ASbcwsSsSmUDGUX934O7Z)\]
+a ostatnia mówi ci o lokalizacji pierścienia, a właściwie przepisu na stworzenie go. Znajduje się w skrzyni na bagnie gdzie znajduje się też wrak pirackiego statku.
+
+<img src="https://i.imgur.com/S6aPdiq.png" alt="Screen" style="max-width: 100%; height: auto;">
 
 ## Wola Korofskiego
 
-W piwnicy Sandroka możemy przeczytać na temat ukrytego skarbu Korofskiego.
+W piwnicy Sandroka możemy przeczytać na temat ukrytego skarbu Korofskiego.
 
-Zdobędziemy go dopiero na początku [4 rozdziału na rafie](#h.crn69vfysgne), na której znajdziemy Dandolo. Jeśli ominiemy grobowiec i wypłyniemy z raf, zadanie zakończy się niepowodzeniem.
+Zdobędziemy go dopiero na początku 4 rozdziału na rafie (Rozdział IV), na której znajdziemy Dandolo. Jeśli ominiemy grobowiec i wypłyniemy z raf, zadanie zakończy się niepowodzeniem.
 
 ## Adelina i Brosius
 
-Po wykonaniu zadania „[Sandrok się nudzi](#h.1vvgj3w97jd0)” dostaniemy dostęp do biblioteki pod twierdzą, w której jest książka potrzebną do wykonania tej misji dla Adeliny.
+Po wykonaniu zadania [Sandrok się nudzi](#sandrok-się-nudzi) dostaniemy dostęp do biblioteki pod twierdzą, w której jest książka potrzebną do wykonania tej misji dla Adeliny.
 
 ## Szczury w porcie
 
@@ -178,22 +184,22 @@ Uwagi:
 \- Wymagane minimum 45 zręczności, aby pchnąć dalej wątek (kradzież kieszonkowa)  
 \- Dobrze jest ją jednak wbić tutaj na 60 i odebrać szpadę od Gernota przy zadaniu Stammler(można wspomóc się kapliczką).  
 \- Po wejściu na dziedziniec zamku, zajrzyj do wieży po lewo, a znajdziesz tam dobrą broń wymagającą zręczności.  
-\- Pogadaj na starcie z Ambroziusem znajdującym się na plaży, na lewo od miejsca lądowania, po to by przyspieszyć jedną misję.\- Nie atakuj najemników orków znajdujących się w obozie za mostem, aż do ukończenia zadania [Negocjacje z Jacko](#h.eycl6yr9kf2g)  
-\- Potrzebna nauka wyrywania serc oraz pozyskiwania skór. Uczą [myśliwi](#h.afe6cgc4uba6)  
+\- Pogadaj na starcie z Ambroziusem znajdującym się na plaży, na lewo od miejsca lądowania, po to by przyspieszyć jedną misję.\- Nie atakuj najemników orków znajdujących się w obozie za mostem, aż do ukończenia zadania [Negocjacje z Jacko](#negocjacje-z-jacko)  
+\- Potrzebna nauka wyrywania serc oraz pozyskiwania skór. Uczą [myśliwi](#łuk-hansa)  
 \- Przydatna akrobatyka  
 \- Nie wchodź do kopalni srebra dopóki nie dostaniesz misji!!!!  
-\- Znajdziesz tu kapliczkę Innosa przy której warto będzie spędzić trochę czasu ze śpiworem  
+\- Znajdziesz tu kapliczkę Innosa przy której warto będzie spędzić trochę czasu ze śpiworem
 \-Jeden z handlarzy na rynku sprzedaje śpiwór, który bardzo Ci się przyda przy nabijaniu statystyk przy kapliczkach
 
 # Zadania główne i powiązane
 
 ## Zamieszki na Tamorze
 
-Gernot wysyła nas z misją, by się dowiedzieć od gubernatora na temat orków oraz by przysiągł ponownie wierność królowi. By dostać się do Bruno, musimy udać się do Stefana, który zazwyczaj przesiaduje w karczmie. Musimy dla niego wykonać zadanie „[Droga do gubernatora](#h.656b4klw2wlx)”. Jak już jesteśmy na zamku, to Bruno nie chce z nami rozmawiać i kieruje nas do doradcy Funko. Wykonując zadanie „[Podejrzany doradca](#h.vj5zio9bods6)”, Bruno informuje nas, że ulegnie znowu przed królem wtedy, gdy wyczyścimy kopalnie oraz dostarczymy mu kopaczy na Tamorę. Dodatkowo musimy wykonać zadanie „[Stammler](#h.kt6qp3pibd8d)”
+Gernot wysyła nas z misją, by się dowiedzieć od gubernatora na temat orków oraz by przysiągł ponownie wierność królowi. By dostać się do Bruno, musimy udać się do Stefana, który zazwyczaj przesiaduje w karczmie. Musimy dla niego wykonać zadanie [Droga do gubernatora](#droga-do-gubernatora). Jak już jesteśmy na zamku, to Bruno nie chce z nami rozmawiać i kieruje nas do doradcy Funko. Wykonując zadanie [Podejrzany doradca](#podejrzany-doradca), Bruno informuje nas, że ulegnie znowu przed królem wtedy, gdy wyczyścimy kopalnie oraz dostarczymy mu kopaczy na Tamorę. Dodatkowo musimy wykonać zadanie [Stammler](#stammler)
 
 ## Droga do gubernatora
 
-Przy bramie dowiadujemy się, że nie uzyskamy dostępu do Bruno bez zyskania poparcia mieszkańców. W tym celu udajemy się do Stefana, który mówi nam dokładnie to samo, dodatkowo każe nam zapłacić 500 sztuk złota, co też robimy. Następnie bierzemy misje od Finko (po czym w trakcie wykonujemy [zadanie dla Hansa](#h.afe6cgc4uba6) i [Marka](#h.ral9fk9acghj)) oraz Karczmarza. Po wykonaniu wszystkiego wracamy do Stefana, który zezwala nam na wejście do zamku i Bruno.
+Przy bramie dowiadujemy się, że nie uzyskamy dostępu do Bruno bez zyskania poparcia mieszkańców. W tym celu udajemy się do Stefana, który mówi nam dokładnie to samo, dodatkowo każe nam zapłacić 500 sztuk złota, co też robimy. Następnie bierzemy misje od Finko (po czym w trakcie wykonujemy [zadanie dla Hansa](#łuk-hansa) i [Marka](#skóry-dzików-dla-marka)) oraz Karczmarza. Po wykonaniu wszystkiego wracamy do Stefana, który zezwala nam na wejście do zamku i Bruno.
 
 ### Przekupstwo strażnika
 
@@ -209,7 +215,7 @@ Finko, handlarz na targowisku, prosi nas o dostarczenie dwóch pakietów strzał
 
 #### Łuk Hansa
 
-[\[LOKALIZACJA ŁUKU\]](https://www.google.com/url?q=https://youtu.be/c7xQCXgAl5Y&sa=D&source=editors&ust=1761140639331929&usg=AOvVaw2KT2xoIfAhIv4I9ca3b8Xs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7xQCXgAl5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hans zgubił swój łuk. Prosi nas o jego odnalezienie. Łuk odnajdziemy w pobliżu wyschniętego koryta rzeki. Zabijamy pobliskie wilki i oddajemy łuk.
 
@@ -231,7 +237,7 @@ Berta prosi nas abyśmy dostarczyli jej 4 plastry miodu. Pomagając myśliwym mo
 
 ## Podejrzany doradca
 
-Gadając z mieszkańcami dowiadujemy się, że Funko, doradca Bruno, coś ukrywa. By rozwikłać zagadkę udajemy się do Janusa, który opowiada nam o Funko po zadaniach „[Sekret sługi](#h.gz5nh73fur61)” oraz misji „[Złodziej](#h.g4b6jiomwy4k)”. Dostajemy wtedy trzy wpisy: „[Zjawa](#h.a43jj2strmn6)”, „[Zjawa w sali tronowej](#h.3qhti84tjdz5)” oraz „[Poltergeist](#h.gdoadygp61mc)”. Po zrobieniu tego, zdajemy raport Janusowi i dostajemy wpis „Więzień”, który również wykonujemy. Dowiadujemy się, że Fulko jest w zmowie z najemnikami orków.  Idziemy do Janusa by się skonsultować. Zdobywamy list z jego pokoju i pokazujemy go słudze. Ostatnia rzecz jaka nam pozostała to konfrontacja z Fulko i zabicie go. Po robocie możemy pogadać z Bruno.
+Gadając z mieszkańcami dowiadujemy się, że Funko, doradca Bruno, coś ukrywa. By rozwikłać zagadkę udajemy się do Janusa, który opowiada nam o Funko po zadaniach [Sekret sługi](#sekret-sługi) oraz misji [Złodziej](#złodziej). Dostajemy wtedy trzy wpisy: [Zjawa](#zjawa), [Zjawa w sali tronowej](#zjawa-w-sali-tronowej) oraz [Poltergeist](#poltergeist). Po zrobieniu tego, zdajemy raport Janusowi i dostajemy wpis „Więzień", który również wykonujemy. Dowiadujemy się, że Fulko jest w zmowie z najemnikami orków. Idziemy do Janusa by się skonsultować. Zdobywamy list z jego pokoju i pokazujemy go słudze. Ostatnia rzecz jaka nam pozostała to konfrontacja z Fulko i zabicie go. Po robocie możemy pogadać z Bruno.
 
 ## Sekret sługi
 
@@ -264,14 +270,14 @@ Bruno prosi nas o to, abyśmy przekonali najemników orków, żeby opuścili Tam
 
 ### Najemnicy orków
 
-Początkowy wpis dostajemy już od Stefana. Całość zadania wykonujemy dopiero po zadaniu „[Negocjacje z Jacko](#h.eycl6yr9kf2g)”. Polega to na zabiciu wszystkich najemników na wyspie. Ich obozy znajdują się w następujących miejscach:
+Początkowy wpis dostajemy już od Stefana. Całość zadania wykonujemy dopiero po zadaniu [Negocjacje z Jacko](#negocjacje-z-jacko). Polega to na zabiciu wszystkich najemników na wyspie. Ich obozy znajdują się w następujących miejscach:
 
-1\. Przed wejściem do miasta, którzy pojawiają się po wzięciu zadania “[Negocjacje z Jacko](#h.eycl6yr9kf2g)”  
+1\. Przed wejściem do miasta, którzy pojawiają się po wzięciu zadania [Negocjacje z Jacko](#negocjacje-z-jacko)  
 2\. Przy ognisku niedaleko jeziorka naprzeciw bramy Tamory  
 3\. Nad jaskinią Igora (tam gdzie było spotkanie z Jacko)  
 4\. W lesie, niedaleko myśliwych.  
-5\. Przed i w [kopalni rudy](#h.5eljus6wn241).  
-6\. W [wieży strażniczej](#h.9876gkllxqam)  
+5\. Przed i w [kopalni rudy](#kopalnia-rudy).  
+6\. W [wieży strażniczej](#wieża-strażnicza-tamory)  
 7\. W domku myśliwych nad plażą. Od miejsca lądowania daleko w lewo.
 
 Wracamy wtedy do Bruno zdać relację.
@@ -295,20 +301,22 @@ Zbieramy dowody i czyścimy kopalnię dla Bruno. Lokacja jest na otrzymanej mapi
 #### Kopacze potrzebni na Tamorze
 
 Po wyzwoleniu kopalni, Bruno chce by znowu zaczęto prowadzić wydobycie. W tym celu potrzebujemy zorganizować mu kopaczy.(Patrz: Kopacze potrzebni na Tamorze)  
-Kopaczy potrzebnych do ukończenia zadania znajdziemy dopiero na Khorinis w pobliżu obserwatorium / osady rybackiej. Robimy dla nich zadania “[Kilofy](#h.l9e5dmw8vq3u)” i ”[Osada rybacka](#h.4wk82amoi9d9)” Zadanie kończy się po przypłynięciu z nimi na Tamorę i rozprowadzeniu ich po kopalniach.
+Kopaczy potrzebnych do ukończenia zadania znajdziemy dopiero na Khorinis w pobliżu obserwatorium / osady rybackiej. Robimy dla nich zadania [Kilofy](sekcje/zadania/rozdzial_iii?id=kilofy) i [Osada rybacka](sekcje/zadania/rozdzial_iii?id=osada-rybacka) Zadanie kończy się po przypłynięciu z nimi na Tamorę i rozprowadzeniu ich po kopalniach.
 
 ## Stammler
 
-W trakcie tego dostaniemy też zadanie “[Miecz poległego paladyna”](#h.nty93h64i7o3) \- dopiero 6 rozdział
+W trakcie tego dostaniemy też zadanie [Miecz poległego paladyna](sekcje/zadania/rozdzial_vi?id=miecz-poległego-paladyna) \- dopiero 6 rozdział
 
-Pierwszą wzmiankę o Stammlerze dostajemy już od karczmarza. Ciąg dalszy misji możemy jednak zrobić po rozmowie z Bruno. On z kolei wysyła cię do Janusa, ten odsyła do Telema, a mag każe dojść do biblioteki. Biblioteka znajduje się na murze, po prawo od wejścia do budynku z Bruno. Gadamy z Adamem, Bruno i znów Adamem by dostać klucz. Czytamy opowieść. Udajemy się następnie do domu w górach (zadanie „[Opuszczona chatka](#h.f0g8pfw8bf2f)”) i dowiadujemy się gdzie został schowany kamień ogniskujący. Znajduje się on w kopalni soli, w której wcześniej byliśmy. Należy kopać w pierwszej „kupce” jaką natrafiliśmy w jednym z rogów (możliwe, że nie zadziała za pierwszym razem, więc radzę zapisać i wczytać).[\[MIEJSCE ZAKOPANEGO KAMIENIA OGNISKUJĄCEGO\]](https://www.google.com/url?q=https://imgur.com/a/1kZmXse&sa=D&source=editors&ust=1761140639339394&usg=AOvVaw3VKD56HKUOq3AN67wgAyyz)  
+Pierwszą wzmiankę o Stammlerze dostajemy już od karczmarza. Ciąg dalszy misji możemy jednak zrobić po rozmowie z Bruno. On z kolei wysyła cię do Janusa, ten odsyła do Telema, a mag każe dojść do biblioteki. Biblioteka znajduje się na murze, po prawo od wejścia do budynku z Bruno. Gadamy z Adamem, Bruno i znów Adamem by dostać klucz. Czytamy opowieść. Udajemy się następnie do domu w górach (zadanie [Opuszczona chatka](#opuszczona-chatka)) i dowiadujemy się gdzie został schowany kamień ogniskujący. Znajduje się on w kopalni soli, w której wcześniej byliśmy. Należy kopać w pierwszej „kupce" jaką natrafiliśmy w jednym z rogów (możliwe, że nie zadziała za pierwszym razem, więc radzę zapisać i wczytać).
+
+[MIEJSCE ZAKOPANEGO KAMIENIA OGNISKUJĄCEGO](https://imgur.com/a/1kZmXse)
 Udajemy się na cmentarz do grobowca i gadamy z duchem Stammlera. Ten opowiada nam o klątwie rzuconej na niego. By ją złamać potrzebujemy pokonać Abraxasa. Do przyzwania potrzebujemy trzech serc golemów. Kamienny znajduje się nad cmentarzem przy wodospadzie. Srebrny i Solny w znanych nam wcześniej kopalniach (potrzebne rodzaje golemów będą także przy kaplicy Innosa, a tam się kierujemy). Następnie gadamy z Gernotem i wybieramy od niego broń (polecam pod zręczność jeśli wbijesz jej 60), a następnie idziemy pogadać z Telemem, który wysyła nas na bagna znajdujące się niedaleko zamku. Po odnalezieniu kapliczki  
- [\[DROGA DO ŚWIĄTYNI Z KAPLICZKĄ\]](https://www.google.com/url?q=https://youtu.be/AQueMHSRKJw&sa=D&source=editors&ust=1761140639340093&usg=AOvVaw3BCJbeOcB0sLeXUtF59V_T)  
+ [\[DROGA DO ŚWIĄTYNI Z KAPLICZKĄ\]](https://youtu.be/AQueMHSRKJw)  
 konsekrujemy broń i przyzywamy Abraxasa przy kamiennym kręgu(tym niedaleko domku myśliwskiego). Pokonujemy go, a następnie gadamy kolejno ze Stammlerem, Bruno i Karczmarzem kończąc zadanie.
 
 # Zadania poboczne
 
-[Goblini-piraci](#h.ynjirj5uuljo)
+[Gobliny-piraci](#gobliny-piraci)
 
 ## Kroniki Tamory
 
@@ -326,11 +334,13 @@ Po rozmowie z Mitchem dowiadujemy się, że wieczorami w karczmie gra w kości. 
 
 ## Ołtarz Adanosa
 
-Po oddaniu [amuletu](#h.6c6cmsab950u) dostajemy kolejną misją od maga. Polega na sprawdzeniu co jest nie tak, przy ołtarzu Adanosa. Kierujemy się drogowskazami trafiając w końcu na miejsce, zabijamy szkielety-gobliny i wracamy zdać raport.
+Po oddaniu [amuletu](#amulet-erika) dostajemy kolejną misją od maga. Polega na sprawdzeniu co jest nie tak, przy ołtarzu Adanosa. Kierujemy się drogowskazami trafiając w końcu na miejsce, zabijamy szkielety-gobliny i wracamy zdać raport.
 
 ## Gryf
 
-Zadanie daje nam pasterz Edgar. Znajduje się on niedaleko ołtarzu Adanosa. Prosi nas o zabicie gryfa (wygląda jak harpia), który znajduje się niedaleko w górach. [\[LOKALIZACJA GRYFA\]](https://www.google.com/url?q=https://i.imgur.com/cBhTwsc.png&sa=D&source=editors&ust=1761140639341992&usg=AOvVaw3sJtp0AZ--zDYctYelBrm4)  
+Zadanie daje nam pasterz Edgar. Znajduje się on niedaleko ołtarzu Adanosa. Prosi nas o zabicie gryfa (wygląda jak harpia), który znajduje się niedaleko w górach.
+
+[LOKALIZACJA GRYFA](https://i.imgur.com/cBhTwsc.png)  
 Zabijamy i wracamy.
 
 ## Zamknięta piwnica
@@ -339,12 +349,15 @@ Wpis dostajesz, jeśli staniesz przed wejściem do piwnicy. Gra informuje, że n
 
 ## Królewskie szaty
 
-Izabela prosi nas, abyśmy dostarczyli jej królewską suknie. Dostaniemy ją dopiero w Vengardzie w ramach robienia misji „[Nowicjusz za kratami](#h.5m2awll7ss)”.
+Izabela prosi nas, abyśmy dostarczyli jej królewską suknie. Dostaniemy ją dopiero w Vengardzie w ramach robienia misji [Nowicjusz za kratami](sekcje/zadania/rozdzial_vi?id=nowicjusz-za-kratami).
 
 ## Martwy na bagnie
 
-Na bagnach w ciele martwego strażnika znajduje się notatka. [\[LOKALIZACJA TRUPA\]](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5d4Xpxhfrh8&sa=D&source=editors&ust=1761140639342747&usg=AOvVaw2YItoxsSeKN57g2sBqf_1W)  
-Po przeczytaniu jej idziesz do Rubena. Dostajesz od niego wtedy misje „[Cenna księga](#h.jzkx0n507paa)”, którą wykonasz dopiero w 6 rozdziale.
+Na bagnach w ciele martwego strażnika znajduje się notatka.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5d4Xpxhfrh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Po przeczytaniu jej idziesz do Rubena. Dostajesz od niego wtedy misje [Cenna księga](#cenna-księga), którą wykonasz dopiero w 6 rozdziale.
 
 ## Cenna księga
 
@@ -354,17 +367,17 @@ Ruben opowiada ci o księdze, którą poszukiwał jego martwy brat. W szóstym r
 
 ###
 
-[\[FILMIK Z LOKALIZACJĄ\]](https://www.google.com/url?q=https://youtu.be/EYX64Oap8VA&sa=D&source=editors&ust=1761140639343365&usg=AOvVaw1rWD_1xZRJZ5WKjGvNZdOI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EYX64Oap8VA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Zadanie dostajemy czytając ukrytą notatkę schowaną, w zamku, w pomieszczeniu z kominkiem i schodami prowadzącymi do Telema. Klikamy w pomieszczeniu w przycisk pod witrażem, a kominek się przesunie. Idziesz szukać wieży zatopionej w morzu, której szczyt będzie wystawać lekko nad powierzchnią. Nurkujemy po skarb i otwieramy kończąc zadanie.
 
 ## Opuszczona chatka
 
-Niedaleko miejsca z gryfem możemy udać się dalej na szczyt. Mogłeś trafić tam też jeśli zacząłeś szukać [Kroniki Tamory](#h.tvbv2zmypphc). Zobaczymy tam dom, który dokładnie przeszukujemy i czytamy książkę, dostając tym samym wpis do dziennika. Dowiadujemy się, że chatka należy do Ambroziusa. Idziemy więc do niego kończąc całość.
+Niedaleko miejsca z gryfem możemy udać się dalej na szczyt. Mogłeś trafić tam też jeśli zacząłeś szukać [Kroniki Tamory](#kroniki-tamory). Zobaczymy tam dom, który dokładnie przeszukujemy i czytamy książkę, dostając tym samym wpis do dziennika. Dowiadujemy się, że chatka należy do Ambroziusa. Idziemy więc do niego kończąc całość.
 
 ## Zakopany skarb
 
-Jak już pogadałeś z Ambroziusem, wiedząc, że [dom pustelnika](#h.f0g8pfw8bf2f) należy do niego, to dowiadujemy się na temat skarbu. Szukanie skarbu zaczyna się po drugiej stronie skały, którą opływamy. Jak się tam dostaniesz, to czytasz wszystkie dokumenty i odnajdziesz skarb. Wracasz do zleceniodawcy i dzielisz się z nim łupem lub nie.
+Jak już pogadałeś z Ambroziusem, wiedząc, że [dom pustelnika](#opuszczona-chatka) należy do niego, to dowiadujemy się na temat skarbu. Szukanie skarbu zaczyna się po drugiej stronie skały, którą opływamy. Jak się tam dostaniesz, to czytasz wszystkie dokumenty i odnajdziesz skarb. Wracasz do zleceniodawcy i dzielisz się z nim łupem lub nie.
 
 ## Kradzież kieszonkowa
 
@@ -411,9 +424,9 @@ Po rozmowie z Alvaresem dowiadujemy się coś na temat Rosha. Z tymi informacja
 
 ## Świeże mięso dla obozu
 
-Po zadaniu „[Szpieg korsarzy](#h.swh4f8ub18p6)”
+Po zadaniu [Szpieg korsarzy](#szpieg-korsarzy)
 
-Zadanie zleca nam pirat myśliwy, strażnik przed wejściem do obozu. Potrzebną ilość mięsa prawdopodobnie już posiadamy. Oddajemy to Mount’owi. Jeśli nie mamy to polujemy lub kupujemy od Baromira.
+Zadanie zleca nam pirat myśliwy, strażnik przed wejściem do obozu. Potrzebną ilość mięsa prawdopodobnie już posiadamy. Oddajemy to Mount'owi. Jeśli nie mamy to polujemy lub kupujemy od Baromira.
 
 ## Amulet Erika
 
@@ -425,7 +438,7 @@ Bjorn chce zioła od Emilio (znajduje się nad obozem piratów). Idziemy do nieg
 
 ## Znaleziona notatka
 
-Nad Emilio, na wzgórzu, przy drzewie znajdujemy notatkę, która umożliwia wykonanie nam poniższej misji „[Nieszczęście Emilio](#h.7hsnigp78rvg)”, odblokowując opcję dialogową „Pomogę ci”.
+Nad Emilio, na wzgórzu, przy drzewie znajdujemy notatkę, która umożliwia wykonanie nam poniższej misji [Nieszczęście Emilio](#nieszczęście-emilio), odblokowując opcję dialogową „Pomogę ci".
 
 ## Nieszczęście Emilio
 
@@ -469,11 +482,11 @@ Cała misja polega na rozmowie z Ahabem, marynarzami i Haraldem, by w końcu zdo
 \- Jeżeli zginie ci myśliwy Enzo znajdujący się poza obozem, to nie przejmuj się. Nie jest do niczego potrzebny.  
 \- Jest też duża szansa, że nie wykonasz misji ze skórami wargów dla myśliwych, ponieważ mieszkańcy zabiją je za ciebie i ciał nie będzie.
 
-\- [Goblini-piraci](#h.ynjirj5uuljo)
+\- [Gobliny-piraci](#gobliny-piraci)
 
 ## Poszukiwanie żywności
 
-Gernot wysyła nas razem z Dandolo i Ernstem, byście kupili prowiant na statek. Zadanie kończy się dopiero po misji [„Wyzwolenie](#h.34dbmmhq86s7) [Khorusu](#h.34dbmmhq86s7)[”](#h.34dbmmhq86s7) i otrzymaniu prowiantu od handlarza (Martisa) w wiosce. Oddajemy prowiant Gernotowi i możesz wyruszać w dalszą podróż.
+Gernot wysyła nas razem z Dandolo i Ernstem, byście kupili prowiant na statek. Zadanie kończy się dopiero po misji [Wyzwolenie Khorusu](#wyzwolenie-khorusu) i otrzymaniu prowiantu od handlarza (Martisa) w wiosce. Oddajemy prowiant Gernotowi i możesz wyruszać w dalszą podróż.
 
 ### Wyzwolenie Khorusu
 
@@ -481,7 +494,7 @@ Po tym jak znalazłeś Vikasa, Roland obiecuje mu, że wyzwoli Khorus spod wład
 
 ### Orkowie na Khorusie
 
-Zadanie rozpoczyna się po zobaczeniu orków zwiadowców. Do ukończenia jej potrzebujemy dowiedzieć się od mieszkańców o orkach w wiosce oraz w trakcie wykonywania zadań: [„Latarnia morska na](#h.7r3pxx70s3na) [Khorusie](#h.7r3pxx70s3na)[”](#h.7r3pxx70s3na) i [„Patrole orków”](#h.yfxxzdc1aev). Meldujemy o tym Gernotowi.
+Zadanie rozpoczyna się po zobaczeniu orków zwiadowców. Do ukończenia jej potrzebujemy dowiedzieć się od mieszkańców o orkach w wiosce oraz w trakcie wykonywania zadań: [Latarnia morska na Khorusie](#latarnia-morska-na-khorusie) i [Patrole orków](#patrole-orków). Meldujemy o tym Gernotowi.
 
 #### Latarnia morska na Khorusie
 
@@ -503,7 +516,7 @@ Petra prosi nas o dostarczenie jej księgi. Znajduje się ona w kaplicy za moste
 
 ### Lek dla Waliny
 
-Walina prosi nas o lek na gorączkę. W tym celu potrzebujemy udać się do Valendraji, która nie pomoże nam, jeśli nie pomożemy jej w pewnym zadaniu („[Kobieta przy Kamiennym Kręgu](#h.sxl1amgancvc)”). Po wykonaniu zadania, potrzebujemy zebrać dla niej grzyby, które rosną na wyspie w jaskiniach. Po zebraniu oddajemy składniki, czekamy jeden dzień i wracamy do Waliny z lekarstwem.
+Walina prosi nas o lek na gorączkę. W tym celu potrzebujemy udać się do Valendraji, która nie pomoże nam, jeśli nie pomożemy jej w pewnym zadaniu ([Kobieta przy Kamiennym Kręgu](#kobieta-przy-kamiennym-kręgu)). Po wykonaniu zadania, potrzebujemy zebrać dla niej grzyby, które rosną na wyspie w jaskiniach. Po zebraniu oddajemy składniki, czekamy jeden dzień i wracamy do Waliny z lekarstwem.
 
 #### Kobieta przy Kamiennym Kręgu
 
@@ -519,11 +532,17 @@ Myśliwy prosi nas o dostarczenie mu mięsa. Powinniśmy to już dawno mieć wi�
 
 ### Środek uspokajający dla Kolwina
 
-Kolwin daje nam klucz do swojej skrzyni. Kierujemy się do jaskini niedaleko dziury [\[ZDJĘCIE\]](https://www.google.com/url?q=https://i.imgur.com/EDblu3U.png&sa=D&source=editors&ust=1761140639356296&usg=AOvVaw17gDLxGWRbK-EN3azCIrFJ) otwieramy skrzynię i wracamy z winem.
+Kolwin daje nam klucz do swojej skrzyni. Kierujemy się do jaskini niedaleko dziury
+
+<img src="https://i.imgur.com/EDblu3U.png" alt="Zdjęcie" style="max-width: 100%; height: auto;">
+
+otwieramy skrzynię i wracamy z winem.
 
 ### Ferell
 
-Od Martisa dowiadujemy się, że zaginął jego syn. W pobliżu leży kilof, więc jeśli żadnego nie posiadasz, to weź go. Misje możesz wykonać dopiero po wyzwoleniu wioski, więc czyścisz tam wszystko. Szukasz w niej czegoś co posłuży ci jako drabina. [\[LINK DO LOKALIZACJI DRABINY\]](https://www.google.com/url?q=https://imgur.com/a/XqzW3ow&sa=D&source=editors&ust=1761140639356708&usg=AOvVaw3ff6ySwJKPseUVlPs2Tuqs)  
+Od Martisa dowiadujemy się, że zaginął jego syn. W pobliżu leży kilof, więc jeśli żadnego nie posiadasz, to weź go. Misje możesz wykonać dopiero po wyzwoleniu wioski, więc czyścisz tam wszystko. Szukasz w niej czegoś co posłuży ci jako drabina.
+
+[LINK DO LOKALIZACJI DRABINY](https://imgur.com/a/XqzW3ow)
 Następnie przejście do kopalni otwierasz niszcząc kamienie kilofem. Dajesz drabinę i schodzisz na dół. Na dole kopalni znajdujesz Ferella. Odprowadzasz go na górę, uważając przy tym na pełzacze, które ponownie się pojawią. Idziesz poinformować Martisa o odnalezieniu syna.
 
 ## Punkt obserwacyjny
@@ -546,4 +565,4 @@ Martin na statku informuje nas, gdzie udał się Lord Hagen. Dodatkowe informacj
 
 ## Czarni Magowie w Khorinis
 
-Martin opowiada ci, że żyje tylko z powodu darowania życia z rozkazu czarnego maga. Twoim zadaniem jest uzyskać informacje, co robią czarni magowi w Khorinis. Główny dowód potrzebny do ukończenia misji zdobywamy okradając [Donshaka](#h.r130wvz1if41) w górnym mieście lub zabijając go przy wyzwoleniu miasta. Czytamy list i wracamy z tym do Gernota.
+Martin opowiada ci, że żyje tylko z powodu darowania życia z rozkazu czarnego maga. Twoim zadaniem jest uzyskać informacje, co robią czarni magowi w Khorinis. Główny dowód potrzebny do ukończenia misji zdobywamy okradając [Donshaka](sekcje/zadania/rozdzial_iii?id=donshak) w górnym mieście lub zabijając go przy wyzwoleniu miasta. Czytamy list i wracamy z tym do Gernota.

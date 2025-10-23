@@ -1,9 +1,9 @@
 # TELEPORTY
 
-Do wioski Athanos: Znajduje się on w wieży z zadania [“Zagubiony Klucz”](#h.kdd58axc2ea)
+Do wioski Athanos: Znajduje się on w wieży z zadania [Zagubiony klucz](sekcje/zadania/rozdzial_i?id=zagubiony-klucz)
 
-Do zamku Athanos: Znajduje się on w wieży z zadania “[Zagubiony klucz](#h.kdd58axc2ea)”  
-Do biblioteki Athanos: Dostaniemy go od Sejana w trakcie zadania “[Stara biblioteka](#h.ynlw19bmr5je)”  
+Do zamku Athanos: Znajduje się on w wieży z zadania [Zagubiony klucz](sekcje/zadania/rozdzial_i?id=zagubiony-klucz)  
+Do biblioteki Athanos: Dostaniemy go od Sejana w trakcie zadania [Stara biblioteka](sekcje/zadania/rozdzial_i?id=stara-biblioteka)
 Do portu Athanos: Dostaniemy go w 6r od KunoDo miasta Tamora: Znajduje się on na stole w wieży przy bramie
 
 Do zamku Tamora: Ma go przy sobie Fulko (zdobędziesz w wątku głównym)  
@@ -22,25 +22,25 @@ Do obozu myśliwych na Khorusie: Sprzedaje go myśliwy Henry
 Na wyspę waranów w Khorinis: Dostajemy go od Gernota po przypłynięciu na Khorinis  
 Do latarni morskiej w Khorinis: Ma go przy sobie jeden z orków w latarni, podczas gdy ją odbijamy  
 Do wieży Xardasa: Leży on na szczycie wieży Xardasa na stoliku w bibliotece  
-Do gospody Orlana: Sprzedaje go Orlan / [Runy Tarroka](#h.wwxiqbnn35xh) Podczas misji na cmentarzu obok gospody  
+Do gospody Orlana: Sprzedaje go Orlan / [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji na cmentarzu obok gospody  
 Do obozu na farmie Onara: Daje nam go Andre przy pierwszym spotkaniu  
 Na północ Khorinis: W leżu Czarnego Trolla  
-Na przełęcz Khorinis: [Runy Tarroka](#h.wwxiqbnn35xh) Podczas misji w drugiej odnodze jaskini Próby OgniaDo majątku ziemskiego:  [Runy Tarroka](#h.wwxiqbnn35xh) Podczas misji na wysepce z topielcami obok Erola  
-Do klasztoru: [Runy Tarroka](#h.wwxiqbnn35xh) Podczas misji w jaskini pod mostem na wykopaliskaDo miasta Khorinis: [Runy Tarroka](#h.wwxiqbnn35xh) W skrzyni Granta w koszarachDo wykopalisk Khorinis: Ma go przy sobie bandyta Emil przed wykopaliskami  
+Na przełęcz Khorinis: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji w drugiej odnodze jaskini Próby OgniaDo majątku ziemskiego: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji na wysepce z topielcami obok Erola  
+Do klasztoru: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji w jaskini pod mostem na wykopaliskaDo miasta Khorinis: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) W skrzyni Granta w koszarachDo wykopalisk Khorinis: Ma go przy sobie bandyta Emil przed wykopaliskami
 Do Słonecznego Kręgu: Leży on na kamieniu w Słonecznym Kręgu  
 Do Obserwatorium: Leży na stole w pokoju Sejana w obserwatorium  
 Do jaskini ogrów w Khorinis: Ma go przy sobie martwy mag wody Teofil, który leży w jaskini  
 Do kamiennego kręgu ogrów: Leży on przy drzewie w kamiennym kręgu ogrów przy obserwatorium  
 Do osady rybackiej: Ma go przy sobie jeden z martwych rybaków w osadzie rybackiej  
 Do siedliska goblinów: Leży on w skrzyni obok Spencera w wiosce goblinów  
-Na statek widmo: Leży on w wnęce w skałach przy zejściu na bagna obok statku [\[SCREEN\]](https://www.google.com/url?q=https://imgur.com/JYPlcVd&sa=D&source=editors&ust=1761140639284284&usg=AOvVaw2UakjD4BlGvLIlWTbWgrzR)  
+Na statek widmo: Leży on w wnęce w skałach przy zejściu na bagna obok statku [\[SCREEN\]](https://imgur.com/JYPlcVd)  
 Do druida Kiliana: Leży w skrzyni za kapliczką Adanosa przy Kilianie  
 Do jaskini ogrów w Jarkendarze: Sprzedaje go druid Killian  
 Do obozu piratów Grega: Leży za chatą SkipaNa wybrzeże Varantu: Sprzedaje go pirat Asmund  
 Do Patary:Przy drogowskazie po wyjściu z jaskini łączącej wybrzeże z pustynią
 
 Do Ugaru: Sprzedaje go Iskra/Othello/Ozyrys  
-Do jaskini Skelrona: Daje nam go Tartaron w zadaniu [Skelron](#h.wztnz418jhih)  
+Do jaskini Skelrona: Daje nam go Tartaron w zadaniu [Skelron](sekcje/zadania/rozdzial_iv?id=skelron)  
 Do ruin Tadmoru: W budynku z ognistym cieniostworem przy obozie orków w ruinach  
 Do obozu Nemrosha: Przy kapliczce Beliara obok Nemrosha  
 Do obozu Haruna: Sprzedaje go Harun  
@@ -53,7 +53,7 @@ Do Przełęczy: Należy okraść Kabira / Skrzynia obok bramy Przełęczy
 Do świątyni w Aszdodzie: Sprzedaje go kupiec Alfonso  
 Do wieży obok Aslana: W skrzyni na szczycie wieży obok Aslana  
 Do grobowca Czarnego Maga: ?????? (Jak znajdziesz, to napisz na discord Tulipan#1810)  
-W nieznane miejsce: W jaskini gryfów niedaleko mostu obok jaskini z zadania [Tajemnicza jaskinia](#h.goz7ciwonxth)  
+W nieznane miejsce: W jaskini gryfów niedaleko mostu obok jaskini z zadania [Tajemnicza jaskinia](sekcje/zadania/rozdzial_iv?id=tajemnicza-jaskinia)  
 Na teren Ishtar: W zwłokach handlarza na terenach za bramą Przełęczy  
 Do zamku Rhobara w Zachodnim Varancie: Ma go przywódca bandytów w Zachodnim Varancie
 

@@ -3,11 +3,11 @@
 - Uważaj z zabijaniem topielców i krwiopijców, jako że będą potrzebne Ci trofea z nich.
 - Sejan i Zbrojmistrz będą sprzedawać tańsze mikstury HP, które koniecznie trzeba wykupić.
 - Sejan sprzeda Ci runę multi teleportacji znaną nam min. z Returninga
-- Otwierania zamków nauczy nas Ralf po zadaniu “[Wieści z Vengardu](#h.vw64zshzlmal)”
-- Po zadaniu [“Zaginiona fajka”](#h.llnopoi7nqt) otworzy nam się brama zamku
-- Warto zaraz po wyjściu z zamku zainteresować się zadaniem “[Zagubiony klucz](#h.kdd58axc2ea)”, dzięki któremu otrzymamy runy teleportacyjne.
+- Otwierania zamków nauczy nas Ralf po zadaniu [Wieści z Vengardu](#wieści-z-vengardu)
+- Po zadaniu [Zaginiona fajka](#zaginiona-fajka) otworzy nam się brama zamku
+- Warto zaraz po wyjściu z zamku zainteresować się zadaniem [Zagubiony klucz](#zagubiony-klucz), dzięki któremu otrzymamy runy teleportacyjne.
 - Jutta w wiosce sprzedaje amulet +40HP, a w krypcie jest pierścień +20HP
-- Za zadanie “[Zięć dla Johana](#h.vk3xgpsk2gnh)” otrzymamy amulet +10 siły
+- Za zadanie [Zięć dla Johana](#zięć-dla-johana) otrzymamy amulet +10 siły
 - Koniecznie staraj się pozbierać wszystkie rośliny i mikstury, jak i wykupić składniki do zup, jako że na tą wyspę wrócisz dopiero w bardzo późnym stadium gry.
 - Przed wypłynięciem na morze, możesz poobijać paladynów/strażników spoza statku
 - Nie warto odbierać darów z kapliczki na Athanos, lepiej to zrobić gdy będziemy zużywać inne bonusy, bo liczą się one do progu PN.
@@ -19,7 +19,7 @@
 
 # Paladyn
 
-To zadanie rozpoczyna się automatycznie z początkiem gry, i kończy dopiero w czwartym rozdziale, gdy zostajemy Paladynem po zadaniu “[Wiadomość dla Lorda Baldwina](#h.b15vrz91774)”
+To zadanie rozpoczyna się automatycznie z początkiem gry, i kończy dopiero w czwartym rozdziale, gdy zostajemy Paladynem po zadaniu [Wiadomość dla Lorda Baldwina](sekcje/zadania/rozdzial_iii?id=wiadomość-dla-lorda-baldwina)
 
 # Areszt
 
@@ -33,7 +33,7 @@ Marbod mówi Ci, że zgubił swoją fajkę. Musisz ją znaleźć i mu ją oddać
 
 Bruno mówi nam, że musimy ukończyć podstawowy trening aby dostać lepszą zbroję. Aby to skończyć, musimy osiągnąć 30 siły, 30 zręczności, 10% władania kuszą oraz 10% władania bronią jednoręczną. Mówi nam również o czterech książkach, które musimy znaleźć i przeczytać. Kiedy już przeczytamy wszystkie księgi, oraz zdobędziemy odpowiednio wysokie umiejętności, możemy zakończyć zadanie, dostajemy wtedy nową zbroje oraz dostęp do nowych zadań.
 
-1.  Księga zręczności znajduje się w skrzyni Ralfa. Da nam klucz, gdy wykonamy zadanie ["Wieści z Vengardu](#h.vw64zshzlmal)".
+1.  Księga zręczności znajduje się w skrzyni Ralfa. Da nam klucz, gdy wykonamy zadanie [Wieści z Vengardu](#wieści-z-vengardu).
 2.  Księga siły znajduje się w skrzyni Herberta, musimy się tam włamać i zabrać księgę.
 3.  Księga do broni jednoręcznej znajduje się na wysokim regale z książkami w sypialni paladynów.
 4.  Księga kusznictwa znajduje się za beczkami na podwórzu zamku.
@@ -85,19 +85,19 @@ Aby otrzymać zgodę od Herbrandta, musimy wykonać to zadanie. Mówi nam, że k
 
 ## Zdrajca
 
-Poboczne zadanie, które zakończymy razem ze "[Zaginiona broń](#h.wtvc13mfqp3q)"
+Poboczne zadanie, które zakończymy razem ze [Zaginiona broń](#zaginiona-broń)
 
 ## Miecz paladyna
 
-W małej jaskini na wzgórzu goblinów znajdziemy beczki z bronią, a wśród nich miecz paladyna. To zadanie jest bezpośrednio połączone z zadaniem "[Zdrajca](#h.674d7q8ysrki)" oraz wątkiem przemytników, a zostanie zakończone wraz z nimi.
+W małej jaskini na wzgórzu goblinów znajdziemy beczki z bronią, a wśród nich miecz paladyna. To zadanie jest bezpośrednio połączone z zadaniem [Zdrajca](#zdrajca) oraz wątkiem przemytników, a zostanie zakończone wraz z nimi.
 
 ## Kryjówka przemytników
 
-To zadanie połączone z zadaniem “[Zaginiona Broń](#h.wtvc13mfqp3q)”. Opływając dookoła wyspę, zobaczymy przystań, a niedaleko niej bandytę. Wchodzimy do jaskini, zabijamy przemytników i zabieramy wszystko co do nich należało.
+To zadanie połączone z zadaniem [Zaginiona Broń](#zaginiona-broń). Opływając dookoła wyspę, zobaczymy przystań, a niedaleko niej bandytę. Wchodzimy do jaskini, zabijamy przemytników i zabieramy wszystko co do nich należało.
 
 # Alchemik
 
-Ralf opowie Ci o podejrzanym alchemiku, który pracuje dla Paladynów na zamku. Możesz się o niego zapytać u Bruno, Marboda, i innych paladynów, ale nie będą chcieli powiedzieć nic konkretnego. Dopiero w dalszym etapie na Athanos, po zakończeniu [podstawowego szkolenia](#h.w6juav40914s), oraz rozpoczęciu zadania "[Nocna Warta](#h.cpcbaaykbar2)", Bruno zapyta Cię, czy mógłbyś udać się do alchemika i przynieść mu parę mikstur. Dostajesz klucz do kwatery alchemika, która znajduje się na samym szczycie zamku. Od alchemika otrzymasz kilka innych zadań, które musisz ukończyć.
+Ralf opowie Ci o podejrzanym alchemiku, który pracuje dla Paladynów na zamku. Możesz się o niego zapytać u Bruno, Marboda, i innych paladynów, ale nie będą chcieli powiedzieć nic konkretnego. Dopiero w dalszym etapie na Athanos, po zakończeniu [podstawowego szkolenia](#podstawowe-szkolenie), oraz rozpoczęciu zadania [Nocna Warta](#nocna-warta), Bruno zapyta Cię, czy mógłbyś udać się do alchemika i przynieść mu parę mikstur. Dostajesz klucz do kwatery alchemika, która znajduje się na samym szczycie zamku. Od alchemika otrzymasz kilka innych zadań, które musisz ukończyć.
 
 ## Składniki dla Sejana
 
@@ -138,7 +138,11 @@ Zadanie możemy zacząć, czytając pulpit w pokoju Marboda, ale kontynuujemy je
 W bibliotece na Athanos znajdziesz księgę, która okazuje się być pamiętnikiem Xardasa. Pokazując ją Sejanowi, on prosi Cię o znalezienie reszty. Zadanie można dokończyć dopiero na Khorinis, gdzie spotykamy Sejana w obserwatorium. Musimy przynieść mu pozostałe tomy, które znajdują się w:  
 Tomy II i III w bibliotece klasztornej, w piwnicy;  
 Tom IV w wieży Xardasa;  
-Tom V w skrzyni w piwnicy Obserwatorium [\[LOKALIZACJA V I VI CZĘŚCI FILMIK\]](https://www.google.com/url?q=https://youtu.be/Zw1dMh3chms&sa=D&source=editors&ust=1761140639302650&usg=AOvVaw3HryXSQ3hdm163xt447XjO)Tom VI znajduje się w skrzyni, w jaskini niedaleko kamiennego kręgu ogrów.
+Tom V w skrzyni w piwnicy Obserwatorium
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zw1dMh3chms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tom VI znajduje się w skrzyni, w jaskini niedaleko kamiennego kręgu ogrów.
 
 ## Niebezpieczne księgi
 
@@ -147,7 +151,7 @@ W bibliotece jest dziesięć takich książek, zbieramy je z regałów i czytamy
 
 ## Sen Rajmunda
 
-Rajmund narzeka na bezsenność spowodowaną dźwiękami wydawanymi przez chrząszcze. Znajdziemy je w [bibliotece](#h.ynlw19bmr5je), do której dostaniemy się kontynuując wątek z Sejanem. Po zabiciu owadów wracamy do Rajmunda i odbieramy nagrodę.
+Rajmund narzeka na bezsenność spowodowaną dźwiękami wydawanymi przez chrząszcze. Znajdziemy je w [bibliotece](#stara-biblioteka), do której dostaniemy się kontynuując wątek z Sejanem. Po zabiciu owadów wracamy do Rajmunda i odbieramy nagrodę.
 
 # Zaginiony marynarz
 
@@ -181,11 +185,9 @@ Lokalizacja notatek:
 
 # Stare dzieje
 
-Wenzel opowiada Ci o swoich doświadczeniach z wcześniejszych lat, mówi też, że każdy na zamku myśli, że zmyśla. Przede wszystkim Ralf i Herbert nie wierzą w ani jedno słowo Wenzela. Gadamy z nimi, wracamy do Wenzela, a on jest gotów opowiedzieć o szczegółach. Dostajemy od niego kilka zadań. Zadanie kończy się, kiedy wykonamy wszystkie poboczne (“[Król Szczurów](#h.9p74oilrhmdw)”, “[Czerwona Kopalnia](#h.1jp5c6ftypkf)”, “[Zatopiona flota](#h.rznlio7ntgmf)”, [“Cenny Olej”](#h.rznlio7ntgmf), “[Kryjówka przemytników](#h.y1aykk68z8r)”, “[Stara biblioteka](#h.ynlw19bmr5je)”).
+Wenzel opowiada Ci o swoich doświadczeniach z wcześniejszych lat, mówi też, że każdy na zamku myśli, że zmyśla. Przede wszystkim Ralf i Herbert nie wierzą w ani jedno słowo Wenzela. Gadamy z nimi, wracamy do Wenzela, a on jest gotów opowiedzieć o szczegółach. Dostajemy od niego kilka zadań. Zadanie kończy się, kiedy wykonamy wszystkie poboczne: [Król Szczurów](#król-szczurów), [Czerwona Kopalnia](#czerwona-kopalnia), [Zatopiona flota/Cenny olej](#zatopiona-flotacenny-olej), [Kryjówka przemytników](#kryjówka-przemytników), [Stara biblioteka](#stara-biblioteka).
 
-###
-
-Król Szczurów
+## Król Szczurów
 
 Jedno z zadań od Wenzela. Do króla szczurów możemy dostać się będąc w kryjówce przemytników, w ich jaskini jedno z przejść jest zabite grubymi deskami.  
 Możemy się tam przecisnąć, zamieniając się w chrząszcza. Idąc dalej w jaskinie, spotykamy pełno szczurów, a także ich króla. Zabijamy go i wracamy do Wenzela.
@@ -196,13 +198,13 @@ Jedno z zadań od Wenzela. Główne wejście do czerwonej kopalni znajduje się 
 
 ## Zatopiona flota/Cenny olej:
 
-[\[FILMIK Z LOKALIZACJĄ\]](https://www.google.com/url?q=https://youtu.be/tO_WNPnyJwM&sa=D&source=editors&ust=1761140639307431&usg=AOvVaw3s9kwzphdhMMgteXXeNasf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tO_WNPnyJwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Wenzel opowiada nam o zatopionej flocie, która przewoziła cenny syriański olej. Idziemy do rybaka na Athanosie i uczymy się od niego pływać, a następnie przeszukujemy statki w okolicy Wyspy Kretoszczurów. Po wpłynięciu do kajuty jednego z nich otrzymamy wpis, a Roland sam podniesie olej. Po wszystkim wracamy do Wenzela.
 
 ## Rusznikarz
 
-Wenzel opowiada nam o broni palnej, której nie dostaniemy nigdzie w okolicy. Mowa o muszkiecie, który wykona dla nas więzień przetrzymywany w [Ugarze](#h.y30n8copb2jm) (5 rozdział), jak już go uwolnimy.
+Wenzel opowiada nam o broni palnej, której nie dostaniemy nigdzie w okolicy. Mowa o muszkiecie, który wykona dla nas więzień przetrzymywany w Ugarze (rozdział V), jak już go uwolnimy.
 
 # Tajny cel podróży
 
@@ -231,7 +233,8 @@ Teraz, gdy Oleg ma z powrotem swoją lutnię, chciałby poćwiczyć piosenkę k
 
 # Zagubiony klucz
 
-[\[LOKALIZACJA KLUCZA\]](https://www.google.com/url?q=https://i.imgur.com/q5FtSNd.png&sa=D&source=editors&ust=1761140639311331&usg=AOvVaw0tHmBgoTv3JHGS68S6qUeD)  
+<img src="https://i.imgur.com/q5FtSNd.png" alt="Lokalizacja klucza" style="max-width: 100%; height: auto;">
+
 Goetz, strażnik magazynu w wiosce powie Ci, że zgubił klucz do wieży. Klucz znajduje się w krzakach obok zniszczonego tartaku, którego pilnują topielce. Zabieramy klucz, wracamy do Goetza, a ten mówi, że możemy zatrzymać klucz.  
 Warto zrobić to jak najszybciej, jako że w wieży znajdują się teleporty do zamku i wioski.
 
