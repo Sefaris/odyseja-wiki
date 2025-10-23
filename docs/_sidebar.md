@@ -9,3 +9,7 @@
 
 - **Informacje dodatkowe**
 - [Teleporty](sekcje/informacje-dodatkowe/teleporty.md)
+
+- **Linki**
+- [Instalacja](https://sefaris.eu/new-balance/installation)
+- [Strona Sefaris](https://sefaris.eu)
