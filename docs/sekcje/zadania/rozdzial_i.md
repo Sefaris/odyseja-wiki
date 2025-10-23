@@ -117,6 +117,51 @@ Rolnik Johan narzeka, że co noc znikają mu bele siana. Około północy udajem
 
 ### Zaginiona broń
 
+Aby otrzymać zgodę od Herbrandta, musimy wykonać to zadanie. Mówi nam, że ktoś kradnie broń z zamku.
+
+**Etap 1: Śledztwo**
+
+1. Idziemy do Kuno, który wyda nam lepszą broń i opowie o całej sprawie
+2. Udajemy się na górę goblinów (tam gdzie zbieraliśmy siano)
+3. W małej jaskini spotykamy przemytnika Stone'a - zabijamy go i zabieramy wszystko co ma
+4. Czytamy list - dowiadujemy się, że na wyspie są przemytnicy i widnieje tam imię "Bud", który siedzi w więzieniu
+5. Wracamy z informacjami do Herbrandta
+6. Przesłuchujemy więźnia Buda
+7. Gadamy z Flintem
+
+**Etap 2: Flint - zdrajca**
+
+1. O 3:15 w nocy ponownie udajemy się do małej jaskini na wzgórzu goblinów
+2. Spotykamy tam zdrajcę - to Flint
+3. Bijemy go i oszczędzamy (alternatywnie można zabić, co skróci misję)
+4. Gdy wstanie zacznie uciekać - musimy wyruszyć za nim w pościg
+5. Gadamy z nim jeszcze raz i prowadzimy do więzienia
+
+**Etap 3: Przemyt broni**
+
+1. Wracamy do Herbrandta
+2. Idziemy do miejsca, gdzie wykopaliśmy lutnie dla Olega, schodzimy trochę niżej
+3. Dostajemy wpis do dziennika - to jest miejsce, w którym Flint przemycał broń z zamku do bandytów
+4. Wracamy z tym do Herbrandta
+
+**Etap 4: Kryjówka przemytników**
+
+1. Herbrandt mówi nam, że musimy odnaleźć kryjówkę przemytników
+2. Opływamy całą wyspę dookoła, aż nie zobaczymy kilku tratw i strażnika
+3. Wybijamy wszystkich przemytników
+4. Wchodzimy do jaskini i zabieramy miecze paladynów
+5. Wracamy do Herbrandta - zadanie się kończy
+
+**Wskazówka:** Jeżeli brakuje mieczy, część z nich znajduje się w małej jaskini, gdzie walczyliśmy z Flintem.
+
+---
+
+### Zdrajca
+
+---
+
+### Zaginiona broń
+
 Aby otrzymać zgodę od Herbrandta, musimy wykonać to zadanie. Mówi nam, że ktoś kradnie broń z zamku. Najpierw idziemy do Kuno, który wyda nam lepszą broń i opowie o całej sprawie. Idziemy najpierw na górę goblinów (tam gdzie zbieraliśmy siano), gdzie w małej jaskini spotykamy przemytnika Stone'a, zabijamy go i zabieramy wszystko co ma, następnie czytamy list. Dowiadujemy się, że na wyspie są przemytnicy, widnieje tam też imię "Bud", który siedzi w więzieniu. Wracamy z tymi informacjami do  Herbrandta, następnie przesłuchujemy więźnia. Gadamy też z Flintem. Następnie o 3:15 w nocy ponownie udajemy się do małej jaskini na wzgórzu goblinów,spotykamy tam zdrajcę. To Flint. Bijemy go, oszczędzamy (alternatywą jest zabicie, co skróci misje), a gdy wstanie zacznie uciekać, więc musimy wyruszyć za nim w pościg. Gadamy z nim jeszcze raz, i prowadzimy do więzienia. Wracamy do Herbrandta, a następnie idziemy do miejsca, gdzie wykopaliśmy lutnie dla Olega, schodzimy trochę niżej i dostajemy wpis do dziennika. To jest miejsce, w którym Flint przemycał broń z zamku do bandytów. Wracamy z tym do Herbrandta, ale on mówi nam, że musimy odnaleźć kryjówkę przemytników, najlepiej jest po prostu opłynąć całą wyspę dookoła, aż nie zobaczymy kilku tratw i strażnika. Wybijamy wszystkich przemytników, wchodzimy do jaskini i zabieramy miecze paladynów.. Wracamy do Herbrandta, zadanie się kończy. Jeżeli brakuje wam mieczy, część z nich znajduje się w małej jaskini, gdzie walczyliśmy z Flintem.
 
 ---
