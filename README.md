@@ -1,6 +1,6 @@
 # Gothic II: Odyseja - Wiki
 
-Ten projekt zawiera solucję do Gothic II: Odyseja od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://nb.mody.sefaris.eu](https://nb.mody.sefaris.eu)
+Ten projekt zawiera solucję do Gothic II: Odyseja od [Team Sefaris](https://sefaris.eu) oraz Bractwo Gothica. Solucję można znaleźć także pod adresem [https://nb.mody.sefaris.eu](https://nb.mody.sefaris.eu)
 
 ## Instalacja oraz wymagania
 
