@@ -1,10 +1,12 @@
-﻿# Rozdział VI
+# Rozdział VI
 
 ## Najważniejsze informacje
 
-Uwaga! Przed wyruszeniem do Myrtany lepiej wrócić na pozostałe wyspy jeśli chcemy wykonywać tam misje, ponieważ potem przez długi okres nie będziemy mogli podróżować.
+> **Uwaga!** Przed wyruszeniem do Myrtany lepiej wrócić na pozostałe wyspy jeśli chcemy wykonywać tam misje, ponieważ potem przez długi okres nie będziemy mogli podróżować.
 
-- Lokalizacja smoczej krwi - [FILM](https://youtu.be/ReEJFKW-Z_A)
+**Wskazówka:** Lokalizacja smoczej krwi poniżej:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ReEJFKW-Z_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Albatros
 
@@ -328,10 +330,13 @@ Po wykonaniu zadania [Farmer i potwór](#farmer-i-potwór), Melchior następnego
 
 ### Najważniejsze informacje
 
-- Droga do Klanu Rudy - [FILM](https://youtu.be/tiC6dvWlRSE)
 - Za zadanie [Stara pamiątka rodzinna](#stara-pamiątka-rodzinna) otrzymamy runę Deszczu Ognia
 - Za zadanie [Nordmarska starka](#nordmarska-starka) możemy otrzymać przepis na miksturę +5HP i many
 - Za zadanie [Zaginiony amulet](#zaginiony-amulet) możemy otrzymać amulet +40 siły
+
+**Wskazówka:** Droga do Klanu Rudy poniżej:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tiC6dvWlRSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Zadania główne i powiązane
 
@@ -385,7 +390,11 @@ Po zdobyciu wszystkich kluczy, obok kraty z teleportem, będzie wejście, który
 
 #### Mistrz kopaczy
 
-Otrzymujemy to zadanie po ukończeniu [Północna świątynia Beliara](#północna-świątynia-beliara). Teraz musimy udać się do Olafa w Klanie Rudy. Powie on nam, że sam nie potrafi ulepszyć zbroi, ale może zrobić to ktoś, kto potrafi przekuwać pancerze, potrafi wykuwać rzeczy z rudy oraz jest Mistrzem Kopaczy. Do tego potrzebujemy dodatkowo 5 oszlifowanych akwamarynów (Kopalnia na Tamorze), 5 kawałków czerwonej rudy (Kopalnia w Ugarze lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)), 5 bryłek srebra (Kopalnia na Tamorze), 5 oszlifowanych rubinów (kopalnia na Khorusie lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)) I 5 oszlifowanych diamentów. Powinniśmy mieć wszystkie składniki, poza diamentami, które zdobędziemy [w tej jaskini](https://imgur.com/a/hyvmGPg) Jeśli nie posiadamy jeszcze Mistrza Kopaczy, to możemy to nadrobić [u Scatty’ego](sekcje/zadania/rozdzial_iii?id=scatty). Teraz wraz z wszystkimi składnikami idziemy do stołu rzemieślniczego i ulepszamy zbroję, co kończy nasze zadanie.
+Otrzymujemy to zadanie po ukończeniu [Północna świątynia Beliara](#północna-świątynia-beliara). Teraz musimy udać się do Olafa w Klanie Rudy. Powie on nam, że sam nie potrafi ulepszyć zbroi, ale może zrobić to ktoś, kto potrafi przekuwać pancerze, potrafi wykuwać rzeczy z rudy oraz jest Mistrzem Kopaczy. Do tego potrzebujemy dodatkowo 5 oszlifowanych akwamarynów (Kopalnia na Tamorze), 5 kawałków czerwonej rudy (Kopalnia w Ugarze lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)), 5 bryłek srebra (Kopalnia na Tamorze), 5 oszlifowanych rubinów (kopalnia na Khorusie lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)) I 5 oszlifowanych diamentów. Powinniśmy mieć wszystkie składniki, poza diamentami, które zdobędziemy <img src="https://imgur.com/a/hyvmGPg" alt="Lokalizacja diamentów" style="max-width: 100%; height: auto;"> Jeśli nie posiadamy jeszcze Mistrza Kopaczy, to możemy to nadrobić [u Scatty’ego](sekcje/zadania/rozdzial_iii?id=scatty). Teraz wraz z wszystkimi składnikami idziemy do stołu rzemieślniczego i ulepszamy zbroję, co kończy nasze zadanie.
+
+Lokalizacja diamentów:
+
+<img src="https://imgur.com/a/hyvmGPg" alt="Lokalizacja diamentów" style="max-width: 100%; height: auto;">
 
 ## Klan Rudy
 
@@ -450,7 +459,11 @@ Dag ma co do nas wątpliwości i każe nam przynieść 12 skór szablozęba, kt�
 
 #### Śnieżna bestia
 
-Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii znajdującej się wysoko w górach Nordmaru. Wspinamy się w góry w Nordmarze [\[FILMIK\]](https://youtu.be/oH1cSUKtlOs), po czym zabijamy albinosa stojącego pośród innych trolli. Ze skórą wracamy do Daga po nagrodę.
+Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii znajdującej się wysoko w górach Nordmaru. Droga do bestii:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oH1cSUKtlOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Wspinamy się w góry i zabijamy albinosa stojącego pośród innych trolli. Ze skórą wracamy do Daga po nagrodę.
 
 #### Milten chce dojść do Klanu Rudy
 
@@ -476,7 +489,15 @@ Ingolf zleca nam pozbycie się denerwujących goblinów nieopodal Klanu Ognia. P
 
 #### Zaginiony w lodach
 
-Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Znajduje się on na [dnie wąwozu z dużymi skałami](https://i.imgur.com/tUA403L.png) . Znajdujemy Ulfruna, zabijamy dla niego orków berserkerów i odprowadzamy go do Klanu Ognia [\[FILMIK Z DROGĄ\]](https://youtu.be/U-Imu1MJ4XA). Na koniec wracamy do Ansgara, a misja się kończy.
+Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Lokalizacja Ulfruna:
+
+<img src="https://i.imgur.com/tUA403L.png" alt="Lokalizacja Ulfruna" style="max-width: 100%; height: auto;">
+
+Znajdujemy Ulfruna, zabijamy dla niego orków berserkerów i odprowadzamy go do Klanu Ognia. Droga powrotna:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-Imu1MJ4XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Na koniec wracamy do Ansgara, a misja się kończy.
 
 Oddział pościgowy orków
 
@@ -492,7 +513,9 @@ Idąc z Ansgarem do Isagratu musimy przedostać się przez jaskinie pełną trol
 
 #### Stara pamiątka rodzinna
 
-Po dotarciu do ruin Isagratu, Ansgar opowiada nam o tym, że zgubił kiedyś na tych terenach miecz, który wpadł do wąwozu. Jeśli w trakcie eksploracji tych terenów się na niego natkniemy, możemy wrócić do Ansgara i mu go oddać, a w zamian otrzymamy runę deszczu ognia [\[FILMIK\]](https://youtu.be/Dn6rO6vnMCY)
+Po dotarciu do ruin Isagratu, Ansgar opowiada nam o tym, że zgubił kiedyś na tych terenach miecz, który wpadł do wąwozu. Jeśli w trakcie eksploracji tych terenów się na niego natkniemy, możemy wrócić do Ansgara i mu go oddać, a w zamian otrzymamy runę deszczu ognia. Lokalizacja miecza:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn6rO6vnMCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Ochrona mostu
 

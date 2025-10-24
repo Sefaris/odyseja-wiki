@@ -11,8 +11,10 @@
 - Nie atakuj orków w mieście, dopóki nie skończysz związanych z nimi zadań
 - Nie atakuj najemników orków w gospodzie Orlana, dopóki nie skończysz zadań w mieście
 - Przed wypłynięciem z Khorinis należy nauczyć się mistrzowskiego złotnictwa i ostrzenia
-- Warto jak najszybciej udać się na farmę Onara (zaraz po uwolnieniu ludzi z kanałów)
-- [NIESKOŃCZONY SPRINT OD POCZĄTKU KHORINIS](https://www.youtube.com/watch?v=RGW6EFfDX8Y)
+- Warto jak najszybciej udać się na farmę Onara (zaraz po uwolnieniu ludzi z kanałów). Jak ją znaleźć od początku rozdziału:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGW6EFfDX8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Wulfgar uczy bardzo pożytecznych umiejętności miecza, a Dragomir kuszy i łuku
 - Niepozorny malarz przy farmie Bengara jest bardzo istotną postacią dla wątku głównego
 - Elena sprzeda nam pancerz łowcy smoków, który jest użyteczny przez cały rozdział
@@ -238,10 +240,16 @@ Na nowym terenie możemy trafić do obserwatorium, w którym spotykamy Sejana. O
 
 #### Dzienniki Xardasa
 
-W bibliotece na Athanos znajdziesz księgę, która okazuje się być pamiętnikiem Xardasa. Pokazując ją Sejanowi, on prosi Cię o znalezienie reszty. Zadanie można dokończyć dopiero na Khorinis, gdzie spotykamy Sejana w obserwatorium. Musimy przynieść mu pozostałe tomy, które znajdują się w:  
-Tomy II i III w bibliotece klasztornej, w piwnicy;  
-Tom IV w wieży Xardasa;  
-Tom V w skrzyni w piwnicy Obserwatorium [[LOKALIZACJA V I VI CZĘŚCI FILMIK]](https://www.youtube.com/watch?v=Zw1dMh3chms). Tom VI znajduje się w skrzyni, w jaskini niedaleko kamiennego kręgu ogrów.
+W bibliotece na Athanos znajdziesz księgę, która okazuje się być pamiętnikiem Xardasa. Pokazując ją Sejanowi, on prosi Cię o znalezienie reszty. Zadanie można dokończyć dopiero na Khorinis, gdzie spotykamy Sejana w obserwatorium. Musimy przynieść mu pozostałe tomy, które znajdują się w:
+
+- Tomy II i III w bibliotece klasztornej, w piwnicy
+- Tom IV w wieży Xardasa
+- Tom V w skrzyni w piwnicy Obserwatorium
+- Tom VI znajduje się w skrzyni, w jaskini niedaleko kamiennego kręgu ogrów
+
+Lokalizacja tomów V i VI:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zw1dMh3chms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Księgi Xardasa z zaklęciami przywołania
 
@@ -335,7 +343,9 @@ Zadanie dostajemy na farmie Onara, w kuchni Thekli, od Carstena. Opowiada, że w
 
 #### Pustelnik w górach
 
-Gunnar na farmie Onara opowiada nam o szaleńcu, który poszedł osiedlić się gdzieś w góry w pobliżu. Jest to Gilbert.  Spotkać go możemy idąc w stronę Sagitty, a następnie dostając się, po prawej stronie, do gór. [[DROGA DO GILBERTA]](https://www.youtube.com/watch?v=GtM-7Sx6CFM)
+Gunnar na farmie Onara opowiada nam o szaleńcu, który poszedł osiedlić się gdzieś w góry w pobliżu. Jest to Gilbert. Spotkać go możemy idąc w stronę Sagitty, a następnie dostając się, po prawej stronie, do gór. Droga do Gilberta:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GtM-7Sx6CFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Problem z goblinami
 
@@ -421,7 +431,10 @@ Samozwańczy admirał Spencer, którego znajdziemy w osadzie goblinów, prosi na
 
 #### Czaszka
 
-Spencer zleca nam zdobycie czaszki ożywieńca. [\[SCREEN LOKALIZACJI CZASZKI\]](https://imgur.com/JYPlcVd)  
+Spencer zleca nam zdobycie czaszki ożywieńca. Lokalizacja czaszki poniżej:
+
+<img src="https://imgur.com/JYPlcVd" alt="Lokalizacja czaszki" style="max-width: 100%; height: auto;">
+
 Znajdziemy ją na ziemi na bagnach, niedaleko łódek piratów. Po podniesieniu czaszki wracamy do Spencera.
 
 #### Serce ognistego golema

@@ -246,9 +246,11 @@ Jedno z zadań od Wenzela. Główne wejście do czerwonej kopalni znajduje się 
 
 #### Zatopiona flota / Cenny olej
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tO_WNPnyJwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Wenzel opowiada nam o zatopionej flocie, która przewoziła cenny syriański olej. Idziemy do rybaka na Athanosie i uczymy się od niego pływać, a następnie przeszukujemy statki w okolicy Wyspy Kretoszczurów. Po wpłynięciu do kajuty jednego z nich otrzymamy wpis, a Roland sam podniesie olej. Po wszystkim wracamy do Wenzela.
+
+Lokalizacja wraku:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tO_WNPnyJwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Rusznikarz
 
@@ -284,11 +286,13 @@ Teraz, gdy Oleg ma z powrotem swoją lutnię, chciałby poćwiczyć piosenkę k
 
 #### Zagubiony klucz
 
-<img src="https://i.imgur.com/q5FtSNd.png" alt="Lokalizacja klucza" style="max-width: 100%; height: auto;">
-
 Goetz, strażnik magazynu w wiosce powie Ci, że zgubił klucz do wieży. Klucz znajduje się w krzakach obok zniszczonego tartaku, którego pilnują topielce. Zabieramy klucz, wracamy do Goetza, a ten mówi, że możemy zatrzymać klucz.
 
 **Wskazówka:** Warto zrobić to jak najszybciej, jako że w wieży znajdują się teleporty do zamku i wioski.
+
+Lokalizacja klucza:
+
+<img src="https://i.imgur.com/q5FtSNd.png" alt="Lokalizacja klucza" style="max-width: 100%; height: auto;">
 
 #### Dostawa jedzenia
 

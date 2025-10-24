@@ -124,9 +124,9 @@ Misja aktywuje się po dojściu do mostu, który obecnie jest podniesiony do gó
 
 #### Sandrok się nudzi
 
-W celu wykonania tej misji potrzebujemy znaleźć 3 tabliczki.
+W celu wykonania tej misji potrzebujemy znaleźć 3 tabliczki (lokalizacje poniżej):
 
-[LOKALIZACJA TABLICZEK](https://imgur.com/a/zwVr9vL)
+<img src="https://imgur.com/a/zwVr9vL" alt="Lokalizacja tabliczek" style="max-width: 100%; height: auto;">
 
 Zielona znajduje się obok krwiopijców jak idziemy w stronę kamiennego kręgu.  
 Czerwoną tabliczkę chroni pełzacz wojownik w podziemnej jaskini.  
@@ -228,9 +228,11 @@ Finko, handlarz na targowisku, prosi nas o dostarczenie dwóch pakietów strzał
 
 #### Łuk Hansa
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c7xQCXgAl5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Hans zgubił swój łuk. Prosi nas o jego odnalezienie. Łuk odnajdziemy w pobliżu wyschniętego koryta rzeki. Zabijamy pobliskie wilki i oddajemy łuk.
+
+Lokalizacja łuku:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7xQCXgAl5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Skóry dzików dla Marka
 
@@ -320,12 +322,15 @@ Kopaczy potrzebnych do ukończenia zadania znajdziemy dopiero na Khorinis w pobl
 
 W trakcie tego dostaniemy też zadanie [Miecz poległego paladyna](sekcje/zadania/rozdzial_vi?id=miecz-poległego-paladyna) - dopiero 6 rozdział
 
-Pierwszą wzmiankę o Stammlerze dostajemy już od karczmarza. Ciąg dalszy misji możemy jednak zrobić po rozmowie z Bruno. On z kolei wysyła cię do Janusa, ten odsyła do Telema, a mag każe dojść do biblioteki. Biblioteka znajduje się na murze, po prawo od wejścia do budynku z Bruno. Gadamy z Adamem, Bruno i znów Adamem by dostać klucz. Czytamy opowieść. Udajemy się następnie do domu w górach (zadanie [Opuszczona chatka](#opuszczona-chatka)) i dowiadujemy się gdzie został schowany kamień ogniskujący. Znajduje się on w kopalni soli, w której wcześniej byliśmy. Należy kopać w pierwszej „kupce" jaką natrafiliśmy w jednym z rogów (możliwe, że nie zadziała za pierwszym razem, więc radzę zapisać i wczytać).
+Pierwszą wzmiankę o Stammlerze dostajemy już od karczmarza. Ciąg dalszy misji możemy jednak zrobić po rozmowie z Bruno. On z kolei wysyła cię do Janusa, ten odsyła do Telema, a mag każe dojść do biblioteki. Biblioteka znajduje się na murze, po prawo od wejścia do budynku z Bruno. Gadamy z Adamem, Bruno i znów Adamem by dostać klucz. Czytamy opowieść. Udajemy się następnie do domu w górach (zadanie [Opuszczona chatka](#opuszczona-chatka)) i dowiadujemy się gdzie został schowany kamień ogniskujący. Znajduje się on w kopalni soli, w której wcześniej byliśmy. Należy kopać w pierwszej „kupce" jaką natrafiliśmy w jednym z rogów (możliwe, że nie zadziała za pierwszym razem, więc radzę zapisać i wczytać). Miejsce zakopanego kamienia poniżej:
 
-[MIEJSCE ZAKOPANEGO KAMIENIA OGNISKUJĄCEGO](https://imgur.com/a/1kZmXse)
-Udajemy się na cmentarz do grobowca i gadamy z duchem Stammlera. Ten opowiada nam o klątwie rzuconej na niego. By ją złamać potrzebujemy pokonać Abraxasa. Do przyzwania potrzebujemy trzech serc golemów. Kamienny znajduje się nad cmentarzem przy wodospadzie. Srebrny i Solny w znanych nam wcześniej kopalniach (potrzebne rodzaje golemów będą także przy kaplicy Innosa, a tam się kierujemy). Następnie gadamy z Gernotem i wybieramy od niego broń (polecam pod zręczność jeśli wbijesz jej 60), a następnie idziemy pogadać z Telemem, który wysyła nas na bagna znajdujące się niedaleko zamku. Po odnalezieniu kapliczki  
- [\[DROGA DO ŚWIĄTYNI Z KAPLICZKĄ\]](https://youtu.be/AQueMHSRKJw)  
-konsekrujemy broń i przyzywamy Abraxasa przy kamiennym kręgu(tym niedaleko domku myśliwskiego). Pokonujemy go, a następnie gadamy kolejno ze Stammlerem, Bruno i Karczmarzem kończąc zadanie.
+<img src="https://imgur.com/a/1kZmXse" alt="Miejsce zakopanego kamienia ogniskującego" style="max-width: 100%; height: auto;">
+
+Udajemy się na cmentarz do grobowca i gadamy z duchem Stammlera. Ten opowiada nam o klątwie rzuconej na niego. By ją złamać potrzebujemy pokonać Abraxasa. Do przyzwania potrzebujemy trzech serc golemów. Kamienny znajduje się nad cmentarzem przy wodospadzie. Srebrny i Solny w znanych nam wcześniej kopalniach (potrzebne rodzaje golemów będą także przy kaplicy Innosa, a tam się kierujemy). Następnie gadamy z Gernotem i wybieramy od niego broń (polecam pod zręczność jeśli wbijesz jej 60), a następnie idziemy pogadać z Telemem, który wysyła nas na bagna znajdujące się niedaleko zamku. Kapliczkę odnajdziemy w tym miejscu:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQueMHSRKJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Konsekrujemy tam broń i przyzywamy Abraxasa przy kamiennym kręgu (tym niedaleko domku myśliwskiego). Pokonujemy go, a następnie gadamy kolejno ze Stammlerem, Bruno i Karczmarzem kończąc zadanie.
 
 ### Zadania poboczne
 
@@ -349,10 +354,11 @@ Po oddaniu [amuletu](#amulet-erika) dostajemy kolejną misją od maga. Polega na
 
 #### Gryf
 
-Zadanie daje nam pasterz Edgar. Znajduje się on niedaleko ołtarzu Adanosa. Prosi nas o zabicie gryfa (wygląda jak harpia), który znajduje się niedaleko w górach.
+Zadanie daje nam pasterz Edgar. Znajduje się on niedaleko ołtarzu Adanosa. Prosi nas o zabicie gryfa (wygląda jak harpia), który znajduje się niedaleko w górach. Lokalizacja gryfa poniżej:
 
-[LOKALIZACJA GRYFA](https://i.imgur.com/cBhTwsc.png)  
-Zabijamy i wracamy.
+<img src="https://i.imgur.com/cBhTwsc.png" alt="Lokalizacja gryfa" style="max-width: 100%; height: auto;">
+
+Zabijamy go i wracamy po nagrodę.
 
 #### Zamknięta piwnica
 
@@ -364,11 +370,11 @@ Izabela prosi nas, abyśmy dostarczyli jej królewską suknie. Dostaniemy ją do
 
 #### Martwy na bagnie
 
-Na bagnach w ciele martwego strażnika znajduje się notatka.
+Na bagnach w ciele martwego strażnika znajduje się notatka. Po przeczytaniu jej idziesz do Rubena. Dostajesz od niego wtedy misje [Cenna księga](#cenna-księga), którą wykonasz dopiero w 6 rozdziale.
+
+Lokalizacja notatki:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5d4Xpxhfrh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Po przeczytaniu jej idziesz do Rubena. Dostajesz od niego wtedy misje [Cenna księga](#cenna-księga), którą wykonasz dopiero w 6 rozdziale.
 
 #### Cenna księga
 
@@ -376,9 +382,11 @@ Ruben opowiada ci o księdze, którą poszukiwał jego martwy brat. W szóstym r
 
 #### Zatopiona wieża
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EYX64Oap8VA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Zadanie dostajemy czytając ukrytą notatkę schowaną, w zamku, w pomieszczeniu z kominkiem i schodami prowadzącymi do Telema. Klikamy w pomieszczeniu w przycisk pod witrażem, a kominek się przesunie. Idziesz szukać wieży zatopionej w morzu, której szczyt będzie wystawać lekko nad powierzchnią. Nurkujemy po skarb i otwieramy kończąc zadanie.
+
+Lokalizacja wieży:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EYX64Oap8VA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Opuszczona chatka
 
@@ -553,17 +561,18 @@ Myśliwy prosi nas o dostarczenie mu mięsa. Powinniśmy to już dawno mieć wi�
 
 #### Środek uspokajający dla Kolwina
 
-Kolwin daje nam klucz do swojej skrzyni. Kierujemy się do jaskini niedaleko dziury
+Kolwin daje nam klucz do swojej skrzyni. Kierujemy się do jaskini niedaleko dziury, otwieramy skrzynię i wracamy z winem.
+
+Lokalizacja jaskini:
 
 <img src="https://i.imgur.com/EDblu3U.png" alt="Zdjęcie" style="max-width: 100%; height: auto;">
 
-otwieramy skrzynię i wracamy z winem.
-
 #### Ferell
 
-Od Martisa dowiadujemy się, że zaginął jego syn. W pobliżu leży kilof, więc jeśli żadnego nie posiadasz, to weź go. Misje możesz wykonać dopiero po wyzwoleniu wioski, więc czyścisz tam wszystko. Szukasz w niej czegoś co posłuży ci jako drabina.
+Od Martisa dowiadujemy się, że zaginął jego syn. W pobliżu leży kilof, więc jeśli żadnego nie posiadasz, to weź go. Misje możesz wykonać dopiero po wyzwoleniu wioski, więc czyścisz tam wszystko. Szukasz w niej czegoś co posłuży ci jako drabina. Znajdziesz ją w tym miejscu:
 
-[LINK DO LOKALIZACJI DRABINY](https://imgur.com/a/XqzW3ow)
+<img src="https://imgur.com/a/XqzW3ow" alt="Lokalizacja drabiny" style="max-width: 100%; height: auto;">
+
 Następnie przejście do kopalni otwierasz niszcząc kamienie kilofem. Dajesz drabinę i schodzisz na dół. Na dole kopalni znajdujesz Ferella. Odprowadzasz go na górę, uważając przy tym na pełzacze, które ponownie się pojawią. Idziesz poinformować Martisa o odnalezieniu syna.
 
 #### Punkt obserwacyjny

@@ -186,8 +186,10 @@ Neoras prosi nas o przyniesienie 7 ognistych pokrzyw, które już zapewne mamy. 
 - Część zadań (głównie tych związanych z Widzącym) rozpoczniesz dopiero w 4-5R. Dlatego zalecamy wejście tam w 4 rozdziale (a najlepiej w 5) po wątku z [przemytnikami](#kryjówka-przemytników).
 - Zaleca się nie gadać z NPC, jeśli weszliśmy do Jarkendaru inaczej niż przez Jaskinie Ogrów lub jaskinie z goblinami, jako że może to spowodować błędy.
 - Warto jak najszybciej udać się do Scatty'ego, który stoi przy portalu do Khorinis. Nauczy on nas kopania, a jak dobijemy do 100% w każdej dziedzinie, to otrzymamy 15 zręczności i siły.
-- Droga do Jarkendaru - [FILM](https://youtu.be/ctwtvThMqks)
 - Bandytów w miejscu gdzie byli magowie wody możemy zabić
+- Droga do Jarkendaru poniżej:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ctwtvThMqks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Zadania główne i powiązane
 
@@ -269,10 +271,11 @@ Pirat Jenkins sprzedaje nam mapę skarbów zakopanych w Jarkendarze. Po wykopani
 
 #### Nagroda dla znalazcy
 
-Garvell mówi nam o tym, że zgubił swoją sakiewkę podczas przeprawy przez bagna. [\[SCREEN\]](https://imgur.com/a/MRrNE60)  
- Sakiewka leży obok jednego z drzew na bagnie między Khorinis, a wioską rybacką. Po odnalezieniu wracamy do Garvella i quest się kończy.
+Garvell mówi nam o tym, że zgubił swoją sakiewkę podczas przeprawy przez bagna. Sakiewka leży obok jednego z drzew na bagnie między Khorinis, a wioską rybacką. Lokalizacja poniżej:
 
-## Pustynia Varantu
+<img src="https://imgur.com/a/MRrNE60" alt="Lokalizacja sakiewki" style="max-width: 100%; height: auto;">
+
+Po odnalezieniu wracamy do Garvella i quest się kończy.## Pustynia Varantu
 
 ### Najważniejsze informacje
 
