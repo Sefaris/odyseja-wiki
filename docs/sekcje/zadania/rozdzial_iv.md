@@ -273,7 +273,7 @@ Pirat Jenkins sprzedaje nam mapę skarbów zakopanych w Jarkendarze. Po wykopani
 
 Garvell mówi nam o tym, że zgubił swoją sakiewkę podczas przeprawy przez bagna. Sakiewka leży obok jednego z drzew na bagnie między Khorinis, a wioską rybacką. Lokalizacja poniżej:
 
-![Lokalizacja sakiewki](https://imgur.com/a/MRrNE60)
+![Lokalizacja sakiewki](images/album_MRrNE60_1.webp)
 
 Po odnalezieniu wracamy do Garvella i quest się kończy.## Pustynia Varantu
 

@@ -394,7 +394,7 @@ Otrzymujemy to zadanie po ukończeniu [Północna świątynia Beliara](#północ
 
 Lokalizacja diamentów:
 
-![Lokalizacja diamentów](https://imgur.com/a/hyvmGPg)
+![Lokalizacja diamentów](images/album_hyvmGPg_1.webp)
 
 ## Klan Rudy
 
@@ -491,7 +491,7 @@ Ingolf zleca nam pozbycie się denerwujących goblinów nieopodal Klanu Ognia. P
 
 Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Lokalizacja Ulfruna:
 
-![Lokalizacja Ulfruna](https://i.imgur.com/tUA403L.png)
+![Lokalizacja Ulfruna](images/tUA403L.png)
 
 Znajdujemy Ulfruna, zabijamy dla niego orków berserkerów i odprowadzamy go do Klanu Ognia. Droga powrotna:
 

@@ -91,7 +91,7 @@ Od Wolfganga dowiadujemy się, że Harald wie sporo o paladynach. Idąc do niego
 
 Dandolo prosi nas byśmy zbadali wrak statku na wyspie nieopodal. Zadanie kończy się przekazując mu 100 sztuk złota jednak warto przeszukać całą wyspę w celu odnalezienia pięciu dzienników i mapy skarbu.
 
-![Lokalizacja dzienników](https://i.imgur.com/xc6LtFM.jpg)
+![Lokalizacja dzienników](images/xc6LtFM.jpg)
 
 #### Złoto piratów
 
@@ -126,7 +126,7 @@ Misja aktywuje się po dojściu do mostu, który obecnie jest podniesiony do gó
 
 W celu wykonania tej misji potrzebujemy znaleźć 3 tabliczki (lokalizacje poniżej):
 
-![Lokalizacja tabliczek](https://imgur.com/a/zwVr9vL)
+![Lokalizacja tabliczek](images/album_zwVr9vL_1.webp)
 
 Zielona znajduje się obok krwiopijców jak idziemy w stronę kamiennego kręgu.  
 Czerwoną tabliczkę chroni pełzacz wojownik w podziemnej jaskini.  
@@ -167,7 +167,7 @@ Czwarta w hotelu Hanny na piętrze, w rogu pokoju. Tam dowiadujemy się o miejsc
 Piąta w skrzyni u Salandrila,a szósta w osadzie rybackiej.  
 a ostatnia mówi ci o lokalizacji pierścienia, a właściwie przepisu na stworzenie go. Znajduje się w skrzyni na bagnie gdzie znajduje się też wrak pirackiego statku.
 
-![Screen](https://i.imgur.com/S6aPdiq.png)
+![Screen](images/S6aPdiq.png)
 
 #### Wola Korofskiego
 
@@ -324,7 +324,7 @@ W trakcie tego dostaniemy też zadanie [Miecz poległego paladyna](sekcje/zadani
 
 Pierwszą wzmiankę o Stammlerze dostajemy już od karczmarza. Ciąg dalszy misji możemy jednak zrobić po rozmowie z Bruno. On z kolei wysyła cię do Janusa, ten odsyła do Telema, a mag każe dojść do biblioteki. Biblioteka znajduje się na murze, po prawo od wejścia do budynku z Bruno. Gadamy z Adamem, Bruno i znów Adamem by dostać klucz. Czytamy opowieść. Udajemy się następnie do domu w górach (zadanie [Opuszczona chatka](#opuszczona-chatka)) i dowiadujemy się gdzie został schowany kamień ogniskujący. Znajduje się on w kopalni soli, w której wcześniej byliśmy. Należy kopać w pierwszej „kupce" jaką natrafiliśmy w jednym z rogów (możliwe, że nie zadziała za pierwszym razem, więc radzę zapisać i wczytać). Miejsce zakopanego kamienia poniżej:
 
-![Miejsce zakopanego kamienia ogniskującego](https://imgur.com/a/1kZmXse)
+![Miejsce zakopanego kamienia ogniskującego](images/album_1kZmXse_1.webp)
 
 Udajemy się na cmentarz do grobowca i gadamy z duchem Stammlera. Ten opowiada nam o klątwie rzuconej na niego. By ją złamać potrzebujemy pokonać Abraxasa. Do przyzwania potrzebujemy trzech serc golemów. Kamienny znajduje się nad cmentarzem przy wodospadzie. Srebrny i Solny w znanych nam wcześniej kopalniach (potrzebne rodzaje golemów będą także przy kaplicy Innosa, a tam się kierujemy). Następnie gadamy z Gernotem i wybieramy od niego broń (polecam pod zręczność jeśli wbijesz jej 60), a następnie idziemy pogadać z Telemem, który wysyła nas na bagna znajdujące się niedaleko zamku. Kapliczkę odnajdziemy w tym miejscu:
 
@@ -356,7 +356,7 @@ Po oddaniu [amuletu](#amulet-erika) dostajemy kolejną misją od maga. Polega na
 
 Zadanie daje nam pasterz Edgar. Znajduje się on niedaleko ołtarzu Adanosa. Prosi nas o zabicie gryfa (wygląda jak harpia), który znajduje się niedaleko w górach. Lokalizacja gryfa poniżej:
 
-![Lokalizacja gryfa](https://i.imgur.com/cBhTwsc.png)
+![Lokalizacja gryfa](images/cBhTwsc.png)
 
 Zabijamy go i wracamy po nagrodę.
 
@@ -565,13 +565,13 @@ Kolwin daje nam klucz do swojej skrzyni. Kierujemy się do jaskini niedaleko dzi
 
 Lokalizacja jaskini:
 
-![Zdjęcie](https://i.imgur.com/EDblu3U.png)
+![Zdjęcie](images/EDblu3U.png)
 
 #### Ferell
 
 Od Martisa dowiadujemy się, że zaginął jego syn. W pobliżu leży kilof, więc jeśli żadnego nie posiadasz, to weź go. Misje możesz wykonać dopiero po wyzwoleniu wioski, więc czyścisz tam wszystko. Szukasz w niej czegoś co posłuży ci jako drabina. Znajdziesz ją w tym miejscu:
 
-![Lokalizacja drabiny](https://imgur.com/a/XqzW3ow)
+![Lokalizacja drabiny](images/album_XqzW3ow_1.webp)
 
 Następnie przejście do kopalni otwierasz niszcząc kamienie kilofem. Dajesz drabinę i schodzisz na dół. Na dole kopalni znajdujesz Ferella. Odprowadzasz go na górę, uważając przy tym na pełzacze, które ponownie się pojawią. Idziesz poinformować Martisa o odnalezieniu syna.
 
