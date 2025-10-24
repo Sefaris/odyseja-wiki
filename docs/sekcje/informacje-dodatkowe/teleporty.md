@@ -121,13 +121,13 @@
 
 ## Vengard
 
-| Cel teleportacji           | Lokalizacja runy                              |
-| -------------------------- | --------------------------------------------- |
-| Do sali królewskiej        | Lord Baldwin przy pierwszej wizycie           |
-| Do sali królewskiej (alt.) | Zwłoki Hektora w Gocie / Zwłoki Rufusa        |
-| Do miasta Vengardu         | Zwłoki wodza orków w mieście (zadanie Spisek) |
-| Na statek                  | Lord Baldwin przy pierwszej wizycie           |
-| Do obozu za barierą        | Król Rhobar w 6r                              |
+| Cel teleportacji           | Lokalizacja runy                                                          |
+| -------------------------- | ------------------------------------------------------------------------- |
+| Do sali królewskiej        | Lord Baldwin przy pierwszej wizycie                                       |
+| Do sali królewskiej (alt.) | Zwłoki Hektora w Gocie / Zwłoki Rufusa                                    |
+| Do miasta Vengardu         | Zwłoki wodza orków w mieście ([Spisek](sekcje/zadania/rozdzial_vi?id=spisek)) |
+| Na statek                  | Lord Baldwin przy pierwszej wizycie                                       |
+| Do obozu za barierą        | Król Rhobar w 6r                                                          |
 
 ## Faring
 
@@ -138,11 +138,11 @@
 
 ## Gota
 
-| Cel teleportacji             | Lokalizacja runy                                   |
-| ---------------------------- | -------------------------------------------------- |
-| Do Gothy                     | Jeden z orków na posterunku (zadanie Spisek)       |
-| Do podziemi Gothy            | Zwłoki Rufusa                                      |
-| Do obozu Gońców Leśnych      | Sprzedaje druid Melander                           |
+| Cel teleportacji             | Lokalizacja runy                                                 |
+| ---------------------------- | ---------------------------------------------------------------- |
+| Do Gothy                     | Jeden z orków na posterunku ([Spisek](sekcje/zadania/rozdzial_vi?id=spisek)) |
+| Do podziemi Gothy            | Zwłoki Rufusa                                                    |
+| Do obozu Gońców Leśnych      | Sprzedaje druid Melander                                         |
 | Do kaplicy w ukrytej dolinie | Skrzynia przy kapliczce w Ukrytej Dolinie Borsuków |
 | Do karczmy w Monterze        | Skrzynia w karczmie                                |
 
