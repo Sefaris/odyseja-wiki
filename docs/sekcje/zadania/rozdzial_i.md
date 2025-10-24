@@ -234,7 +234,7 @@ Mówi jednak, że spotykają się każdej nocy około wpół do pierwszej na dzi
 
 #### Stare dzieje
 
-Wenzel opowiada Ci o swoich doświadczeniach z wcześniejszych lat, mówi też, że każdy na zamku myśli, że zmyśla. Przede wszystkim Ralf i Herbert nie wierzą w ani jedno słowo Wenzela. Gadamy z nimi, wracamy do Wenzela, a on jest gotów opowiedzieć o szczegółach. Dostajemy od niego kilka zadań. Zadanie kończy się, kiedy wykonamy wszystkie poboczne: [Król Szczurów](#król-szczurów), [Czerwona Kopalnia](#czerwona-kopalnia), [Zatopiona flota/Cenny olej](#zatopiona-flotacenny-olej), [Kryjówka przemytników](#kryjówka-przemytników), [Stara biblioteka](#stara-biblioteka).
+Wenzel opowiada Ci o swoich doświadczeniach z wcześniejszych lat, mówi też, że każdy na zamku myśli, że zmyśla. Przede wszystkim Ralf i Herbert nie wierzą w ani jedno słowo Wenzela. Gadamy z nimi, wracamy do Wenzela, a on jest gotów opowiedzieć o szczegółach. Dostajemy od niego kilka zadań. Zadanie kończy się, kiedy wykonamy wszystkie poboczne: [Król Szczurów](#król-szczurów), [Czerwona Kopalnia](#czerwona-kopalnia), [Zatopiona flota / Cenny olej](#zatopiona-flota-cenny-olej), [Kryjówka przemytników](#kryjówka-przemytników), [Stara biblioteka](#stara-biblioteka).
 
 #### Król Szczurów
 
@@ -244,7 +244,7 @@ Jedno z zadań od Wenzela. Do króla szczurów możemy dostać się będąc w kr
 
 Jedno z zadań od Wenzela. Główne wejście do czerwonej kopalni znajduje się zaraz obok ogniska, przy którym stacjonuje myśliwy Klaus. Wchodzimy tam, i przy pierwszej odnodze w prawo, widzimy, że dalsze wejście jest zawalone. Możemy się tam przecisnąć, zamieniając się w chrząszcza. W kopalni spotkamy kilka pełzaczy, oraz trochę rud do wykopania. Do czerwonej kopalni można się też dostać od strony Króla Szczurów, podczas robienia wątku przemytników. Po zbadaniu całej kopalni wracamy do Wenzela.
 
-#### Zatopiona flota/Cenny olej:
+#### Zatopiona flota / Cenny olej
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tO_WNPnyJwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -274,7 +274,7 @@ Kowal Teodor mówi nam, że potrzebuje rogu cieniostwora do wykonania miecza, al
 
 Oleg mówi nam, że ktoś ukradł mu Lutnie. Podejrzewa Ralfa, Herberta i Ginter. Ralf i Herbert nie mają pojęcia gdzie znajduje się lutnia. Tylko Ginter wydaje się podejrzany.
 
-**Uwaga:** Od razu po rozmowie z Ginterem, należy go śledzić, udaje się on do miejsca w którym ukrył lutnie. W innym wypadku drzwi mogą się zamknąć i nie wejdziemy tam w normalny sposób.
+> **Uwaga:** Od razu po rozmowie z Ginterem, należy go śledzić, udaje się on do miejsca w którym ukrył lutnie. W innym wypadku drzwi mogą się zamknąć i nie wejdziemy tam w normalny sposób.
 
 Na miejscu gadamy z nim, on zakłopotany wraca na zamek, a my możemy wykopać lutnie spod gruzu (kilof znajdziemy w pomieszczeniu przez które wchodzimy do ogrodu). Wracamy do Olega i oddajemy mu lutnie.
 

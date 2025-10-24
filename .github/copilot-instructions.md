@@ -82,7 +82,7 @@ Opis zadania i jego przebieg. Cała treść zachowana z oryginału, tylko uporz�
 
 **W treści zadań:**
 
-- `**Uwaga:**` - dla ważnych informacji i ostrzeżeń o zbugowaniu gry/blokadzie questów
+- `> **Uwaga:**` - dla ważnych informacji i ostrzeżeń o zbugowaniu gry/blokadzie questów (blockquote)
 - `**Wskazówka:**` - dla pomocnych porad
 
 ### Co NIE robić
@@ -137,19 +137,27 @@ Uporządkować istniejącą treść bez dodawania nowych elementów. Zachować w
 5. **Weryfikacja linków** - Sprawdzić czy linki wewnętrzne nadal działają po zmianie
 6. **Commit zmian** - Zapisać zmiany z opisem co zostało zrobione
 
-### Faza 2: Wdrożenie standardu formatowania
+### Faza 2: Wdrożenie standardu formatowania (UKOŃCZONA ✅)
 
 **Cel:** Uporządkować treść zadań zgodnie z minimalistycznym standardem.
 
 **Kolejność pracy:**
 
-- [ ] **Rozdział I** - Formatowanie treści według standardu
-- [ ] **Rozdział II** - Formatowanie treści według standardu
-- [ ] **Rozdział III** - Formatowanie treści według standardu
-- [ ] **Rozdział IV** - Formatowanie treści według standardu
-- [ ] **Rozdział V** - Formatowanie treści według standardu
-- [ ] **Rozdział VI** - Formatowanie treści według standardu
-- [ ] **Rozdział VII** - Formatowanie treści według standardu
+- [x] **Rozdział I** - ✅ Ukończono (już miał dobry standard)
+- [x] **Rozdział II** - ✅ Ukończono (już miał dobry standard)
+- [x] **Rozdział III** - ✅ Ukończono (poprawiono CAPSLOCK → normalny tekst z **Uwaga:**)
+- [x] **Rozdział IV** - ✅ Ukończono (poprawiono CAPSLOCK → **Uwaga:**)
+- [x] **Rozdział V** - ✅ Ukończono (poprawiono CAPSLOCK → **Uwaga:**)
+- [x] **Rozdział VI** - ✅ Ukończono (już miał dobry standard)
+- [x] **Rozdział VII** - ✅ Ukończono (już miał dobry standard)
+
+**Status:** Wszystkie rozdziały mają teraz czysty, spójny format:
+
+- Ostrzeżenia w formacie `> **Uwaga:**` (blockquote) zamiast CAPSLOCK
+- Blockquotes dla krytycznych ostrzeżeń w sekcjach "Najważniejsze informacje"
+- Spójne formatowanie wskazówek jako listy punktowane
+- Zachowana cała treść, tylko uporządkowana
+- ✅ **Dodatkowa konwersja:** Wszystkie `**Uwaga:**` zamienione na `> **Uwaga:**` dla lepszej widoczności (6 instancji w Rozdziałach I, IV, V)
 
 **Proces dla każdego rozdziału:**
 
@@ -159,14 +167,65 @@ Uporządkować istniejącą treść bez dodawania nowych elementów. Zachować w
 4. **Weryfikacja** - Sprawdzić poprawność i czytelność
 5. **Commit zmian** - Zapisać zmiany
 
-### Faza 3: Weryfikacja i optymalizacja
+### Faza 3: Weryfikacja i optymalizacja (UKOŃCZONA ✅)
 
 **Cel:** Upewnić się, że wszystko działa poprawnie i dokumentacja jest spójna.
 
-- [ ] Testy wszystkich linków wewnętrznych
-- [ ] Testy wszystkich linków międzyplikowych
-- [ ] Sprawdzenie spójności formatowania
-- [ ] Poprawki i udoskonalenia
+**Status weryfikacji linków:**
+
+- [x] **Testy linków międzyplikowych** - ✅ Ukończono
+
+  - Format `sekcje/zadania/rozdzial_X?id=slug` zweryfikowany jako poprawny
+  - Wszystkie linki używają spójnego formatu
+  - Znaleziono i poprawiono 1 błędny link: `rozdzial_i?id=pierścień-szybkości` → `rozdzial_ii?id=pierścień-szybkości`
+
+- [x] **Testy linków wewnętrznych** - ✅ Ukończono
+
+  - Rozdział I: Znaleziono i poprawiono nagłówek `Zatopiona flota/Cenny olej:` → `Zatopiona flota / Cenny olej`
+  - Rozdział II-VII: Zweryfikowano - brak problemów z nagłówkami
+  - Rozdział IV: Poprawiono błędny link międzyplikowy
+  - Wszystkie rozdziały używają poprawnych slug-ów dla linków wewnętrznych
+
+- [x] **Sprawdzenie spójności formatowania** - ✅ Ukończono
+
+  - Wszystkie rozdziały używają tego samego standardu
+  - Blockquotes: `> **Uwaga:**` stosowane konsekwentnie (6 instancji w Rozdziałach I, IV, V)
+  - Listy i nagłówki: spójne formatowanie we wszystkich rozdziałach
+  - Hierarchia H1 → H2 → H3 → H4 poprawna (zero H5/H6)
+
+- [x] **Poprawki i udoskonalenia** - ✅ Ukończono
+  - Wszystkie znalezione problemy zostały naprawione
+  - Dokumentacja gotowa do użycia
+
+**Znalezione i poprawione problemy:**
+
+1. Nagłówek z problematycznymi znakami: `#### Zatopiona flota/Cenny olej:` (slash bez spacji + dwukropek) → poprawiono na `#### Zatopiona flota / Cenny olej`
+2. Błędny link międzyplikowy wskazujący na zły rozdział: `rozdzial_i?id=pierścień-szybkości` → `rozdzial_ii?id=pierścień-szybkości`
+
+## PODSUMOWANIE PROJEKTU STANDARYZACJI
+
+### ✅ Wszystkie 3 fazy ukończone pomyślnie!
+
+**Faza 1: Ujednolicenie nagłówków** (7/7 rozdziałów)
+
+- Każdy rozdział ma dokładnie jeden H1
+- Wszystkie wyspy/lokacje na poziomie H2
+- Zadania na poziomie H4 (struktura płaska)
+- Zero H5/H6 w całej dokumentacji
+
+**Faza 2: Wdrożenie standardu formatowania** (7/7 rozdziałów)
+
+- CAPSLOCK → normalne formatowanie z `> **Uwaga:**`
+- Wszystkie ostrzeżenia w formacie blockquote
+- Spójne listy `**Wskazówki:**`
+- 6 ostrzeżeń zaktualizowanych do blockquote
+
+**Faza 3: Weryfikacja i optymalizacja** (✅ Kompletna)
+
+- 2 problemy znalezione i naprawione
+- Wszystkie linki zweryfikowane
+- Format spójny we wszystkich plikach
+- Dokumentacja gotowa do publikacji
 
 ## Zasady Linków (zachowane z poprzedniej wersji)
 

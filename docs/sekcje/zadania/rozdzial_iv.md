@@ -7,7 +7,7 @@
 **Wskazówki:**
 
 - Warto zaglądnąć na poprzednie wyspy
-- Jeśli jeszcze go nie zrobiłeś, bardzo pomocny będzie tutaj [pierścień szybkości](sekcje/zadania/rozdzial_i?id=pierścień-szybkości)
+- Jeśli jeszcze go nie zrobiłeś, bardzo pomocny będzie tutaj [pierścień szybkości](sekcje/zadania/rozdzial_ii?id=pierścień-szybkości)
 - Do pewnej części Varantu otrzymasz dostęp dopiero w 5 rozdziale, więc nie próbuj tam przechodzić górami
 - Warto wykonać zadanie [Oszukany](#oszukany)
 
@@ -117,9 +117,9 @@ Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_ii
 
 #### Pośród złodziei
 
-UWAGA Jeśli wybraliśmy ukrycie złodziei, w żadnym z questów nie idziemy do Wambo. Współpracujemy tylko ze złodziejami i przemytnikami.
+> **Uwaga:** Jeśli wybraliśmy ukrycie złodziei, w żadnym z questów nie idziemy do Wambo. Współpracujemy tylko ze złodziejami i przemytnikami.
 
-Quest ten pojawia się, jeśli zdecydujemy się nie wydawać Nagura i złodziei u Lorda Andre. Przebieg questów jest podobny co w misji [Gildia złodziei](#gildia-złodziei), z tą różnicą, że nie atakujemy Booze'a przy spotkaniu z nim i idziemy przy każdej misji takżed o Wambo. Wysyła Cię on do sekretnego pokoju, w którym schowany jest Rączka. Rozmawiamy z nim i próbujemy wyciągnąć od niego informacje o skarbie. Bijemy Rączkę i mamy do wyboru zabić go lub wydać do więzienia (Z innych rozwiązań Booze nie będzie zadowolony). Po wszystkim Booze udziela nam porad odnośnie do zarobku, a zadanie się kończy.
+Quest ten pojawia się, jeśli zdecydujemy się nie wydawać Nagura i złodziei u Lorda Andre. Przebieg questów jest podobny co w misji [Gildia złodziei](#gildia-złodziei), z tą różnicą, że nie atakujemy Booze'a przy spotkaniu z nim i idziemy przy każdej misji takżed o Wambo. Wysyła Cię on do sekretnego pokoju, w którym schowany jest Rączka. Rozmawiamy z nim i próbujemy wyciągnąć od niego informacje o skarbie. Bijemy Rączkę i mamy do wyboru zabić go lub wydać do więzienia (Z innych rozwiązań Booze nie będzie zadowolony). Po wszystkim Booze udziela nam porad odnośnie do zarobku, a zadanie się kończy.
 
 #### Plan Rengaru
 
@@ -687,7 +687,7 @@ odsyła nas z kwitkiem do Hassana. Uzyskujemy od niego hasło, udajemy się do w
 
 #### Zlecenie morderstwa
 
-UWAGA Nie warto się spieszyć z tym zadaniem, ze względu na dużą ilość mordowania. Jeśli zabijemy zbyt wielu         asasynów, wszyscy staną się wrodzy.
+> **Uwaga:** Nie warto się spieszyć z tym zadaniem, ze względu na dużą ilość mordowania. Jeśli zabijemy zbyt wielu asasynów, wszyscy staną się wrodzy.
 
 Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlecenie. Zaoferował on nam 2000 złota za zabójstwo kupca Haruna. Udajemy się do jego obozu, który jest pod drogą między Ugarem, a Amarną. Są dwa rozwiązania tego questa
 

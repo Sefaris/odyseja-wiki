@@ -4,7 +4,7 @@
 
 ### Najważniejsze informacje
 
-> **KRYTYCZNE:** NIE ODBIJAJ KHORINIS!! Lepiej zrobić to w czwartym rozdziale, wtedy będziesz miał pewność że nic sobie nie zablokowałeś, bo zrobiłeś wszystkie najważniejsze dla fabuły misje. NIE ODBIJAJ SAMEMU OBOZU PRZED FARMĄ ONARA, BO ZBUGUJESZ SOBIE GRĘ. Zrobisz to w zadaniu [Obóz orków](#obóz-orków) wraz z Khaledem i Andre.
+> **KRYTYCZNE:** Nie odbijaj Khorinis! Lepiej zrobić to w czwartym rozdziale, wtedy będziesz miał pewność że nic sobie nie zablokowałeś, bo zrobiłeś wszystkie najważniejsze dla fabuły misje. Nie odbijaj samemu obozu przed farmą Onara, bo zbugujesz sobie grę. Zrobisz to w zadaniu [Obóz orków](#obóz-orków) wraz z Khaledem i Andre.
 
 **Wskazówki:**
 

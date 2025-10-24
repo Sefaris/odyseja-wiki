@@ -83,14 +83,15 @@ Znajdują się one kolejno w Domu Sędziego, Domu Lariusa, Domu Fernando, Domu V
 
 #### Spotkanie z szefem
 
-UWAGA: Podczas tego zadania rozpoczniemy bardzo ważny wątek [Widzący](#widzący), poprzez przeczytanie kartki w skrzyni w kanałach  
-Po skończeniu zadań w jaskini przemytników, idziemy do
+> **Uwaga:** Podczas tego zadania rozpoczniemy bardzo ważny wątek [Widzący](#widzący), poprzez przeczytanie kartki w skrzyni w kanałach.
 
-a) WSPÓŁPRACA ZE STRAŻĄ Wambo, a następnie Nagura
+Po skończeniu zadań w jaskini przemytników, idziemy do:
 
-b) DROGA ZŁODZIEI Nagura
+a) Współpraca ze strażą: Wambo, a następnie Nagura
 
-Mówi on nam o spotkaniu z szefem. Udajemy się do Waine'a, a naszym oczom ukazuje się szef gildii, Booze, który zleca nam dowiedzieć się, gdzie Rączka schował rudę(kolejne zadanie). Po zrobieniu tego zadania, wątek przemytników kończy się w sposób pokojowy, a Booze dzieli się z nami kilkoma wskazówkami.
+b) Droga złodziei: Nagura
+
+Mówi on nam o spotkaniu z szefem. Udajemy się do Waine'a, a naszym oczom ukazuje się szef gildii, Booze, który zleca nam dowiedzieć się, gdzie Rączka schował rudę (kolejne zadanie). Po zrobieniu tego zadania, wątek przemytników kończy się w sposób pokojowy, a Booze dzieli się z nami kilkoma wskazówkami.
 
 Jeśli zdecydujemy się wypuścić Rączkę lub działamy w imieniu Andre/Wambo, Booze nas zaatakuje i będziemy musieli się pozbyć przemytników z jaskini. Odblokowywuje to zadania poniżej
 
@@ -98,7 +99,7 @@ Jeśli zdecydujemy się wypuścić Rączkę lub działamy w imieniu Andre/Wambo,
 
 Po pobiciu Rączki i uzyskaniu jego klucza oraz mapy, mamy możliwość zdobycia jego skarbu. Po dostaniu się do Górniczej Doliny idziemy do zamku, a w miejscu za sypialnią Gomeza znajduje się skrzynia z rudą i innymi przedmiotami.
 
-PONIŻSZE QUESTY DOSTĘPNE SĄ TYLKO JEŚLI OD POCZĄTKU GRALIŚMY PO STRONIE STRAŻY
+> **Uwaga:** Poniższe questy dostępne są tylko jeśli od początku graliśmy po stronie straży.
 
 #### Paser
 
@@ -126,7 +127,7 @@ Po zakończeniu zadań w jaskini przemytników, Nagur zleca nam kradzież listu 
 
 Zabieramy stamtąd rzeczy, czytamy list i idziemy do Nagura, który każe nam odnieść list z powrotem do skrzyni. Po wszystkim wracamy do Nagura i odbieramy nagrodę.
 
-NA TYM KOŃCZY SIĘ WĄTEK GILDII ZŁODZIEI
+> **Uwaga:** Na tym kończy się wątek Gildii Złodziei.
 
 ## Jarkendar
 
