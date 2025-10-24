@@ -433,7 +433,7 @@ Samozwańczy admirał Spencer, którego znajdziemy w osadzie goblinów, prosi na
 
 Spencer zleca nam zdobycie czaszki ożywieńca. Lokalizacja czaszki poniżej:
 
-<img src="https://imgur.com/JYPlcVd" alt="Lokalizacja czaszki" style="max-width: 100%; height: auto;">
+![Lokalizacja czaszki](https://imgur.com/JYPlcVd)
 
 Znajdziemy ją na ziemi na bagnach, niedaleko łódek piratów. Po podniesieniu czaszki wracamy do Spencera.
 

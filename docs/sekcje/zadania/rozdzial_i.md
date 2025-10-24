@@ -292,7 +292,7 @@ Goetz, strażnik magazynu w wiosce powie Ci, że zgubił klucz do wieży. Klucz 
 
 Lokalizacja klucza:
 
-<img src="https://i.imgur.com/q5FtSNd.png" alt="Lokalizacja klucza" style="max-width: 100%; height: auto;">
+![Lokalizacja klucza](https://i.imgur.com/q5FtSNd.png)
 
 #### Dostawa jedzenia
 

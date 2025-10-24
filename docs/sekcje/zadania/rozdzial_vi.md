@@ -390,11 +390,11 @@ Po zdobyciu wszystkich kluczy, obok kraty z teleportem, będzie wejście, który
 
 #### Mistrz kopaczy
 
-Otrzymujemy to zadanie po ukończeniu [Północna świątynia Beliara](#północna-świątynia-beliara). Teraz musimy udać się do Olafa w Klanie Rudy. Powie on nam, że sam nie potrafi ulepszyć zbroi, ale może zrobić to ktoś, kto potrafi przekuwać pancerze, potrafi wykuwać rzeczy z rudy oraz jest Mistrzem Kopaczy. Do tego potrzebujemy dodatkowo 5 oszlifowanych akwamarynów (Kopalnia na Tamorze), 5 kawałków czerwonej rudy (Kopalnia w Ugarze lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)), 5 bryłek srebra (Kopalnia na Tamorze), 5 oszlifowanych rubinów (kopalnia na Khorusie lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)) I 5 oszlifowanych diamentów. Powinniśmy mieć wszystkie składniki, poza diamentami, które zdobędziemy <img src="https://imgur.com/a/hyvmGPg" alt="Lokalizacja diamentów" style="max-width: 100%; height: auto;"> Jeśli nie posiadamy jeszcze Mistrza Kopaczy, to możemy to nadrobić [u Scatty’ego](sekcje/zadania/rozdzial_iii?id=scatty). Teraz wraz z wszystkimi składnikami idziemy do stołu rzemieślniczego i ulepszamy zbroję, co kończy nasze zadanie.
+Otrzymujemy to zadanie po ukończeniu [Północna świątynia Beliara](#północna-świątynia-beliara). Teraz musimy udać się do Olafa w Klanie Rudy. Powie on nam, że sam nie potrafi ulepszyć zbroi, ale może zrobić to ktoś, kto potrafi przekuwać pancerze, potrafi wykuwać rzeczy z rudy oraz jest Mistrzem Kopaczy. Do tego potrzebujemy dodatkowo 5 oszlifowanych akwamarynów (Kopalnia na Tamorze), 5 kawałków czerwonej rudy (Kopalnia w Ugarze lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)), 5 bryłek srebra (Kopalnia na Tamorze), 5 oszlifowanych rubinów (kopalnia na Khorusie lub wyspa z misji [Zagubieni orkowie](#zagubieni-orkowie)) I 5 oszlifowanych diamentów. Powinniśmy mieć wszystkie składniki, poza diamentami, które zdobędziemy. Jeśli nie posiadamy jeszcze Mistrza Kopaczy, to możemy to nadrobić [u Scatty’ego](sekcje/zadania/rozdzial_iii?id=scatty). Teraz wraz z wszystkimi składnikami idziemy do stołu rzemieślniczego i ulepszamy zbroję, co kończy nasze zadanie.
 
 Lokalizacja diamentów:
 
-<img src="https://imgur.com/a/hyvmGPg" alt="Lokalizacja diamentów" style="max-width: 100%; height: auto;">
+![Lokalizacja diamentów](https://imgur.com/a/hyvmGPg)
 
 ## Klan Rudy
 
@@ -491,7 +491,7 @@ Ingolf zleca nam pozbycie się denerwujących goblinów nieopodal Klanu Ognia. P
 
 Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Lokalizacja Ulfruna:
 
-<img src="https://i.imgur.com/tUA403L.png" alt="Lokalizacja Ulfruna" style="max-width: 100%; height: auto;">
+![Lokalizacja Ulfruna](https://i.imgur.com/tUA403L.png)
 
 Znajdujemy Ulfruna, zabijamy dla niego orków berserkerów i odprowadzamy go do Klanu Ognia. Droga powrotna:
 
