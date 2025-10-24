@@ -13,7 +13,7 @@ Dokumentacja została przeniesiona z Google Docs do Markdown/Docsify, ale wymaga
 3. Brak jasnej struktury rozdziałów i zadań
 4. Ostrzeżenia są zapisane w sposób chaotyczny (CAPSLOCK, przypadkowe formatowanie)
 
-## Standard Formatowania - Format Minimalistyczny
+## Standard Formatowania - Format Hierarchiczny
 
 ### Struktura pliku rozdziału
 
@@ -30,17 +30,13 @@ Dokumentacja została przeniesiona z Google Docs do Markdown/Docsify, ale wymaga
 - Wskazówka 2
 - Wskazówka 3
 
-## [Nazwa Lokacji]
+## [Nazwa Wyspy]
 
-Lista ogólnych informacji o lokacji (opcjonalnie).
+### Najważniejsze informacje
 
-## Zadania poboczne
+Informacje specyficzne dla danej wyspy (opcjonalnie).
 
-Sekcja dla zadań pobocznych (opcjonalnie).
-
----
-
-### [Nazwa Zadania]
+#### [Nazwa Zadania]
 
 Opis zadania i jego przebieg. Cała treść zachowana z oryginału, tylko uporządkowana pod jednym nagłówkiem.
 
@@ -48,9 +44,13 @@ Opis zadania i jego przebieg. Cała treść zachowana z oryginału, tylko uporz�
 
 **Wskazówka:** Pomocna wskazówka.
 
----
+#### [Kolejne Zadanie]
 
-### [Kolejne Zadanie]
+...
+
+## [Kolejna Wyspa]
+
+#### [Zadanie na kolejnej wyspie]
 
 ...
 ```
@@ -62,15 +62,16 @@ Opis zadania i jego przebieg. Cała treść zachowana z oryginału, tylko uporz�
 **Nowa hierarchia:**
 
 1. `# Rozdział [numer]` - Tylko jeden na początku pliku (H1)
-2. `## Sekcja` - Najważniejsze informacje, Nazwa Lokacji, Zadania poboczne, itp. (H2)
-3. `### Nazwa Zadania` - **KAŻDE zadanie jest na poziomie H3** (H3)
+2. `## Sekcja` - Najważniejsze informacje (ogólne dla rozdziału) ORAZ Nazwa Wyspy (H2)
+3. `### Najważniejsze informacje` - Informacje specyficzne dla danej wyspy (opcjonalnie, pod H2 z nazwą wyspy) (H3)
+4. `#### Nazwa Zadania` - Każde zadanie jest na poziomie H4, zagnieżdżone pod wyspą (H4)
 
-**ZASADA:** Wszystkie zadania są na tym samym poziomie `###` - nie ma "pod-zadań" ani zagnieżdżeń. To, co wygląda jak pod-zadania w obecnych plikach, to po prostu błędy formatowania.
+**ZASADA:** Zadania są grupowane hierarchicznie pod wyspami. Struktura to: Rozdział → Wyspa → Zadania.
 
 **Separatory:**
 
-- Dodaj `---` między zadaniami (H3)
-- **NIE dodawaj** `---` bezpośrednio po nagłówkach sekcji (H2) - Docsify automatycznie dodaje linię pod H2
+- **NIE używamy** separatorów `---` między zadaniami - hierarchia nagłówków jasno określa strukturę
+- Docsify automatycznie dodaje linię pod H2
 
 ### Formatowanie ostrzeżeń i wskazówek
 
@@ -88,8 +89,8 @@ Opis zadania i jego przebieg. Cała treść zachowana z oryginału, tylko uporz�
 
 - **NIE dodawaj** nowych sekcji typu "Zleceniodawca", "Nagroda", "Powiązane zadania" - dane często nie są dostępne
 - **NIE dodawaj** callout boxes, emoji, ikon - minimalistyczne podejście
-- **NIE twórz** sztucznej hierarchii zadań - wszystkie zadania są równoważne (H3)
 - **NIE zmieniaj** treści zadań - tylko uporządkuj formatowanie
+- **NIE mieszaj** zadań z różnych wysp - zachowuj hierarchię geograficzną
 
 ### Cel
 
@@ -97,34 +98,44 @@ Uporządkować istniejącą treść bez dodawania nowych elementów. Zachować w
 
 ## Plan Działania
 
-### Faza 1: Ujednolicenie nagłówków (AKTUALNA)
+### Faza 1: Ujednolicenie nagłówków (UKOŃCZONA ✅)
 
 **Cel:** Uporządkować hierarchię nagłówków we wszystkich plikach rozdziałów, przygotować grunt pod wdrożenie nowego standardu.
 
 **Zasady:**
 
 1. Każdy plik zaczyna się od `# Rozdział [numer]` (tylko jeden H1)
-2. Sekcje organizacyjne: `## Najważniejsze informacje`, `## Nazwa Lokacji`, `## Zadania poboczne` (H2)
-3. Wszystkie zadania to `### Nazwa Zadania` (H3) - **NIE MA POD-ZADAŃ!**
-4. Nie używamy H4, H5 i głębszych poziomów
+2. `## Najważniejsze informacje` - sekcja ogólna na początku rozdziału (H2)
+3. `## Nazwa Wyspy` - każda wyspa/lokacja jako osobna sekcja (H2)
+4. `### Najważniejsze informacje` - opcjonalna sekcja dla informacji specyficznych dla wyspy (H3, pod H2 z nazwą wyspy)
+5. `#### Nazwa Zadania` - wszystkie zadania na poziomie H4, zagnieżdżone pod wyspą (H4)
+6. Nie używamy H5 i głębszych poziomów
 
 **Kolejność pracy:**
 
-- [ ] **Rozdział I** (`rozdzial_i.md`) - Analiza i ujednolicenie nagłówków
-- [ ] **Rozdział II** (`rozdzial_ii.md`) - Analiza i ujednolicenie nagłówków
-- [ ] **Rozdział III** (`rozdzial_iii.md`) - Analiza i ujednolicenie nagłówków
-- [ ] **Rozdział IV** (`rozdzial_iv.md`) - Analiza i ujednolicenie nagłówków
-- [ ] **Rozdział V** (`rozdzial_v.md`) - Analiza i ujednolicenie nagłówków
-- [ ] **Rozdział VI** (`rozdzial_vi.md`) - Analiza i ujednolicenie nagłówków
-- [ ] **Rozdział VII** (`rozdzial_vii.md`) - Analiza i ujednolicenie nagłówków
+- [x] **Rozdział I** (`rozdzial_i.md`) - ✅ Ukończono
+- [x] **Rozdział II** (`rozdzial_ii.md`) - ✅ Ukończono
+- [x] **Rozdział III** (`rozdzial_iii.md`) - ✅ Ukończono
+- [x] **Rozdział IV** (`rozdzial_iv.md`) - ✅ Ukończono
+- [x] **Rozdział V** (`rozdzial_v.md`) - ✅ Ukończono
+- [x] **Rozdział VI** (`rozdzial_vi.md`) - ✅ Ukończono
+- [x] **Rozdział VII** (`rozdzial_vii.md`) - ✅ Ukończono
+
+**Status:** Wszystkie 7 rozdziałów mają poprawną hierarchię nagłówków:
+
+- Każdy rozdział ma dokładnie jeden H1 (tytuł rozdziału)
+- Wszystkie wyspy/lokacje są na poziomie H2
+- Sekcje "Najważniejsze informacje" i "Zadania główne i powiązane" są na poziomie H3
+- Wszystkie zadania są na poziomie H4 (struktura płaska, bez H5/H6)
 
 **Proces dla każdego rozdziału:**
 
-1. **Analiza struktury** - Przeczytać plik i zidentyfikować wszystkie nagłówki
-2. **Mapowanie zadań** - Określić które są zadania (wszystkie na H3), które są sekcje organizacyjne (H2)
-3. **Korekta poziomów** - Dostosować poziomy nagłówków zgodnie z zasadami
-4. **Weryfikacja linków** - Sprawdzić czy linki wewnętrzne nadal działają po zmianie
-5. **Commit zmian** - Zapisać zmiany z opisem co zostało zrobione
+1. **Analiza struktury** - Przeczytać plik i zidentyfikować wszystkie nagłówki oraz lokacje
+2. **Mapowanie geograficzne** - Pogrupować zadania według wysp/lokacji
+3. **Utworzenie hierarchii** - Struktura: H1 (Rozdział) → H2 (Wyspa) → H4 (Zadanie)
+4. **Korekta poziomów** - Dostosować poziomy nagłówków zgodnie z zasadami
+5. **Weryfikacja linków** - Sprawdzić czy linki wewnętrzne nadal działają po zmianie
+6. **Commit zmian** - Zapisać zmiany z opisem co zostało zrobione
 
 ### Faza 2: Wdrożenie standardu formatowania
 
@@ -181,7 +192,8 @@ Uporządkować istniejącą treść bez dodawania nowych elementów. Zachować w
 **Przykłady:**
 
 - `## Wieści z Vengardu` → `#wieści-z-vengardu`
-- `## Zatopiona flota` → `#zatopiona-flota`
+- `#### Zatopiona flota` → `#zatopiona-flota`
+- `## Jharkendar` → `#jharkendar`
 
 ## Notatki
 

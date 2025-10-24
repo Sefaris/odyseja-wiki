@@ -11,5 +11,5 @@
 - [Teleporty](sekcje/informacje-dodatkowe/teleporty.md)
 
 - **Linki**
-- [Instalacja](https://sefaris.eu/new-balance/installation)
+- [Instalacja](https://sefaris.eu/odyseja/installation)
 - [Strona Sefaris](https://sefaris.eu)
