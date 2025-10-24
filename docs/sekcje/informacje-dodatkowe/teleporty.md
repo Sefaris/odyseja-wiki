@@ -58,7 +58,7 @@
 | Do kamiennego kręgu ogrów | Przy drzewie w kamiennym kręgu (przy obserwatorium)                                                |
 | Do osady rybackiej        | Jeden z martwych rybaków                                                                           |
 | Do siedliska goblinów     | Skrzynia obok Spencera w wiosce goblinów                                                           |
-| Na statek widmo           | Wnęka w skałach przy zejściu na bagna obok statku [[SCREEN]](https://imgur.com/JYPlcVd)            |
+| Na statek widmo           | Wnęka w skałach przy zejściu na bagna obok statku [[SCREEN]](images/JYPlcVd.jpg)                   |
 
 ## Jarkendar
 
