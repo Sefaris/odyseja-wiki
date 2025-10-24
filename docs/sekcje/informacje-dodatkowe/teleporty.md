@@ -1,83 +1,174 @@
-# TELEPORTY
+# Teleporty <!-- {docsify-ignore-all} -->
 
-Do wioski Athanos: Znajduje się on w wieży z zadania [Zagubiony klucz](sekcje/zadania/rozdzial_i?id=zagubiony-klucz)
+> Kompletna lista wszystkich run teleportacyjnych w grze Gothic 2: Odyseja, pogrupowanych według lokacji.
 
-Do zamku Athanos: Znajduje się on w wieży z zadania [Zagubiony klucz](sekcje/zadania/rozdzial_i?id=zagubiony-klucz)  
-Do biblioteki Athanos: Dostaniemy go od Sejana w trakcie zadania [Stara biblioteka](sekcje/zadania/rozdzial_i?id=stara-biblioteka)
-Do portu Athanos: Dostaniemy go w 6r od KunoDo miasta Tamora: Znajduje się on na stole w wieży przy bramie
+## Athanos
 
-Do zamku Tamora: Ma go przy sobie Fulko (zdobędziesz w wątku głównym)  
-Na wybrzeże Tamory: Znajdziemy go w domku niedaleko miejsca przypłynięcia  
-Do starego cmentarzyska na Tamorze: Znajdziemy go w jaskini na cmentarzu  
-Do starej świątynia Innosa na Tamorze: Znajdziemy go na ołtarzu w świątyni  
-Do kamiennego kręgu na Tamorze: Znajdziemy go na kamiennym kręgu  
-Do domku myśliwskiego na Tamorze: Leży on w domku myśliwskim za mostem
+| Cel teleportacji      | Lokalizacja runy                                                                                         |
+| --------------------- | -------------------------------------------------------------------------------------------------------- |
+| Do wioski Athanos     | Wieża z zadania [Zagubiony klucz](sekcje/zadania/rozdzial_i?id=zagubiony-klucz)                          |
+| Do zamku Athanos      | Wieża z zadania [Zagubiony klucz](sekcje/zadania/rozdzial_i?id=zagubiony-klucz)                          |
+| Do biblioteki Athanos | Dostaniemy od Sejana w trakcie zadania [Stara biblioteka](sekcje/zadania/rozdzial_i?id=stara-biblioteka) |
+| Do portu Athanos      | Dostaniemy w 6r od Kuno                                                                                  |
 
-Do kaplicy na Adarmos: Ma go w ekwipunku strażnik kaplicy  
-Do obozu korsarzy na Adarmos: Ma go przy sobie jeden z korsarzy
+## Tamora
 
-Do wioski na Khorusie: Sprzedaje go handlarz Martis  
-Do obozu myśliwych na Khorusie: Sprzedaje go myśliwy Henry
+| Cel teleportacji          | Lokalizacja runy                      |
+| ------------------------- | ------------------------------------- |
+| Do miasta Tamora          | Na stole w wieży przy bramie          |
+| Do zamku Tamora           | Fulko (zdobędziesz w wątku głównym)   |
+| Na wybrzeże Tamory        | Domek niedaleko miejsca przypłynięcia |
+| Do starego cmentarzyska   | Jaskinia na cmentarzu                 |
+| Do starej świątyni Innosa | Ołtarz w świątyni                     |
+| Do kamiennego kręgu       | Na kamiennym kręgu                    |
+| Do domku myśliwskiego     | W domku myśliwskim za mostem          |
 
-Na wyspę waranów w Khorinis: Dostajemy go od Gernota po przypłynięciu na Khorinis  
-Do latarni morskiej w Khorinis: Ma go przy sobie jeden z orków w latarni, podczas gdy ją odbijamy  
-Do wieży Xardasa: Leży on na szczycie wieży Xardasa na stoliku w bibliotece  
-Do gospody Orlana: Sprzedaje go Orlan / [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji na cmentarzu obok gospody  
-Do obozu na farmie Onara: Daje nam go Andre przy pierwszym spotkaniu  
-Na północ Khorinis: W leżu Czarnego Trolla  
-Na przełęcz Khorinis: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji w drugiej odnodze jaskini Próby OgniaDo majątku ziemskiego: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji na wysepce z topielcami obok Erola  
-Do klasztoru: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) Podczas misji w jaskini pod mostem na wykopaliskaDo miasta Khorinis: [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) W skrzyni Granta w koszarachDo wykopalisk Khorinis: Ma go przy sobie bandyta Emil przed wykopaliskami
-Do Słonecznego Kręgu: Leży on na kamieniu w Słonecznym Kręgu  
-Do Obserwatorium: Leży na stole w pokoju Sejana w obserwatorium  
-Do jaskini ogrów w Khorinis: Ma go przy sobie martwy mag wody Teofil, który leży w jaskini  
-Do kamiennego kręgu ogrów: Leży on przy drzewie w kamiennym kręgu ogrów przy obserwatorium  
-Do osady rybackiej: Ma go przy sobie jeden z martwych rybaków w osadzie rybackiej  
-Do siedliska goblinów: Leży on w skrzyni obok Spencera w wiosce goblinów  
-Na statek widmo: Leży on w wnęce w skałach przy zejściu na bagna obok statku [\[SCREEN\]](https://imgur.com/JYPlcVd)  
-Do druida Kiliana: Leży w skrzyni za kapliczką Adanosa przy Kilianie  
-Do jaskini ogrów w Jarkendarze: Sprzedaje go druid Killian  
-Do obozu piratów Grega: Leży za chatą SkipaNa wybrzeże Varantu: Sprzedaje go pirat Asmund  
-Do Patary:Przy drogowskazie po wyjściu z jaskini łączącej wybrzeże z pustynią
+## Adarmos
 
-Do Ugaru: Sprzedaje go Iskra/Othello/Ozyrys  
-Do jaskini Skelrona: Daje nam go Tartaron w zadaniu [Skelron](sekcje/zadania/rozdzial_iv?id=skelron)  
-Do ruin Tadmoru: W budynku z ognistym cieniostworem przy obozie orków w ruinach  
-Do obozu Nemrosha: Przy kapliczce Beliara obok Nemrosha  
-Do obozu Haruna: Sprzedaje go Harun  
-Do doliny Aszdodu: Leży w skrzyni w wieży naprzeciw jaskini prowadzącej do Aszdodu  
-Do wieży wojowników Beliara: W skrzyni na parterze wieży/Sprzedaje Merwan  
-Do obozu koczowników: Daje nam go Merkurius  
-Do Saida w obozie koczowników: Leży w namiocie obok Saida  
-Do Amarny: Sprzedaje go kupiec Karim  
-Do Przełęczy: Należy okraść Kabira / Skrzynia obok bramy Przełęczy  
-Do świątyni w Aszdodzie: Sprzedaje go kupiec Alfonso  
-Do wieży obok Aslana: W skrzyni na szczycie wieży obok Aslana  
-Do grobowca Czarnego Maga: ?????? (Jak znajdziesz, to napisz na discord Tulipan#1810)  
-W nieznane miejsce: W jaskini gryfów niedaleko mostu obok jaskini z zadania [Tajemnicza jaskinia](sekcje/zadania/rozdzial_iv?id=tajemnicza-jaskinia)  
-Na teren Ishtar: W zwłokach handlarza na terenach za bramą Przełęczy  
-Do zamku Rhobara w Zachodnim Varancie: Ma go przywódca bandytów w Zachodnim Varancie
+| Cel teleportacji  | Lokalizacja runy            |
+| ----------------- | --------------------------- |
+| Do kaplicy        | Ekwipunek strażnika kaplicy |
+| Do obozu korsarzy | Jeden z korsarzy            |
 
-Do sali królewskiej: Daje go Lord Baldwin przy pierwszej wizycie w Vengardzie  
-Do sali królewskiej: W zwłokach Hektora w Gocie / W zwłokach Rufusa  
-Do miasta Vengardu: W zwłokach wodza orków w mieście (Podczas zadania Spisek)t  
-Na statek: Daje go Lord Baldwin przy pierwszej wizycie w Vengardzie  
-Do obozu za barierą: Daje go Król Rhobar w 6r
+## Khorus
 
-Do obozu buntowników Faring: Sprzedaje go Paddy w obozie AidanaDo wieży strażniczej Faring: W skrzyni w wieży strażniczej Faring/W zwłokach na polu bitwy
+| Cel teleportacji   | Lokalizacja runy          |
+| ------------------ | ------------------------- |
+| Do wioski          | Sprzedaje handlarz Martis |
+| Do obozu myśliwych | Sprzedaje myśliwy Henry   |
 
-Do Gothy: Posiada go jeden z orków na posterunku w Gocie (Zadanie Spisek etc.)  
-Do podziemi Gothy: W zwłokach Rufusa  
-Do obozu Gońców Leśnych: Sprzedaje druid Melander  
-Do kaplicy w ukrytej dolinie: Leży w skrzyni przy kapliczce w Ukrytej Dolinie Borsuków  
-Do karczmy w Monterze: Leży w skrzyni w karczmie
+## Khorinis
 
-Do Klanu Rudy: Leży na szafce w chacie Leifa  
-Do Klanu Ognia: Sprzedaje Hertha w klanie ognia  
-Do Klanu Morsa: Sprzedaje Thorwin w klanie Morsa  
-Do kopalni Klanu Rudy: W chacie przed kopalnią  
-Do chaty łowieckiej Klanu Rudy: Należy okraść myśliwego Daga  
-Do wioski Berserkerów: W wiosce Berserkerów na terenjach Isagratu  
-Do wieży Xardasa: Na kominku w Wieży Xardasa  
-Do ruin Auraratu w Monterze: W skrzyni w piwnicy Xardasa  
-Na północne tereny Nordmaru: W skrzyni w piwnicy Xardasa  
-Do Isagratu: W ciele jednego z szamanów berserkerów w Isagracie
+| Cel teleportacji          | Lokalizacja runy                                                                                   |
+| ------------------------- | -------------------------------------------------------------------------------------------------- |
+| Na wyspę waranów          | Dostajemy od Gernota po przypłynięciu                                                              |
+| Do latarni morskiej       | Jeden z orków w latarni (podczas odbijania)                                                        |
+| Do wieży Xardasa          | Stolik w bibliotece na szczycie wieży                                                              |
+| Do gospody Orlana         | Sprzedaje Orlan / [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - misja na cmentarzu |
+| Do obozu na farmie Onara  | Andre przy pierwszym spotkaniu                                                                     |
+| Na północ Khorinis        | Leżę Czarnego Trolla                                                                               |
+| Na przełęcz               | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - druga odnoga jaskini Próby Ognia     |
+| Do majątku ziemskiego     | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - wysepka z topielcami obok Erola      |
+| Do klasztoru              | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - jaskinia pod mostem na wykopaliska   |
+| Do miasta Khorinis        | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - skrzynia Granta w koszarach          |
+| Do wykopalisk             | Bandyta Emil przed wykopaliskami                                                                   |
+| Do Słonecznego Kręgu      | Kamień w Słonecznym Kręgu                                                                          |
+| Do Obserwatorium          | Stół w pokoju Sejana                                                                               |
+| Do jaskini ogrów          | Martwy mag wody Teofil w jaskini                                                                   |
+| Do kamiennego kręgu ogrów | Przy drzewie w kamiennym kręgu (przy obserwatorium)                                                |
+| Do osady rybackiej        | Jeden z martwych rybaków                                                                           |
+| Do siedliska goblinów     | Skrzynia obok Spencera w wiosce goblinów                                                           |
+| Na statek widmo           | Wnęka w skałach przy zejściu na bagna obok statku [[SCREEN]](https://imgur.com/JYPlcVd)            |
+
+## Jarkendar
+
+| Cel teleportacji       | Lokalizacja runy                            |
+| ---------------------- | ------------------------------------------- |
+| Do druida Kiliana      | Skrzynia za kapliczką Adanosa przy Kilianie |
+| Do jaskini ogrów       | Sprzedaje druid Killian                     |
+| Do obozu piratów Grega | Za chatą Skipa                              |
+
+## Varant
+
+### Wybrzeże Varantu
+
+| Cel teleportacji    | Lokalizacja runy                                                      |
+| ------------------- | --------------------------------------------------------------------- |
+| Na wybrzeże Varantu | Sprzedaje pirat Asmund                                                |
+| Do Patary           | Przy drogowskazie po wyjściu z jaskini (łączącej wybrzeże z pustynią) |
+
+### Ugar
+
+| Cel teleportacji    | Lokalizacja runy                                                    |
+| ------------------- | ------------------------------------------------------------------- |
+| Do Ugaru            | Sprzedaje Iskra/Othello/Ozyrys                                      |
+| Do jaskini Skelrona | Tartaron w zadaniu [Skelron](sekcje/zadania/rozdzial_iv?id=skelron) |
+| Do ruin Tadmoru     | Budynek z ognistym cieniostworem przy obozie orków                  |
+| Do obozu Nemrosha   | Przy kapliczce Beliara obok Nemrosha                                |
+| Do obozu Haruna     | Sprzedaje Harun                                                     |
+
+### Aszdod
+
+| Cel teleportacji            | Lokalizacja runy                                          |
+| --------------------------- | --------------------------------------------------------- |
+| Do doliny Aszdodu           | Skrzynia w wieży naprzeciw jaskini prowadzącej do Aszdodu |
+| Do wieży wojowników Beliara | Skrzynia na parterze wieży / Sprzedaje Merwan             |
+| Do obozu koczowników        | Merkurius                                                 |
+| Do Saida                    | Namiot obok Saida                                         |
+| Do świątyni w Aszdodzie     | Sprzedaje kupiec Alfonso                                  |
+| Do wieży obok Aslana        | Skrzynia na szczycie wieży                                |
+
+### Amarna
+
+| Cel teleportacji | Lokalizacja runy       |
+| ---------------- | ---------------------- |
+| Do Amarny        | Sprzedaje kupiec Karim |
+
+### Przełęcz / Ishtar
+
+| Cel teleportacji | Lokalizacja runy                              |
+| ---------------- | --------------------------------------------- |
+| Do Przełęczy     | Okraść Kabira / Skrzynia obok bramy Przełęczy |
+| Na teren Ishtar  | Zwłoki handlarza za bramą Przełęczy           |
+
+### Zachodni Varant
+
+| Cel teleportacji          | Lokalizacja runy                                                                                                                  |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Do zamku Rhobara          | Przywódca bandytów w Zachodnim Varancie                                                                                           |
+| Do grobowca Czarnego Maga | ??? (Nieznana lokalizacja - jeśli znajdziesz, napisz na Discord Tulipan#1810)                                                     |
+| W nieznane miejsce        | Jaskinia gryfów niedaleko mostu (obok jaskini z zadania [Tajemnicza jaskinia](sekcje/zadania/rozdzial_iv?id=tajemnicza-jaskinia)) |
+
+## Vengard
+
+| Cel teleportacji           | Lokalizacja runy                              |
+| -------------------------- | --------------------------------------------- |
+| Do sali królewskiej        | Lord Baldwin przy pierwszej wizycie           |
+| Do sali królewskiej (alt.) | Zwłoki Hektora w Gocie / Zwłoki Rufusa        |
+| Do miasta Vengardu         | Zwłoki wodza orków w mieście (zadanie Spisek) |
+| Na statek                  | Lord Baldwin przy pierwszej wizycie           |
+| Do obozu za barierą        | Król Rhobar w 6r                              |
+
+## Faring
+
+| Cel teleportacji     | Lokalizacja runy                                    |
+| -------------------- | --------------------------------------------------- |
+| Do obozu buntowników | Sprzedaje Paddy w obozie Aidana                     |
+| Do wieży strażniczej | Skrzynia w wieży strażniczej / Zwłoki na polu bitwy |
+
+## Gota
+
+| Cel teleportacji             | Lokalizacja runy                                   |
+| ---------------------------- | -------------------------------------------------- |
+| Do Gothy                     | Jeden z orków na posterunku (zadanie Spisek)       |
+| Do podziemi Gothy            | Zwłoki Rufusa                                      |
+| Do obozu Gońców Leśnych      | Sprzedaje druid Melander                           |
+| Do kaplicy w ukrytej dolinie | Skrzynia przy kapliczce w Ukrytej Dolinie Borsuków |
+| Do karczmy w Monterze        | Skrzynia w karczmie                                |
+
+## Nordmar
+
+### Klany
+
+| Cel teleportacji      | Lokalizacja runy      |
+| --------------------- | --------------------- |
+| Do Klanu Rudy         | Szafka w chacie Leifa |
+| Do Klanu Ognia        | Sprzedaje Hertha      |
+| Do Klanu Morsa        | Sprzedaje Thorwin     |
+| Do kopalni Klanu Rudy | Chata przed kopalnią  |
+| Do chaty łowieckiej   | Okraść myśliwego Daga |
+
+### Isagrat i okolice
+
+| Cel teleportacji      | Lokalizacja runy                     |
+| --------------------- | ------------------------------------ |
+| Do wioski Berserkerów | Wioska na terenach Isagratu          |
+| Do Isagratu           | Ciało jednego z szamanów berserkerów |
+
+### Montera
+
+| Cel teleportacji            | Lokalizacja runy           |
+| --------------------------- | -------------------------- |
+| Do wieży Xardasa            | Kominek w Wieży Xardasa    |
+| Do ruin Auraratu            | Skrzynia w piwnicy Xardasa |
+| Na północne tereny Nordmaru | Skrzynia w piwnicy Xardasa |

@@ -204,28 +204,123 @@ Uporządkować istniejącą treść bez dodawania nowych elementów. Zachować w
 
 ## PODSUMOWANIE PROJEKTU STANDARYZACJI
 
-### ✅ Wszystkie 3 fazy ukończone pomyślnie!
+### ✅ Fazy 1-3 ukończone, Fazy 4-5 do realizacji
 
-**Faza 1: Ujednolicenie nagłówków** (7/7 rozdziałów)
+**Faza 1: Ujednolicenie nagłówków** (7/7 rozdziałów) ✅
 
 - Każdy rozdział ma dokładnie jeden H1
 - Wszystkie wyspy/lokacje na poziomie H2
 - Zadania na poziomie H4 (struktura płaska)
 - Zero H5/H6 w całej dokumentacji
 
-**Faza 2: Wdrożenie standardu formatowania** (7/7 rozdziałów)
+**Faza 2: Wdrożenie standardu formatowania** (7/7 rozdziałów) ✅
 
 - CAPSLOCK → normalne formatowanie z `> **Uwaga:**`
 - Wszystkie ostrzeżenia w formacie blockquote
 - Spójne listy `**Wskazówki:**`
 - 6 ostrzeżeń zaktualizowanych do blockquote
 
-**Faza 3: Weryfikacja i optymalizacja** (✅ Kompletna)
+**Faza 3: Weryfikacja i optymalizacja** ✅
 
 - 2 problemy znalezione i naprawione
 - Wszystkie linki zweryfikowane
 - Format spójny we wszystkich plikach
-- Dokumentacja gotowa do publikacji
+- Podstawowa standaryzacja zakończona
+
+**Faza 4: Integracja mediów** ⏳
+
+- Konwersja linków do YouTube → iframe embedy
+- Konwersja linków do grafik → `<img>` lub `![]()`
+- Bezpośrednie wyświetlanie treści multimedialnych
+
+**Faza 5: Finalna weryfikacja i ujednolicenie** ⏳
+
+- Kontrola sekcji "Najważniejsze informacje"
+- Ujednolicenie oznaczeń (Uwaga, Wskazówka, KRYTYCZNE)
+- Finalna spójność dokumentacji
+
+### Faza 4: Integracja mediów (⏳ Do wykonania)
+
+**Cel:** Przepisać wszystkie zadania zawierające linki do grafik i filmów, aby treści multimedialne były wyświetlane bezpośrednio w dokumentacji.
+
+**Zakres pracy:**
+
+- [ ] **Identyfikacja mediów** - Znaleźć wszystkie linki do:
+
+  - YouTube (embedy iframe)
+  - Grafiki zewnętrzne (Imgur, inne)
+  - Linki do obrazków w formie URL
+
+- [ ] **Konwersja linków na embedy** - Zamienić:
+
+  - Linki do YouTube → iframe embedy (już częściowo zrobione)
+  - Linki do obrazków → znaczniki `<img>` lub `![]()`
+  - Tekstowe linki do grafik → bezpośrednie wyświetlanie
+
+- [ ] **Weryfikacja wyświetlania** - Sprawdzić:
+  - Czy wszystkie embedy działają poprawnie
+  - Czy obrazki są responsywne
+  - Czy nie ma zepsutych linków do mediów
+
+**Kolejność pracy:**
+
+- [ ] Rozdział I
+- [ ] Rozdział II
+- [ ] Rozdział III
+- [ ] Rozdział IV
+- [ ] Rozdział V
+- [ ] Rozdział VI
+- [ ] Rozdział VII
+
+**Proces dla każdego rozdziału:**
+
+1. **Skanowanie** - Znaleźć wszystkie linki do YouTube i grafik
+2. **Konwersja** - Zamienić na odpowiednie embedy/tagi
+3. **Testowanie** - Sprawdzić czy wszystko się wyświetla
+4. **Commit zmian** - Zapisać zmiany
+
+### Faza 5: Finalna weryfikacja i ujednolicenie (⏳ Do wykonania)
+
+**Cel:** Zapewnić pełną spójność dokumentacji we wszystkich rozdziałach.
+
+**Zakres pracy:**
+
+- [ ] **Weryfikacja sekcji "Najważniejsze informacje"** - Sprawdzić:
+
+  - Czy wszystkie rozdziały mają tę sekcję
+  - Czy ostrzeżenia krytyczne są w formacie blockquote `> **KRYTYCZNE:**` lub `> Tekst`
+  - Czy wskazówki są w formacie listy pod `**Wskazówki:**`
+  - Czy nie ma duplikatów lub sprzecznych informacji
+
+- [ ] **Weryfikacja oznaczeń** - Ujednolicić:
+
+  - `> **Uwaga:**` - dla ważnych ostrzeżeń o zbugowaniu/blokadzie questów
+  - `> **KRYTYCZNE:**` - dla krytycznych informacji (opcjonalnie)
+  - `**Wskazówka:**` - dla pomocnych porad (w treści zadań)
+  - `**Wskazówki:**` - dla list porad (w sekcjach informacyjnych)
+
+- [ ] **Weryfikacja kompletności** - Sprawdzić:
+  - Czy nie brakuje istotnych informacji
+  - Czy struktura jest logiczna i czytelna
+  - Czy nie ma niedokończonych sekcji
+
+**Kolejność pracy:**
+
+- [ ] Rozdział I
+- [ ] Rozdział II
+- [ ] Rozdział III
+- [ ] Rozdział IV
+- [ ] Rozdział V
+- [ ] Rozdział VI
+- [ ] Rozdział VII
+
+**Proces dla każdego rozdziału:**
+
+1. **Przegląd sekcji głównej** - "Najważniejsze informacje" i wskazówki
+2. **Kontrola oznaczeń** - Ujednolicenie formatowania ostrzeżeń
+3. **Weryfikacja treści** - Kompletność i spójność informacji
+4. **Finalna korekta** - Ostatnie poprawki
+5. **Commit zmian** - Zapisać zmiany
 
 ## Zasady Linków (zachowane z poprzedniej wersji)
 
