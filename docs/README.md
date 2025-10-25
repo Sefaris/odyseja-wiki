@@ -15,8 +15,8 @@ Na tej stronie znajdziesz kompletną solucję do modyfikacji _Gothic II: Odyseja
 - Buzka
 - Tulipan
 
-- Inni współtwórcy:
-  - Deetom554
+**Inni współtwórcy:**
+- Deetom554
 ---
 
 ## Jak aktualizować solucję
