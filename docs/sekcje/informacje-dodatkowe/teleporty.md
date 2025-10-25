@@ -69,12 +69,12 @@
 | Do cmentarzyska orków     | W kieszeni Orka strażnika grobowców (pilnuje wejścia do cmentarza)                                 |
 | Do świątyni Śniącego      | Od Xardasa podczas [Zło w Świątyni Śniącego](sekcje/zadania/rozdzial_vi?id=zło-w-Świątyni-Śniącego)|
 | Do Ur-Shaka               | Przy jego namiocie leży                                                                            |
-| Do obozu orków za murami  | W kieszeni Pułkowinika orków                                                                       |
-| Do starego klasztoru      | w kieszeni Kościanego maga                                                                         |
+| Do obozu orków za murami  | W kieszeni Pułkownika orków                                                                       |
+| Do starego klasztoru      | W kieszeni Kościanego maga                                                                         |
 | Do obozu sekciarzy        | nie wiem                                                                                           |
 | Do Wolnej kopalni         | Sprzedaje Sharky                                                                                   |
-| Do Nowego Obozu           | sprzedaje Pat                                                                                      |
-| Do zamku                  | w siedzibie magów ognia w zamku                                                                    |
+| Do Nowego Obozu           | Sprzedaje Pat                                                                                      |
+| Do zamku                  | W siedzibie magów ognia w zamku                                                                    |
 
 ## Jarkendar
 
