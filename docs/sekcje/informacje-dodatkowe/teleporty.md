@@ -46,7 +46,7 @@
 | Do wieży Xardasa          | Stolik w bibliotece na szczycie wieży                                                              |
 | Do gospody Orlana         | Sprzedaje Orlan / [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - misja na cmentarzu |
 | Do obozu na farmie Onara  | Andre przy pierwszym spotkaniu                                                                     |
-| Na północ Khorinis        | Leżę Czarnego Trolla                                                                               |
+| Na północ Khorinis        | Leże Czarnego Trolla                                                                               |
 | Na przełęcz               | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - druga odnoga jaskini Próby Ognia     |
 | Do majątku ziemskiego     | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - wysepka z topielcami obok Erola      |
 | Do klasztoru              | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - jaskinia pod mostem na wykopaliska   |
@@ -74,13 +74,13 @@
 | Do obozu sekciarzy        | nie wiem                                                                                           |
 | Do Wolnej kopalni         | Sprzedaje Sharky                                                                                   |
 | Do Nowego Obozu           | Sprzedaje Pat                                                                                      |
-| Do zamku                  | W siedzibie magów ognia w zamku                                                                    |
+| Do zamku                  | W siedzibie Magów Ognia w zamku                                                                    |
 
 ## Jarkendar
 
 | Cel teleportacji       | Lokalizacja runy                            |
 | ---------------------- | ------------------------------------------- |
-| Do druida Kiliana      | Skrzynia za kapliczką Adanosa przy Kilianie |
+| Do druida Kiliana      | Skrzynia za kapliczką Adanosa przy Killianie|
 | Do jaskini ogrów       | Sprzedaje druid Killian                     |
 | Do obozu piratów Grega | Za chatą Skipa                              |
 
