@@ -60,6 +60,22 @@
 | Do siedliska goblinów     | Skrzynia obok Spencera w wiosce goblinów                                                           |
 | Na statek widmo           | Wnęka w skałach przy zejściu na bagna obok statku [[SCREEN]](images/JYPlcVd.jpg)                   |
 
+## Górnicza Dolina
+
+| Cel teleportacji          | Lokalizacja runy                                                                                   |
+| ------------------------- | -------------------------------------------------------------------------------------------------- |
+| Do przełęczy GD           | Sprzedaje Pat                                                                                      |
+| Do starej Xardasa         | nie wiem                                                                                           |
+| Do cmentarzyska orków     | W kieszeni Orka strażnika grobowców (pilnuje wejścia do cmentarza)                                 |
+| Do świątyni Śniącego      | Od Xardasa podczas [Zło w Świątyni Śniącego](sekcje/zadania/rozdzial_vi?id=zło-w-Świątyni-Śniącego)|
+| Do Ur-Shaka               | Przy jego namiocie leży                                                                            |
+| Do obozu orków za murami  | W kieszeni Pułkowinika orków                                                                       |
+| Do starego klasztoru      | w kieszeni Kościanego maga                                                                         |
+| Do obozu sekciarzy        | nie wiem                                                                                           |
+| Do Wolnej kopalni         | Sprzedaje Sharky                                                                                   |
+| Do Nowego Obozu           | sprzedaje Pat                                                                                      |
+| Do zamku                  | w siedzibie magów ognia w zamku                                                                    |
+
 ## Jarkendar
 
 | Cel teleportacji       | Lokalizacja runy                            |
