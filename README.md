@@ -36,3 +36,6 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 
   - [Tulipan](https://github.com/tulipanov)
   - Buzka
+
+- Inni współtwórcy:
+  - Deetom554
