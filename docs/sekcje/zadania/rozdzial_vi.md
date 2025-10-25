@@ -471,7 +471,7 @@ Eksplorując Nordmar napotykamy maga ognia Miltena, który chce dotrzeć do Klan
 
 ## Klan Ognia
 
-### Zadania gĹ‚Ăłwne i powiÄ…zane
+### Zadania główne i powiązane
 
 Na teren Klanu Ognia dostaniemy się dzięki zadaniu [Północna świątynia Beliara](#północna-świątynia-beliara)
 
@@ -533,7 +533,7 @@ Podczas wędrówki do Isagratu Ansgar opowiada nam o wiosce berserkerów przed w
 
 ## Klan Morsa
 
-### Zadania gĹ‚Ăłwne i powiÄ…zane
+### Zadania główne i powiązane
 
 #### Złodzieje Ryb
 
