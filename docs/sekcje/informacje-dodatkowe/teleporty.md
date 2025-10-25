@@ -172,3 +172,9 @@
 | Do wieży Xardasa            | Kominek w Wieży Xardasa    |
 | Do ruin Auraratu            | Skrzynia w piwnicy Xardasa |
 | Na północne tereny Nordmaru | Skrzynia w piwnicy Xardasa |
+
+### Wyspa Irdorath
+
+| Cel teleportacji            | Lokalizacja runy           |
+| --------------------------- | -------------------------- |
+| Do czarnego zamku           | W kieszeni Baal Handshar'a |
