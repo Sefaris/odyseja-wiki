@@ -398,7 +398,7 @@ Lokalizacja diamentów:
 
 ## Klan Rudy
 
-### Zadania gĹ‚Ăłwne i powiÄ…zane
+### Zadania główne i powiązane
 
 #### Atak ogrów
 
