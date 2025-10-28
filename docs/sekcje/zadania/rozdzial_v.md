@@ -43,9 +43,9 @@ Baloro oferuje nam potężna broń, pod warunkiem że przyniesiemy mu jedzenie. 
 
 Eddi potrzebuje pomocy aby wykuć lekki topór na kowadle. Po dostarczeniu potrzebnych materiałów, otrzymujemy od niego przepis, by wykonać topór. Po wykuciu należy naostrzyć go na osełce i oddać.
 
-#### Bart sprawia kłopoty
+#### Bart sprawia problemy
 
-Jeśli Bart zagada nas odpowiednią ilość razy rozpocznie się walka. Po pokonaniu go i rozmowie, zadanie się kończy
+Jeśli Bart zagada nas odpowiednią ilość razy rozpocznie się walka. Po pokonaniu go i rozmowie, zadanie się kończy.
 
 #### Test odwagi
 
