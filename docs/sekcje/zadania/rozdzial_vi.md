@@ -285,9 +285,9 @@ Bo dostaniu się do buntowników, Aidan wysyła nas byśmy odnaleźli wysłannik
 
 W trakcie zadania [Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poinformowani, że Jokera ściągano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
 
-#### Wieża strażnicza Faring
+#### Morska forteca Faring
 
-Zadanie rozpoczyna się, gdy wspominamy o wieży strażniczej Aidanowi. Zakończymy je zabijając stacjonujących tam orków i wracając powiedzieć o tym Aidanowi.
+Zadanie rozpoczyna się, gdy wspominamy o fortecy Aidanowi. Zakończymy je zabijając stacjonujących tam orków i wracając powiedzieć o tym Aidanowi.
 
 #### Karawana orków
 
@@ -342,7 +342,7 @@ Po wykonaniu zadania [Farmer i potwór](#farmer-i-potwór), Melchior następnego
 
 #### Nieznośne zimno
 
-Zadanie to zaczyna się automatycznie po wejściu do Nordmaru, a kończy po zdobyciu pancerza w [Wieży strażniczej Faring](#wieża-strażnicza-faring)
+Zadanie to zaczyna się automatycznie po wejściu do Nordmaru, a kończy po zdobyciu pancerza z [Morskiej forteca Faring](#Morska-forteca-Faring).
 
 #### Poszukiwanie Xardasa
 
