@@ -62,12 +62,38 @@ Po zabiciu orków powinniśmy otrzymać wpis, a wtedy możemy udać się do Dand
 
 ## Wyspa krabów
 
+### Zadania główne i powiązane
+
 #### Zniszczenia po burzy
 
 Quest informacyjny zlecany przez Halvara. Po sztormie lądujemy na Krabowej Wyspie, gdzie musimy naprawić nasz statek.
 
 #### Wsparcie załogi
-W rozmowie z Halvarem na wyspie możemy zgodzić się pomóc przy naprawie Albatrosa lub odmówić. Po akceptacji zadania musimy wykonać trzy subquesty: drewno na statek, naprawa kadłuba oraz kolorowe ryby.
+
+W rozmowie z Halvarem na wyspie możemy zgodzić się pomóc przy naprawie Albatrosa lub odmówić. Po akceptacji zadania musimy wykonać trzy subquesty: [drewno na statek](drewno-na-statek), [naprawa kadłuba statku](Naprawa-kadłuba-statku) oraz [kolorowe ryby](kolorowe-ryby).
+
+#### Drewno na statek
+
+Udajemy się do Dandolo, który stoi po lewej stronie na końcu pomostu. Po rozmowie z nim ścinamy drzewo obok i ponownie zagadujemy. Dandolo prowadzi nas na kolejną wycinkę. Ścinamy drzewo, wycinamy pnie i znowu z nim rozmawiamy. Po czterech ściętych drzewach idziemy do łuparki, a następnie do strugnicy. Gdy drewno będzie gotowe, wracamy do Halvara.
+
+> Podczas wycinki może pęknąć trzonek topora. Aby go naprawić, potrzebujemy solidnej gałęzi i ostrza. Gałąź znajdziemy w obozie drwali. Po zebraniu wracamy na statek i naprawiamy topór przy stole warsztatowym, po czym kontynuujemy pracę.
+
+#### Zabezpieczenie tartaku
+
+Przy czwartym ściętym drzewie Dandolo wspomina o potworach i paladynach, którzy mieli ich pilnować. Musimy ich odnaleźć i porozmawiać w tej sprawie. Dwóch znajduje się na plaży, jeden po lewej stronie obozu drwali, drugi po prawej. Trzeci jest w lesie za obozem, a czwarty w pobliżu namiotu. U Volkera i Erika trzeba pokonać potwory. Po obchodzie wracamy do Dandolo.
+
+#### Naprawa kadłuba statku
+
+Do naprawy kadłuba potrzebujemy 3 długich, 4 średnich i 4 krótkich desek. Idziemy do piły i przygotowujemy potrzebne materiały. Po pokazaniu desek Halvarowi przybijamy je do kadłuba od zewnątrz i od wewnątrz. Następnie uszczelniamy nieszczelne miejsca smołą. Niezbędne narzędzia otrzymamy od Wolfganga. Po zakończeniu napraw wracamy do Halvara.
+
+#### Kolorowe ryby
+
+Po zakończeniu prac przy kadłubie przejmujemy obowiązki Svena i idziemy na ryby. Po złowieniu 12 kolorowych ryb zanosimy je do Albina.
+
+> Podczas łowienia może pęknąć żyłka. Wtedy udajemy się do Wolfganga, który sprzedaje nową. Po naprawie sprzętu wracamy na łowisko. Gdy złowimy 12 kolorowych ryb, ponownie zanosimy je do Albina, a następnie wracamy do Halvara.
+
+#### Kokosy
+Po podejściu do palmy otrzymujemy zadanie zebrania kokosów. Przydatny będzie autoloot lub free aiming. Po zebraniu kokosa quest zostaje zaliczony.
 
 ## Tamora
 
