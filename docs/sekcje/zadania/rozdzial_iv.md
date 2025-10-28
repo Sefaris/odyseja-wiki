@@ -508,7 +508,7 @@ Torres chce abyśmy przynieśli mu 30 worków mąki. Musimy udać się do młyna
 
 Torres jest zaniepokojony handlem bronią w Ugarze. Wysyła nas do Branco, który się wszystkiego wypiera, więc idziemy zapytać o to Czampoka. Czampok odsyła nas z powrotem do Branco, któremu kradniemy klucz i otwieramy jego skrzynie w noclegowni Bahala. Po przeczytaniu notatki wracamy do Branco i udajemy się z nim do kryjówki Humphreya. Robimy teraz zadania [Groźne Cieniostwory](#groźne-cieniostwory) i [Poszukiwacze skarbów](#poszukiwacze-skarbów), a po oddaniu złota Branco mówi nam, abyśmy śledzili osobę wychodzącą o 3 w nocy z miasta. Śledzimy Gero aż do końca jego trasy, otrzymujemy klucz do jaskini, zabijamy rabusiów i czytamy notatkę. Z notatką udajemy się do Torresa.
 
-#### Poszukiwacze skarbów
+#### Łowca skarbów
 
 W ramach misji "Nielegalny handel" udajemy się z Branco do jaskini Humphreya. Po pokonaniu cieniostworów, musimy przespać się do 8 i wyruszamy z nimi do świątyni. Stamtąd wracamy do kamiennych filarów które minęliśmy i klikamy jeden z przycisków na nim, a następnie wskakujemy do "studzienki" i zmierzamy w głąb świątyni. W większości pomieszczeń otwiera je przycisk obok krat, poza ostatnim, jako że wtedy zginiemy. Wchodzimy do głównego pomieszczenia, zabijamy nieumarłych i wpuszczamy Humphreya. Następnie wracamy do podziemi i otwieramy kluczem wszystkie kraty i zbieramy sakiewki. Następnie wracamy do Humphreya zabijamy go i jego wspólnika i wracamy do Branco. Należy oddać mu co najmniej 500 sztuk złota, co kończy questa.
 
