@@ -135,7 +135,7 @@ Zadanie dostajemy od paladyna Thordira. Więcej informacji dostaniemy od paladyn
 
 Cobryn opowiada nam, że miasto zostało zajęte przez orków i trzeba je odbić. Zadanie wykonujemy dopiero po misji “Spisek”. Po odbiciu wracamy do Cobryna przekazać nowinę. Tym samym zyskujemy pancerz paladyna.
 
-#### Nowicjusz za kratami
+#### Nowicjusz za kratkami
 
 Zadanie rozpoczynamy rozmawiając ze sługą w zamku. Opowiada nam o tajnym więzieniu, do którego wejście jest gdzieś na parterze. Przełącznik i samo więzienie znajduje się w jadalni, a misja kończy się po rozmowie z więźniem.
 
