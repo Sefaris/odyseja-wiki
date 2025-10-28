@@ -245,7 +245,7 @@ Wracamy do Nathaniela, który wysyła nas do Lucasa i Smythe'a. Następnie idzie
 
 Po ukończeniu zadania gadamy z Kendrickiem, okradamy Elvricha, czytamy notatkę i konfrontujemy Francisa. Mówimy o tym Natanielowi, a zadanie się kończy
 
-#### Kopalnia złota u bandytów
+#### Kopalnia złota bandytów
 
 Kowal Kendrick prosi Cię o znalezienie bandyty Scatty'ego, który stoi przed portalem od strony Jarkendaru. Po wyczyszczeniu obozu bandytów z orków zgadza się on pomóc w eksploatacji kopalni, ale musimy go tam odprowadzić. Idziemy teraz do Kendricka i quest zostaje zakończony.
 
