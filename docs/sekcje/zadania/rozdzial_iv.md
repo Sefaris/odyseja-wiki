@@ -640,7 +640,7 @@ Strażnik twierdzy nie będzie chciał nas wpuścić, więc musimy udać się do
 
 #### Audiencja u Belazara
 
-Hassan nie wpuści nas do Belazara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko), [Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [12 bryłek rudy dla Bajara](#12-bryłek-rudy-dla-Bajara), [Zwój przemiany w lwa](#zwój-przemiany-w-lwa), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży Belazara.
+Hassan nie wpuści nas do Belazara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko), [Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [12 bryłek rudy dla Bajara](#12-bryłek-rudy-dla-Bajara), [Zaklęcie przemiany](#Zaklęcie-przemiany), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży Belazara.
 
 #### Łowcy głów w Amarnie
 
@@ -662,7 +662,7 @@ Bajar potrzebuje skrzyni rudy do swojej pracy. Udajemy się do Gasparino, który
 
 Po oddaniu Hassanowi amuletu, ten wysyła nas z listem do Malika w wieży wojowników Beliara. Malik odsyła nas do Torresa w Ugarze, u którego czekamy dzień, a następnie wracamy do Malika, gdzie czekamy kolejny dzień. Z ostatnim już listem wracamy z powrotem do Hassana i otrzymujemy nagrodę.
 
-#### Zwój przemiany w lwa
+#### Zaklęcie przemiany
 
 Kirios, adept znajdujący się na murach Amarny, zleca nam przyniesienie zwoju przemiany w lwa. Możemy go ukraść od Caine’a, kupić od Merkuriusa lub otrzymać w nagrodzie od Manuela. Niezależnie od rozwiązania, Kirios jest zadowolony i daje nam nagrodę.
 
