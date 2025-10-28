@@ -370,7 +370,7 @@ Said zleca nam odbicie Amarny. Daje nam do pomocy Ruslana i kilku koczowników, 
 
 Merkurius zleca nam pozbycie się orków i asasynów z obozu Nemrosha. Po zabiciu wszystkich wracamy do maga i odbieramy nagrodę
 
-#### Dziwne kształty
+#### Dziwne istoty
 
 Po rozmowie z Baal Handsharem, udajemy się do Arama, który zleca nam pozbycie się kościanych wojowników z wybrzeża. Po zabiciu nieumarłych wracamy do Arama.
 
