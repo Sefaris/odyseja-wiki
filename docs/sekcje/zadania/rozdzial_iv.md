@@ -572,7 +572,7 @@ Pedro prosi nas o przyniesienie po jednej sztuce specjalnego tytoniu Bahala, kt�
 
 Mirko znajdujący się w gospodzie oferuje nam grę w kości. Zgadzamy się, ogrywamy go z pieniędzy i tym samym kończymy zadanie.
 
-#### Szpieg
+#### Donosiciel
 
 Wędrując po Ugarze zauważasz, że śledzi Cię asasyn o imieniu Abdallah. Zagadujemy do niego kilka razy, po czym dostajemy wpis, aby udać się z nim do karczmarza.
 
