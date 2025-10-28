@@ -371,7 +371,7 @@ To zadanie może zostać zakończone, gdy nie wydaliśmy Tarroka przy rozmowie z
 
 Rangar, w starym obozowisku Dextera, opowiada nam krótko swoją historię. Gdy postanowiliśmy mu pomóc, to idziemy pogadać z paladynami Jestanem oraz Salfordem. Nic istotnego nie udało się jednak uzyskać, mimo wszystko wracamy do Rangara. Postanawiasz więc doprowadzić do kłótni rycerzy. Pytasz się Rangara, czy ma może jakiś pomysł. Mówi ci o kuszy Salforda. W celu wykonania misji, trzeba kradzieżą kieszonkową ukraść klucz do kufra Jestena, podrzucić kuszę Salforda z kufra obok, a następnie powiedzieć o kuszy Salfordowi. O całości idziesz powiedzieć potem Rangarowi.
 
-#### Znajdź Gekarda
+#### Poszukiwania Gekarda
 
 Wulfgar prosi nas, abyśmy znaleźli strażnika miejskiego Gekarda. Znajdujemy go w chacie Erola, po czym on daje nam kilka małych zadań. Po wykonaniu wszystkich, Gekard udaje się do latarni Dextera, a my wracamy do Wulfagara.
 
