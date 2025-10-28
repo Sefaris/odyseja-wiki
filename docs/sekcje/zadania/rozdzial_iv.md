@@ -590,9 +590,9 @@ Po odesłaniu Abdallaha karczmarz prosi nas o pozbycie się Theo i innych palacz
 
 W nocy zostaniemy zaatakowani przez rabusiów. Musimy przeszukać miasto w poszukiwaniu innych skrytobójców oraz pozbyć się ich z katakumb, a wtedy zadanie zakończy się automatycznie.
 
-#### Morderstwo handlarza klejnotami
+#### Martwy handlarz klejnotami
 
-Po uzyskaniu zaufania Tartarona, Torres zleca nam zdemaskowanie zabójcy Ozyrysa. Udajemy się do karczmarza, który odsyła nas do  Aramisa, a następnie do Mansura. Kradniemy jego klucz (w jego domu na półce z winami), którym otwieramy skrzynie zawierającą zlecenie. Wracamy do Aramisa, a następnie udajemy się do tajnego przejścia w świątyni. Znajdziemy tam skrytobójców wraz z Assyrianem na czele. Z klejnotami wracamy do Torresa, któremu oddajemy(lub nie) klejnoty Ozyrysa.
+Po uzyskaniu zaufania Tartarona, Torres zleca nam zdemaskowanie zabójcy Ozyrysa. Udajemy się do karczmarza, który odsyła nas do  Aramisa, a następnie do Mansura. Kradniemy jego klucz (w jego domu na półce z winami), którym otwieramy skrzynie zawierającą zlecenie. Wracamy do Aramisa, a następnie udajemy się do tajnego przejścia w świątyni. Znajdziemy tam skrytobójców wraz z Assyrianem na czele. Z klejnotami wracamy do Torresa, któremu oddajemy (lub nie) klejnoty Ozyrysa.
 
 #### Obfity łup
 
