@@ -206,7 +206,7 @@ Amenofis prosi nas o pomoc goblinowi Prazkazowi, który został wygnany ze swoje
 
 Po wszystkim Krazmas przyjmuje Prazkaza do plemienia, a my wracamy do Amenofisa i odbieramy nagrodę.
 
-#### Walka z goblinem
+#### Pojedynek z goblinem
 
 Otrzymujemy zwój przemiany w czarnego goblina, przemieniamy się i idziemy porozmawiać z goblinem na arenie, a następnie go pokonujemy. Po wszystkim wracamy do Krazmaza i zadanie się kończy.
 
