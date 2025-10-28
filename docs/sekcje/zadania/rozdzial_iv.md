@@ -291,9 +291,9 @@ Pancerz koczowników sprzeda nam Said w jego obozie. Po zdobyciu pancerza asasyn
 
 #### Świątynia Aszdodu
 
-Baldwin zleca nam dostanie się do świątyni Aszdodu. Jest to zadanie główne Varantu, które kończy się wraz z dostaniem się do Aszdodu
+Baldwin zleca nam dostanie się do świątyni Aszdodu. Jest to zadanie główne Varantu, które kończy się wraz z dostaniem się do Aszdodu.
 
-#### Dostęp do Aszdodu
+#### Dostęp do Aszdod
 
 Strażnik drzwi do doliny Aszdodu nie chce nas przepuścić bez przepustki, więc musimy ukończyć zadanie [Audiencja u Tartarona](#audiencja-u-tartarona) i otrzymać od niego pozwolenie.
 
