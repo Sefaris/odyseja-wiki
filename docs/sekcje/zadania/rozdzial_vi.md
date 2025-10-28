@@ -457,7 +457,7 @@ Olaf, kowal z klanu Rudy, prosi nas o dostarczenie mu 12 kawałków magicznej ru
 
 Dag ma co do nas wątpliwości i każe nam przynieść 12 skór szablozęba, które można znaleźć w całym Nordmarze. Po oddaniu otrzymujemy rudę, a zadanie się kończy.
 
-#### Śnieżna bestia
+#### Śnieżne zwierzę
 
 Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii znajdującej się wysoko w górach Nordmaru. Droga do bestii:
 
