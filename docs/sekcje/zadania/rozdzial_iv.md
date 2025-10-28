@@ -640,7 +640,7 @@ Strażnik twierdzy nie będzie chciał nas wpuścić, więc musimy udać się do
 
 #### Audiencja u Belasara
 
-Hassan nie wpuści nas do Belasara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko),[Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [Ruda dla Bajara](#ruda-dla-bajara), [Zwój przemiany w lwa](#zwój-przemiany-w-lwa), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży BelasaraŁowcy głów w Amarnie
+Hassan nie wpuści nas do Belasara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko), [Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [12 bryłek rudy dla Bajara](#12-bryłek-rudy-dla-Bajara), [Zwój przemiany w lwa](#zwój-przemiany-w-lwa), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży BelasaraŁowcy głów w Amarnie
 
 Hassan prosi nas o pozbycie się rozbójników Baruda, którzy znajdują się niedaleko obozu Saida. Po zabiciu Baruda wracamy do Hassana po nagrodę.
 
@@ -652,7 +652,7 @@ Hassan prosi nas o udanie się do Patary i zabranie amuletu ze skrzyni w domu Ab
 
 Rokko opowiada nam o pierścieniu, który zgubił w trakcie ucieczki przez oazę. Przynosimy pierścień, który leży niedaleko lwów, a zadanie się kończy.
 
-#### Ruda dla Bajara
+#### 12 bryłek rudy dla Bajara
 
 Bajar potrzebuje skrzyni rudy do swojej pracy. Udajemy się do Gasparino, który odsyła nas do Turana, który nie chce sprzedać swojej skrzyni. Wracamy do Gasparino, a następnie zagadujemy do Gero, który poleca nam zagadać z Bajarem. Otrzymujemy od niego sztylet, który pokazujemy Turanowi w zamian za skrzynie rudy. Wracamy z nią do Bajara, a zadanie się kończy.(Warto kupić skrzynie, jako że przyda się w innych misjach)
 
