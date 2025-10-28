@@ -252,7 +252,7 @@ Przynosimy mu 10 roślin leczniczych, 5 ziół leczniczych, 5 korzeni leczniczyc
 
 Alvarez ginie przy odbiciu Aszdodu, więc odzyskamy swoje rośliny stałe.
 
-#### Handel w Aszdodzie
+#### Interesy w Aszdodzie
 
 Alvarez wysyła nas do Haruna, po wino z Tarsos dla swojego pana. Harun prosi nas o zapytanie innych ludzi z Aszdodu, czy nie potrzebują czegoś od niego. Udajemy się do Ortegi, Ibrahima, Suefa, Selima i Alfonso. Z zamówieniami wracamy do Haruna, gdzie okazuje się, że nie ma on prawie nic z zamówionych towarów. Musimy zdobyć
 
