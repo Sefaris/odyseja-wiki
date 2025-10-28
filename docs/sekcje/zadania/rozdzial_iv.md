@@ -70,7 +70,7 @@ Quest informacyjny zlecany przez Halvara. Po sztormie lądujemy na Krabowej Wysp
 
 #### Wsparcie załogi
 
-W rozmowie z Halvarem na wyspie możemy zgodzić się pomóc przy naprawie Albatrosa lub odmówić. Po akceptacji zadania musimy wykonać trzy subquesty: [drewno na statek](drewno-na-statek), [naprawa kadłuba statku](Naprawa-kadłuba-statku) oraz [kolorowe ryby](kolorowe-ryby).
+W rozmowie z Halvarem na wyspie możemy zgodzić się pomóc przy naprawie Albatrosa lub odmówić. Po akceptacji zadania musimy wykonać trzy subquesty: [drewno na statek](#drewno-na-statek), [naprawa kadłuba statku](#Naprawa-kadłuba-statku) oraz [kolorowe ryby](#kolorowe-ryby).
 
 #### Drewno na statek
 
