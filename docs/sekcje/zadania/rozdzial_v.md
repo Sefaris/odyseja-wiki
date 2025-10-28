@@ -21,7 +21,7 @@ Nagur opowiada nam o specjalnych rybach, w których złodzieje przenoszą inform
 
 2. DROGA ZŁODZIEI Idziemy z rybami do Nagura, który mówi nam, że wiadomość jest od Waine'a, szefa przemytników.
 
-#### Kryjówka przemytników
+#### Jaskinia przemytników
 
 Zadania są powiązane z [Gildia złodziei](sekcje/zadania/rozdzial_iv?id=gildia-złodziei)
 
