@@ -359,13 +359,13 @@ Na końcu kanionu lwów znajduje się teleport, który prowadzi nas przed drzwi 
 
 #### Poszukiwanie skarbu w ruinach
 
-W skrzyni na małej wysepce (Zadanie [Wymiana klucza za rum](#wymiana-klucza-za-rum)) znajdujemy mapę, która prowadzi nas do skarbu w ruinach. Znajdujemy go, a zadanie się kończy
+W skrzyni na małej wysepce (Zadanie [Wymiana klucza za rum](#wymiana-klucza-za-rum)) znajdujemy mapę, która prowadzi nas do skarbu w ruinach. Znajdujemy go, a zadanie się kończy.
 
 #### Poszukiwanie skarbu w przybrzeżnej jaskini
 
-Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest na dnie kanionu w jaskini łączącej Patarę z pustynia. Wykopujemy skarb i zadanie się kończy
+Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest na dnie kanionu w jaskini łączącej Patarę z pustynia. Wykopujemy skarb i zadanie się kończy.
 
-#### Poszukiwania skarbu w przeklętej kopalni
+#### Kopalnia przeklętych
 
 Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest w przeklętej kopalni. Znajduje się on za mostem, po prawej stronie.
 
