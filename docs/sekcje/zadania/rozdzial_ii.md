@@ -118,7 +118,7 @@ Gernot zleca nam zebranie informacji na wyspie na temat orkowej floty. Gadasz pr
 
 Oskar opowiada nam, że zniknęła kapliczka Innosa. Następnie udajemy się do Sandroka, który nas informuje o tym, że gdy postawimy posążek Innosa na piedestale w kamiennym kręgu, to kapliczka się pojawi i o tym, że widział jak Gyges się tam kręcił. Idziemy więc do niego.Po wykonaniu misji dowiadujemy się, że posążek, został zjedzony przez ścierwojady jednak nic takiego nie znajdujemy więc idziemy jeszcze raz do Gygesa, który mówi nam, że jedyną możliwością jest to, że posążek zleciał w dół przez dziurę niedaleko ścierwojadów. Skaczemy na sam dół i zaraz przy brzegu leży posążek, który odnosimy na piedestał. Wracamy po wszystkim do Oskara.
 
-#### Dostęp do zamku Sandroka
+#### Dostęp do twierdzy Sandroka
 
 Misja aktywuje się po dojściu do mostu, który obecnie jest podniesiony do góry, a przejście jest nieczynne. Oskar opowie ci o alternatywnej drodze. Misja kończy się po rozmowie z Sandrokiem.
 
