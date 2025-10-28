@@ -327,9 +327,9 @@ Prampek, ork którego spotykamy po wejściu na pustynię, oferuje nam towarzystw
 
 Zadanie polegające na odprowadzeniu Prampeka do obozu orków przy kanionie. Wystarczy iść cały czas na wprost od wejścia na pustynię i zagadać z orkiem dowódcą w namiocie.
 
-#### Wojownik z Nordmaru
+#### Obcy wojownicy
 
-Zadanie zaczyna się od Hakoona, który siedzi przy palmach na skraju pustyni. Zleci nam misje dopiero wtedy, gdy otrzymamy dostęp do świątyni Aszdodu.
+Zadanie zaczyna się od Hakkona, który siedzi przy palmach na skraju pustyni. Zleci nam misje dopiero wtedy, gdy otrzymamy dostęp do świątyni Aszdodu.
 
 Prowadzi nas do obozu rabusiów, gdzie zabijamy przeciwników i uwalniamy jego przyjaciela, na czym zadanie się kończy. (Warto poczekać z tym zadaniem, aż do zdobycia pancerza rozbójnika i ukończenia [zadania z Mustafą](#mustafa))
 
