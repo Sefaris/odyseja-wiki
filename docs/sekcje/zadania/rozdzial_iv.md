@@ -145,7 +145,7 @@ Znajdujemy tam mapę skarbów, która prowadzi do X'a na polanie nad słonecznym
 
 Zadanie aktywuje się automatycznie po przeczytaniu mapy z domu Herolda, a kończy się po wykopaniu go
 
-#### Gracze kości
+#### Gra w kości w Khorinis
 
 W gospodzie Coragona pojawiają się zawodowi gracze kości, których należy pokonać w grze w kości, aby móc stoczyć pojedynek z ich szefem Hughem.
 
