@@ -465,7 +465,7 @@ Gemnok prosi nas o pozbycie się pełzaczy z ruin. Po zabiciu wszystkich otrzymu
 
 #### Audiencja u Tartarona
 
-Torres nie wpuści nas do Tartarona, chyba że wykonamy dla niego zadania takie jak [Łowcy głów w](#łowcy-głów-w-ugarze) [Ugarze](#łowcy-głów-w-ugarze),[Mąka dla](#mąka-dla-ugaru) [Ugaru](#mąka-dla-ugaru),[Zbiór pomidorów](#zbiór-pomidorów),[Nadzorca](#nadzorca) i [Nielegalny handel](#nielegalny-handel) i [Łowcy lwów](#łowcy-lwów)
+Torres nie wpuści nas do Tartarona, chyba że wykonamy dla niego zadania takie jak [Łowcy głów w](#łowcy-głów-w-ugarze) [Ugarze](#łowcy-głów-w-ugarze), [Mąka dla](#mąka-dla-ugaru) [Ugaru](#mąka-dla-ugaru), [Zbiór pomidorów](#zbiór-pomidorów), [Nadzorca](#nadzorca) i [Nielegalny handel](#nielegalny-handel) i [Łowcy lwów](#łowcy-lwów)
 
 #### Zbiegli niewolnicy
 
