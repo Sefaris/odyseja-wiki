@@ -167,7 +167,7 @@ Teraz trzeba znaleźć 8 ornamentów, które są rozmieszczone w skrzyniach w do
 
 Amenofis zleca nam przeszukanie świątyni Adanosa. Na jej końcu znajduje się skrzynia, a w niej pożądana tabliczka, którą odnosimy Amenofisowi.
 
-#### Poszukiwania kamiennych tabliczek
+#### Kolekcjoner
 
 Zadanie to jest dostępne dopiero przy misji [Poszukiwania w świątyni Adanosa](#poszukiwania-w-świątyni-adanosa)  
 Pirat Tom szuka kolorowych tabliczek budowniczych. Znajdują się one w miejscach z podstawki tj. w świątyniach budowniczych.
