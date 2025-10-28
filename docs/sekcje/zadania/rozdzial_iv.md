@@ -60,6 +60,15 @@ Po odprowadzeniu Dandolo na statek opowiada on nam o orkowym statku, który rozb
 
 Po zabiciu orków powinniśmy otrzymać wpis, a wtedy możemy udać się do Dandolo i zakończyć misję.
 
+## Wyspa krabów
+
+#### Zniszczenia po burzy
+
+Quest informacyjny zlecany przez Halvara. Po sztormie lądujemy na Krabowej Wyspie, gdzie musimy naprawić nasz statek.
+
+#### Wsparcie załogi
+W rozmowie z Halvarem na wyspie możemy zgodzić się pomóc przy naprawie Albatrosa lub odmówić. Po akceptacji zadania musimy wykonać trzy subquesty: drewno na statek, naprawa kadłuba oraz kolorowe ryby.
+
 ## Tamora
 
 ### Zadania główne i powiązane
