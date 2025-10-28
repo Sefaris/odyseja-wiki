@@ -175,9 +175,9 @@ W piwnicy Sandroka możemy przeczytać na temat ukrytego skarbu Korofskiego.
 
 Zdobędziemy go dopiero na początku 4 rozdziału na rafie (Rozdział IV), na której znajdziemy Dandolo. Jeśli ominiemy grobowiec i wypłyniemy z raf, zadanie zakończy się niepowodzeniem.
 
-#### Adelina i Brosius
+#### Adelinda i Brosius
 
-Po wykonaniu zadania [Sandrok się nudzi](#sandrok-się-nudzi) dostaniemy dostęp do biblioteki pod twierdzą, w której jest książka potrzebną do wykonania tej misji dla Adeliny.
+Po wykonaniu zadania [Sandrok się nudzi](#sandrok-się-nudzi) dostaniemy dostęp do biblioteki pod twierdzą, w której jest książka potrzebną do wykonania tej misji dla Adelindy.
 
 #### Szczury w porcie
 
