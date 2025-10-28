@@ -506,7 +506,7 @@ Torres chce abyśmy przynieśli mu 30 worków mąki. Musimy udać się do młyna
 
 #### Nielegalny handel
 
-Torres jest zaniepokojony handlem bronią w Ugarze. Wysyła nas do Branco, który się wszystkiego wypiera, więc idziemy zapytać o to Czampoka. Czampok odsyła nas z powrotem do Branco, któremu kradniemy klucz i otwieramy jego skrzynie w noclegowni Bahala. Po przeczytaniu notatki wracamy do Branco i udajemy się z nim do kryjówki Humphreya. Robimy teraz zadania [Groźne Cieniostwory](#groźne-cieniostwory) i [Poszukiwacze skarbów](#poszukiwacze-skarbów), a po oddaniu złota Branco mówi nam, abyśmy śledzili osobę wychodzącą o 3 w nocy z miasta. Śledzimy Gero aż do końca jego trasy, otrzymujemy klucz do jaskini, zabijamy rabusiów i czytamy notatkę. Z notatką udajemy się do Torresa.
+Torres jest zaniepokojony handlem bronią w Ugarze. Wysyła nas do Branco, który się wszystkiego wypiera, więc idziemy zapytać o to Czampoka. Czampok odsyła nas z powrotem do Branco, któremu kradniemy klucz i otwieramy jego skrzynie w noclegowni Bahala. Po przeczytaniu notatki wracamy do Branco i udajemy się z nim do kryjówki Humphreya. Robimy teraz zadania [Groźne Cieniostwory](#groźne-cieniostwory) i [Łowca skarbów](#łowca-skarbów), a po oddaniu złota Branco mówi nam, abyśmy śledzili osobę wychodzącą o 3 w nocy z miasta. Śledzimy Gero aż do końca jego trasy, otrzymujemy klucz do jaskini, zabijamy rabusiów i czytamy notatkę. Z notatką udajemy się do Torresa.
 
 #### Łowca skarbów
 
