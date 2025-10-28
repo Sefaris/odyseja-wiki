@@ -337,7 +337,7 @@ Prowadzi nas do obozu rabusiów, gdzie zabijamy przeciwników i uwalniamy jego p
 
 Hakoon i Lars poszukują informacji o swoim przodku Akaschy. Jego tabliczka znajduje się w grobowcu świątyni Tadmoru, do której dostaniemy się w ramach zadania [Boski artefakt](#boski-artefakt)
 
-#### Broń dla Larsa
+#### Broń Larsa
 
 Lars prosi nas o przyniesienie mu jego łuku i topora. Topór posiada rozbójnik Achmed, którego przed chwilą zabiliśmy, a łuk jest u rozbójnika Hussina, który przebywa między Ugarem a wieżą wojowników Beliara.
 
