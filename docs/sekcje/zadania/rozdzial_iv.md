@@ -638,9 +638,11 @@ Spis wejść i kluczy
 
 Strażnik twierdzy nie będzie chciał nas wpuścić, więc musimy udać się do Torresa(W trakcie misji "Mąka dla Ugaru), który poda nam hasło. Po otworzeniu krat zadanie kończy się automatycznie.
 
-#### Audiencja u Belasara
+#### Audiencja u Belazara
 
-Hassan nie wpuści nas do Belasara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko), [Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [12 bryłek rudy dla Bajara](#12-bryłek-rudy-dla-Bajara), [Zwój przemiany w lwa](#zwój-przemiany-w-lwa), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży BelasaraŁowcy głów w Amarnie
+Hassan nie wpuści nas do Belazara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko), [Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [12 bryłek rudy dla Bajara](#12-bryłek-rudy-dla-Bajara), [Zwój przemiany w lwa](#zwój-przemiany-w-lwa), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży Belazara.
+
+#### Łowcy głów w Amarnie
 
 Hassan prosi nas o pozbycie się rozbójników Baruda, którzy znajdują się niedaleko obozu Saida. Po zabiciu Baruda wracamy do Hassana po nagrodę.
 
@@ -704,9 +706,9 @@ Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlece
 
 1. Wracamy do Haruna, który sam wyciąga konsekwencje z Iskry i otrzymujemy nagrodę.
 
-#### Kufer Belasara
+#### Kufer Belazara
 
-Jeśli dostaniemy się do wieży Belasara i ograbimy jego skrzynię, ten nas przyłapie i zażąda 1000 sztuk złota. Nie mamy innego wyjścia niż zapłata, więć to robimy, a quest się kończy.
+Jeśli dostaniemy się do wieży Belazara i ograbimy jego skrzynię, ten nas przyłapie i zażąda 1000 sztuk złota. Nie mamy innego wyjścia niż zapłata, więć to robimy, a quest się kończy.
 
 #### Wielka brama na przełęczy
 
@@ -715,8 +717,8 @@ W skrzyni Tartarona, do której klucz ma on sam, znajduje się klucz na przełę
 #### Towary z Ishtar
 
 Karim, kupiec z Amarny prosi nas o rozprowadzenie jego towarów z Ishtar po całym Varancie. Możemy wytargować maksymalnie 250 sztuk złota, inaczej misja przepadnie.  
-Udajemy się do Soraba i odbieramy skrzynie z piwnicy. Teraz idziemy do Iskry w Ugarze, Ortegi w Aszdodzie, Belasara w Amarnie oraz Malika w wieży strażników Beliara.  
-Po bezsensownej wędrówce ze skrzynią dla Belasara, wracamy do Karima i odbieramy nagrodę
+Udajemy się do Soraba i odbieramy skrzynie z piwnicy. Teraz idziemy do Iskry w Ugarze, Ortegi w Aszdodzie, Belazara w Amarnie oraz Malika w wieży strażników Beliara.  
+Po bezsensownej wędrówce ze skrzynią dla Belazara, wracamy do Karima i odbieramy nagrodę
 
 #### Złoto Zoraba
 
