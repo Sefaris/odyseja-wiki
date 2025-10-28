@@ -502,7 +502,7 @@ Bahal nie otrzymał wieści od swojego nadzorcy już od dłuższego czasu. Udaje
 
 #### Mąka dla Ugaru
 
-Torres chce abyśmy przynieśli mu 30 worków mąki. Musimy udać się do młyna Sancheza, który znajduje się obok Amarny. Sanchez nie wyda nam mąki, dopóki nie otrzymamy pozwolenia od Hassana, więc udajemy się do Amarny, gdzie strażnik nie chce nas wpuścić. Wracamy do Torresa po hasło, a następnie z powrotem idziemy do Amarny. Da on nam pozwolenie, jeśli zrobimy zadanie [Łowcy głów w Ugarze](#łowcy-głów-w-ugarze) i [Niebezpieczne karawany](#niebezpieczne-karawany). Stamtąd idziemy do Sancheza, a on udziela nam pozwolenia na zabranie mąki, z którą wracamy do Torresa.
+Torres chce abyśmy przynieśli mu 30 worków mąki. Musimy udać się do młyna Sancheza, który znajduje się obok Amarny. Sanchez nie wyda nam mąki, dopóki nie otrzymamy pozwolenia od Hassana, więc udajemy się do Amarny, gdzie strażnik nie chce nas wpuścić. Wracamy do Torresa po hasło, a następnie z powrotem idziemy do Amarny. Da on nam pozwolenie, jeśli zrobimy zadanie [Łowcy głów w Ugarze](#łowcy-głów-w-ugarze) i [Niebezpieczna karawana](#niebezpieczna-karawana). Stamtąd idziemy do Sancheza, a on udziela nam pozwolenia na zabranie mąki, z którą wracamy do Torresa.
 
 #### Nielegalny handel
 
@@ -670,7 +670,7 @@ Kirios, adept znajdujący się na murach Amarny, zleca nam przyniesienie zwoju p
 
 Sanchez potrzebuje 20 worków ziarna, które możemy u Bahala oraz zarządcy magazynu w Ugarze (lub ukraść mu klucz i wziąć z jego magazynu). Niezależnie od wybranego rozwiązania oddajemy mu worki i otrzymujemy nagrodę.
 
-#### Niebezpieczne karawany
+#### Niebezpieczna karawana
 
 Sanchez zleca nam pozbycie się rozbójników obok mostu, między Amarną a Ugarem. Po ich zabiciu wracamy do Sancheza i odbieramy nagrodę.
 
