@@ -525,9 +525,7 @@ Idąc z Ansgarem do Isagratu napotykamy na oddział berserkerów na moście. Poz
 
 Ansgar opowiada nam o potwornym stworzeniu, które ma swoją siedzibę w świątyni. Podczas oczyszczania budynku zabijamy ogaropodobnego stwora, po czym możemy wrócić do Ansgara
 
-###
-
-Klan berserkerów
+#### Klan Berserkerów
 
 Podczas wędrówki do Isagratu Ansgar opowiada nam o wiosce berserkerów przed wejściem do Isagratu. Po wybiciu odpowiedniej ilości orków dostaniemy komunikat na ekranie i możemy wrócić do Ansgara
 
