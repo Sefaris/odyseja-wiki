@@ -197,7 +197,7 @@ Po wykonaniu wszystkiego na wyspie można iść pożegnać się z Sandrokiem. Po
 - Dobrze jest ją jednak wbić tutaj na 60 i odebrać szpadę od Gernota przy zadaniu Stammler (można wspomóc się kapliczką)
 - Po wejściu na dziedziniec zamku, zajrzyj do wieży po lewo, a znajdziesz tam dobrą broń wymagającą zręczności
 - Pogadaj na starcie z Ambroziusem znajdującym się na plaży, na lewo od miejsca lądowania, po to by przyspieszyć jedną misję
-- Nie atakuj najemników orków znajdujących się w obozie za mostem, aż do ukończenia zadania [Negocjacje z Jacko](#negocjacje-z-jacko)
+- Nie atakuj najemników orków znajdujących się w obozie za mostem, aż do ukończenia zadania [Negocjacje z Jaco](#negocjacje-z-jaco)
 - Potrzebna nauka wyrywania serc oraz pozyskiwania skór. Uczą [myśliwi](#łuk-hansa)
 - Przydatna akrobatyka
 - Nie wchodź do kopalni srebra dopóki nie dostaniesz misji!
@@ -279,17 +279,17 @@ Zadanie kończy się w momencie zrobienia dwóch powyższych i zdaniu relacji Ja
 
 Pierwszą informację dostajemy już na samym starcie od karczmarza jednak dopiero po uzyskaniu zaufania Janusa, ten, opowiada nam kto posiada klucz do więzienia. Jest to Stefan. Potrzebujemy 45 zręczności by ukraść klucz do jego pokoju, a następnie kolejny, do więzienia, z jego skrzyni. Dowiadujemy się ciekawych rzeczy na temat Fulko i po rozprawieniu się z doradcą i rozmowie z Bruno wracamy do więźnia.
 
-#### Negocjacje z Jacko
+#### Negocjacje z Jaco
 
-Bruno prosi nas o to, abyśmy przekonali najemników orków, żeby opuścili Tamorę. W tym celu mamy porozmawiać z Jacko, który znajduje się niedaleko kryjówki Igora. Nie udało się nic wskórać (dobrze jest zabić jego i orka zaraz po rozmowie, aby potem nie męczyć się z nim w jego obozie) więc wracamy do Bruno.
+Bruno prosi nas o to, abyśmy przekonali najemników orków, żeby opuścili Tamorę. W tym celu mamy porozmawiać z Jaco, który znajduje się niedaleko kryjówki Igora. Nie udało się nic wskórać (dobrze jest zabić jego i orka zaraz po rozmowie, aby potem nie męczyć się z nim w jego obozie) więc wracamy do Bruno.
 
 #### Najemnicy orków
 
-Początkowy wpis dostajemy już od Stefana. Całość zadania wykonujemy dopiero po zadaniu [Negocjacje z Jacko](#negocjacje-z-jacko). Polega to na zabiciu wszystkich najemników na wyspie. Ich obozy znajdują się w następujących miejscach:
+Początkowy wpis dostajemy już od Stefana. Całość zadania wykonujemy dopiero po zadaniu [Negocjacje z Jaco](#negocjacje-z-jaco). Polega to na zabiciu wszystkich najemników na wyspie. Ich obozy znajdują się w następujących miejscach:
 
-1\. Przed wejściem do miasta, którzy pojawiają się po wzięciu zadania [Negocjacje z Jacko](#negocjacje-z-jacko)  
+1\. Przed wejściem do miasta, którzy pojawiają się po wzięciu zadania [Negocjacje z Jaco](#negocjacje-z-jaco)  
 2\. Przy ognisku niedaleko jeziorka naprzeciw bramy Tamory  
-3\. Nad jaskinią Igora (tam gdzie było spotkanie z Jacko)  
+3\. Nad jaskinią Igora (tam gdzie było spotkanie z Jaco)  
 4\. W lesie, niedaleko myśliwych.  
 5\. Przed i w [kopalni rudy](#kopalnia-rudy).  
 6\. W [wieży strażniczej](#wieża-strażnicza-tamory)  
