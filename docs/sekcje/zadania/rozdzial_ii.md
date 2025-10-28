@@ -485,7 +485,7 @@ Gdy opuszczamy wioskę możemy zagadać o tym do starosty, który opowiada nam o
 
 Harald prosi nas byśmy dowiedzieli się informacji na temat orkowej floty od ludzi na pobliskim statku. Robimy tam potrzebne misje, by koniec końców dowiedzieć się od kapitana statku na temat floty orków. Z tymi informacjami wracamy do Haralda.
 
-#### Febra na statku
+#### Gorączka na pokładzie
 
 Jeden z marynarzy opowiada nam, że nie zostaniesz dopuszczony do kapitana jeśli nie wyleczysz Hansa. W tym celu idziemy do Wulfiasa by przygotował nam specjalny eliksir. O składniki możemy spytać Wolfganga, a tran znajdziemy na statku handlowym. Po przygotowaniu eliksiru i przy ponownej rozmowie z Hansem, mamy możliwość oddania specjalnej mikstury lub grogu.
 
