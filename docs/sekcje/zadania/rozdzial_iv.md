@@ -102,7 +102,7 @@ Kajo daje nam list, z którym udajemy się do Telema na Tamorze. Ten opowiada na
 
 ### Zadania główne i powiązane
 
-#### Co się stało z Kolwinem?
+#### Gdzie się podział Kolwin?
 
 Po powrocie na Khorus udajemy się do Haralda, który opowiada nam o zaginięciu Kolwina. Pytamy mieszkańców wioski, po czym udajemy się do obozu myśliwych, gdzie dowiadujemy się, że myśliwy Refti go widział.Od niego dowiadujemy się, że widział go w okolicy namiotu Valandraji i latarni Tadeusa. Wypytujemy tę dwójkę, po czym Tadeus mówi nam, że Kolwin udał się do kopalni węgla i gadamy z Kolwinem.  
 Na koniec udajemy się do Haralda i powiadamiamy go o naszym sukcesie.
