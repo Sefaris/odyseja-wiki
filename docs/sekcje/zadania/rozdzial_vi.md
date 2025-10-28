@@ -465,7 +465,7 @@ Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii 
 
 Wspinamy się w góry i zabijamy albinosa stojącego pośród innych trolli. Ze skórą wracamy do Daga po nagrodę.
 
-#### Milten chce dojść do Klanu Rudy
+#### Milten chce iść do Klanu Rudy
 
 Eksplorując Nordmar napotykamy maga ognia Miltena, który chce dotrzeć do Klanu Rudy. Warto z nim pochodzić, jako że jest nieśmiertelny, więc skutecznie tankuje nordmarskie kreatury. Ostatecznie odprowadzamy go do Klanu Rudy, gdzie rozmawiamy z nim, a zadanie się kończy.
 
