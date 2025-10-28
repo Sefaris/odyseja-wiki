@@ -318,7 +318,7 @@ Po zwycięstwie na arenie w Aszdodzie Wambek odprowadza nas do Shak Arosha. Zlec
 
 Hakam, komendant straży w Aszdodzie zleca nam pozbycie się gangu Tomaso, który osiedlił się w jaskini w górach Aszdodu. Idziemy w kierunku grobowca Baal Handshara, aż dojdziemy do małej oazy. Przy niej powinna być jaskinia, w której znajdują się wyżej wspomniani rabusie. Po zabiciu ich wracamy do Hakama po nagrodę.
 
-#### Broptek lubi rzucać kości
+#### Gra w kości z Broptekiem
 
 Ork Broptek w jednym z domów w Aszdodzie proponuje nam grę w kości, na co oczywiście przystajemy. Ogrywamy go z pieniędzy i na tym misja się kończy.
 
