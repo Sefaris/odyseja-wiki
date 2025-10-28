@@ -581,7 +581,7 @@ Po opuszczeniu wyspy Khorus Gernot każe obserwować morze. W tym celu udajemy s
 
 #### Statek orków
 
-#### Więzień
+#### Niewolnik
 
 Po wygranej walce z orkami trafiasz na Martina, znanego nam członka straży miejskiej Khorinis. Nie opuści on jednak tego miejsca, jeśli nie znajdziemy mu jego cennego miecza. Znajduje się na dole pokładu w skrzyni. Oddajemy miecz i przyprowadzamy Martina na Albatrosa.
 
