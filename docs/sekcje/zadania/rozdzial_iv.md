@@ -568,7 +568,7 @@ Klaas stracił całe złoto z wyprawy grając w kości. Jeśli oddamy mu 2000 z�
 
 Pedro prosi nas o przyniesienie po jednej sztuce specjalnego tytoniu Bahala, który znajduje się w jego domu. Oddajemy tytoń Pedro, a resztę wypalamy. W innym wypadku Bahal będzie na nas zły i trzeba będzie zapłacić mu grzywnę.
 
-#### Mirko lubi rzucać kości
+#### Gracz
 
 Mirko znajdujący się w gospodzie oferuje nam grę w kości. Zgadzamy się, ogrywamy go z pieniędzy i tym samym kończymy zadanie.
 
