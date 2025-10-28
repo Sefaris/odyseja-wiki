@@ -55,7 +55,7 @@ Przemytnik Josh opowiada nam o groźnym piekielnym ogarze, który przebywa w les
 
 Przemytnik Josh wysyła nas do jaskini w kotlinie obok Wieży Xardasa, abyśmy przynieśli mu dwie skrzynie z kontrabandą. Rozprawiamy się z poszukiwaczami i jaszczuroczłekami, po czym oddajemy mu skrzynie.
 
-#### Grzyby dla Krugera
+#### Grzyby dla gospodarza
 
 Przemytnik Kruger zleca nam zebranie 10 leśnych smardzów i 12 surojadek, na jego specjalną zupę. Oba rodzaje grzybów można znaleźć w lesie przed jaskinią.  
 Przynosimy Krugerowi składniki i zadanie się kończy.
