@@ -778,9 +778,9 @@ Drugi posążek posiadają gobliny, znajdujące się w jaskini na zachodzie. Po 
 
 #### Koczownicy
 
-Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczki z Bronią](#paczki-z-bronią), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce w świętym źródełku](#topielce-w-świętym-źródełku), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rozbójnicy Alego](#pustynni-rozbójnicy-alego)
+Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce w świętym źródełku](#topielce-w-świętym-źródełku), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rozbójnicy Alego](#pustynni-rozbójnicy-alego)
 
-#### Paczki z bronią
+#### Paczka broni
 
 Said prosi nas o przyniesienie mu 10 paczek z bronią. Można je znaleźć u kupców w Ugarze i Amarnie, a także w ich domach, magazynach i wieżach.
 
