@@ -35,7 +35,7 @@ b) Mówimy Waine'owi, że zrobiliśmy wszystko, a ten każe nam zapłacić i prz
 
 Otrzymujemy zadanie [Krwawe Puchary](#krwawe-puchary), a kiedy je zrobimy, Waine odsyła nas do Nagura, gdzie zadanie się kończy.
 
-#### Kusząca oferta
+#### Kusząca propozycja
 
 Baloro oferuje nam potężna broń, pod warunkiem że przyniesiemy mu jedzenie. Możemy odmówić lub przynieść mu jedzenie. Niezależnie od naszej decyzji, okazuje się, że nas oszukał i broni nie dostaniemy. Możemy wyzwać go na pojedynek i odzyskać jedzenie, aczkolwiek nie wolno go zabijać.
 
