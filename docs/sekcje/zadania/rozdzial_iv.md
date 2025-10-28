@@ -837,7 +837,7 @@ Obóz Saida - Dostajemy od MerkuriusaRuiny Tadmoru - W ruinach niedaleko Gemnok
 Obóz Nemrosha - W namiocie NemroshaŚwiątynia Aszdodu - Do kupienia u Alfonso  
 Po zebraniu owych teleportów wracamy do Merkuriusa i zadanie się kończy.
 
-#### Klątwa Tadmoru
+#### Klątwa z Tadmoru
 
 Po zabraniu tabliczki Akaschy ze świątyni, wokół pojawiło się wielu nieumarłych, których należy się pozbyć. Po zabiciu ich wszystkich wracamy do Merkuriusa i odbieramy nagrodę.
 
