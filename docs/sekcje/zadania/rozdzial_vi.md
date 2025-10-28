@@ -487,7 +487,7 @@ Baldur zleca nam zabicie wściekłych rozpruwaczy nieopodal Klanu Ognia. Po zabi
 
 Ingolf zleca nam pozbycie się denerwujących goblinów nieopodal Klanu Ognia. Po zabiciu ich wszystkich wracamy do Ingolfa, a zadanie się kończy.
 
-#### Zaginiony w lodach
+#### Zaginiony w lodzie
 
 Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Lokalizacja Ulfruna:
 
