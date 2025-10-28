@@ -445,7 +445,7 @@ Spencer zleca nam zdobycie serca ognistego golema. Znajdziemy je w jaskini pełn
 
 Spencer zleca nam znalezienie magicznego kostura. Znajdziemy go w bibliotece w Jarkendarze, a po zdobyciu go wracamy do Spencera.
 
-#### Piracki wrak na bagnach
+#### Piracki wrak na bagnie
 
 Spencer zleca nam znalezienie personalnej rzeczy kapitana. Idziemy na statek widmo, zabijamy nieumarłych i wchodzimy do kajuty kapitana, gdzie znajdujemy jego miecz. Z mieczem wracamy do Spencera i zadanie się kończy.
 
