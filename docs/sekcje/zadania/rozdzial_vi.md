@@ -453,7 +453,7 @@ Elgur zleca nam znalezienie 12 alkojagód do produkcji nordmarskiego alkoholu. D
 
 Olaf, kowal z klanu Rudy, prosi nas o dostarczenie mu 12 kawałków magicznej rudy. Przynosimy mu rudę, którą powinniśmy już mieć, a w nagrodę otrzymujemy amulet.
 
-#### Skóry szablozęba dla Daga
+#### Skóry szablozębów dla Daga
 
 Dag ma co do nas wątpliwości i każe nam przynieść 12 skór szablozęba, które można znaleźć w całym Nordmarze. Po oddaniu otrzymujemy rudę, a zadanie się kończy.
 
