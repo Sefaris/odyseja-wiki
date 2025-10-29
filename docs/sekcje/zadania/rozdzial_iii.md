@@ -84,6 +84,9 @@ Po wykonaniu [Orkowie na farmach](#orkowie-na-farmach) możemy poprosić Gernota
 
 Po zadaniu [Orkowie na farmach](#orkowie-na-farmach) musimy zdobyć magiczne zwoje od Pyrokara. W tym celu, aby uzyskać klucz do klasztoru musimy wykonać zadanie [Niebezpieczna jaskinia](#niebezpieczna-jaskinia). Gdy już pogadamy w klasztorze z Pyrokarem, to otrzymamy listę składników, którą potrzebujemy zdobyć. Gdy już wszystko zdobędziemy i dostarczymy, czekamy jeden dzień, a pod otrzymaniu zwojów idziemy je oddać Lordowi Andre.
 
+#### Strażnicy mostu
+Harald uważa, że siły orków na moście między karczmą a miastem muszą zniknąć. Po wyeliminowaniu wrogów, zdajemy mu raport.
+
 #### Zaginiony nowicjusz
 
 Pyrokar wysłał nowicjusza Babo, w celu zdobycia materiałów, które koniec końców sami musimy dostarczyć dla zadania [Zwoje dla Lorda Andre](#zwoje-dla-lorda-andre). Mimo tego prosi nas byśmy odszukali i przyprowadzili zaginionego nowicjusza. Znajdziemy go niedaleko tawerny Orlana, w miejscu gdzie przebywa Dragomir. Nie wróci jednak do klasztoru, dopóki nie wykonamy zadań [Oblężenie klasztoru](#oblężenie-klasztoru) oraz [Zagubiona księga](#zagubiona-księga).
