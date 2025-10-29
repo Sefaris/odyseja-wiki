@@ -627,6 +627,9 @@ Shrat prosi nas o pozbycie się orków z obozowiska na bagnie. Po zabiciu 23 ork
 
 Shrat opowiada nam o ludziach, którzy kiedyś zamieszkiwali obóz na bagnie. Znajdziemy ich przed wejściem do Świątyni Śniącego. Po pozbyciu się zła z Świątyni Śniącego, nasi łysi przyjaciele staną się znowu przyjaźnie nastawieni, po czym możemy wrócić do Shrata oddać misje.
 
+#### Zło w Górniczej Dolinie
+Quest połączony z [Fanatyczni wyznawcy](#Fanatyczni-wyznawcy). Rozmawiamy z Gor Asifem przed wejściem do Świątyni Śniącego, pozbywamy się zła ze świątyni, ponownie gadamy z Gor Asifem.
+
 #### Napad bandytów
 
 Ortwin opowiada nam o bandytach, którzy ciągle napadają obóz paladynów. Znajdują się oni za Ortwinem. Po zabiciu ich otrzymujemy wpis w dzienniku i wracamy do Ortwina.
