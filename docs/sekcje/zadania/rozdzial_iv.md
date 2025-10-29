@@ -198,7 +198,7 @@ Nagur zleca nam przyniesienie mu cennej szkatułki Lutero. Należy go okraść i
 #### Piwnica koszar
 W trakcie nauki o włamywaniu, Mike mówi nam o mysiej albo szczurzej norze, przez którą można się dostać do piwnicy koszar. Dziura znajduje się za krzakami przy schodach prowadzących do koszar od strony morza. W piwnicy znajdziemy kuferek, który wymaga specjalnego wytrychu i 250 zręczności. Po wytworzeniu wytrychu i opróżnieniu skrzyni, quest zostaje zaliczony.
 
-### Skarbiec miasta Khorinis
+#### Skarbiec miasta Khorinis
 Po nauczeniu się otwierania zamków na 5. poziomie otrzymamy zadanie polegające na okradzeniu skarbca Khorinis. Udajemy się do skarbca, którego strzeże Gekard. Sprawdzamy zamek, okradamy strażnika z klucza do skrzyni i rzucamy na niego zaklęcie strachu. Następnie opróżniamy skrzynię i czekamy jeden dzień. Następnego dnia zaklęcie snu zaczyna działać na strażnika. Przed włamaniem wykonujemy wytrych do skarbca na stole warsztatowym. Idziemy do skarbca, usypiamy Gekarda i okradamy Khorinis. Potem czekamy kolejny dzień i rozmawiamy z Wambo, który niczego nie podejrzewa. Zadanie ukończone.
 
 KONTYNUACJA WĄTKU W 5R [SPECJALNA RYBA](sekcje/zadania/rozdzial_v?id=specjalna-ryba)
@@ -215,9 +215,7 @@ Zadanie aktywuje się automatycznie po przeczytaniu mapy z domu Herolda, a końc
 
 #### Gra w kości w Khorinis
 
-W gospodzie Coragona pojawiają się zawodowi gracze kości, których należy pokonać w grze w kości, aby móc stoczyć pojedynek z ich szefem Hughem.
-
-Po ich pokonaniu Hugh daje nagrodę i zadanie się kończy
+W gospodzie Coragona pojawiają się zawodowi gracze kości, których należy pokonać w grze w kości, aby móc stoczyć pojedynek z ich szefem Hughem. Po ich pokonaniu Hugh daje nagrodę i zadanie się kończy.
 
 #### Niedobitki armii orków
 
