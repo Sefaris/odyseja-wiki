@@ -505,9 +505,9 @@ Od Ulfruna dowiadujemy się, że ściga go oddział orków berserkerów. Znajduj
 
 #### W drogę do ruin świątyni!
 
-Ansgar zgadza się zaprowadzić nas na tereny Isagratu.Pod warunkiem że pomożemy innym myśliwym w Klanie Ognia. Robimy zadania [Natrętne gobliny](#natrętne-gobliny) [Polowanie na rozpruwacze](#polowanie-na-rozpruwacze) [Polowanie na lodowe wilki](#polowanie-na-lodowe-wilki), po czym wracamy do Ansgara dowiedzieć że o kolejnym zadaniu [Zaginiony w lodach](#zaginiony-w-lodach), po którym zgadza się on nas zaprowadzić. Idziemy z nim w międzyczasie wykonując zadania [Jaskinia Trollów](#jaskinia-trollów) i [Ochrona mostu](#ochrona-mostu). Kiedy dojdziemy już do sekretnego wejścia, zadanie się kończy.
+Ansgar zgadza się zaprowadzić nas na tereny Isagratu.Pod warunkiem że pomożemy innym myśliwym w Klanie Ognia. Robimy zadania [Natrętne gobliny](#natrętne-gobliny) [Polowanie na rozpruwacze](#polowanie-na-rozpruwacze) [Polowanie na lodowe wilki](#polowanie-na-lodowe-wilki), po czym wracamy do Ansgara dowiedzieć że o kolejnym zadaniu [Zaginiony w lodach](#zaginiony-w-lodach), po którym zgadza się on nas zaprowadzić. Idziemy z nim w międzyczasie wykonując zadania [Jaskinia trolli](#jaskinia-trolli) i [Ochrona mostu](#ochrona-mostu). Kiedy dojdziemy już do sekretnego wejścia, zadanie się kończy.
 
-#### Jaskinia trollów
+#### Jaskinia trolli
 
 Idąc z Ansgarem do Isagratu musimy przedostać się przez jaskinie pełną trolli. Zabijamy trolle wewnątrz jak i przy wyjściu z jaskini, po czym wracamy do Ansgara, a quest się kończy.
 
