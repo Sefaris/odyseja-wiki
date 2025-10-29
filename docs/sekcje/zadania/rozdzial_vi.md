@@ -37,9 +37,9 @@ Zwoju "Wygnanie zła" (który powinniśmy zdobyć podczas eksploracji Varantu/My
 
 Gdy wrócimy na Adarmos w 6 rozdziale, to dowiadujemy się od starszego wioski oraz jego żony, że Garrik jest obecnie uciekinierem, gdy dał do zrozumienia Roshowi o jego tyranii. Znajdziemy go w jaskini, w której wcześniej przebywał Alvares. Po rozmowie z nim, zadanie się zakończy
 
-#### Zemsta na Roshu
+#### Porachunki z Roshem
 
-Po rozmowie z Garrikiem i dowiedzeniu się, że Rosh zamordował Baromira, postanawiamy wspomóc Garrika w tej sprawie. Najpierw musimy zabić wszystkich najemników, a następnie pokonać Rosha, którego znajdziemy przy chatce Baromira. Mówimy o tym Garrikowoi.
+Po rozmowie z Garrikiem i dowiedzeniu się, że Rosh zamordował Baromira, postanawiamy wspomóc Garrika w tej sprawie. Najpierw musimy zabić wszystkich najemników, a następnie pokonać Rosha, którego znajdziemy przy chatce Baromira. Mówimy o tym Garrikowi.
 
 ## Athanos
 
