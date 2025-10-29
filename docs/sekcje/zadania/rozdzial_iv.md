@@ -834,7 +834,7 @@ Dominikus prosi nas o przyniesienie 12 specjalnych roślin, które rosną w jask
 
 Po przyniesieniu Dominikusowi roślin, ten wysyła nas na poszukiwania jego kostura, który zgubił w oazie niedaleko przejścia na pustynię. Przy ścianie za oazą leży jego broń, z którą wracamy po nagrodę.
 
-#### Sekretna biblioteka
+#### Tajna biblioteka
 
 Uderus poszukuje posążków, które służą do otwarcia ukrytej biblioteki.
 
