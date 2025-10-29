@@ -161,7 +161,7 @@ Amenofis zleca nam zdobycie Szponu Beliara i pokazanie mu go (Misja ["Potężna 
 
 #### Niebiańska Tarcza
 
-Amenofis zleca nam zdobycie Niebiańskiej Tarczy. Po zrobieniu zadań [Poszukiwania w świątyni Adanosa](#poszukiwania-w-świątyni-adanosa) [Biblioteka w kanionie](#biblioteka-w-kanionie) [Starożytna piramida](#starożytna-piramida) [Ukryta świątynia](#ukryta-świątynia).
+Amenofis zleca nam zdobycie Niebiańskiej Tarczy. Po zrobieniu zadań [Poszukiwania w świątyni Adanosa](#poszukiwania-w-świątyni-adanosa) [Biblioteka w kanionie](#biblioteka-w-kanionie) [Stara piramida](#stara-piramida) [Ukryta świątynia](#ukryta-świątynia).
 
 W świątyni Tadmoru, do której dostajemy się w ramach misji od Merkuriusa, znajduje się skrzynka z tablicą, w której jest napisane, że dysk został ukryty w tajnej świątyni Adanosa. Teraz musimy iść do kanionu z lwami i wejść do portalu, skąd trafiamy przed drzwi "świątyni wahadeł". Przechodzimy przez świątynie, a następnie przez zarośniętą jaskinię, a następnie udajemy się do świątyni w ukrytej dolinie, gdzie musimy pokonać kościanych wojowników i ich lorda.
 
@@ -196,9 +196,9 @@ W głównym pomieszczeniu przeszukujemy zwłoki Kruka i wracamy do Toma
 
 Amenofis zleca nam przeszukiwanie biblioteki w kanionie. Ze zdobytym kluczem możemy otworzyć nowe przejście znajdujące się w lewej części biblioteki. Znajdujemy tam kolejną tabliczkę, z którą udajemy się do Amenofisa
 
-#### Starożytna piramida
+#### Stara piramida
 
-Amenofis zleca nam przeszukanie piramidy w Khorinis. Płyniemy podwodnym przejściem w rzece pod mostem na wykopaliska. Należy uważnie się rozejrzeć po bocznych odnogach, jako że znajduje się w nich potrzebny klucz. Otwieramy skrzynie w piramidzie, znajdujemy tabliczkę i odnosimy ją Amefisowi.
+Amenofis zleca nam przeszukanie piramidy w Khorinis. Płyniemy podwodnym przejściem w rzece pod mostem na wykopaliska. Należy uważnie się rozejrzeć po bocznych odnogach, jako że znajduje się w nich potrzebny klucz. Otwieramy skrzynie w piramidzie, znajdujemy tabliczkę i odnosimy ją Amenofisowi.
 
 #### Ukryta świątynia
 
