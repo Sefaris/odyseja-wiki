@@ -95,6 +95,20 @@ Po zakończeniu prac przy kadłubie przejmujemy obowiązki Svena i idziemy na ry
 #### Kokosy
 Po podejściu do palmy otrzymujemy zadanie zebrania kokosów. Przydatny będzie autoloot lub free aiming. Po zebraniu kokosa quest zostaje zaliczony.
 
+#### Jakby zapadł się pod ziemię
+Halvar informuje nas, że zaginął Ernst. Przy beczkach nad rzeką, niedaleko łowiska, znajdujemy ślady stóp. Podążając ich tropem, docieramy do drzewa z plamą krwi, a kawałek dalej leży martwy dzik i łuk Ernsta. Wracamy z informacjami do Halvara, po czym ponownie udajemy się na miejsce. Od dzika przechodzimy przez bagna i przy skale znajdujemy kolejny ślad. Kierujemy się kamienną ścieżką w górę i po krótkiej wędrówce odnajdujemy szablę Ernsta. Idziemy dalej prosto, a gdy pojawi się nowy wpis w dzienniku, cofamy się do krzaków, które mijaliśmy wcześniej. Stojąc przodem do ściany, po lewej stronie znajdujemy klucz i przełącznik. Aktywujemy go, by wejść do jaskini, gdzie więziony jest Ernst. W drugiej komorze atakuje nas porywacz – nie zabijamy go, tylko obezwładniamy. Po krótkiej rozmowie zamykamy pustelnika w klatce i wracamy do Halvara, by zgłosić wykonanie zadania.
+
+#### Beczki z wodą pitną
+Po zgodzeniu się na pomoc Ernstowi wracamy nad rzekę i przenosimy beczki na plażę. Po trzech kursach informujemy Halvara o wykonaniu zadania i kończymy misję.
+
+####Szalony pustelnik
+
+Pustelnik prosi, abyśmy przynieśli mu grzyby z jaskini zaznaczonej na jego mapie. Po ich zebraniu, ze względu na nieprzyjemny zapach, pokazujemy je Wulfiasowi, który odkrywa, że są silnie trujące. Informujemy o tym pustelnika i czekamy trzy dni, aż przejdzie detoks. Następnie, po przeczytaniu jego dzienniczka, przekazujemy mu jego prawdziwe imię. Potem udajemy się do Baldwina, prosząc o ułaskawienie porywacza – ten się zgadza. Następnego dnia wracamy do Dusty’ego, kończąc zadanie.
+
+####Tajemnicza wyspa
+
+Po ukończeniu zadania [Szalony pustelnik](#szalony-pustelnik) i rozmowie z Dustym o wyspie dowiadujemy się o nieumarłych krążących nocami nad rzeką i w górach. Po pokonaniu ich, przy jednym z magów znajdujemy klucz do skrzyni. Skrzynia znajduje się w jaskini, do której można dostać się od strony morza. Po jej otwarciu czeka nas walka z królem aligatorów.
+
 ## Tamora
 
 ### Zadania główne i powiązane
