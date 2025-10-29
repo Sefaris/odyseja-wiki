@@ -579,7 +579,7 @@ Następnie przejście do kopalni otwierasz niszcząc kamienie kilofem. Dajesz dr
 
 Po opuszczeniu wyspy Khorus Gernot każe obserwować morze. W tym celu udajemy się na maszt.
 
-#### Statek orków
+## Statek orków
 
 #### Niewolnik
 
