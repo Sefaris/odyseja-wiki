@@ -131,9 +131,9 @@ Paladyn Markus opowiada nam o niewielkim oddziale zwiadowczym, który kręci si
 
 Zadanie dostajemy od paladyna Thordira. Więcej informacji dostaniemy od paladyna Markusa. Jeden z nich jest na początku w mieście w jednym z pierwszych domów. Reszta ocalałych jest niedaleko przed miastem w jaskini. Odprowadzamy wszystkich na zamek i gadamy na końcu z paladynem Thoridrem.
 
-#### Orkowie w Vengardzie
+#### Oblegająca armia
 
-Cobryn opowiada nam, że miasto zostało zajęte przez orków i trzeba je odbić. Zadanie wykonujemy dopiero po misji “Spisek”. Po odbiciu wracamy do Cobryna przekazać nowinę. Tym samym zyskujemy pancerz paladyna.
+Cobryn opowiada nam, że miasto zostało zajęte przez orków i trzeba je odbić. Zadanie wykonujemy dopiero po misji [Spisek](#spisek). Po odbiciu wracamy do Cobryna przekazać nowinę. Tym samym zyskujemy pancerz paladyna.
 
 #### Nowicjusz za kratkami
 
@@ -161,7 +161,7 @@ Po zakończeniu zadania [Rytuał z Gothy](#rytuał-z-gothy), król każe nam ost
 
 #### Ucieczka z więzienia
 
-Wymagane jest ukończenie [Orkowie w Vengardzie](#zagubieni-orkowie), [Spisek](#zlecenie-od-lorda-baldwina) oraz [Naszyjnik królowej](#naszyjnik-królowej)
+Wymagane jest ukończenie [Oblegająca armia](#Oblegająca-armia), [Spisek](#spisek) oraz [Naszyjnik królowej](#naszyjnik-królowej)
 
 Rozmawiając z Nolanem mówi mu, że jesteśmy przekonani o jego niewinności i pomożemy mu w ucieczce. W tym celu rozmawiamy z dozorcą i dowiadujemy się, że zapomina się przy damach. Idziemy więc do pomieszczenia gdzie jest dama i pokojówka, kradniemy suknie, wracamy do Nolana i przekonujemy go, by to założył. Uciekamy z nim prosto do namiotu przed zamkiem, tam gdzie wcześniej stacjonowali orkowie.
 
