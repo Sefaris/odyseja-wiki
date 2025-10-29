@@ -101,13 +101,26 @@ Halvar informuje nas, że zaginął Ernst. Przy beczkach nad rzeką, niedaleko �
 #### Beczki z wodą pitną
 Po zgodzeniu się na pomoc Ernstowi wracamy nad rzekę i przenosimy beczki na plażę. Po trzech kursach informujemy Halvara o wykonaniu zadania i kończymy misję.
 
-####Szalony pustelnik
+#### Szalony pustelnik
 
 Pustelnik prosi, abyśmy przynieśli mu grzyby z jaskini zaznaczonej na jego mapie. Po ich zebraniu, ze względu na nieprzyjemny zapach, pokazujemy je Wulfiasowi, który odkrywa, że są silnie trujące. Informujemy o tym pustelnika i czekamy trzy dni, aż przejdzie detoks. Następnie, po przeczytaniu jego dzienniczka, przekazujemy mu jego prawdziwe imię. Potem udajemy się do Baldwina, prosząc o ułaskawienie porywacza – ten się zgadza. Następnego dnia wracamy do Dusty’ego, kończąc zadanie.
 
-####Tajemnicza wyspa
+#### Tajemnicza wyspa
 
 Po ukończeniu zadania [Szalony pustelnik](#szalony-pustelnik) i rozmowie z Dustym o wyspie dowiadujemy się o nieumarłych krążących nocami nad rzeką i w górach. Po pokonaniu ich, przy jednym z magów znajdujemy klucz do skrzyni. Skrzynia znajduje się w jaskini, do której można dostać się od strony morza. Po jej otwarciu czeka nas walka z królem aligatorów.
+[![](https://i.imgur.com/vCPcAai.png)](https://imgur.com/a/APY2Rgo)
+
+#### Przy ognisku
+
+Halvar zaprasza nas na ognisko, które odbędzie się przy namiocie o 20:00. Podczas spotkania rozmawiamy z towarzyszami i w międzyczasie zbieramy gałęzie, aby podtrzymać ogień.
+
+#### Niebezpieczne bagno
+Zadanie informacyjne, które kończy się po wypłynięciu z wyspy.
+
+#### Bagienna ferba
+Na bagnach dopada nas gorączka, więc udajemy się do Halvara, który odsyła nas do Wulfiasa. Niestety, mag pokładowy nie ma odpowiedniego lekarstwa. Uleczyć nas może dopiero Merkurius w Varancie lub mikstura kupiona od Bachala.
+
+> Po złapaniu ferby najlepiej wczytać grę, ponieważ choroba ustawia manę na poziomie 20 punktów, niezależnie od naszej maksymalnej wartości.
 
 ## Tamora
 
