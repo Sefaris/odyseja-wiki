@@ -117,9 +117,9 @@ Rączka opowiada nam o informatorze, z którym Booze spotykał się w kamiennym 
 
 Kiedy powiemy mu że Booze nie żyje, ten nas atakuje, a my idziemy do Wambo po nagrodę.
 
-#### W poszukiwaniu Kruka
+#### Śladem Kruka
 
-Rączka zleca nam dostarczenie mu dziennika Kruka, który znajduje się w jego pokoju w zamku w Górniczej Dolinie. Dowiadujemy się z niego, że poszukuje on szponu beliara, więc wracamy do Świątyni Adanosa znaleźć zwłoki Kruka(o ile jeszcze tego nie zrobiliśmy). Wracamy do Rączki i quest się kończy
+Rączka zleca nam dostarczenie mu dziennika Kruka, który znajduje się w jego pokoju w zamku w Górniczej Dolinie. Dowiadujemy się z niego, że poszukuje on szponu beliara, więc wracamy do Świątyni Adanosa znaleźć zwłoki Kruka (o ile jeszcze tego nie zrobiliśmy). Wracamy do Rączki i quest się kończy.
 
 #### Okradnięcie Lorda Andre
 
