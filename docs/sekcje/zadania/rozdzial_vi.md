@@ -279,11 +279,11 @@ Jeszcze w Vengardzie, król Rhobar II zleciał nam odszukanie buntowników z Far
 
 #### Wysłannik buntowników
 
-Bo dostaniu się do buntowników, Aidan wysyła nas byśmy odnaleźli wysłannika. Jest nim Joker, którego mogliśmy spotkać już, w domku, niedaleko Adriana. Po rozmowie z nim wracamy do przywódcy buntowników.
+Bo dostaniu się do buntowników, Aidan wysyła nas byśmy odnaleźli wysłannika. Jest nim Joker, którego mogliśmy spotkać już w domku, niedaleko Adriana. Po rozmowie z nim wracamy do przywódcy buntowników.
 
-#### Oddział pościgowy orków
+#### Ścigany
 
-W trakcie zadania [Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poinformowani, że Jokera ściągano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
+W trakcie zadania [Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poinformowani, że Jokera ścigano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
 
 #### Morska forteca Faring
 
