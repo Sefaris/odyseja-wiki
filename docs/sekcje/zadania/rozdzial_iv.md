@@ -542,11 +542,11 @@ Są dwa rozwiązania tego zadania.
 
 1. Odprowadzamy wszystkich niewolników do Gasparino, który daje nam nagrodę i kończy quest
 
-2. Po przeczytaniu notatki w ciele Morrisa i rozmowie z Pietem, który jest w kopalni Gasparino,  mamy możliwość objąć stronę koczowników. Jeśli się zgodzimy, zadanie psuje się, a my musimy udać się do Tamary i zdobyć zaufanie koczowników
+2. Po przeczytaniu notatki w ciele Morrisa i rozmowie z Pietem, który jest w kopalni Gasparino, mamy możliwość objąć stronę koczowników. Jeśli się zgodzimy, zadanie psuje się, a my musimy udać się do Tamary i zdobyć zaufanie koczowników
 
-#### Psy łowców niewolników
+#### Ogary łowców niewolników
 
-Gasparino każe nam uważać na psy łowców niewolników, które musimy najzwyczajniej w świecie zabić. Po zabiciu 8 ogarów otrzymujemy wpis w dzienniku, a quest kończy się samoistnie
+Gasparino każe nam uważać na ogary łowców niewolników, które musimy najzwyczajniej w świecie zabić. Po zabiciu 8 ogarów otrzymujemy wpis w dzienniku, a quest kończy się samoistnie.
 
 #### Łowcy głów w Ugarze
 
@@ -596,7 +596,7 @@ Tabor prosi o przyniesienie 12 lwich skór i 6 skór pantery. Znajdziesz je w o
 
 Po przyniesieniu skór dla Tabora, możemy mu pomóc w poszukiwaniach lwa Aslana, który znajduje się w ruinach naprzeciw obozu łowców lwów. Prowadzimy tam Tabora, który zabija lwa, skórujemy go i oddajemy skórę Taborowi.
 
-#### Zaufanie koczowników
+#### Zaufanie
 
 Zadanie rozpoczyna się po rozmowie z Tamarą o ucieczce niewolników, a kończy się na zdobyciu zaufania Saida (Patrz [Koczownicy](#koczownicy)). Jest to zadanie wymagane, aby pchnąć zadanie [Potężne zaklęcie](#potężne-zaklęcie)
 
