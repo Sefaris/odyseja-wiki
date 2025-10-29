@@ -772,7 +772,7 @@ Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlece
 
 Jeśli dostaniemy się do wieży Belazara i ograbimy jego skrzynię, ten nas przyłapie i zażąda 1000 sztuk złota. Nie mamy innego wyjścia niż zapłata, więć to robimy, a quest się kończy.
 
-#### Wielka brama na przełęczy
+#### Wielkie wrota Przełęczy
 
 W skrzyni Tartarona, do której klucz ma on sam, znajduje się klucz na przełęcz Ishtar. Idziemy na przełęcz i otwieramy bramę przełącznikiem, znajdującym się w wieży obok bramy. Zagadujemy do Kabira, a quest się kończy.
 
