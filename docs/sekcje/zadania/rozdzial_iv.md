@@ -761,17 +761,15 @@ odsyła nas z kwitkiem do Hassana. Uzyskujemy od niego hasło, udajemy się do w
 
 2. Zabieramy niewolników do obozu Saida i odbieramy nagrodę u Merkuriusa
 
-#### Zlecenie morderstwa
+#### Próba zabójstwa
 
 > **Uwaga:** Nie warto się spieszyć z tym zadaniem, ze względu na dużą ilość mordowania. Jeśli zabijemy zbyt wielu asasynów, wszyscy staną się wrodzy.
 
-Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlecenie. Zaoferował on nam 2000 złota za zabójstwo kupca Haruna. Udajemy się do jego obozu, który jest pod drogą między Ugarem, a Amarną. Są dwa rozwiązania tego questa
+Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlecenie. Zaoferuje on nam 2000 złota za zabójstwo kupca Haruna. Udajemy się do jego obozu, który jest pod drogą między Ugarem, a Amarną. Są dwa rozwiązania tego questa:
 
-1. Zabijamy Haruna i jego świtę i wracamy po nagrodę
+1. Zabijamy Haruna i jego świtę i wracamy po nagrodę (Nie polecam, tracimy sporo innych misji).
 
-(Nie polecam, tracimy sporo innych misji)
-
-2. Na zlecenie Haruna dowiadujemy się kto jest zabójcą. Wracamy do Sadika, ale on nie chce nam nic powiedzieć, więc kradniemy i czytamy jego list. Okazuje się że Joachim jest pośrednikiem w zleceniu, więc dogadujemy się z nim i spotykamy o północy na placu targowym. Prowadzi on nas do zleceniodawców, co okazuje się pułapką. Zabijamy trójkę skrytobójców, a kluczem Joachima otwieramy skrzynie na piętrze hotelu Iskry. Po przeczytaniu notatki, dowiadujemy się że trzeba przeszukać resztę skrzyń w noclegowni. W skrzyni Iskry znajdujemy notatkę wskazującą na jego winę. Teraz znowu mamy dwa wyjścia
+2. Na zlecenie Haruna dowiadujemy się kto jest zabójcą. Wracamy do Sadika, ale on nie chce nam nic powiedzieć, więc kradniemy i czytamy jego list. Okazuje się że Joachim jest pośrednikiem w zleceniu, więc dogadujemy się z nim i spotykamy o północy na placu targowym. Prowadzi on nas do zleceniodawców, co okazuje się pułapką. Zabijamy trójkę skrytobójców, a kluczem Joachima otwieramy skrzynie na piętrze hotelu Iskry. Po przeczytaniu notatki, dowiadujemy się że trzeba przeszukać resztę skrzyń w noclegowni. W skrzyni Iskry znajdujemy notatkę wskazującą na jego winę. Teraz znowu mamy dwa wyjścia:
 
 1. Idziemy do Iskry, który ucieka do kopalni rudy, aby uniknąć aresztowania. Po odnalezieniu go możemy go zabić lub puścić wolno. Na koniec wracamy do Haruna.
 
