@@ -296,11 +296,11 @@ Teleport w kanionie: Kamień ma szaman ork w głębi kanionu
 Teleport do wykopalisk: Kamień ma bandyta Crimson  
 Teleport do Eremity/Bagna/Bandytów: Kamienie mają orkowie przewodniczący grupom orków znajdującym się w okolicy.
 
-#### Teleport w kanionie
+#### Teleport do kanionu
 
-Greg zleca nam przeszukanie kanionu w poszukiwaniu kamienia ogniskującego. Posiada go ork szaman w obozie przed biblioteką.Z kamieniem udajemy się do Grega, a następnie aktywujemy znany nam z podstawki teleport obok jeziorka.
+Greg zleca nam przeszukanie kanionu w poszukiwaniu kamienia ogniskującego. Posiada go ork szaman w obozie przed biblioteką. Z kamieniem udajemy się do Grega, a następnie aktywujemy znany nam z podstawki teleport obok jeziorka.
 
-Quest kończy się już przy rozmowie z Gregiem.
+> Quest kończy się już przy rozmowie z Gregiem.
 
 #### Spory w obozie piratów
 
