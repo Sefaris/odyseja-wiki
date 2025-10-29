@@ -37,3 +37,8 @@ Gdy przechodzimy przez ostatni teleport na wyspie trafiamy na Ganeluna. Okazuje 
 #### Tęsknota za domem
 
 Przed wyruszeniem do króla w Vengardzie, wpierw płyniemy z powrotem na Athanos, by upewnić się, że wszystko tam w porządku. Przede wszystkim rozmawiamy z Juttą, Sejanem, Ralfem, Klausem i oczywiście Charlotte oraz Fredem.
+
+## Vengard
+
+#### Raport dla króla
+Po zabiciu Baal Handshar'a udajemy się do Vengardu i zdajemy raport. W tym momencie możemy zakończyć moda lub wrócić na inne wyspy w celu dokończenia questów.
