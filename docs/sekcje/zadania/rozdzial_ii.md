@@ -103,7 +103,7 @@ Po zbadaniu wysepki i odnalezieniu 5 dzienników w skrzyni na szczycie znajdujem
 
 **Wskazówki:**
 
-- Na tej wyspie nauczysz się ważnego przepisu (dostaniesz wpis w dzienniku po misji [Ważne zadanie Griseldy](#ważne-zadanie-griseldy)) i odkryjesz nową roślinę, z której będziesz robił zupki +1 siły
+- Na tej wyspie nauczysz się ważnego przepisu (dostaniesz wpis w dzienniku po misji [Ważne zadanie od Griseldy](#ważne-zadanie-od-griseldy)) i odkryjesz nową roślinę, z której będziesz robił zupki +1 siły
 - Istotną misją jest również [Pierścień szybkości](#pierścień-szybkości), jako że nieprędko wrócisz na tę wyspę, jeśli nie zacząłeś tej misji tutaj
 - Świerszczowa pokrzywa pojawia się dopiero po otrzymaniu misji od Griseldy
 - Przed odpłynięciem można pobić zarówno Oskara jak i Griselde, aby odzyskać pokrzywę i zupę
@@ -146,7 +146,7 @@ Po znalezieniu kapliczki Gyges mówi, że zgubił swój kij pasterski. Po zgodze
 
 ### Zadania poboczne
 
-#### Ważne zadanie Griseldy
+#### Ważne zadanie od Griseldy
 
 Griselda chce byś się dowiedział co Oskar chce na obiad oraz następnie zebrał potrzebne składniki. Świerszczową pokrzywę znajdziemy nieopodal Gygesa, pod drzewem. Następnie wracając do Griseldy najlepiej wybrać opcje, że jesteś Gyges'em otrzymując tym sposobem 2 zupy ziołowe do siły. Oddając jedną z nich Oskarowi otrzymujesz dodatkowe 200 doświadczenia.
 
