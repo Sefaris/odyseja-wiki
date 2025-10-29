@@ -819,15 +819,17 @@ Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy ma
 
 #### Rozbójnicy w czarnej wieży
 
-Gargaron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę (Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy)
+Gargaron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę. 
 
-#### Rośliny dla Dominika
+>Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy
 
-Dominik prosi nas o przyniesienie 12 specjalnych roślin, które rosną w jaskiniach w zachodnim Varancie. Po znalezieniu roślin wracamy do Dominika po nagrodę.
+#### Rośliny dla Dominikusa
+
+Dominikus prosi nas o przyniesienie 12 specjalnych roślin, które rosną w jaskiniach w zachodnim Varancie. Po znalezieniu roślin wracamy do Dominikusa po nagrodę.
 
 #### Niebezpieczna oaza
 
-Po przyniesieniu Dominikowi roślin, ten wysyła nas na poszukiwania jego kostura, który zgubił w oazie niedaleko przejścia na pustynię. Przy ścianie za oazą leży jego broń, z którą wracamy po nagrodę
+Po przyniesieniu Dominikusowi roślin, ten wysyła nas na poszukiwania jego kostura, który zgubił w oazie niedaleko przejścia na pustynię. Przy ścianie za oazą leży jego broń, z którą wracamy po nagrodę.
 
 #### Sekretna biblioteka
 
