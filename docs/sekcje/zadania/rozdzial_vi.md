@@ -679,6 +679,9 @@ Po zrobieniu zadań [Fajka](#fajka) [Poszukiwanie smoków](#poszukiwanie-smokó
 
 Ogrywamy Pata z pieniędzy, co kończy naszą misje.
 
+#### Gra w kości z Sharkym
+Ogrywamy Sharky'ego z pieniędzy, co kończy naszą misje.
+
 #### Czerwony pieprz
 
 Po zrobieniu zadania [Rej](#rej) Pat prosi nas o przyniesienie mu worka czerwonego pieprzu. Możemy go kupić między innymi w Varancie. Po zdobyciu woreczka odnosimy go Patowi, a zadanie się kończy.
