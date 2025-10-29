@@ -24,7 +24,7 @@ Zadanie polega na zabiciu wszystkich smoków. Zameldować o tym Baldwinowi może
 
 Lord Baldwin prosi nas o zebranie wszystkich (40) smoczych jaj na wyspie. Większość jaj znajdziemy przy smokach. Niektóre jednak są porozrzucane po wyspie.
 
-#### Świątynia Beliara
+#### Czarna moc
 
 Zadanie rozpoczyna się po dotarciu do twierdzy Baal Handshara i kończy się po zabiciu go.
 
