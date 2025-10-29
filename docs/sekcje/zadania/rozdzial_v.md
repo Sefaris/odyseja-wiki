@@ -322,9 +322,9 @@ Hakam, komendant straży w Aszdodzie zleca nam pozbycie się gangu Tomaso, któr
 
 Ork Broptek w jednym z domów w Aszdodzie proponuje nam grę w kości, na co oczywiście przystajemy. Ogrywamy go z pieniędzy i na tym misja się kończy.
 
-#### Strażnicy przełęczy
+#### Ochrona Przełęczy
 
-Po otwarciu bramy na przełęczy do Ishtar, Said prosi nas o pozbycie się stamtąd asasynów. Po wyzwoleniu tego posterunku, wracamy do Saida po nagrodę.
+Po otwarciu bramy na przełęczy do Ishtar, Said prosi nas o pozbycie się stamtąd asasynów. Po wyzwoleniu tego posterunku, wracamy do Saida po nagrodę, którą jest kusza łowcy smoków.
 
 #### Wyzwolenie Ugaru
 
