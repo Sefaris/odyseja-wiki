@@ -220,17 +220,17 @@ Krazmaz zleca nam pozbycie się topielców z bocznego korytarza jaskini. Po zab
 
 #### Audiencja u Almansora
 
-Almansor nie będzie chciał z nami rozmawiać, więc udajemy się do jego sługi Alvaresa, który zleca nam zdobycie uznania miejscowych. Robimy misje "Myśliwi w Aszdodzie", "Kradzież w Aszdodzie", "Arena w Aszdodzie" oraz "Tangrok i Krushok", po czym zgadza się on na rozmowę z czarnym magiem..
+Almansor nie będzie chciał z nami rozmawiać, więc udajemy się do jego sługi Alvaresa, który zleca nam zdobycie uznania miejscowych. Robimy misje [Myśliwi w Aszdodzie](#myśliwi-w-aszdodzie), [Kradzież w Aszdodzie](#kradzież-w-aszdodzie), [Arena w Aszdodzie](#arena-w-aszdodzie) oraz [Tangrok i Krushok](#tangrok-i-krushok), po czym zgadza się on na rozmowę z czarnym magiem.
 
 #### Kradzież w Aszdodzie
 
 Suef skarży się nam na znikające bagienne ziele. Oskarża on niewolnika Fernanda, którego przepytujemy na temat kradzieży. Po tym jak wypiera się on swojej winy, przychodzimy do niego o 23 i zastajemy go palącego ziele. Odsyła on nas do Gor Timora w obozie Lopeza, który również nie chce przyznać się do winy. Udajemy się o 3 w nocy do domu Suefa, gdzie zastajemy Timora przy skrzynce. Rozmawiamy z nim, a następnie idziemy do Suefa odebrać rekomendacje.
 
-## Tangrok i Krushok
+#### Tangrok i Krushok
 
-### Zadania główne i powiązane
+Tangrok, ork znajdujący się przy wejściu do Doliny Aszdodu opowiada nam o ulubieńcu Shak-Arosha. Udajemy się do Krushoka w głównym domu w Aszdodzie, a następnie wracamy do Tangroka. Ten odsyła nas do orka myśliwego, Wambeka, któremu dajemy 4 butelki rumu. Po upiciu orka wysyła on nas do Czampoka w Ugarze. Czampok zleca nam zabicie aligatorów w jeziorku niedaleko łowców lwów. Przynosimy mu trofea z gadów, a on daje nam dowód na zdradę Krushoka. Z listem idziemy do Shak-Arosha, który degraduje Krushoka z jego pozycji. Wracamy do Tangroka, a na tym zadanie się kończy.
 
-Tangrok, ork znajdujący się przy wejściu do Doliny Aszdodu opowiada nam o ulubieńcu Shak-Arosha. Udajemy się do Krushoka w głównym domu w Aszdodzie, a następnie wracamy do Tangroka. Ten odsyła nas do orka myśliwego, Wambeka, któremu dajemy 4 butelki rumu. Po upiciu orka wysyła on nas do Czampoka w Ugarze. Czampok zleca nam zabicie aligatorów w jeziorku niedaleko łowców lwów. Przynosimy mu trofea z gadów, a on daje nam dowód na zdradę Krushoka. Z listem idziemy do Shak-Arosha, który degraduje Krushoka z jego pozycji. Wracamy do Tangroka, a na tym zadanie się kończy. (Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, który nas zaatakuje, więc go zabijamy).
+> Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, który nas zaatakuje, więc go zabijamy.
 
 #### Rabujący orkowie
 
