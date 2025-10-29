@@ -554,13 +554,13 @@ Torres zleca nam pozbycie się Berdochy, szefa pustynnych wojowników. Wychodzim
 
 #### Zbiór pomidorów
 
-Bahal potrzebuje kogoś, kto pozbiera dla niego pomidory z jego plantacji. Otrzymujemy klucz i zabijamy ogary oraz chrząszcze na plantacji.
+Bachal potrzebuje kogoś, kto pozbiera dla niego pomidory z jego plantacji. Otrzymujemy klucz i zabijamy ogary oraz chrząszcze na plantacji.
 
-Zbieramy pomidory z krzaków po czym wracamy do Bahala zdać mu relację. Odsyła nas żebyśmy napełnili butelki wodą i podlali grządki. Trzeba pochodzić po plantacji, aż nie dostaniemy wpisu w dzienniku. Nawet jeśli mamy wystarczającą ilość pomidorów, warto podlać grządki jeszcze raz i poczekać tydzień. Dostaniemy wtedy dodatkowe 270-300 pomidorów. Idziemy teraz do Pedro, którego zatrudniamy jako zbieracza pomidorów. Odbieramy od niego pomidory, idziemy do Bahala i kończymy questa. (Pomidorki odzyskamy w handlu, warto je kupić dla siły)
+Zbieramy pomidory z krzaków po czym wracamy do Bachala zdać mu relację. Odsyła nas żebyśmy napełnili butelki wodą i podlali grządki. Trzeba pochodzić po plantacji, aż nie dostaniemy wpisu w dzienniku. Nawet jeśli mamy wystarczającą ilość pomidorów, warto podlać grządki jeszcze raz i poczekać tydzień. Dostaniemy wtedy dodatkowe 270-300 pomidorów. Idziemy teraz do Pedro, którego zatrudniamy jako zbieracza pomidorów. Odbieramy od niego pomidory, idziemy do Bachala i kończymy questa. (Pomidorki odzyskamy w handlu, warto je kupić dla siły)
 
 #### Nadzorca
 
-Bahal nie otrzymał wieści od swojego nadzorcy już od dłuższego czasu. Udajemy się na teren w pobliżu plantacji, gdzie okazuje się, że nadzorcę zabiły potwory. Bierzemy i czytamy notatkę z jego ciała, po czym wracamy do Bahala. Ten zleca nam znalezienie nowego nadzorcy, którym jest Pedro. Uzgadniamy z nim warunki pracy, po czym wracamy do  Bahala i kończymy misje
+Bachal nie otrzymał wieści od swojego nadzorcy już od dłuższego czasu. Udajemy się na teren w pobliżu plantacji, gdzie okazuje się, że nadzorcę zabiły potwory. Bierzemy i czytamy notatkę z jego ciała, po czym wracamy do Bachala. Ten zleca nam znalezienie nowego nadzorcy, którym jest Pedro. Uzgadniamy z nim warunki pracy, po czym wracamy do  Bachala i kończymy misje
 
 #### Mąka dla Ugaru
 
@@ -568,7 +568,7 @@ Torres chce abyśmy przynieśli mu 30 worków mąki. Musimy udać się do młyna
 
 #### Nielegalny handel
 
-Torres jest zaniepokojony handlem bronią w Ugarze. Wysyła nas do Branco, który się wszystkiego wypiera, więc idziemy zapytać o to Czampoka. Czampok odsyła nas z powrotem do Branco, któremu kradniemy klucz i otwieramy jego skrzynie w noclegowni Bahala. Po przeczytaniu notatki wracamy do Branco i udajemy się z nim do kryjówki Humphreya. Robimy teraz zadania [Groźne Cieniostwory](#groźne-cieniostwory) i [Łowca skarbów](#łowca-skarbów), a po oddaniu złota Branco mówi nam, abyśmy śledzili osobę wychodzącą o 3 w nocy z miasta. Śledzimy Gero aż do końca jego trasy, otrzymujemy klucz do jaskini, zabijamy rabusiów i czytamy notatkę. Z notatką udajemy się do Torresa.
+Torres jest zaniepokojony handlem bronią w Ugarze. Wysyła nas do Branco, który się wszystkiego wypiera, więc idziemy zapytać o to Czampoka. Czampok odsyła nas z powrotem do Branco, któremu kradniemy klucz i otwieramy jego skrzynie w noclegowni Bachala. Po przeczytaniu notatki wracamy do Branco i udajemy się z nim do kryjówki Humphreya. Robimy teraz zadania [Groźne Cieniostwory](#groźne-cieniostwory) i [Łowca skarbów](#łowca-skarbów), a po oddaniu złota Branco mówi nam, abyśmy śledzili osobę wychodzącą o 3 w nocy z miasta. Śledzimy Gero aż do końca jego trasy, otrzymujemy klucz do jaskini, zabijamy rabusiów i czytamy notatkę. Z notatką udajemy się do Torresa.
 
 #### Łowca skarbów
 
@@ -626,9 +626,9 @@ Karczmarz opowiada nam o opuszczonym domu niedaleko areny i magazynu. Można tam
 
 Klaas stracił całe złoto z wyprawy grając w kości. Jeśli oddamy mu 2000 złota, otrzymamy od niego mapę na [wyspę Mendozy](sekcje/zadania/rozdzial_vi?id=wyspa-mendozy). Po transakcji misja się kończy. Wieści możemy przekazać Lordowi Baldwinowi, odblokowując tym samym zadanie [Wyspa Piratów](#wyspa-piratów). Wykonać je możemy dopiero w 6 rozdziale.
 
-#### Tytoń Bahala
+#### Tytoń Bachala
 
-Pedro prosi nas o przyniesienie po jednej sztuce specjalnego tytoniu Bahala, który znajduje się w jego domu. Oddajemy tytoń Pedro, a resztę wypalamy. W innym wypadku Bahal będzie na nas zły i trzeba będzie zapłacić mu grzywnę.
+Pedro prosi nas o przyniesienie po jednej sztuce specjalnego tytoniu Bachala, który znajduje się w jego domu. Oddajemy tytoń Pedro, a resztę wypalamy. W innym wypadku Bachal będzie na nas zły i trzeba będzie zapłacić mu grzywnę.
 
 #### Gracz
 
@@ -730,7 +730,7 @@ Kirios, adept znajdujący się na murach Amarny, zleca nam przyniesienie zwoju p
 
 #### Ziarno dla Sancheza
 
-Sanchez potrzebuje 20 worków ziarna, które możemy u Bahala oraz zarządcy magazynu w Ugarze (lub ukraść mu klucz i wziąć z jego magazynu). Niezależnie od wybranego rozwiązania oddajemy mu worki i otrzymujemy nagrodę.
+Sanchez potrzebuje 20 worków ziarna, które możemy u Bachala oraz zarządcy magazynu w Ugarze (lub ukraść mu klucz i wziąć z jego magazynu). Niezależnie od wybranego rozwiązania oddajemy mu worki i otrzymujemy nagrodę.
 
 #### Niebezpieczna karawana
 
