@@ -95,7 +95,7 @@ Mówi on nam o spotkaniu z szefem. Udajemy się do Waine'a, a naszym oczom ukazu
 
 Jeśli zdecydujemy się wypuścić Rączkę lub działamy w imieniu Andre/Wambo, Booze nas zaatakuje i będziemy musieli się pozbyć przemytników z jaskini. Odblokowywuje to zadania poniżej
 
-#### Skarb Rączki
+#### Zdobycz Rączki
 
 Po pobiciu Rączki i uzyskaniu jego klucza oraz mapy, mamy możliwość zdobycia jego skarbu. Po dostaniu się do Górniczej Doliny idziemy do zamku, a w miejscu za sypialnią Gomeza znajduje się skrzynia z rudą i innymi przedmiotami.
 
