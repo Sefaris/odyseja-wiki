@@ -347,7 +347,7 @@ Po podjęciu decyzji o odbiciu Ugaru, Tamara zleca nam pozbycie się w pierwszej
 
 Tamara zleca nam znalezienie jej braci, aby pomogli nam odbić Ugar. Bahram znajduje się pod obozem Saida, wśród myśliwych, a Amir w wieży wojowników Beliara.
 
-#### Wyzwolenie Aszdodu
+#### Wyzwolenie Aszdodu / Szturm na Aszdod
 
 Jeśli zdecydowaliśmy się poprosić Saida o pomoc w odbiciu Aszdodu, ten wysyła nas na przełęcz do Aszdodu, aby porozmawiać z jego bratankiem Gaudarem. Wraz z nim odbijamy miasto i świątynie, po czym pojawia się komunikat na ekranie, po którym rozmawiamy z Gaudarem i Saidem.
 
