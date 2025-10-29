@@ -99,6 +99,10 @@ Jeśli zdecydujemy się wypuścić Rączkę lub działamy w imieniu Andre/Wambo,
 
 Po pobiciu Rączki i uzyskaniu jego klucza oraz mapy, mamy możliwość zdobycia jego skarbu. Po dostaniu się do Górniczej Doliny idziemy do zamku, a w miejscu za sypialnią Gomeza znajduje się skrzynia z rudą i innymi przedmiotami.
 
+#### To ja jestem szefem!
+
+Jak zabijemy Booze i przekażemy informacje Nagurowi to zostaniemy szefem gildii. Od teraz raz na tydzień możemy odebrać część doli z włamań i kradzieży. Po około 12 razach quest kończy się.
+
 > **Uwaga:** Poniższe questy dostępne są tylko jeśli od początku graliśmy po stronie straży.
 
 #### Paser
