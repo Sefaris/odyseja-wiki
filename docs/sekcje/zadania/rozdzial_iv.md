@@ -912,10 +912,9 @@ Po zebraniu owych teleportów wracamy do Merkuriusa i zadanie się kończy.
 
 Po zabraniu tabliczki Akaschy ze świątyni, wokół pojawiło się wielu nieumarłych, których należy się pozbyć. Po zabiciu ich wszystkich wracamy do Merkuriusa i odbieramy nagrodę.
 
-#### Strażnicy wybrzeża
+#### Straż przybrzeżna
 
-Said zleca nam odbicie Patary z rąk asasynów. Najlepiej zrobić tą misje po wypowiedzeniu wojny asasynom, tak aby nie ponieść dodatkowych konsekwencji.  
-Po wszystkim wracamy do Saida, który uzyskuje dostęp do morza.
+Said zleca nam odbicie Patary z rąk asasynów. Najlepiej zrobić tą misje po wypowiedzeniu wojny asasynom, tak aby nie ponieść dodatkowych konsekwencji. Po wszystkim wracamy do Saida, który uzyskuje dostęp do morza.
 
 ## Wieża wojowników Beliara
 
