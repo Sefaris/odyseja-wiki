@@ -848,7 +848,7 @@ Drugi posążek posiadają gobliny, znajdujące się w jaskini na zachodzie. Po 
 
 #### Koczownicy
 
-Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce przy świętym źródle](#topielce-przy-świętym-źródle), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rabusie Alego](#pustynni-rabusie-alego)
+Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce przy świętym źródle](#topielce-przy-świętym-źródle), [Skóry zębaczy dla Bachrama](#skóry-zębaczy-dla-bachrama), [Pustynni rabusie Alego](#pustynni-rabusie-alego)
 
 #### Paczka broni
 
@@ -870,10 +870,9 @@ Ruslan opowiada nam, że chciałbym poślubić Selime, ale jej ojciec nie chce n
 
 Nowicjusz Manuel prosi nas o zabicie topielcy, które zalęgły się przy jeziorku pod jaskinią wodną. Po pozbyciu się gadów, wracamy do Manuela i odbieramy nagrodę..
 
-#### Skóry zębacza dla Bachrama
+#### Skóry zębaczy dla Bachrama
 
-Bachram, przywódca myśliwych pod obozem Saida, prosi nas o pomoc w polowaniu. Musimy dostarczyć mu 12 skór pustynnych zębaczy, które kręcą się w okolicy.  
-Zabijamy zębacze i odnosimy skóry Bachramowi, tym samym kończąc zadanie..
+Bachram, przywódca myśliwych pod obozem Saida, prosi nas o pomoc w polowaniu. Musimy dostarczyć mu 12 skór pustynnych zębaczy, które kręcą się w okolicy. Zabijamy zębacze i odnosimy skóry Bachramowi, tym samym kończąc zadanie.
 
 #### Pustynni rabusie Alego
 
