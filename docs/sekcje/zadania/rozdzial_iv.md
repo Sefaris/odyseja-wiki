@@ -840,7 +840,7 @@ Drugi posążek posiadają gobliny, znajdujące się w jaskini na zachodzie. Po 
 
 #### Koczownicy
 
-Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce w świętym źródełku](#topielce-w-świętym-źródełku), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rozbójnicy Alego](#pustynni-rozbójnicy-alego)
+Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce w świętym źródełku](#topielce-w-świętym-źródełku), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rabusie Alego](#pustynni-rabusie-alego)
 
 #### Paczka broni
 
@@ -867,9 +867,9 @@ Nowicjusz Manuel prosi nas o zabicie topielcy, które zalęgły się przy jezior
 Bachram, przywódca myśliwych pod obozem Saida, prosi nas o pomoc w polowaniu. Musimy dostarczyć mu 12 skór pustynnych zębaczy, które kręcą się w okolicy.  
 Zabijamy zębacze i odnosimy skóry Bachramowi, tym samym kończąc zadanie..
 
-#### Pustynni rozbójnicy Alego
+#### Pustynni rabusie Alego
 
-Kiedy poprosimy Saida o pomoc w odbiciu Aszdodu, zleca on nam pozbycie się wrogiego klanu rozbójników Alego. Znajduje się on między zniszczonym miastem, a wieżą Wojowników Beliara. Po wszystkim wracamy do Saida, który zgadza się udzielić nam pomocy..
+Kiedy poprosimy Saida o pomoc w odbiciu Aszdodu, zleca on nam pozbycie się wrogiego klanu rabusi Alego. Znajduje się on między zniszczonym miastem, a wieżą Wojowników Beliara. Po wszystkim wracamy do Saida, który zgadza się udzielić nam pomocy.
 
 #### Mag wody Merkurius
 
