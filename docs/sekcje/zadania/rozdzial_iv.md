@@ -223,7 +223,7 @@ Trzecia grupa znajduje się przy ognisku, gdzie w podstawce siedzi Lester
 Czwarta grupa jest przy przejściu na Przełęcz.  
 Piąta grupa jest niedaleko mostu prowadzącego na północ Khorinis, tam gdzie piramidy.
 
-#### Przebaczenie dla Corneliusa
+#### Wybaczenie dla Corneliusa
 
 Andre zleca nam udanie się z listem do Corneliusa. Znajduje się on tam, gdzie bandyci Cavalorna w podstawce.  
 Odprowadzamy go do miasta, w międzyczasie pozbywając się poszukiwaczy. Odprowadzamy go naprzeciw straganu Ruperta i idziemy porozmawiać z Andre.
