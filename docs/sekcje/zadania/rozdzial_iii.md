@@ -77,6 +77,9 @@ Bengara możemy znaleźć na farmie Onara. Wybijamy orków z jego farmy, i mówi
 
 Akila możemy znaleźć w jaskini nieopodal jego farmy, w której zdobywaliśmy śmierdzącą rybę z wątku gildii złodziei w Gothicu 2. Wybijamy orków z jego farmy, i mówimy mu, że jego farma jest wolna.
 
+#### Poprosić Gernota o pomoc
+Po wykonaniu [Orkowie na farmach](#orkowie-na-farmach) możemy poprosić Gernota o dodatkowe wsparcie, na które się zgodzi. Do naszego zespołu dołączają Harald, Ernst i Hawk.
+
 #### Zwoje dla Lorda Andre
 
 Po zadaniu [Orkowie na farmach](#orkowie-na-farmach) musimy zdobyć magiczne zwoje od Pyrokara. W tym celu, aby uzyskać klucz do klasztoru musimy wykonać zadanie [Niebezpieczna jaskinia](#niebezpieczna-jaskinia). Gdy już pogadamy w klasztorze z Pyrokarem, to otrzymamy listę składników, którą potrzebujemy zdobyć. Gdy już wszystko zdobędziemy i dostarczymy, czekamy jeden dzień, a pod otrzymaniu zwojów idziemy je oddać Lordowi Andre.
