@@ -318,9 +318,9 @@ Kowal Kendrick prosi Cię o znalezienie bandyty Scatty'ego, który stoi przed po
 
 Francis proponuje nam grę w kości. Ogrywamy go ze złota, a quest się kończy.
 
-#### Napój dla Brandona
+#### Trunek dla Brandona
 
-Brandon zgadza się nas uczyć, tylko pod warunkiem, że przyniesiemy mu Szybkiego Śledzia. Powinniśmy już mieć kilka w ekwipunku, a jeśli nie, to Samuel chętnie nam je sprzeda. Quest się kończy po odniesieniu mu napoju
+Brandon zgadza się nas uczyć, tylko pod warunkiem, że przyniesiemy mu Szybkiego Śledzia. Powinniśmy już mieć kilka w ekwipunku, a jeśli nie, to Samuel chętnie nam je sprzeda. Quest się kończy po przyniesieniu mu alkoholu.
 
 #### Polowanie na aligatory
 
