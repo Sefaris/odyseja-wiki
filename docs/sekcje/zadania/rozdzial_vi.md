@@ -609,11 +609,11 @@ Od Xardasa otrzymujemy teleport do Świątyni Śniącego, gdzie musimy pozbyć s
 
 #### Albrecht
 
-Ingmar zleca nam rozejrzeć się za Albrechtem, który jest na przeszpiegach za palisadą. Znajduje się on za palisadą w małej kotlince przy podziemnym przejściu. Po rozmowie z nim wracamy do Ingmara, a zadanie się kończy
+Ingmar zleca nam rozejrzeć się za Albrechtem, który jest na przeszpiegach za palisadą. Znajduje się on za palisadą w małej kotlince przy podziemnym przejściu. Po rozmowie z nim wracamy do Ingmara, a zadanie się kończy.
 
-#### Wieża mgieł
+#### Wieża Mgieł
 
-Albrecht zleca nam rozejrzenie się po wieży mgieł. Idziemy tam i eksplorujemy ją, aż nie dostaniemy wpisu w dzienniku, po którym można wrócić do Albrechta
+Albrecht zleca nam rozejrzenie się po wieży mgieł. Idziemy tam i eksplorujemy ją, aż nie dostaniemy wpisu w dzienniku, po którym można wrócić do Albrechta.
 
 #### Węże błotne Shrata
 
