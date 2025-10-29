@@ -282,9 +282,18 @@ Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się gr
 
 #### Nauka czarnej magii
 
-Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansona w Aszdodzie (Misja "Kości szkieletów")  Charona w Ugarze (Misja "Serca ognistych golemów") oraz Belasara w Armanie (Misja "Upiorne demony")
+Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansora w Aszdodzie ([Kości szkieletów](#kosci-szkieletow)), Charona w Ugarze ([Serca ognistych golemów](#serca-ognistych-golemow)) oraz Belasara w Armanie ([Upiorne demony](#upiorne-demony)).
 
 Po rozprawieniu się z zadaniami udajemy się do Amru i robimy dla niego zadanie [Prasmok](#prasmok). Po tym zadaniu nauczy on nas języka czarnych magów, którego koniecznie się uczymy. Udajemy się teraz do Almansora i kradniemy mu klucz do biblioteki. Przechodzimy przez bibliotekę dostając się do kolejnych pomieszczeń za pomocą przełączników, a quest kończy się po przeczytaniu ostatniej księgi.
+
+#### Kości szkieletów
+Almansor chce, abyśmy przynieśli mu 24 kości szkieletów. Nieumarli zazwyczaj przebywają w starych ruinach lub jaskiniach. Po dostarczeniu kości, quest zostaje zaliczony.
+
+#### Serca ognistych golemów
+Charon chce, abyśmy przynieśli mu 5 serc ognistych golemów. Golemy można spotkać na pustyni i w górach. Po dostarczeniu serc, quest zostaje zaliczony.
+
+#### Upiorne demony
+Balazar chce, abyśmy zabili 7 upiornych demonów pustyni. Można je znaleźć gdzieś pomiędzy Przełęczą, a wieżą strażniczą wojowników Beliara. Po przekazaniu informacji o ich zabiciu, quest zostaje zaliczony.
 
 #### Prasmok
 
