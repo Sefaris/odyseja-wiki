@@ -936,6 +936,6 @@ Po oddaniu Hassanowi listu od Malika, zleca on nam przyniesienie mu specjalnego 
 
 Amir chciałby przejąć wieżę wojowników Beliara, ale nie ma do tego odpowiednich wojsk. Odbijamy wieżę(Nie wcześniej niż po zrobieniu wszystkich zadań dla asasynów) i wracamy z raportem do Amira.
 
-#### Uwięziony koczownik
+#### Pojmany koczownik
 
-Przy okazji uwalniania wieży, otwieramy więzienie i wypuszczamy stamtąd koczownika. Rozmawiamy z nim ponownie w obozie Amira, co kończy nasze zadanie.
+Przy okazji uwalniania wieży, otwieramy więzienie i wypuszczamy stamtąd Imira. Rozmawiamy z nim ponownie w obozie Amira, co kończy nasze zadanie.
