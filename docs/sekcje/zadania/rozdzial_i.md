@@ -294,7 +294,7 @@ Lokalizacja klucza:
 
 ![Lokalizacja klucza](images/q5FtSNd.png)
 
-#### Dostawa jedzenia
+#### Pomoc w zaopatrzeniu
 
 Jutta prosi Cię, abyś przyniósł jej 12 rzep od farmera Johana. Johan mówi, że możesz je zebrać z pola. Wracamy do Jutty z rzepą, a ona mówi, żebyśmy poszli z nią do kucharza zamkowego Jonathana oraz przy okazji odebrali dwa tuziny ryb od rybaka Freda. Wykonujemy wszystkie polecenia i wracamy do Jutty. Możemy też po prostu oddać jej składniki, jeżeli mamy je przy sobie z innych źródeł.
 
