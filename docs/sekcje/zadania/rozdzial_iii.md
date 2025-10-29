@@ -261,6 +261,10 @@ Zadanie dostaniemy w trakcie wykonywania [Obserwatorium](#obserwatorium). Sejan 
 
 ### Zadania poboczne
 
+#### Proroctwo
+
+Abuyin co rozdział (zaczynajac od szóstego) może nam powróżyć. Po ostatniej przepowiedni kończy się zadanie.
+
 #### Niebezpieczne warany
 
 Po rozmowie z Gernotem na plaży, nagle pojawiają się jaszczury. Zabijamy wszystkie i rozmawiamy o tym z Gernotem.
