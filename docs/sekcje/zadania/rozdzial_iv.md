@@ -888,14 +888,15 @@ Merkurius zgadza się nauczyć nas języka starożytnych, ponieważ potrzebujemy
 
 #### Teleporty Varantu
 
-Merkurius zleca nam zebranie teleportów w Varancie. Musimy mu przynieść
+Merkurius zleca nam zebranie teleportów w Varancie. Musimy mu przynieść:
 
-Wybrzeże Varantu  - Niedaleko Prampeka przy drogowskazie  
+Wybrzeże Varantu - Niedaleko Prampeka przy drogowskazie  
 Przełęcz do Ishtar - W skrzyni w wieży przy bramie na przełęcz  
 Ugar - Do kupienia u Iskry w Ugarze  
 Amarna - Do kupienia u Karima w Amarnie  
 Wieża Wojowników Beliara - W skrzyni na parterze wieży  
-Obóz Saida - Dostajemy od MerkuriusaRuiny Tadmoru - W ruinach niedaleko GemnokaDolina Aszdodu - W wieży naprzeciwko przejścia do Aszdodu  
+Obóz Saida - Dostajemy od MerkuriusaRuiny Tadmoru - W ruinach niedaleko Gemnoka
+Dolina Aszdodu - W wieży naprzeciwko przejścia do Aszdodu  
 Obóz Nemrosha - W namiocie NemroshaŚwiątynia Aszdodu - Do kupienia u Alfonso  
 Po zebraniu owych teleportów wracamy do Merkuriusa i zadanie się kończy.
 
@@ -914,11 +915,11 @@ Po wszystkim wracamy do Saida, który uzyskuje dostęp do morza.
 
 #### Skóry dla Amira
 
-Amir, przywódca grupy koczowników za wieżą Malika, prosi nas o dostarczenie mu 5 skór lwa i 1 skórę trolla. Powinniśmy je już mieć, a jeśli nie, to lwy są wszędzie w okolicy. Przynosimy mu skóry i zyskujemy nowego nauczyciela zręczności i siły
+Amir, przywódca grupy koczowników za wieżą Malika, prosi nas o dostarczenie mu 5 skór lwa i 1 skórę trolla. Powinniśmy je już mieć, a jeśli nie, to lwy są wszędzie w okolicy. Przynosimy mu skóry i zyskujemy nowego nauczyciela zręczności i siły/
 
-#### Wilki przy wieży
+#### Wilki wokół wieży
 
-Mervan prosi nas o pozbycie się pustynnych wilków które przebywają za wieżą Malika. Po zabiciu 12 wilków wracamy do Mervana po nagrodę.
+Merwan prosi nas o pozbycie się pustynnych wilków które przebywają za wieżą Malika. Po zabiciu 12 wilków wracamy do Merwana po nagrodę.
 
 #### Duchy zmarłych
 
@@ -930,8 +931,8 @@ Po oddaniu Hassanowi listu od Malika, zleca on nam przyniesienie mu specjalnego 
 
 #### Wieża wojowników Beliara
 
-Amir chciałby przejąć wieżę wojowników Beliara, ale nie ma do tego odpowiednich wojsk. Odbijamy wieżę(Nie wcześniej niż po zrobieniu wszystkich zadań dla asasynów) i wracamy z raportem do Amira..
+Amir chciałby przejąć wieżę wojowników Beliara, ale nie ma do tego odpowiednich wojsk. Odbijamy wieżę(Nie wcześniej niż po zrobieniu wszystkich zadań dla asasynów) i wracamy z raportem do Amira.
 
 #### Uwięziony koczownik
 
-Przy okazji uwalniania wieży, otwieramy więzienie i wypuszczamy stamtąd koczownika. Rozmawiamy z nim ponownie w obozie Amira, co kończy nasze zadanie..
+Przy okazji uwalniania wieży, otwieramy więzienie i wypuszczamy stamtąd koczownika. Rozmawiamy z nim ponownie w obozie Amira, co kończy nasze zadanie.
