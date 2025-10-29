@@ -77,7 +77,7 @@ Sejan radzi nam zdobyć runę do zamku. W tym celu udajemy się by otworzyć skr
 
 ### Zadania główne i powiązane
 
-#### Wyspa piratów
+#### Wyspa korsarzy
 
 Zadanie rozpoczyna się po pokazaniu mapy Lordowi Baldwinowi od pirata Klaasa z zadania [Oszukany](sekcje/zadania/rozdzial_iv?id=oszukany). Pirat Sam, którego znajdziemy już na wyspie, jest gotów powiedzieć nam, gdzie znajdziemy Mendozę. Zrobi to jednak dopiero po wykonaniu zadań pobocznych: [Zdrajcy w załodze Mendozy](#zdrajcy-w-załodze-mendozy) oraz [Dziennik Korsarza](#dziennik-korsarza). Po wykonaniu obu zadań, Sam mówi nam o Mendozie i zaczyna walkę, więc musimy go zabić.. Mendoza popłynął do Królestwa Smoka co raportujemy Lordowi Baldwinowi kończąc zadanie. W tym samym momencie kończymy zadanie [Złoto piratów](sekcje/zadania/rozdzial_ii?id=złoto-piratów).
 
