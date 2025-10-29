@@ -843,7 +843,7 @@ Drugi posążek posiadają gobliny, znajdujące się w jaskini na zachodzie. Po 
 
 #### Koczownicy
 
-Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce w świętym źródełku](#topielce-w-świętym-źródełku), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rabusie Alego](#pustynni-rabusie-alego)
+Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce przy świętym źródle](#topielce-przy-świętym-źródle), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rabusie Alego](#pustynni-rabusie-alego)
 
 #### Paczka broni
 
@@ -861,7 +861,7 @@ Szaban skarży się na pantery, które porywają jego kozy. Znajdują się one n
 
 Ruslan opowiada nam, że chciałbym poślubić Selime, ale jej ojciec nie chce na to pozwolić. Idziemy do Kamala, a następnie do jego żony Halimy. Następnie ponownie zagadujemy do Kamala, który każe zabić nam czarnego trolla z gór. Idziemy do Ruslana, a następnie zabić trolla, który znajduje się na wzniesieniu naprzeciw wejścia do obozu. Po zebraniu skóry i kłów wracamy do Kamala, a następnie wracamy do Ruslana, a misja się kończy..
 
-#### Topielce w świętym źródełku
+#### Topielce przy świętym źródle
 
 Nowicjusz Manuel prosi nas o zabicie topielcy, które zalęgły się przy jeziorku pod jaskinią wodną. Po pozbyciu się gadów, wracamy do Manuela i odbieramy nagrodę..
 
