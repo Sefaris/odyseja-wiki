@@ -503,7 +503,7 @@ Cała misja polega na rozmowie z Ahabem, marynarzami i Haraldem, by w końcu zdo
 
 **Wskazówki:**
 
-- Tutaj zdobędziesz wystarczającą ilość broni dla Hawka by zostać w końcu bosmanem i uzyskać lepszy pancerz.  
+- Tutaj zdobędziesz wystarczającą ilość broni dla Hawka by zostać w końcu bosmanem i uzyskać [lepszy pancerz](#lepszy-pancerz).  
   \-Na lewo od latarni zeskocz na polane poniżej. Znajdziesz na niej bardzo dobry miecz.  
   \-Wioskę odbij jako ostatnia rzecz na wyspie- Warto eksplorować wyspę z Dandolo, jako że radzi on sobie z większością przeciwników (tylko nie porywajcie się na orków i drzewce)
 - Jeżeli zginie ci myśliwy Enzo znajdujący się poza obozem, to nie przejmuj się. Nie jest do niczego potrzebny.
@@ -512,6 +512,9 @@ Cała misja polega na rozmowie z Ahabem, marynarzami i Haraldem, by w końcu zdo
 - [Gobliny-piraci](#gobliny-piraci)
 
 ### Zadania główne i powiązane
+
+#### Lepszy pancerz
+Quest informacyjny. Po zostaniu bosmanem możemy kupić nowy pancerz u Haralda.
 
 #### Poszukiwanie żywności
 
