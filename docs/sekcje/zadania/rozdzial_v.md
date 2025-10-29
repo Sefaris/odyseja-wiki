@@ -282,7 +282,7 @@ Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się gr
 
 #### Nauka czarnej magii
 
-Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansora w Aszdodzie ([Kości szkieletów](#kosci-szkieletow)), Charona w Ugarze ([Serca ognistych golemów](#serca-ognistych-golemow)) oraz Belasara w Armanie ([Upiorne demony](#upiorne-demony)).
+Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansora w Aszdodzie ([Kości szkieletów](#kości-szkieletów)), Charona w Ugarze ([Serca ognistych golemów](#serca-ognistych-golemów)) oraz Belasara w Armanie ([Upiorne demony](#upiorne-demony)).
 
 Po rozprawieniu się z zadaniami udajemy się do Amru i robimy dla niego zadanie [Prasmok](#prasmok). Po tym zadaniu nauczy on nas języka czarnych magów, którego koniecznie się uczymy. Udajemy się teraz do Almansora i kradniemy mu klucz do biblioteki. Przechodzimy przez bibliotekę dostając się do kolejnych pomieszczeń za pomocą przełączników, a quest kończy się po przeczytaniu ostatniej księgi.
 
