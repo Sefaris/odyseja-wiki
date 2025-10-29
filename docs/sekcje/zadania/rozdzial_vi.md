@@ -611,7 +611,7 @@ Od Xardasa otrzymujemy teleport do Świątyni Śniącego, gdzie musimy pozbyć s
 
 Ingmar zleca nam rozejrzeć się za Albrechtem, który jest na przeszpiegach za palisadą. Znajduje się on za palisadą w małej kotlince przy podziemnym przejściu. Po rozmowie z nim wracamy do Ingmara, a zadanie się kończy
 
-Wieża mgieł
+#### Wieża mgieł
 
 Albrecht zleca nam rozejrzenie się po wieży mgieł. Idziemy tam i eksplorujemy ją, aż nie dostaniemy wpisu w dzienniku, po którym można wrócić do Albrechta
 
@@ -619,7 +619,7 @@ Albrecht zleca nam rozejrzenie się po wieży mgieł. Idziemy tam i eksplorujemy
 
 Shrat zleca nam zabicie 7 błotnych węży, które pojawiają się o północy wokół jego chaty. Śpimy do północy, pozbywamy się węży i zdajemy relacje Shratowi.
 
-Orkowie na bagnie
+#### Orkowie na bagnie
 
 Shrat prosi nas o pozbycie się orków z obozowiska na bagnie. Po zabiciu 23 orków i otrzymaniu wpisu do dziennika wracamy do Shrata co kończy naszą misje.
 
@@ -631,7 +631,7 @@ Shrat opowiada nam o ludziach, którzy kiedyś zamieszkiwali obóz na bagnie. Zn
 
 Ortwin opowiada nam o bandytach, którzy ciągle napadają obóz paladynów. Znajdują się oni za Ortwinem. Po zabiciu ich otrzymujemy wpis w dzienniku i wracamy do Ortwina.
 
-Stara kopalnia
+#### Stara kopalnia
 
 Questa zleca nam Ingmar, po zadaniu [Napad bandytów](#napad-bandytów). Idziemy w miejsce starej kopalni i eksplorujemy tamte tereny, aż nie otrzymamy wpisu w dzienniku, po którym wracamy do Ingmara.
 
