@@ -537,7 +537,7 @@ Torres nie wpuści nas do Tartarona, chyba że wykonamy dla niego zadania takie 
 
 #### Zbiegli niewolnicy
 
-Gasparino każe nam odszukać zbiegłych niewolników. Lokalizacje niewolników
+Gasparino każe nam odszukać zbiegłych niewolników. Lokalizacje niewolników:
 
 Morris Na lewo od wyjścia z Ugaru, leży wśród stada brzytwiaków  
 Wilbert Niedaleko łowców lwów przy palmach  
@@ -546,9 +546,12 @@ Clark W kamiennym domku, którego pilnują dwie pantery
 
 Są dwa rozwiązania tego zadania.
 
-1. Odprowadzamy wszystkich niewolników do Gasparino, który daje nam nagrodę i kończy quest
+1. Odprowadzamy wszystkich niewolników do Gasparino, który daje nam nagrodę i kończymy quest.
 
-2. Po przeczytaniu notatki w ciele Morrisa i rozmowie z Pietem, który jest w kopalni Gasparino, mamy możliwość objąć stronę koczowników. Jeśli się zgodzimy, zadanie psuje się, a my musimy udać się do Tamary i zdobyć zaufanie koczowników
+2. [Ratunek dla niewolników](#Ratunek-dla-niewolników)
+
+#### Ratunek dla niewolników
+Po przeczytaniu notatki w ciele Morrisa i rozmowie z Pietem, który jest w kopalni Gasparino, mamy możliwość objąć stronę koczowników. Jeśli się zgodzimy, [Zbiegli niewolnicy](Zbiegli-niewolnicy) psuje się, a my musimy udać się do Tamary i zdobyć zaufanie koczowników. Po zdobyciu zaufania, wracamy do Piet'a i odprowadzamy wszystkich niewolników do małej oazy za wieżą strażniczą wojowników Beliara. Na miejscu rozmawiazmy z Haram'em.
 
 #### Ogary łowców niewolników
 
