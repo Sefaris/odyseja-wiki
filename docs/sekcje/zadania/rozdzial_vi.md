@@ -20,7 +20,7 @@ Na otwartym morzu trafiasz na statek orków. Pokonaj wszystkich i zdaj raport.
 
 ### Zadania główne i powiązane
 
-#### Atak z podziemi
+#### Atak z zaświatów
 
 Przypływając w 6 rozdziale na Tamorę, zastajemy Janusa i Bruno, którzy stoją na plaży. Zlecają nam pozbycie się nieumarłych z miasta i zamku. Możemy zabijać wszystkich po kolei lub od razu pobiec do Kościanego Lorda, którego zabicie spowoduje śmierć wszystkich innych nieumarłych.
 
