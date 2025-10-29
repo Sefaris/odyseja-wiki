@@ -149,7 +149,7 @@ Zadanie możemy zacząć po przeczytaniu notatki, która była w jednym z ciał 
 
 #### Przywódca spisku
 
-Zadanie dostępne po misji [Zemsta Lee](#w-poszukiwaniu-hektora) (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
+Zadanie dostępne po misji [Zemsta Lee](#zemsta-lee) (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
 
 #### Rytuał z Gothy
 
@@ -408,10 +408,10 @@ Wchodząc do Klanu Rudy okazuje się, że został on zaatakowany przez ogry. Poz
 
 Leif dowiadując się o naszych pobudkach wysyła nas do Bjorna, który zgadza się zaprowadzić nas do Wieży Xardasa. Bjorn zostawia nas przy chatce Daga, skąd zgodnie z drogowskazami idziemy ścieżkami, aż dojdziemy do małego mostku. Przy nim zeskakujemy na ścieżkę niżej i stamtąd idąc prosto trafimy do wieży.
 
-#### Zemsta
+#### Zemsta Lee
 
 W domu przywódcy klanu znajdziemy Lee, który chce dostać się do królewskiego zamku i zabić hrabie Garaksa.  
-Przynosimy mu runę teleportacyjną do Vengardu (sami musimy sobie jakąś zostawić, drugą znajdziemy np. przy [Hektorze](#hektor)) Teraz teleportujemy się wraz z nim do zamku, a następnie gadamy z hrabią, który zgadza się wyjść przed zamek. Tam zabijamy go wraz z Lee, a zadanie się kończy
+Przynosimy mu runę teleportacyjną do Vengardu (sami musimy sobie jakąś zostawić, drugą znajdziemy np. przy [Hektorze](#hektor)) Teraz teleportujemy się wraz z nim do zamku, a następnie gadamy z hrabią, który zgadza się wyjść przed zamek. Tam zabijamy go wraz z Lee, a zadanie się kończy.
 
 #### Zaginiony amulet
 
