@@ -105,13 +105,14 @@ Przy piratach znajdziemy mapę z zaznaczonymi skarbami. Po wykopaniu i przeczyta
 
 #### Ważne misje w Myrtanie
 
+Rhobar zleca nam:
 - odnalezienie Xardasa
 - pokonanie orków
 - odnalezienie Hektora
 - wsparcie buntowników z Faring
 - pomóc gońcom leśnym
 
-Dopiero po wykonaniu tych zadań możemy opuścić Myrtane
+Dopiero po wykonaniu tych zadań i zdaniu raportu królowi możemy opuścić Myrtane.
 
 #### Twierdza
 
