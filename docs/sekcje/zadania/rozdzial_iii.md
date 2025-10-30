@@ -86,6 +86,10 @@ Gernot proponuje byśmy założyli obóz w lesie lub jaskini między klasztorem 
 #### Posterunek w niebezpieczeństwie
 Harald powiedział, że w pobliżu naszego obozu kręci się oddział orków. Trzeba ich zlikwidować, zanim zdążą wezwać posiłki.
 
+#### Patrol orków
+
+Harald mówi nam, że między miastem a farmą Onara kręci się patrol orków. Musimy się go pozbyć, zanim odkryje nasz obóz. Po likwidacji zagrożenia ponownie rozmawiamy z Haraldem.
+
 #### Zwoje dla Lorda Andre
 
 Po zadaniu [Orkowie na farmach](#orkowie-na-farmach) musimy zdobyć magiczne zwoje od Pyrokara. W tym celu, aby uzyskać klucz do klasztoru musimy wykonać zadanie [Niebezpieczna jaskinia](#niebezpieczna-jaskinia). Gdy już pogadamy w klasztorze z Pyrokarem, to otrzymamy listę składników, którą potrzebujemy zdobyć. Gdy już wszystko zdobędziemy i dostarczymy, czekamy jeden dzień, a pod otrzymaniu zwojów idziemy je oddać Lordowi Andre.
