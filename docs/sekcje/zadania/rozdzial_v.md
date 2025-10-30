@@ -109,6 +109,9 @@ Jak zabijemy Booze i przekażemy informacje Nagurowi to zostaniemy szefem gildii
 
 Po zabiciu Booze'a czytamy notatkę z jego ciała i idziemy do jednego domu, który znajduje się w przejściu do części górnego miasta, gdzie mieszkają Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę.
 
+#### Osąd
+Gildia Złodziei będzie sądzona. My jesteśmy wezwani jako świadkowie w sądzie. Wezwanie przekaże nam w ratuszu Cornelius. Zeznania mmamy złożyć jutro o godzinie 13 w górnym mieście, na placu po prawej stronie, przed domem sędziego. Jeśli nie zjawimy się bez usprawiedliwienia, to zostaniemy ukarani grzywną. Po przesłuchaniu udajemy się do Lorda Andre. W domu sędziego znajdziemy klucz do wieży nr 9 a w samej wieży list, z którym możemy iść do sędziego lub Andre. Sędzia będzie chciał nas przekupić eliksirem siły (zadanie zostanie zepsute), lecz my przekupni nie jesteśmy. Odmawiamy i idziemy do Lorda Andre.
+
 #### Zamknięty pokój
 
 W skrzyni Booze'a w górnym mieście znajduje się klucz, który prowadzi do ukrytego pomieszczenia w kanałach. Wejście znajduje się na ścianie, wystarczy kliknąć w odpowiednim miejscu na zamek. Na kamiennym słupie znajduje się żelazny pierścień, który należy przełączyć. W następnym pomieszczeniu również szukamy pierścienia, który otwiera drewnianą klapę w podłodze, pod którą siedzi Rączka.
