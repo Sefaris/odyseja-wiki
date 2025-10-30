@@ -211,9 +211,9 @@ Nagur zleca nam okradnięcie domu Herolda. Sam Herold przemawia na placu wisielc
 
 Znajdujemy tam mapę skarbów, która prowadzi do X'a na polanie nad słonecznym kręgiem.
 
-#### Zakopany skarb
+#### Zakopane skarby
 
-Zadanie aktywuje się automatycznie po przeczytaniu mapy z domu Herolda, a kończy się po wykopaniu go
+Zadanie aktywuje się automatycznie po przeczytaniu mapy z domu Herolda, a kończy się po wykopaniu go.
 
 #### Gra w kości w Khorinis
 
