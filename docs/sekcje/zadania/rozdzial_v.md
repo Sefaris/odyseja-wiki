@@ -284,6 +284,11 @@ Harun, którego obóz mieści się pod Ugarem, zleca nam pozbycie się okoliczny
 
 Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się grupki rozbójników nad jego obozem. Zabijamy rabusiów i wracamy do Haruna po nagrodę.
 
+#### Karawana
+Rabuś Mustafa chce napaść na karawanę kupca Haruna. Musimy ją odnaleźć i przekazać informację Mustafie. Następnie zabieramy Achmeda i jego ludzi na rabunek. Po udanym napadzie meldujemy się u Mustafy.
+
+> Igranie z Asasynami jest nierozsądne przed zakończeniem spraw w Aszdod. Lepiej poczekać z questem.
+
 #### Nauka czarnej magii
 
 Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansora w Aszdodzie ([Kości szkieletów](#kości-szkieletów)), Charona w Ugarze ([Serca ognistych golemów](#serca-ognistych-golemów)) oraz Belasara w Armanie ([Upiorne demony](#upiorne-demony)).
