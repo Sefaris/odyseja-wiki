@@ -263,6 +263,9 @@ Lokalizacja tomów V i VI:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zw1dMh3chms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Skrzynia w obserwatorium
+Na najniższym poziomie wieży, w piwnicy, znajdziemy skrzynię z dosyć skomplikowanym zamkiem. Jeśli nie dam rady jej teraz otworzyć, musimy tutaj wrócić później. Po otwarciu skrzyni znajdujemy notatkę od Xardasa, która odnosi się do księgi znalezionej w tej samej skrzyni. Wynika z niej, że na Khorinis musi być jakieś wulkaniczne miejsce, gdzie możemy znaleźć obsydian. Wygląda na to, że do ów miejsca da się dotrzeć tylko przy pomocy zwoju przemiany w krwiopijcę.
+
 #### Księgi Xardasa z zaklęciami przywołania
 
 W [obserwatorium](#obserwatorium) znajdziemy kolejne 5 ksiąg przywoływania, które czytamy, zabijamy moby, a następnie oddajemy je Sejanowi.
