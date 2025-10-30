@@ -787,7 +787,7 @@ W skrzyni Tartarona, do której klucz ma on sam, znajduje się klucz na przełę
 
 Karim, kupiec z Amarny prosi nas o rozprowadzenie jego towarów z Ishtar po całym Varancie. Możemy wytargować maksymalnie 250 sztuk złota, inaczej misja przepadnie.  
 Udajemy się do Soraba i odbieramy skrzynie z piwnicy. Teraz idziemy do Iskry w Ugarze, Ortegi w Aszdodzie, Belazara w Amarnie oraz Malika w wieży strażników Beliara.  
-Po bezsensownej wędrówce ze skrzynią dla Belazara, wracamy do Karima i odbieramy nagrodę
+Po bezsensownej wędrówce ze skrzynią dla Belazara, wracamy do Karima i odbieramy nagrodę.
 
 #### Złoto Zoraba
 
@@ -813,7 +813,7 @@ Lester prosi nas o odnalezienie wszystkich członków bractwa (Gor Na Ran, Gor 
 
 #### Mapa dla Diego
 
-Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy mapę i otrzymujemy nagrodę
+Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy mapę i otrzymujemy nagrodę.
 
 ## Zachodni Varant
 
@@ -821,9 +821,9 @@ Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy ma
 
 #### [Poszukiwania Xardasa w Varancie](#poszukiwania-xardasa-w-varancie)
 
-#### Rozbójnicy w czarnej wieży
+#### Rozbójnicy
 
-Gargaron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę. 
+Gargoron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę. 
 
 >Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy
 
@@ -922,7 +922,7 @@ Said zleca nam odbicie Patary z rąk asasynów. Najlepiej zrobić tą misje po w
 
 #### Skóry dla Amira
 
-Amir, przywódca grupy koczowników za wieżą Malika, prosi nas o dostarczenie mu 5 skór lwa i 1 skórę trolla. Powinniśmy je już mieć, a jeśli nie, to lwy są wszędzie w okolicy. Przynosimy mu skóry i zyskujemy nowego nauczyciela zręczności i siły/
+Amir, przywódca grupy koczowników za wieżą Malika, prosi nas o dostarczenie mu 5 skór lwa i 1 skórę trolla. Powinniśmy je już mieć, a jeśli nie, to lwy są wszędzie w okolicy. Przynosimy mu skóry i zyskujemy nowego nauczyciela zręczności i siły.
 
 #### Wilki wokół wieży
 
@@ -938,7 +938,7 @@ Po oddaniu Hassanowi listu od Malika, zleca on nam przyniesienie mu specjalnego 
 
 #### Wieża wojowników Beliara
 
-Amir chciałby przejąć wieżę wojowników Beliara, ale nie ma do tego odpowiednich wojsk. Odbijamy wieżę(Nie wcześniej niż po zrobieniu wszystkich zadań dla asasynów) i wracamy z raportem do Amira.
+Amir chciałby przejąć wieżę wojowników Beliara, ale nie ma do tego odpowiednich wojsk. Odbijamy wieżę (Nie wcześniej niż po zrobieniu wszystkich zadań dla asasynów) i wracamy z raportem do Amira.
 
 #### Pojmany koczownik
 
