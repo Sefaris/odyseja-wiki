@@ -627,6 +627,10 @@ Po otrzymaniu pozwolenia na wejście do Aszdodu, musimy się udać do Alvareza, 
 
 ### Zadania poboczne
 
+#### Miejsce do spania w Ugarze
+
+W Ugarze szukamy noclegu, więc rozmawiamy z Rosko, który odsyła nas do Bachala. Niestety, potrzebujemy zgodę od Tartarona na spanie w noclegowni Bachala. Tartaron zezwoli na pobyt w noclegowni po wykonaniu [Księga Czarnego Maga](#Księga-Czarnego-Maga).
+
 #### Opuszczony Dom
 
 Karczmarz opowiada nam o opuszczonym domu niedaleko areny i magazynu. Można tam wejść przez dach, przechodząc po murze miasta. Na komodzie znajduje się klucz do pokoju, w którym jest dźwignia otwierająca piwnicę. Znajdujemy w niej ducha alchemika, który daje nam klucz do katakumb i prosi o zabicie maga Cagliostro, znajdującego się w grobowcu. Po zabiciu nieumarłego wracamy do alchemika, a zadanie się kończy.
