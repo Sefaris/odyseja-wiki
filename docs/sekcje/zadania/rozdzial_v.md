@@ -229,6 +229,9 @@ Krazmaz zleca nam pozbycie się topielców z bocznego korytarza jaskini. Po zab
 
 Almansor nie będzie chciał z nami rozmawiać, więc udajemy się do jego sługi Alvaresa, który zleca nam zdobycie uznania miejscowych. Robimy misje [Myśliwi w Aszdodzie](#myśliwi-w-aszdodzie), [Kradzież w Aszdodzie](#kradzież-w-aszdodzie), [Arena w Aszdodzie](#arena-w-aszdodzie) oraz [Tangrok i Krushok](#tangrok-i-krushok), po czym zgadza się on na rozmowę z czarnym magiem.
 
+#### Zaginiona lustrzana tarcza
+Quest dostaniemy jeśli mamy w ekwipunku **Almanach opętanych Skelrona**. Nie musimy ubiegać o uznanie miejscowych a znaleźć fragmenty lustrzanej tarczy. Trzy kawałki znajdują się w jaskini lawy, niedaleko wioski rybackiej w Khorinis. Czwarty w skarbcu klasztornym, ostatni na cmentarzu obok karczmy Orlana.
+
 #### Kradzież w Aszdodzie
 
 Suef skarży się nam na znikające bagienne ziele. Oskarża on niewolnika Fernanda, którego przepytujemy na temat kradzieży. Po tym jak wypiera się on swojej winy, przychodzimy do niego o 23 i zastajemy go palącego ziele. Odsyła on nas do Gor Timora w obozie Lopeza, który również nie chce przyznać się do winy. Udajemy się o 3 w nocy do domu Suefa, gdzie zastajemy Timora przy skrzynce. Rozmawiamy z nim, a następnie idziemy do Suefa odebrać rekomendacje.
