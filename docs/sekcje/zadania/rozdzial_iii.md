@@ -83,6 +83,9 @@ Po wykonaniu [Orkowie na farmach](#orkowie-na-farmach) możemy poprosić Gernota
 #### Posterunek w lesie
 Gernot proponuje byśmy założyli obóz w lesie lub jaskini między klasztorem a miastem, skąd moglibyśmy obserwować orków. Do zbadania mamy trzy miejsca. Pierwsze: duży las między latarnią a farmą Akila, przy kamiennym kręgu na drodze do mrocznego lasu. Drugie: na prawo za mostem przed tawerną jest ukryty parów ze spalonymi chatami i dobrym widokiem na miasto i drogę do klasztoru. Trzecie: przy drodze z miasta do farmy Akila jest duża dolina, a na jej końcu spora jaskinia. Po zbadaniu miejsc wracamy do latarni i informujemy Haralda, dokąd mają się udać.
 
+#### Posterunek w niebezpieczeństwie
+Harald powiedział, że w pobliżu naszego obozu kręci się oddział orków. Trzeba ich zlikwidować, zanim zdążą wezwać posiłki.
+
 #### Zwoje dla Lorda Andre
 
 Po zadaniu [Orkowie na farmach](#orkowie-na-farmach) musimy zdobyć magiczne zwoje od Pyrokara. W tym celu, aby uzyskać klucz do klasztoru musimy wykonać zadanie [Niebezpieczna jaskinia](#niebezpieczna-jaskinia). Gdy już pogadamy w klasztorze z Pyrokarem, to otrzymamy listę składników, którą potrzebujemy zdobyć. Gdy już wszystko zdobędziemy i dostarczymy, czekamy jeden dzień, a pod otrzymaniu zwojów idziemy je oddać Lordowi Andre.
