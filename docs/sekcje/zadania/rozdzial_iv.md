@@ -677,7 +677,7 @@ Aramis mówi nam o skarbie handlarza Iskry, który znajduje się w piwnicy pod j
 
 Aramis mówi nam o skarbie Amarny, który znajduje się w wieży po lewo od wejścia. Po otwarciu sakiewki wracamy zdać relacje Aramisowi.
 
-#### Skarb w świątyni Aszdodu
+#### Skarb świątyni
 
 Aramis mówi nam o skarbie w świątyni Aszdodu. Musimy do tego pobić strażnika Shirkuha, a następnie udać się do podziemi i wejść do skarbca w jaskini z posągiem poszukiwacza. Po otrzymaniu wpisu w dzienniku wracamy do Aramisa.
 
