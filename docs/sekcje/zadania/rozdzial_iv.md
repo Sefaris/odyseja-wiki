@@ -21,8 +21,10 @@
 
 #### Vengard
 
-Teleportujemy się do sali tronowej króla za pomocą runy otrzymanej od Baldwina. Należy porozmawiać z Królem, a następnie z magazynierem i oddać mu skrzynie z rudą.  
-Ponownie rozmawiamy z Królem i teleportujemy się z powrotem na statek.
+Teleportujemy się do sali tronowej króla za pomocą runy otrzymanej od Baldwina. Należy porozmawiać z Królem, a następnie z zarządzcą. Ponownie rozmawiamy z Królem i teleportujemy się z powrotem na statek.
+
+#### Zlecenie zarządcy
+Zarządca potrzebuje 12 skrzyń z rudą, 30 bochenków chleba, 300 bełtów, 20 eliksirów leczniczych i 20 zwojów kuli ognia.
 
 #### Sztorm
 
