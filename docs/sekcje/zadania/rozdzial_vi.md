@@ -103,6 +103,16 @@ Przy piratach znajdziemy mapę z zaznaczonymi skarbami. Po wykopaniu i przeczyta
 
 ### Zadania główne i powiązane
 
+#### Ważne misje w Myrtanie
+
+- odnalezienie Xardasa
+- pokonanie orków
+- odnalezienie Hektora
+- wsparcie buntowników z Faring
+- pomóc gońcom leśnym
+
+Dopiero po wykonaniu tych zadań możemy opuścić Myrtane
+
 #### Twierdza
 
 Przed wyruszeniem do króla Gernot prosi cię o pozbycie się wszystkich orków z portu i twierdzy. Zabijamy wszystko i wracamy z wykonanym zadaniem.
