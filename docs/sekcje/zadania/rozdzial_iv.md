@@ -80,6 +80,8 @@ Udajemy się do Dandolo, który stoi po lewej stronie na końcu pomostu. Po rozm
 
 > Podczas wycinki może pęknąć trzonek topora. Aby go naprawić, potrzebujemy solidnej gałęzi i ostrza. Gałąź znajdziemy w obozie drwali. Po zebraniu wracamy na statek i naprawiamy topór przy stole warsztatowym, po czym kontynuujemy pracę.
 
+> Podczas wycinki może stępić się nasz topór, więc ostrzymy go na osełce i wracamy do zadania
+
 #### Zabezpieczenie tartaku
 
 Przy czwartym ściętym drzewie Dandolo wspomina o potworach i paladynach, którzy mieli ich pilnować. Musimy ich odnaleźć i porozmawiać w tej sprawie. Dwóch znajduje się na plaży, jeden po lewej stronie obozu drwali, drugi po prawej. Trzeci jest w lesie za obozem, a czwarty w pobliżu namiotu. U Volkera i Erika trzeba pokonać potwory. Po obchodzie wracamy do Dandolo.
