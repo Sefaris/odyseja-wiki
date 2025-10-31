@@ -80,7 +80,7 @@ Udajemy się do Dandolo, który stoi po lewej stronie na końcu pomostu. Po rozm
 
 > Podczas wycinki może pęknąć trzonek topora. Aby go naprawić, potrzebujemy solidnej gałęzi i ostrza. Gałąź znajdziemy w obozie drwali. Po zebraniu wracamy na statek i naprawiamy topór przy stole warsztatowym, po czym kontynuujemy pracę.
 
-> Podczas wycinki może stępić się nasz topór, więc ostrzymy go na osełce i wracamy do zadania
+> Podczas wycinki może stępić się nasz topór, więc ostrzymy go na osełce i wracamy do zadania.
 
 #### Zabezpieczenie tartaku
 
