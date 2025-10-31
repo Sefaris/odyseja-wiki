@@ -151,6 +151,7 @@
 | -------------------- | --------------------------------------------------- |
 | Do obozu buntowników | Sprzedaje Paddy w obozie Aidana                     |
 | Do wieży strażniczej | Skrzynia w wieży strażniczej / Zwłoki na polu bitwy |
+| Do nadmorskiej fortecy | W kieszeni orka pułkownika w fortecy              |
 
 ## Gota
 
