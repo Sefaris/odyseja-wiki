@@ -65,11 +65,11 @@ Jonathan prosi Cię, abyś rozdał jedzenie kowalowi, oraz pięciu paladynom. Na
 
 #### Mięso dla Jonatana
 
-Jonatan potrzebuje 50 sztuk surowego mięsa. Zabijamy ogólnodostępne na wyspie zwierzęta i wracamy do niego z mięsem
+Jonatan potrzebuje 50 sztuk surowego mięsa. Zabijamy ogólnodostępne na wyspie zwierzęta i wracamy do niego z mięsem.
 
 #### Pomoc w polowaniu
 
-Klaus potrzebuje 50 sztuk surowego mięsa, których zdobycie zlecił mu zamkowy kucharz. Powinniśmy je już mieć, a jeśli nie, to pozbywamy się okolicznych ścierwojadów i wilków
+Klaus potrzebuje 50 sztuk surowego mięsa, których zdobycie zlecił mu zamkowy kucharz. Powinniśmy je już mieć, a jeśli nie, to pozbywamy się okolicznych ścierwojadów i wilków.
 
 #### Athanoskie wilki
 
@@ -130,7 +130,7 @@ Aby otrzymać zgodę od Herbrandta, musimy wykonać to zadanie. Mówi nam, że k
 
 #### Zdrajca
 
-Poboczne zadanie, które zakończymy razem ze [Zaginiona broń](#zaginiona-broń)
+Poboczne zadanie, które zakończymy razem ze [Zaginiona broń](#zaginiona-broń).
 
 #### Miecz paladyna
 
