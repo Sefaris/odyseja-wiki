@@ -297,7 +297,7 @@ Rabuś Mustafa chce napaść na karawanę kupca Haruna. Musimy ją odnaleźć i 
 
 #### Nauka czarnej magii
 
-Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansora w Aszdodzie ([Kości szkieletów](#kości-szkieletów)), Charona w Ugarze ([Serca ognistych golemów](#serca-ognistych-golemów)) oraz Belasara w Armanie ([Upiorne demony](#upiorne-demony)).
+Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansora w Aszdodzie ([Kości szkieletów](#kości-szkieletów)), Charona w Ugarze ([Serca ognistych golemów](#serca-ognistych-golemów)) oraz Belazara w Armanie ([Upiorne demony](#upiorne-demony)).
 
 Po rozprawieniu się z zadaniami udajemy się do Amru i robimy dla niego zadanie [Prasmok](#prasmok). Po tym zadaniu nauczy on nas języka czarnych magów, którego koniecznie się uczymy. Udajemy się teraz do Almansora i kradniemy mu klucz do biblioteki. Przechodzimy przez bibliotekę dostając się do kolejnych pomieszczeń za pomocą przełączników, a quest kończy się po przeczytaniu ostatniej księgi.
 
@@ -308,7 +308,7 @@ Almansor chce, abyśmy przynieśli mu 24 kości szkieletów. Nieumarli zazwyczaj
 Charon chce, abyśmy przynieśli mu 5 serc ognistych golemów. Golemy można spotkać na pustyni i w górach. Po dostarczeniu serc, quest zostaje zaliczony.
 
 #### Upiorne demony
-Balazar chce, abyśmy zabili 7 upiornych demonów pustyni. Można je znaleźć gdzieś pomiędzy Przełęczą, a wieżą strażniczą wojowników Beliara. Po przekazaniu informacji o ich zabiciu, quest zostaje zaliczony.
+Belazar chce, abyśmy zabili 7 upiornych demonów pustyni. Można je znaleźć gdzieś pomiędzy Przełęczą, a wieżą strażniczą wojowników Beliara. Po przekazaniu informacji o ich zabiciu, quest zostaje zaliczony.
 
 #### Prasmok
 
