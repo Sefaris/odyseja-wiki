@@ -132,7 +132,7 @@
 | Cel teleportacji          | Lokalizacja runy                                                                                                                  |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Do zamku Rhobara          | Przywódca bandytów w Zachodnim Varancie                                                                                           |
-| Do grobowca Czarnego Maga | ??? (Nieznana lokalizacja - jeśli znajdziesz, napisz na Discord Tulipan#1810)                                                     |
+| Do grobowca Czarnego Maga | nie wiem                                                     |
 | W nieznane miejsce        | Jaskinia gryfów niedaleko mostu (obok jaskini z zadania [Tajemnicza jaskinia](sekcje/zadania/rozdzial_iv?id=tajemnicza-jaskinia)) |
 
 ## Vengard
