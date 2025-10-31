@@ -20,7 +20,7 @@ Na otwartym morzu trafiasz na statek orków. Pokonaj wszystkich i zdaj raport.
 
 ### Zadania główne i powiązane
 
-#### Atak z podziemi
+#### Atak z zaświatów
 
 Przypływając w 6 rozdziale na Tamorę, zastajemy Janusa i Bruno, którzy stoją na plaży. Zlecają nam pozbycie się nieumarłych z miasta i zamku. Możemy zabijać wszystkich po kolei lub od razu pobiec do Kościanego Lorda, którego zabicie spowoduje śmierć wszystkich innych nieumarłych.
 
@@ -37,9 +37,9 @@ Zwoju "Wygnanie zła" (który powinniśmy zdobyć podczas eksploracji Varantu/My
 
 Gdy wrócimy na Adarmos w 6 rozdziale, to dowiadujemy się od starszego wioski oraz jego żony, że Garrik jest obecnie uciekinierem, gdy dał do zrozumienia Roshowi o jego tyranii. Znajdziemy go w jaskini, w której wcześniej przebywał Alvares. Po rozmowie z nim, zadanie się zakończy
 
-#### Zemsta na Roshu
+#### Porachunki z Roshem
 
-Po rozmowie z Garrikiem i dowiedzeniu się, że Rosh zamordował Baromira, postanawiamy wspomóc Garrika w tej sprawie. Najpierw musimy zabić wszystkich najemników, a następnie pokonać Rosha, którego znajdziemy przy chatce Baromira. Mówimy o tym Garrikowoi.
+Po rozmowie z Garrikiem i dowiedzeniu się, że Rosh zamordował Baromira, postanawiamy wspomóc Garrika w tej sprawie. Najpierw musimy zabić wszystkich najemników, a następnie pokonać Rosha, którego znajdziemy przy chatce Baromira. Mówimy o tym Garrikowi.
 
 ## Athanos
 
@@ -77,7 +77,7 @@ Sejan radzi nam zdobyć runę do zamku. W tym celu udajemy się by otworzyć skr
 
 ### Zadania główne i powiązane
 
-#### Wyspa piratów
+#### Wyspa korsarzy
 
 Zadanie rozpoczyna się po pokazaniu mapy Lordowi Baldwinowi od pirata Klaasa z zadania [Oszukany](sekcje/zadania/rozdzial_iv?id=oszukany). Pirat Sam, którego znajdziemy już na wyspie, jest gotów powiedzieć nam, gdzie znajdziemy Mendozę. Zrobi to jednak dopiero po wykonaniu zadań pobocznych: [Zdrajcy w załodze Mendozy](#zdrajcy-w-załodze-mendozy) oraz [Dziennik Korsarza](#dziennik-korsarza). Po wykonaniu obu zadań, Sam mówi nam o Mendozie i zaczyna walkę, więc musimy go zabić.. Mendoza popłynął do Królestwa Smoka co raportujemy Lordowi Baldwinowi kończąc zadanie. W tym samym momencie kończymy zadanie [Złoto piratów](sekcje/zadania/rozdzial_ii?id=złoto-piratów).
 
@@ -102,6 +102,17 @@ Przy piratach znajdziemy mapę z zaznaczonymi skarbami. Po wykopaniu i przeczyta
 - Należy wykonać najpierw zadanie [Twierdza](#twierdza) przed wyruszeniem w dalszą drogę, ponieważ można zbugować sobie resztę zadań.
 
 ### Zadania główne i powiązane
+
+#### Ważne misje w Myrtanie
+
+Rhobar zleca nam:
+- odnalezienie Xardasa
+- pokonanie orków
+- odnalezienie Hektora
+- wsparcie buntowników z Faring
+- pomóc gońcom leśnym
+
+Dopiero po wykonaniu tych zadań i zdaniu raportu królowi możemy opuścić Myrtane.
 
 #### Twierdza
 
@@ -131,11 +142,11 @@ Paladyn Markus opowiada nam o niewielkim oddziale zwiadowczym, który kręci si
 
 Zadanie dostajemy od paladyna Thordira. Więcej informacji dostaniemy od paladyna Markusa. Jeden z nich jest na początku w mieście w jednym z pierwszych domów. Reszta ocalałych jest niedaleko przed miastem w jaskini. Odprowadzamy wszystkich na zamek i gadamy na końcu z paladynem Thoridrem.
 
-#### Orkowie w Vengardzie
+#### Oblegająca armia
 
-Cobryn opowiada nam, że miasto zostało zajęte przez orków i trzeba je odbić. Zadanie wykonujemy dopiero po misji “Spisek”. Po odbiciu wracamy do Cobryna przekazać nowinę. Tym samym zyskujemy pancerz paladyna.
+Cobryn opowiada nam, że miasto zostało zajęte przez orków i trzeba je odbić. Zadanie wykonujemy dopiero po misji [Spisek](#spisek). Po odbiciu wracamy do Cobryna przekazać nowinę. Tym samym zyskujemy pancerz paladyna.
 
-#### Nowicjusz za kratami
+#### Nowicjusz za kratkami
 
 Zadanie rozpoczynamy rozmawiając ze sługą w zamku. Opowiada nam o tajnym więzieniu, do którego wejście jest gdzieś na parterze. Przełącznik i samo więzienie znajduje się w jadalni, a misja kończy się po rozmowie z więźniem.
 
@@ -149,7 +160,7 @@ Zadanie możemy zacząć po przeczytaniu notatki, która była w jednym z ciał 
 
 #### Przywódca spisku
 
-Zadanie dostępne po misji [Zemsta Lee](#w-poszukiwaniu-hektora) (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
+Zadanie dostępne po misji [Zemsta Lee](#zemsta-lee) (patrz Nordmar - Klan Rudy). W skrzyni Lorda Garaksa znajdujemy ważną notatkę. Czytamy ją rozpoczynając misję i przekazujemy wieści  królowi, że zdrajców spotkała zasłużona kara.
 
 #### Rytuał z Gothy
 
@@ -161,7 +172,7 @@ Po zakończeniu zadania [Rytuał z Gothy](#rytuał-z-gothy), król każe nam ost
 
 #### Ucieczka z więzienia
 
-Wymagane jest ukończenie [Orkowie w Vengardzie](#zagubieni-orkowie), [Spisek](#zlecenie-od-lorda-baldwina) oraz [Naszyjnik królowej](#naszyjnik-królowej)
+Wymagane jest ukończenie [Oblegająca armia](#Oblegająca-armia), [Spisek](#spisek) oraz [Naszyjnik królowej](#naszyjnik-królowej)
 
 Rozmawiając z Nolanem mówi mu, że jesteśmy przekonani o jego niewinności i pomożemy mu w ucieczce. W tym celu rozmawiamy z dozorcą i dowiadujemy się, że zapomina się przy damach. Idziemy więc do pomieszczenia gdzie jest dama i pokojówka, kradniemy suknie, wracamy do Nolana i przekonujemy go, by to założył. Uciekamy z nim prosto do namiotu przed zamkiem, tam gdzie wcześniej stacjonowali orkowie.
 
@@ -279,15 +290,15 @@ Jeszcze w Vengardzie, król Rhobar II zleciał nam odszukanie buntowników z Far
 
 #### Wysłannik buntowników
 
-Bo dostaniu się do buntowników, Aidan wysyła nas byśmy odnaleźli wysłannika. Jest nim Joker, którego mogliśmy spotkać już, w domku, niedaleko Adriana. Po rozmowie z nim wracamy do przywódcy buntowników.
+Bo dostaniu się do buntowników, Aidan wysyła nas byśmy odnaleźli wysłannika. Jest nim Joker, którego mogliśmy spotkać już w domku, niedaleko Adriana. Po rozmowie z nim wracamy do przywódcy buntowników.
 
-#### Oddział pościgowy orków
+#### Ścigany
 
-W trakcie zadania [Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poinformowani, że Jokera ściągano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
+W trakcie zadania [Wysłannik buntowników](#wysłannik-buntowników) zostaniemy poinformowani, że Jokera ścigano. Idąc w stronę buntowników piechotą będziemy mogli spotkać orków, których należy pokonać i powiedzieć o tym Jokerowi.
 
-#### Wieża strażnicza Faring
+#### Morska forteca Faring
 
-Zadanie rozpoczyna się, gdy wspominamy o wieży strażniczej Aidanowi. Zakończymy je zabijając stacjonujących tam orków i wracając powiedzieć o tym Aidanowi.
+Zadanie rozpoczyna się, gdy wspominamy o fortecy Aidanowi. Zakończymy je zabijając stacjonujących tam orków i wracając powiedzieć o tym Aidanowi.
 
 #### Karawana orków
 
@@ -321,7 +332,7 @@ Niko mogliśmy spotkać razem z Degenhartem (miejsce zaznaczone na mapie). Zgodz
 
 Niedaleko zamku buntowników z Faring mogliśmy spotkać farmera Melchiora, którego niepokoją dźwięki dochodzące z pola i słyszane w nocy. Okazuje się, że na polu spotykamy zwykłego szczura, którego należy pokonać. Po ponownej rozmowie z farmerem, ten nam nie wierzy i nie otrzymujemy wynagrodzenia.
 
-#### Zabłąkana owca
+#### Zabłąkane owca
 
 Po wykonaniu zadania [Farmer i potwór](#farmer-i-potwór), Melchior następnego dnia mówi nam, że uciekły jego owce przed wilkami. Zadanie kończy się po dostarczeniu trzech żywych owiec oraz zameldowaniu o jednej martwej. Owce są dobrze poukrywane i porozrzucane po okolicy.  
 ![](images/image1.png)
@@ -342,7 +353,7 @@ Po wykonaniu zadania [Farmer i potwór](#farmer-i-potwór), Melchior następnego
 
 #### Nieznośne zimno
 
-Zadanie to zaczyna się automatycznie po wejściu do Nordmaru, a kończy po zdobyciu pancerza w [Wieży strażniczej Faring](#wieża-strażnicza-faring)
+Zadanie to zaczyna się automatycznie po wejściu do Nordmaru, a kończy po zdobyciu pancerza z [Morskiej forteca Faring](#Morska-forteca-Faring).
 
 #### Poszukiwanie Xardasa
 
@@ -398,7 +409,7 @@ Lokalizacja diamentów:
 
 ## Klan Rudy
 
-### Zadania gĹ‚Ăłwne i powiÄ…zane
+### Zadania główne i powiązane
 
 #### Atak ogrów
 
@@ -408,10 +419,10 @@ Wchodząc do Klanu Rudy okazuje się, że został on zaatakowany przez ogry. Poz
 
 Leif dowiadując się o naszych pobudkach wysyła nas do Bjorna, który zgadza się zaprowadzić nas do Wieży Xardasa. Bjorn zostawia nas przy chatce Daga, skąd zgodnie z drogowskazami idziemy ścieżkami, aż dojdziemy do małego mostku. Przy nim zeskakujemy na ścieżkę niżej i stamtąd idąc prosto trafimy do wieży.
 
-#### Zemsta
+#### Zemsta Lee
 
 W domu przywódcy klanu znajdziemy Lee, który chce dostać się do królewskiego zamku i zabić hrabie Garaksa.  
-Przynosimy mu runę teleportacyjną do Vengardu (sami musimy sobie jakąś zostawić, drugą znajdziemy np. przy [Hektorze](#hektor)) Teraz teleportujemy się wraz z nim do zamku, a następnie gadamy z hrabią, który zgadza się wyjść przed zamek. Tam zabijamy go wraz z Lee, a zadanie się kończy
+Przynosimy mu runę teleportacyjną do Vengardu (sami musimy sobie jakąś zostawić, drugą znajdziemy np. przy [Hektorze](#hektor)) Teraz teleportujemy się wraz z nim do zamku, a następnie gadamy z hrabią, który zgadza się wyjść przed zamek. Tam zabijamy go wraz z Lee, a zadanie się kończy.
 
 #### Zaginiony amulet
 
@@ -453,11 +464,11 @@ Elgur zleca nam znalezienie 12 alkojagód do produkcji nordmarskiego alkoholu. D
 
 Olaf, kowal z klanu Rudy, prosi nas o dostarczenie mu 12 kawałków magicznej rudy. Przynosimy mu rudę, którą powinniśmy już mieć, a w nagrodę otrzymujemy amulet.
 
-#### Skóry szablozęba dla Daga
+#### Skóry szablozębów dla Daga
 
 Dag ma co do nas wątpliwości i każe nam przynieść 12 skór szablozęba, które można znaleźć w całym Nordmarze. Po oddaniu otrzymujemy rudę, a zadanie się kończy.
 
-#### Śnieżna bestia
+#### Śnieżne zwierzę
 
 Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii znajdującej się wysoko w górach Nordmaru. Droga do bestii:
 
@@ -465,13 +476,13 @@ Dag nadal nie jest do nas przekonany i wysyła nas na zabicie Śnieżnej Bestii 
 
 Wspinamy się w góry i zabijamy albinosa stojącego pośród innych trolli. Ze skórą wracamy do Daga po nagrodę.
 
-#### Milten chce dojść do Klanu Rudy
+#### Milten chce iść do Klanu Rudy
 
 Eksplorując Nordmar napotykamy maga ognia Miltena, który chce dotrzeć do Klanu Rudy. Warto z nim pochodzić, jako że jest nieśmiertelny, więc skutecznie tankuje nordmarskie kreatury. Ostatecznie odprowadzamy go do Klanu Rudy, gdzie rozmawiamy z nim, a zadanie się kończy.
 
 ## Klan Ognia
 
-### Zadania gĹ‚Ăłwne i powiÄ…zane
+### Zadania główne i powiązane
 
 Na teren Klanu Ognia dostaniemy się dzięki zadaniu [Północna świątynia Beliara](#północna-świątynia-beliara)
 
@@ -487,7 +498,7 @@ Baldur zleca nam zabicie wściekłych rozpruwaczy nieopodal Klanu Ognia. Po zabi
 
 Ingolf zleca nam pozbycie się denerwujących goblinów nieopodal Klanu Ognia. Po zabiciu ich wszystkich wracamy do Ingolfa, a zadanie się kończy.
 
-#### Zaginiony w lodach
+#### Zaginiony w lodzie
 
 Ansgar zgadza się zaprowadzić nas do ruin Isagratu, pod warunkiem, że przyprowadzimy zaginionego myśliwego z ich klanu. Lokalizacja Ulfruna:
 
@@ -501,13 +512,13 @@ Na koniec wracamy do Ansgara, a misja się kończy.
 
 Oddział pościgowy orków
 
-Od Ulfruna dowiadujemy się, że ściga go oddział orków berserkerów. Znajduje się on nieopodal, więc pozbywamy się orków i wracamy do Ulfruna
+Od Ulfruna dowiadujemy się, że ściga go oddział orków berserkerów. Znajduje się on nieopodal, więc pozbywamy się orków i wracamy do Ulfruna.
 
 #### W drogę do ruin świątyni!
 
-Ansgar zgadza się zaprowadzić nas na tereny Isagratu.Pod warunkiem że pomożemy innym myśliwym w Klanie Ognia. Robimy zadania [Natrętne gobliny](#natrętne-gobliny) [Polowanie na rozpruwacze](#polowanie-na-rozpruwacze) [Polowanie na lodowe wilki](#polowanie-na-lodowe-wilki), po czym wracamy do Ansgara dowiedzieć że o kolejnym zadaniu [Zaginiony w lodach](#zaginiony-w-lodach), po którym zgadza się on nas zaprowadzić. Idziemy z nim w międzyczasie wykonując zadania [Jaskinia Trollów](#jaskinia-trollów) i [Ochrona mostu](#ochrona-mostu). Kiedy dojdziemy już do sekretnego wejścia, zadanie się kończy.
+Ansgar zgadza się zaprowadzić nas na tereny Isagratu.Pod warunkiem że pomożemy innym myśliwym w Klanie Ognia. Robimy zadania [Natrętne gobliny](#natrętne-gobliny) [Polowanie na rozpruwacze](#polowanie-na-rozpruwacze) [Polowanie na lodowe wilki](#polowanie-na-lodowe-wilki), po czym wracamy do Ansgara dowiedzieć że o kolejnym zadaniu [Zaginiony w lodach](#zaginiony-w-lodach), po którym zgadza się on nas zaprowadzić. Idziemy z nim w międzyczasie wykonując zadania [Jaskinia trolli](#jaskinia-trolli) i [Ochrona mostu](#ochrona-mostu). Kiedy dojdziemy już do sekretnego wejścia, zadanie się kończy.
 
-#### Jaskinia trollów
+#### Jaskinia trolli
 
 Idąc z Ansgarem do Isagratu musimy przedostać się przez jaskinie pełną trolli. Zabijamy trolle wewnątrz jak i przy wyjściu z jaskini, po czym wracamy do Ansgara, a quest się kończy.
 
@@ -523,17 +534,15 @@ Idąc z Ansgarem do Isagratu napotykamy na oddział berserkerów na moście. Poz
 
 #### Strażnik Isagrat
 
-Ansgar opowiada nam o potwornym stworzeniu, które ma swoją siedzibę w świątyni. Podczas oczyszczania budynku zabijamy ogaropodobnego stwora, po czym możemy wrócić do Ansgara
+Ansgar opowiada nam o potwornym stworzeniu, które ma swoją siedzibę w świątyni. Podczas oczyszczania budynku zabijamy ogaropodobnego stwora, po czym możemy wrócić do Ansgara.
 
-###
+#### Klan Berserkerów
 
-Klan berserkerów
-
-Podczas wędrówki do Isagratu Ansgar opowiada nam o wiosce berserkerów przed wejściem do Isagratu. Po wybiciu odpowiedniej ilości orków dostaniemy komunikat na ekranie i możemy wrócić do Ansgara
+Podczas wędrówki do Isagratu Ansgar opowiada nam o wiosce berserkerów przed wejściem do Isagratu. Po wybiciu odpowiedniej ilości orków dostaniemy komunikat na ekranie i możemy wrócić do Ansgara.
 
 ## Klan Morsa
 
-### Zadania gĹ‚Ăłwne i powiÄ…zane
+### Zadania główne i powiązane
 
 #### Złodzieje Ryb
 
@@ -611,17 +620,17 @@ Od Xardasa otrzymujemy teleport do Świątyni Śniącego, gdzie musimy pozbyć s
 
 #### Albrecht
 
-Ingmar zleca nam rozejrzeć się za Albrechtem, który jest na przeszpiegach za palisadą. Znajduje się on za palisadą w małej kotlince przy podziemnym przejściu. Po rozmowie z nim wracamy do Ingmara, a zadanie się kończy
+Ingmar zleca nam rozejrzeć się za Albrechtem, który jest na przeszpiegach za palisadą. Znajduje się on za palisadą w małej kotlince przy podziemnym przejściu. Po rozmowie z nim wracamy do Ingmara, a zadanie się kończy.
 
-Wieża mgieł
+#### Wieża Mgieł
 
-Albrecht zleca nam rozejrzenie się po wieży mgieł. Idziemy tam i eksplorujemy ją, aż nie dostaniemy wpisu w dzienniku, po którym można wrócić do Albrechta
+Albrecht zleca nam rozejrzenie się po wieży mgieł. Idziemy tam i eksplorujemy ją, aż nie dostaniemy wpisu w dzienniku, po którym można wrócić do Albrechta.
 
 #### Węże błotne Shrata
 
 Shrat zleca nam zabicie 7 błotnych węży, które pojawiają się o północy wokół jego chaty. Śpimy do północy, pozbywamy się węży i zdajemy relacje Shratowi.
 
-Orkowie na bagnie
+#### Orkowie na bagnie
 
 Shrat prosi nas o pozbycie się orków z obozowiska na bagnie. Po zabiciu 23 orków i otrzymaniu wpisu do dziennika wracamy do Shrata co kończy naszą misje.
 
@@ -629,11 +638,14 @@ Shrat prosi nas o pozbycie się orków z obozowiska na bagnie. Po zabiciu 23 ork
 
 Shrat opowiada nam o ludziach, którzy kiedyś zamieszkiwali obóz na bagnie. Znajdziemy ich przed wejściem do Świątyni Śniącego. Po pozbyciu się zła z Świątyni Śniącego, nasi łysi przyjaciele staną się znowu przyjaźnie nastawieni, po czym możemy wrócić do Shrata oddać misje.
 
+#### Zło w Górniczej Dolinie
+Quest połączony z [Fanatyczni wyznawcy](#Fanatyczni-wyznawcy). Rozmawiamy z Gor Asifem przed wejściem do Świątyni Śniącego, pozbywamy się zła ze świątyni, ponownie gadamy z Gor Asifem.
+
 #### Napad bandytów
 
 Ortwin opowiada nam o bandytach, którzy ciągle napadają obóz paladynów. Znajdują się oni za Ortwinem. Po zabiciu ich otrzymujemy wpis w dzienniku i wracamy do Ortwina.
 
-Stara kopalnia
+#### Stara kopalnia
 
 Questa zleca nam Ingmar, po zadaniu [Napad bandytów](#napad-bandytów). Idziemy w miejsce starej kopalni i eksplorujemy tamte tereny, aż nie otrzymamy wpisu w dzienniku, po którym wracamy do Ingmara.
 
@@ -680,6 +692,9 @@ Po zrobieniu zadań [Fajka](#fajka) [Poszukiwanie smoków](#poszukiwanie-smokó
 #### Gra w kości z Patem
 
 Ogrywamy Pata z pieniędzy, co kończy naszą misje.
+
+#### Gra w kości z Sharkym
+Ogrywamy Sharky'ego z pieniędzy, co kończy naszą misje.
 
 #### Czerwony pieprz
 

@@ -24,10 +24,21 @@ Zadanie polega na zabiciu wszystkich smoków. Zameldować o tym Baldwinowi może
 
 Lord Baldwin prosi nas o zebranie wszystkich (40) smoczych jaj na wyspie. Większość jaj znajdziemy przy smokach. Niektóre jednak są porozrzucane po wyspie.
 
-#### Świątynia Beliara
+#### Czarna moc
 
 Zadanie rozpoczyna się po dotarciu do twierdzy Baal Handshara i kończy się po zabiciu go.
 
 #### Zdrada Ganeluna
 
 Gdy przechodzimy przez ostatni teleport na wyspie trafiamy na Ganeluna. Okazuje się, że jest zdrajcą. Po pokonaniu go należy zameldować o tym Lordowi Baldwinowi (sprawdź też [Potężna broń](sekcje/zadania/rozdzial_iv?id=potężna-broń) oraz [Szpon Beliara](sekcje/zadania/rozdzial_iv?id=szpon-beliara))
+
+## Athanos
+
+#### Tęsknota za domem
+
+Przed wyruszeniem do króla w Vengardzie, wpierw płyniemy z powrotem na Athanos, by upewnić się, że wszystko tam w porządku. Przede wszystkim rozmawiamy z Juttą, Sejanem, Ralfem, Klausem i oczywiście Charlotte oraz Fredem.
+
+## Vengard
+
+#### Raport dla króla
+Po zabiciu Baal Handshar'a udajemy się do Vengardu i zdajemy raport. W tym momencie możemy zakończyć moda lub wrócić na inne wyspy w celu dokończenia questów.

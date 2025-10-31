@@ -21,7 +21,7 @@ Nagur opowiada nam o specjalnych rybach, w których złodzieje przenoszą inform
 
 2. DROGA ZŁODZIEI Idziemy z rybami do Nagura, który mówi nam, że wiadomość jest od Waine'a, szefa przemytników.
 
-#### Kryjówka przemytników
+#### Jaskinia przemytników
 
 Zadania są powiązane z [Gildia złodziei](sekcje/zadania/rozdzial_iv?id=gildia-złodziei)
 
@@ -35,7 +35,7 @@ b) Mówimy Waine'owi, że zrobiliśmy wszystko, a ten każe nam zapłacić i prz
 
 Otrzymujemy zadanie [Krwawe Puchary](#krwawe-puchary), a kiedy je zrobimy, Waine odsyła nas do Nagura, gdzie zadanie się kończy.
 
-#### Kusząca oferta
+#### Kusząca propozycja
 
 Baloro oferuje nam potężna broń, pod warunkiem że przyniesiemy mu jedzenie. Możemy odmówić lub przynieść mu jedzenie. Niezależnie od naszej decyzji, okazuje się, że nas oszukał i broni nie dostaniemy. Możemy wyzwać go na pojedynek i odzyskać jedzenie, aczkolwiek nie wolno go zabijać.
 
@@ -43,9 +43,9 @@ Baloro oferuje nam potężna broń, pod warunkiem że przyniesiemy mu jedzenie. 
 
 Eddi potrzebuje pomocy aby wykuć lekki topór na kowadle. Po dostarczeniu potrzebnych materiałów, otrzymujemy od niego przepis, by wykonać topór. Po wykuciu należy naostrzyć go na osełce i oddać.
 
-#### Bart sprawia kłopoty
+#### Bart sprawia problemy
 
-Jeśli Bart zagada nas odpowiednią ilość razy rozpocznie się walka. Po pokonaniu go i rozmowie, zadanie się kończy
+Jeśli Bart zagada nas odpowiednią ilość razy rozpocznie się walka. Po pokonaniu go i rozmowie, zadanie się kończy.
 
 #### Test odwagi
 
@@ -55,7 +55,7 @@ Przemytnik Josh opowiada nam o groźnym piekielnym ogarze, który przebywa w les
 
 Przemytnik Josh wysyła nas do jaskini w kotlinie obok Wieży Xardasa, abyśmy przynieśli mu dwie skrzynie z kontrabandą. Rozprawiamy się z poszukiwaczami i jaszczuroczłekami, po czym oddajemy mu skrzynie.
 
-#### Grzyby dla Krugera
+#### Grzyby dla gospodarza
 
 Przemytnik Kruger zleca nam zebranie 10 leśnych smardzów i 12 surojadek, na jego specjalną zupę. Oba rodzaje grzybów można znaleźć w lesie przed jaskinią.  
 Przynosimy Krugerowi składniki i zadanie się kończy.
@@ -95,15 +95,22 @@ Mówi on nam o spotkaniu z szefem. Udajemy się do Waine'a, a naszym oczom ukazu
 
 Jeśli zdecydujemy się wypuścić Rączkę lub działamy w imieniu Andre/Wambo, Booze nas zaatakuje i będziemy musieli się pozbyć przemytników z jaskini. Odblokowywuje to zadania poniżej
 
-#### Skarb Rączki
+#### Zdobycz Rączki
 
 Po pobiciu Rączki i uzyskaniu jego klucza oraz mapy, mamy możliwość zdobycia jego skarbu. Po dostaniu się do Górniczej Doliny idziemy do zamku, a w miejscu za sypialnią Gomeza znajduje się skrzynia z rudą i innymi przedmiotami.
+
+#### To ja jestem szefem!
+
+Jak zabijemy Booze i przekażemy informacje Nagurowi to zostaniemy szefem gildii. Od teraz raz na tydzień możemy odebrać część doli z włamań i kradzieży. Po około 12 razach quest kończy się.
 
 > **Uwaga:** Poniższe questy dostępne są tylko jeśli od początku graliśmy po stronie straży.
 
 #### Paser
 
 Po zabiciu Booze'a czytamy notatkę z jego ciała i idziemy do jednego domu, który znajduje się w przejściu do części górnego miasta, gdzie mieszkają Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę.
+
+#### Osąd
+Gildia Złodziei będzie sądzona. My jesteśmy wezwani jako świadkowie w sądzie. Wezwanie przekaże nam w ratuszu Cornelius. Zeznania mmamy złożyć jutro o godzinie 13 w górnym mieście, na placu po prawej stronie, przed domem sędziego. Jeśli nie zjawimy się bez usprawiedliwienia, to zostaniemy ukarani grzywną. Po przesłuchaniu udajemy się do Lorda Andre. W domu sędziego znajdziemy klucz do wieży nr 9 a w samej wieży list, z którym możemy iść do sędziego lub Andre. Sędzia będzie chciał nas przekupić eliksirem siły (zadanie zostanie zepsute), lecz my przekupni nie jesteśmy. Odmawiamy i idziemy do Lorda Andre.
 
 #### Zamknięty pokój
 
@@ -117,9 +124,9 @@ Rączka opowiada nam o informatorze, z którym Booze spotykał się w kamiennym 
 
 Kiedy powiemy mu że Booze nie żyje, ten nas atakuje, a my idziemy do Wambo po nagrodę.
 
-#### W poszukiwaniu Kruka
+#### Śladem Kruka
 
-Rączka zleca nam dostarczenie mu dziennika Kruka, który znajduje się w jego pokoju w zamku w Górniczej Dolinie. Dowiadujemy się z niego, że poszukuje on szponu beliara, więc wracamy do Świątyni Adanosa znaleźć zwłoki Kruka(o ile jeszcze tego nie zrobiliśmy). Wracamy do Rączki i quest się kończy
+Rączka zleca nam dostarczenie mu dziennika Kruka, który znajduje się w jego pokoju w zamku w Górniczej Dolinie. Dowiadujemy się z niego, że poszukuje on szponu beliara, więc wracamy do Świątyni Adanosa znaleźć zwłoki Kruka (o ile jeszcze tego nie zrobiliśmy). Wracamy do Rączki i quest się kończy.
 
 #### Okradnięcie Lorda Andre
 
@@ -157,7 +164,7 @@ Amenofis zleca nam zdobycie Szponu Beliara i pokazanie mu go (Misja ["Potężna 
 
 #### Niebiańska Tarcza
 
-Amenofis zleca nam zdobycie Niebiańskiej Tarczy. Po zrobieniu zadań [Poszukiwania w świątyni Adanosa](#poszukiwania-w-świątyni-adanosa) [Biblioteka w kanionie](#biblioteka-w-kanionie) [Starożytna piramida](#starożytna-piramida) [Ukryta świątynia](#ukryta-świątynia).
+Amenofis zleca nam zdobycie Niebiańskiej Tarczy. Po zrobieniu zadań [Poszukiwania w świątyni Adanosa](#poszukiwania-w-świątyni-adanosa) [Biblioteka w kanionie](#biblioteka-w-kanionie) [Stara piramida](#stara-piramida) [Ukryta świątynia](#ukryta-świątynia).
 
 W świątyni Tadmoru, do której dostajemy się w ramach misji od Merkuriusa, znajduje się skrzynka z tablicą, w której jest napisane, że dysk został ukryty w tajnej świątyni Adanosa. Teraz musimy iść do kanionu z lwami i wejść do portalu, skąd trafiamy przed drzwi "świątyni wahadeł". Przechodzimy przez świątynie, a następnie przez zarośniętą jaskinię, a następnie udajemy się do świątyni w ukrytej dolinie, gdzie musimy pokonać kościanych wojowników i ich lorda.
 
@@ -167,7 +174,7 @@ Teraz trzeba znaleźć 8 ornamentów, które są rozmieszczone w skrzyniach w do
 
 Amenofis zleca nam przeszukanie świątyni Adanosa. Na jej końcu znajduje się skrzynia, a w niej pożądana tabliczka, którą odnosimy Amenofisowi.
 
-#### Poszukiwania kamiennych tabliczek
+#### Kolekcjoner
 
 Zadanie to jest dostępne dopiero przy misji [Poszukiwania w świątyni Adanosa](#poszukiwania-w-świątyni-adanosa)  
 Pirat Tom szuka kolorowych tabliczek budowniczych. Znajdują się one w miejscach z podstawki tj. w świątyniach budowniczych.
@@ -192,9 +199,9 @@ W głównym pomieszczeniu przeszukujemy zwłoki Kruka i wracamy do Toma
 
 Amenofis zleca nam przeszukiwanie biblioteki w kanionie. Ze zdobytym kluczem możemy otworzyć nowe przejście znajdujące się w lewej części biblioteki. Znajdujemy tam kolejną tabliczkę, z którą udajemy się do Amenofisa
 
-#### Starożytna piramida
+#### Stara piramida
 
-Amenofis zleca nam przeszukanie piramidy w Khorinis. Płyniemy podwodnym przejściem w rzece pod mostem na wykopaliska. Należy uważnie się rozejrzeć po bocznych odnogach, jako że znajduje się w nich potrzebny klucz. Otwieramy skrzynie w piramidzie, znajdujemy tabliczkę i odnosimy ją Amefisowi.
+Amenofis zleca nam przeszukanie piramidy w Khorinis. Płyniemy podwodnym przejściem w rzece pod mostem na wykopaliska. Należy uważnie się rozejrzeć po bocznych odnogach, jako że znajduje się w nich potrzebny klucz. Otwieramy skrzynie w piramidzie, znajdujemy tabliczkę i odnosimy ją Amenofisowi.
 
 #### Ukryta świątynia
 
@@ -206,7 +213,7 @@ Amenofis prosi nas o pomoc goblinowi Prazkazowi, który został wygnany ze swoje
 
 Po wszystkim Krazmas przyjmuje Prazkaza do plemienia, a my wracamy do Amenofisa i odbieramy nagrodę.
 
-#### Walka z goblinem
+#### Pojedynek z goblinem
 
 Otrzymujemy zwój przemiany w czarnego goblina, przemieniamy się i idziemy porozmawiać z goblinem na arenie, a następnie go pokonujemy. Po wszystkim wracamy do Krazmaza i zadanie się kończy.
 
@@ -220,17 +227,20 @@ Krazmaz zleca nam pozbycie się topielców z bocznego korytarza jaskini. Po zab
 
 #### Audiencja u Almansora
 
-Almansor nie będzie chciał z nami rozmawiać, więc udajemy się do jego sługi Alvaresa, który zleca nam zdobycie uznania miejscowych. Robimy misje "Myśliwi w Aszdodzie", "Kradzież w Aszdodzie", "Arena w Aszdodzie" oraz "Tangrok i Krushok", po czym zgadza się on na rozmowę z czarnym magiem..
+Almansor nie będzie chciał z nami rozmawiać, więc udajemy się do jego sługi Alvaresa, który zleca nam zdobycie uznania miejscowych. Robimy misje [Myśliwi w Aszdodzie](#myśliwi-w-aszdodzie), [Kradzież w Aszdodzie](#kradzież-w-aszdodzie), [Arena w Aszdodzie](#arena-w-aszdodzie) oraz [Tangrok i Krushok](#tangrok-i-krushok), po czym zgadza się on na rozmowę z czarnym magiem.
+
+#### Zaginiona lustrzana tarcza
+Quest dostaniemy jeśli mamy w ekwipunku **Almanach opętanych Skelrona**. Nie musimy ubiegać o uznanie miejscowych a znaleźć fragmenty lustrzanej tarczy. Trzy kawałki znajdują się w jaskini lawy, niedaleko wioski rybackiej w Khorinis. Czwarty w skarbcu klasztornym, ostatni na cmentarzu obok karczmy Orlana.
 
 #### Kradzież w Aszdodzie
 
 Suef skarży się nam na znikające bagienne ziele. Oskarża on niewolnika Fernanda, którego przepytujemy na temat kradzieży. Po tym jak wypiera się on swojej winy, przychodzimy do niego o 23 i zastajemy go palącego ziele. Odsyła on nas do Gor Timora w obozie Lopeza, który również nie chce przyznać się do winy. Udajemy się o 3 w nocy do domu Suefa, gdzie zastajemy Timora przy skrzynce. Rozmawiamy z nim, a następnie idziemy do Suefa odebrać rekomendacje.
 
-## Tangrok i Krushok
+#### Tangrok i Krushok
 
-### Zadania główne i powiązane
+Tangrok, ork znajdujący się przy wejściu do Doliny Aszdodu opowiada nam o ulubieńcu Shak-Arosha. Udajemy się do Krushoka w głównym domu w Aszdodzie, a następnie wracamy do Tangroka. Ten odsyła nas do orka myśliwego, Wambeka, któremu dajemy 4 butelki rumu. Po upiciu orka wysyła on nas do Czampoka w Ugarze. Czampok zleca nam zabicie aligatorów w jeziorku niedaleko łowców lwów. Przynosimy mu trofea z gadów, a on daje nam dowód na zdradę Krushoka. Z listem idziemy do Shak-Arosha, który degraduje Krushoka z jego pozycji. Wracamy do Tangroka, a na tym zadanie się kończy.
 
-Tangrok, ork znajdujący się przy wejściu do Doliny Aszdodu opowiada nam o ulubieńcu Shak-Arosha. Udajemy się do Krushoka w głównym domu w Aszdodzie, a następnie wracamy do Tangroka. Ten odsyła nas do orka myśliwego, Wambeka, któremu dajemy 4 butelki rumu. Po upiciu orka wysyła on nas do Czampoka w Ugarze. Czampok zleca nam zabicie aligatorów w jeziorku niedaleko łowców lwów. Przynosimy mu trofea z gadów, a on daje nam dowód na zdradę Krushoka. Z listem idziemy do Shak-Arosha, który degraduje Krushoka z jego pozycji. Wracamy do Tangroka, a na tym zadanie się kończy. (Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, który nas zaatakuje, więc go zabijamy).
+> Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, który nas zaatakuje, więc go zabijamy.
 
 #### Rabujący orkowie
 
@@ -252,7 +262,7 @@ Przynosimy mu 10 roślin leczniczych, 5 ziół leczniczych, 5 korzeni leczniczyc
 
 Alvarez ginie przy odbiciu Aszdodu, więc odzyskamy swoje rośliny stałe.
 
-#### Handel w Aszdodzie
+#### Interesy w Aszdodzie
 
 Alvarez wysyła nas do Haruna, po wino z Tarsos dla swojego pana. Harun prosi nas o zapytanie innych ludzi z Aszdodu, czy nie potrzebują czegoś od niego. Udajemy się do Ortegi, Ibrahima, Suefa, Selima i Alfonso. Z zamówieniami wracamy do Haruna, gdzie okazuje się, że nie ma on prawie nic z zamówionych towarów. Musimy zdobyć
 
@@ -280,11 +290,25 @@ Harun, którego obóz mieści się pod Ugarem, zleca nam pozbycie się okoliczny
 
 Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się grupki rozbójników nad jego obozem. Zabijamy rabusiów i wracamy do Haruna po nagrodę.
 
+#### Karawana
+Rabuś Mustafa chce napaść na karawanę kupca Haruna. Musimy ją odnaleźć i przekazać informację Mustafie. Następnie zabieramy Achmeda i jego ludzi na rabunek. Po udanym napadzie meldujemy się u Mustafy.
+
+> Igranie z Asasynami jest nierozsądne przed zakończeniem spraw w Aszdod. Lepiej poczekać z questem.
+
 #### Nauka czarnej magii
 
-Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansona w Aszdodzie (Misja "Kości szkieletów")  Charona w Ugarze (Misja "Serca ognistych golemów") oraz Belasara w Armanie (Misja "Upiorne demony")
+Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misje dla czarnych magów, co zleca nam Almansor. Idziemy do Tartarona, który odsyła nas do Almansora w Aszdodzie ([Kości szkieletów](#kości-szkieletów)), Charona w Ugarze ([Serca ognistych golemów](#serca-ognistych-golemów)) oraz Belazara w Armanie ([Upiorne demony](#upiorne-demony)).
 
 Po rozprawieniu się z zadaniami udajemy się do Amru i robimy dla niego zadanie [Prasmok](#prasmok). Po tym zadaniu nauczy on nas języka czarnych magów, którego koniecznie się uczymy. Udajemy się teraz do Almansora i kradniemy mu klucz do biblioteki. Przechodzimy przez bibliotekę dostając się do kolejnych pomieszczeń za pomocą przełączników, a quest kończy się po przeczytaniu ostatniej księgi.
+
+#### Kości szkieletów
+Almansor chce, abyśmy przynieśli mu 24 kości szkieletów. Nieumarli zazwyczaj przebywają w starych ruinach lub jaskiniach. Po dostarczeniu kości, quest zostaje zaliczony.
+
+#### Serca ognistych golemów
+Charon chce, abyśmy przynieśli mu 5 serc ognistych golemów. Golemy można spotkać na pustyni i w górach. Po dostarczeniu serc, quest zostaje zaliczony.
+
+#### Upiorne demony
+Belazar chce, abyśmy zabili 7 upiornych demonów pustyni. Można je znaleźć gdzieś pomiędzy Przełęczą, a wieżą strażniczą wojowników Beliara. Po przekazaniu informacji o ich zabiciu, quest zostaje zaliczony.
 
 #### Prasmok
 
@@ -318,13 +342,13 @@ Po zwycięstwie na arenie w Aszdodzie Wambek odprowadza nas do Shak Arosha. Zlec
 
 Hakam, komendant straży w Aszdodzie zleca nam pozbycie się gangu Tomaso, który osiedlił się w jaskini w górach Aszdodu. Idziemy w kierunku grobowca Baal Handshara, aż dojdziemy do małej oazy. Przy niej powinna być jaskinia, w której znajdują się wyżej wspomniani rabusie. Po zabiciu ich wracamy do Hakama po nagrodę.
 
-#### Broptek lubi rzucać kości
+#### Gra w kości z Broptekiem
 
 Ork Broptek w jednym z domów w Aszdodzie proponuje nam grę w kości, na co oczywiście przystajemy. Ogrywamy go z pieniędzy i na tym misja się kończy.
 
-#### Strażnicy przełęczy
+#### Ochrona Przełęczy
 
-Po otwarciu bramy na przełęczy do Ishtar, Said prosi nas o pozbycie się stamtąd asasynów. Po wyzwoleniu tego posterunku, wracamy do Saida po nagrodę.
+Po otwarciu bramy na przełęczy do Ishtar, Said prosi nas o pozbycie się stamtąd asasynów. Po wyzwoleniu tego posterunku, wracamy do Saida po nagrodę, którą jest kusza łowcy smoków.
 
 #### Wyzwolenie Ugaru
 
@@ -338,7 +362,7 @@ Po podjęciu decyzji o odbiciu Ugaru, Tamara zleca nam pozbycie się w pierwszej
 
 Tamara zleca nam znalezienie jej braci, aby pomogli nam odbić Ugar. Bahram znajduje się pod obozem Saida, wśród myśliwych, a Amir w wieży wojowników Beliara.
 
-#### Bitwa o Aszdod
+#### Wyzwolenie Aszdodu / Szturm na Aszdod
 
 Jeśli zdecydowaliśmy się poprosić Saida o pomoc w odbiciu Aszdodu, ten wysyła nas na przełęcz do Aszdodu, aby porozmawiać z jego bratankiem Gaudarem. Wraz z nim odbijamy miasto i świątynie, po czym pojawia się komunikat na ekranie, po którym rozmawiamy z Gaudarem i Saidem.
 
@@ -370,7 +394,7 @@ Said zleca nam odbicie Amarny. Daje nam do pomocy Ruslana i kilku koczowników, 
 
 Merkurius zleca nam pozbycie się orków i asasynów z obozu Nemrosha. Po zabiciu wszystkich wracamy do maga i odbieramy nagrodę
 
-#### Dziwne kształty
+#### Dziwne istoty
 
 Po rozmowie z Baal Handsharem, udajemy się do Arama, który zleca nam pozbycie się kościanych wojowników z wybrzeża. Po zabiciu nieumarłych wracamy do Arama.
 

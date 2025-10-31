@@ -21,8 +21,10 @@
 
 #### Vengard
 
-Teleportujemy się do sali tronowej króla za pomocą runy otrzymanej od Baldwina. Należy porozmawiać z Królem, a następnie z magazynierem i oddać mu skrzynie z rudą.  
-Ponownie rozmawiamy z Królem i teleportujemy się z powrotem na statek.
+Teleportujemy się do sali tronowej króla za pomocą runy otrzymanej od Baldwina. Należy porozmawiać z Królem, a następnie z zarządzcą. Ponownie rozmawiamy z Królem i teleportujemy się z powrotem na statek.
+
+#### Zlecenie zarządcy
+Zarządca potrzebuje 12 skrzyń z rudą, 30 bochenków chleba, 300 bełtów, 20 eliksirów leczniczych i 20 zwojów kuli ognia.
 
 #### Sztorm
 
@@ -59,6 +61,68 @@ Zadanie można również wykonać rozmawiając z Samem po raz pierwszy właśnie
 Po odprowadzeniu Dandolo na statek opowiada on nam o orkowym statku, który rozbił się na pobliskiej dużej rafie. Płyniemy na rafę, pozbywamy się przeciwników i zgarniamy wszystkie łupy jak i wykopujemy rudy.
 
 Po zabiciu orków powinniśmy otrzymać wpis, a wtedy możemy udać się do Dandolo i zakończyć misję.
+
+## Wyspa krabów
+
+### Zadania główne i powiązane
+
+#### Zniszczenia po burzy
+
+Quest informacyjny zlecany przez Halvara. Po sztormie lądujemy na Krabowej Wyspie, gdzie musimy naprawić nasz statek.
+
+#### Wsparcie załogi
+
+W rozmowie z Halvarem na wyspie możemy zgodzić się pomóc przy naprawie Albatrosa lub odmówić. Po akceptacji zadania musimy wykonać trzy subquesty: [drewno na statek](#drewno-na-statek), [naprawa kadłuba statku](#Naprawa-kadłuba-statku) oraz [kolorowe ryby](#kolorowe-ryby).
+
+#### Drewno na statek
+
+Udajemy się do Dandolo, który stoi po lewej stronie na końcu pomostu. Po rozmowie z nim ścinamy drzewo obok i ponownie zagadujemy. Dandolo prowadzi nas na kolejną wycinkę. Ścinamy drzewo, wycinamy pnie i znowu z nim rozmawiamy. Po czterech ściętych drzewach idziemy do łuparki, a następnie do strugnicy. Gdy drewno będzie gotowe, wracamy do Halvara.
+
+> Podczas wycinki może pęknąć trzonek topora. Aby go naprawić, potrzebujemy solidnej gałęzi i ostrza. Gałąź znajdziemy w obozie drwali. Po zebraniu wracamy na statek i naprawiamy topór przy stole warsztatowym, po czym kontynuujemy pracę.
+
+#### Zabezpieczenie tartaku
+
+Przy czwartym ściętym drzewie Dandolo wspomina o potworach i paladynach, którzy mieli ich pilnować. Musimy ich odnaleźć i porozmawiać w tej sprawie. Dwóch znajduje się na plaży, jeden po lewej stronie obozu drwali, drugi po prawej. Trzeci jest w lesie za obozem, a czwarty w pobliżu namiotu. U Volkera i Erika trzeba pokonać potwory. Po obchodzie wracamy do Dandolo.
+
+#### Naprawa kadłuba statku
+
+Do naprawy kadłuba potrzebujemy 3 długich, 4 średnich i 4 krótkich desek. Idziemy do piły i przygotowujemy potrzebne materiały. Po pokazaniu desek Halvarowi przybijamy je do kadłuba od zewnątrz i od wewnątrz. Następnie uszczelniamy nieszczelne miejsca smołą. Niezbędne narzędzia otrzymamy od Wolfganga. Po zakończeniu napraw wracamy do Halvara.
+
+#### Kolorowe ryby
+
+Po zakończeniu prac przy kadłubie przejmujemy obowiązki Svena i idziemy na ryby. Po złowieniu 12 kolorowych ryb zanosimy je do Albina.
+
+> Podczas łowienia może pęknąć żyłka. Wtedy udajemy się do Wolfganga, który sprzedaje nową. Po naprawie sprzętu wracamy na łowisko. Gdy złowimy 12 kolorowych ryb, ponownie zanosimy je do Albina, a następnie wracamy do Halvara.
+
+#### Kokosy
+Po podejściu do palmy otrzymujemy zadanie zebrania kokosów. Przydatny będzie autoloot lub free aiming. Po zebraniu kokosa quest zostaje zaliczony.
+
+#### Jakby zapadł się pod ziemię
+Halvar informuje nas, że zaginął Ernst. Przy beczkach nad rzeką, niedaleko łowiska, znajdujemy ślady stóp. Podążając ich tropem, docieramy do drzewa z plamą krwi, a kawałek dalej leży martwy dzik i łuk Ernsta. Wracamy z informacjami do Halvara, po czym ponownie udajemy się na miejsce. Od dzika przechodzimy przez bagna i przy skale znajdujemy kolejny ślad. Kierujemy się kamienną ścieżką w górę i po krótkiej wędrówce odnajdujemy szablę Ernsta. Idziemy dalej prosto, a gdy pojawi się nowy wpis w dzienniku, cofamy się do krzaków, które mijaliśmy wcześniej. Stojąc przodem do ściany, po lewej stronie znajdujemy klucz i przełącznik. Aktywujemy go, by wejść do jaskini, gdzie więziony jest Ernst. W drugiej komorze atakuje nas porywacz – nie zabijamy go, tylko obezwładniamy. Po krótkiej rozmowie zamykamy pustelnika w klatce i wracamy do Halvara, by zgłosić wykonanie zadania.
+
+#### Beczki z wodą pitną
+Po zgodzeniu się na pomoc Ernstowi wracamy nad rzekę i przenosimy beczki na plażę. Po trzech kursach informujemy Halvara o wykonaniu zadania i kończymy misję.
+
+#### Szalony pustelnik
+
+Pustelnik prosi, abyśmy przynieśli mu grzyby z jaskini zaznaczonej na jego mapie. Po ich zebraniu, ze względu na nieprzyjemny zapach, pokazujemy je Wulfiasowi, który odkrywa, że są silnie trujące. Informujemy o tym pustelnika i czekamy trzy dni, aż przejdzie detoks. Następnie, po przeczytaniu jego dzienniczka, przekazujemy mu jego prawdziwe imię. Potem udajemy się do Baldwina, prosząc o ułaskawienie porywacza – ten się zgadza. Następnego dnia wracamy do Dusty’ego, kończąc zadanie.
+
+#### Tajemnicza wyspa
+
+Po ukończeniu zadania [Szalony pustelnik](#szalony-pustelnik) i rozmowie z Dustym o wyspie dowiadujemy się o nieumarłych krążących nocami nad rzeką i w górach. Po pokonaniu ich, przy jednym z magów znajdujemy klucz do skrzyni. Skrzynia znajduje się w jaskini, do której można dostać się od strony morza. Po jej otwarciu czeka nas walka z królem aligatorów.
+[![](https://i.imgur.com/vCPcAai.png)](https://imgur.com/a/APY2Rgo)
+
+#### Przy ognisku
+
+Halvar zaprasza nas na ognisko, które odbędzie się przy namiocie o 20:00. Podczas spotkania rozmawiamy z towarzyszami i w międzyczasie zbieramy gałęzie, aby podtrzymać ogień.
+
+#### Niebezpieczne bagno
+Zadanie informacyjne, które kończy się po wypłynięciu z wyspy.
+
+#### Bagienna ferba
+Na bagnach dopada nas gorączka, więc udajemy się do Halvara, który odsyła nas do Wulfiasa. Niestety, mag pokładowy nie ma odpowiedniego lekarstwa. Uleczyć nas może dopiero Merkurius w Varancie lub mikstura kupiona od Bachala.
+
+> Po złapaniu ferby najlepiej wczytać grę, ponieważ choroba ustawia manę na poziomie 20 punktów, niezależnie od naszej maksymalnej wartości.
 
 ## Tamora
 
@@ -102,7 +166,7 @@ Kajo daje nam list, z którym udajemy się do Telema na Tamorze. Ten opowiada na
 
 ### Zadania główne i powiązane
 
-#### Co się stało z Kolwinem?
+#### Gdzie się podział Kolwin?
 
 Po powrocie na Khorus udajemy się do Haralda, który opowiada nam o zaginięciu Kolwina. Pytamy mieszkańców wioski, po czym udajemy się do obozu myśliwych, gdzie dowiadujemy się, że myśliwy Refti go widział.Od niego dowiadujemy się, że widział go w okolicy namiotu Valandraji i latarni Tadeusa. Wypytujemy tę dwójkę, po czym Tadeus mówi nam, że Kolwin udał się do kopalni węgla i gadamy z Kolwinem.  
 Na koniec udajemy się do Haralda i powiadamiamy go o naszym sukcesie.
@@ -113,9 +177,9 @@ Na koniec udajemy się do Haralda i powiadamiamy go o naszym sukcesie.
 
 #### Gildia Złodziei
 
-Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_iii?id=złoto-jory), możemy dołączyć (lub odrzucić ofertę) do gildii złodziei. Jeżeli zdecydujemy się dołączyć w rozdziale 3 możemy wykonać tylko [Plan Rengaru](#plan-rengaru). Więcej zadań odblokujemy dopiero w rozdziale 4 od Nagura. Dodatkowym wymogiem jest wyzwolenie miasta. Dodatkowe zadania w 4 rozdziale to: [Kradzież u Lutero](#kradzież-u-lutero) (po tym zadaniu mamy alternatywną ścieżkę zadań - [Pośród złodziei](#pośród-złodziei) - po czym zadanie z gildią złodziei może się wcześniej zakończyć), po której ogarniają nas wyrzuty sumienia i możemy wydać gildię Lordowi Andre. Ten jednak nie ma czasu, więc udajemy się z tym do Wambo i twoim zadaniem będzie znaleźć tożsamość [przywódcy](#gildia-złodziei) oraz [pasera](#paser). Będziecie się spotykać po godzinie 20:00, w jaskini z teleportem obok cmentarza Martwej Harpii. [Specjalna ryba](sekcje/zadania/rozdzial_v?id=specjalna-ryba), [Kryjówka przemytników](#kryjówka-przemytników), [Kontrabanda](#kontrabanda), [Grzyby dla Krugera](#grzyby-dla-krugera), [Tania ryżówka](#tania-ryżówka), [Kusząca oferta](#kusząca-oferta), [Krwawe puchary](#krwawe-puchary), [Bart sprawia kłopoty](#bart-sprawia-kłopoty), [Test odwagi](#test-odwagi), [Topór bandyty”](#topór-bandyty). Po wykonaniu zadań dla przemytników dostaniemy od Nagura zadanie [Okradnięcie Lorda Andre](#okradnięcie-lorda-andre). Kolejne zadania dostaniemy dopiero w 5 rozdziale, a dokładniej po odblokowaniu dostępu do [Aszdod](sekcje/zadania/rozdzial_v?id=aszdod). Nagur powie nam, że [szef przemytników oczekuje](#gildia-złodziei) na nas w ich kryjówce. Spotykamy tam Booze’a, któremu wcześniej wręczyliśmy piwo w kanalizacji. Twoim zadaniem obecnie jest zabicie wszystkich. Z ciała szefa przemytników zabieramy klucz do kufra oraz drzwi do jego pokoju. Dom znajduje się w przejściu do części gdzie mieszka Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę. Przy okazji w domu mogliśmy rozpocząć, po przeczytaniu notatki, zadanie [Zamknięty pokó](#zamknięty-pokój)j”
+Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_iii?id=złoto-jory), możemy dołączyć (lub odrzucić ofertę) do gildii złodziei. Jeżeli zdecydujemy się dołączyć w rozdziale 3 możemy wykonać tylko [Plan Rengaru](#plan-rengaru). Więcej zadań odblokujemy dopiero w rozdziale 4 od Nagura. Dodatkowym wymogiem jest wyzwolenie miasta. Dodatkowe zadania w 4 rozdziale to: [Skarbiec miasta Khorinis](#Skarbiec-miasta-Khorinis)[Piwnica koszar](#piwnica-koszar) [Włamanie do Lutero](#włamanie-do-lutero) (po tym zadaniu mamy alternatywną ścieżkę zadań - [Pomiędzy złodziejami](#pomiędzy-złodziejami) - po czym zadanie z gildią złodziei może się wcześniej zakończyć), po której ogarniają nas wyrzuty sumienia i możemy wydać gildię Lordowi Andre. Ten jednak nie ma czasu, więc udajemy się z tym do Wambo i twoim zadaniem będzie znaleźć tożsamość [przywódcy](#gildia-złodziei) oraz [pasera](#paser). Będziecie się spotykać po godzinie 20:00, w jaskini z teleportem obok cmentarza Martwej Harpii. [Specjalna ryba](sekcje/zadania/rozdzial_v?id=specjalna-ryba), [Kryjówka przemytników](#kryjówka-przemytników), [Kontrabanda](#kontrabanda), [Grzyby dla Krugera](#grzyby-dla-krugera), [Tania ryżówka](#tania-ryżówka), [Kusząca oferta](#kusząca-oferta), [Krwawe puchary](#krwawe-puchary), [Bart sprawia kłopoty](#bart-sprawia-kłopoty), [Test odwagi](#test-odwagi), [Topór bandyty”](#topór-bandyty). Po wykonaniu zadań dla przemytników dostaniemy od Nagura zadanie [Okradnięcie Lorda Andre](#okradnięcie-lorda-andre). Kolejne zadania dostaniemy dopiero w 5 rozdziale, a dokładniej po odblokowaniu dostępu do [Aszdod](sekcje/zadania/rozdzial_v?id=aszdod). Nagur powie nam, że [szef przemytników oczekuje](#gildia-złodziei) na nas w ich kryjówce. Spotykamy tam Booze’a, któremu wcześniej wręczyliśmy piwo w kanalizacji. Twoim zadaniem obecnie jest zabicie wszystkich. Z ciała szefa przemytników zabieramy klucz do kufra oraz drzwi do jego pokoju. Dom znajduje się w przejściu do części gdzie mieszka Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę. Przy okazji w domu mogliśmy rozpocząć, po przeczytaniu notatki, zadanie [Zamknięty pokó](#zamknięty-pokój)j”
 
-#### Pośród złodziei
+#### Pomiędzy złodziejami
 
 > **Uwaga:** Jeśli wybraliśmy ukrycie złodziei, w żadnym z questów nie idziemy do Wambo. Współpracujemy tylko ze złodziejami i przemytnikami.
 
@@ -129,9 +193,15 @@ Po dołączeniu do gildii, Rengaru opowiada nam, że Jora ukrył dodatkowo cenne
 
 W kufrze Jory znaleźliśmy dodatkowo zbroje paladyna. Rengaru nic sensownego nie może z nią zrobić więc pozwala nam ją zatrzymać. Daje nam jednak poradę, że możemy kogoś wrobić w posiadanie paladyńskiego ekwipunku. W tym celu należy pogadać z Hanną, która opowiada nam o denerwującym Valentino. Po rozmowie z nim Roland dochodzi do wniosku, że można podrzucić zbroję do jego kufra. Możemy to wykonać jednak dopiero w 4 rozdziale, po wyzwoleniu miasta (przy okazji zadania [Krwawe Puchary](#krwawe-puchary)). Wtedy dopiero odblokuje się nam możliwość kradzieży klucza i podrzucenia zbroi do jego kufra.
 
-#### Kradzież u Lutero
+#### Włamanie do Lutero
 
 Nagur zleca nam przyniesienie mu cennej szkatułki Lutero. Należy go okraść i wziąć szkatułkę ze skrzyni w jego domu. O północy spotykamy Nagura w kanałach i oddajemy mu szkatułkę. Po kilku dniach można odebrać nagrodę i zakończyć zadanie.
+
+#### Piwnica koszar
+W trakcie nauki o włamywaniu, Mike mówi nam o mysiej albo szczurzej norze, przez którą można się dostać do piwnicy koszar. Dziura znajduje się za krzakami przy schodach prowadzących do koszar od strony morza. W piwnicy znajdziemy kuferek, który wymaga specjalnego wytrychu i 250 zręczności. Po wytworzeniu wytrychu i opróżnieniu skrzyni, quest zostaje zaliczony.
+
+#### Skarbiec miasta Khorinis
+Po nauczeniu się otwierania zamków na 5. poziomie otrzymamy zadanie polegające na okradzeniu skarbca Khorinis. Udajemy się do skarbca, którego strzeże Gekard. Sprawdzamy zamek, okradamy strażnika z klucza do skrzyni i rzucamy na niego zaklęcie strachu. Następnie opróżniamy skrzynię i czekamy jeden dzień. Następnego dnia zaklęcie snu zaczyna działać na strażnika. Przed włamaniem wykonujemy wytrych do skarbca na stole warsztatowym. Idziemy do skarbca, usypiamy Gekarda i okradamy Khorinis. Potem czekamy kolejny dzień i rozmawiamy z Wambo, który niczego nie podejrzewa. Zadanie ukończone.
 
 KONTYNUACJA WĄTKU W 5R [SPECJALNA RYBA](sekcje/zadania/rozdzial_v?id=specjalna-ryba)
 
@@ -141,15 +211,13 @@ Nagur zleca nam okradnięcie domu Herolda. Sam Herold przemawia na placu wisielc
 
 Znajdujemy tam mapę skarbów, która prowadzi do X'a na polanie nad słonecznym kręgiem.
 
-#### Zakopany skarb
+#### Zakopane skarby
 
-Zadanie aktywuje się automatycznie po przeczytaniu mapy z domu Herolda, a kończy się po wykopaniu go
+Zadanie aktywuje się automatycznie po przeczytaniu mapy z domu Herolda, a kończy się po wykopaniu go.
 
-#### Gracze kości
+#### Gra w kości w Khorinis
 
-W gospodzie Coragona pojawiają się zawodowi gracze kości, których należy pokonać w grze w kości, aby móc stoczyć pojedynek z ich szefem Hughem.
-
-Po ich pokonaniu Hugh daje nagrodę i zadanie się kończy
+W gospodzie Coragona pojawiają się zawodowi gracze kości, których należy pokonać w grze w kości, aby móc stoczyć pojedynek z ich szefem Hughem. Po ich pokonaniu Hugh daje nagrodę i zadanie się kończy.
 
 #### Niedobitki armii orków
 
@@ -161,7 +229,7 @@ Trzecia grupa znajduje się przy ognisku, gdzie w podstawce siedzi Lester
 Czwarta grupa jest przy przejściu na Przełęcz.  
 Piąta grupa jest niedaleko mostu prowadzącego na północ Khorinis, tam gdzie piramidy.
 
-#### Przebaczenie dla Corneliusa
+#### Wybaczenie dla Corneliusa
 
 Andre zleca nam udanie się z listem do Corneliusa. Znajduje się on tam, gdzie bandyci Cavalorna w podstawce.  
 Odprowadzamy go do miasta, w międzyczasie pozbywając się poszukiwaczy. Odprowadzamy go naprzeciw straganu Ruperta i idziemy porozmawiać z Andre.
@@ -231,21 +299,21 @@ Teleport w kanionie: Kamień ma szaman ork w głębi kanionu
 Teleport do wykopalisk: Kamień ma bandyta Crimson  
 Teleport do Eremity/Bagna/Bandytów: Kamienie mają orkowie przewodniczący grupom orków znajdującym się w okolicy.
 
-#### Teleport w kanionie
+#### Teleport do kanionu
 
-Greg zleca nam przeszukanie kanionu w poszukiwaniu kamienia ogniskującego. Posiada go ork szaman w obozie przed biblioteką.Z kamieniem udajemy się do Grega, a następnie aktywujemy znany nam z podstawki teleport obok jeziorka.
+Greg zleca nam przeszukanie kanionu w poszukiwaniu kamienia ogniskującego. Posiada go ork szaman w obozie przed biblioteką. Z kamieniem udajemy się do Grega, a następnie aktywujemy znany nam z podstawki teleport obok jeziorka.
 
-Quest kończy się już przy rozmowie z Gregiem.
+> Quest kończy się już przy rozmowie z Gregiem.
 
-#### Sprzeczki w obozie piratów
+#### Spory w obozie piratów
 
 Nataniel skarży się nam, że Francis faworyzuje niektórych pracowników. Rozmawiamy z Francisem, ale niczego się nie dowiadujemy.
 
-Wracamy do Nathaniela, który wysyła nas do Lucasa i Smythe'a. Następnie idziemy do Elvricha, po czym zagada nas kowal Kendrick, który zaoferuje nam pomoc, po skończeniu zadania [Kopalnia złota u bandytów".](#kopalnia-złota-u-bandytów)
+Wracamy do Nathaniela, który wysyła nas do Lucasa i Smythe'a. Następnie idziemy do Elvricha, po czym zagada nas kowal Kendrick, który zaoferuje nam pomoc, po skończeniu zadania [Kopalnia złota bandytów.](#kopalnia-złota-bandytów)
 
 Po ukończeniu zadania gadamy z Kendrickiem, okradamy Elvricha, czytamy notatkę i konfrontujemy Francisa. Mówimy o tym Natanielowi, a zadanie się kończy
 
-#### Kopalnia złota u bandytów
+#### Kopalnia złota bandytów
 
 Kowal Kendrick prosi Cię o znalezienie bandyty Scatty'ego, który stoi przed portalem od strony Jarkendaru. Po wyczyszczeniu obozu bandytów z orków zgadza się on pomóc w eksploatacji kopalni, ale musimy go tam odprowadzić. Idziemy teraz do Kendricka i quest zostaje zakończony.
 
@@ -253,9 +321,9 @@ Kowal Kendrick prosi Cię o znalezienie bandyty Scatty'ego, który stoi przed po
 
 Francis proponuje nam grę w kości. Ogrywamy go ze złota, a quest się kończy.
 
-#### Napój dla Brandona
+#### Trunek dla Brandona
 
-Brandon zgadza się nas uczyć, tylko pod warunkiem, że przyniesiemy mu Szybkiego Śledzia. Powinniśmy już mieć kilka w ekwipunku, a jeśli nie, to Samuel chętnie nam je sprzeda. Quest się kończy po odniesieniu mu napoju
+Brandon zgadza się nas uczyć, tylko pod warunkiem, że przyniesiemy mu Szybkiego Śledzia. Powinniśmy już mieć kilka w ekwipunku, a jeśli nie, to Samuel chętnie nam je sprzeda. Quest się kończy po przyniesieniu mu alkoholu.
 
 #### Polowanie na aligatory
 
@@ -291,9 +359,9 @@ Pancerz koczowników sprzeda nam Said w jego obozie. Po zdobyciu pancerza asasyn
 
 #### Świątynia Aszdodu
 
-Baldwin zleca nam dostanie się do świątyni Aszdodu. Jest to zadanie główne Varantu, które kończy się wraz z dostaniem się do Aszdodu
+Baldwin zleca nam dostanie się do świątyni Aszdodu. Jest to zadanie główne Varantu, które kończy się wraz z dostaniem się do Aszdodu.
 
-#### Dostęp do Aszdodu
+#### Dostęp do Aszdod
 
 Strażnik drzwi do doliny Aszdodu nie chce nas przepuścić bez przepustki, więc musimy ukończyć zadanie [Audiencja u Tartarona](#audiencja-u-tartarona) i otrzymać od niego pozwolenie.
 
@@ -327,9 +395,9 @@ Prampek, ork którego spotykamy po wejściu na pustynię, oferuje nam towarzystw
 
 Zadanie polegające na odprowadzeniu Prampeka do obozu orków przy kanionie. Wystarczy iść cały czas na wprost od wejścia na pustynię i zagadać z orkiem dowódcą w namiocie.
 
-#### Wojownik z Nordmaru
+#### Obcy wojownicy
 
-Zadanie zaczyna się od Hakoona, który siedzi przy palmach na skraju pustyni. Zleci nam misje dopiero wtedy, gdy otrzymamy dostęp do świątyni Aszdodu.
+Zadanie zaczyna się od Hakkona, który siedzi przy palmach na skraju pustyni. Zleci nam misje dopiero wtedy, gdy otrzymamy dostęp do świątyni Aszdodu.
 
 Prowadzi nas do obozu rabusiów, gdzie zabijamy przeciwników i uwalniamy jego przyjaciela, na czym zadanie się kończy. (Warto poczekać z tym zadaniem, aż do zdobycia pancerza rozbójnika i ukończenia [zadania z Mustafą](#mustafa))
 
@@ -337,7 +405,7 @@ Prowadzi nas do obozu rabusiów, gdzie zabijamy przeciwników i uwalniamy jego p
 
 Hakoon i Lars poszukują informacji o swoim przodku Akaschy. Jego tabliczka znajduje się w grobowcu świątyni Tadmoru, do której dostaniemy się w ramach zadania [Boski artefakt](#boski-artefakt)
 
-#### Broń dla Larsa
+#### Broń Larsa
 
 Lars prosi nas o przyniesienie mu jego łuku i topora. Topór posiada rozbójnik Achmed, którego przed chwilą zabiliśmy, a łuk jest u rozbójnika Hussina, który przebywa między Ugarem a wieżą wojowników Beliara.
 
@@ -359,13 +427,13 @@ Na końcu kanionu lwów znajduje się teleport, który prowadzi nas przed drzwi 
 
 #### Poszukiwanie skarbu w ruinach
 
-W skrzyni na małej wysepce (Zadanie [Wymiana klucza za rum](#wymiana-klucza-za-rum)) znajdujemy mapę, która prowadzi nas do skarbu w ruinach. Znajdujemy go, a zadanie się kończy
+W skrzyni na małej wysepce (Zadanie [Wymiana klucza za rum](#wymiana-klucza-za-rum)) znajdujemy mapę, która prowadzi nas do skarbu w ruinach. Znajdujemy go, a zadanie się kończy.
 
 #### Poszukiwanie skarbu w przybrzeżnej jaskini
 
-Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest na dnie kanionu w jaskini łączącej Patarę z pustynia. Wykopujemy skarb i zadanie się kończy
+Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest na dnie kanionu w jaskini łączącej Patarę z pustynia. Wykopujemy skarb i zadanie się kończy.
 
-#### Poszukiwania skarbu w przeklętej kopalni
+#### Kopalnia przeklętych
 
 Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest w przeklętej kopalni. Znajduje się on za mostem, po prawej stronie.
 
@@ -465,11 +533,11 @@ Gemnok prosi nas o pozbycie się pełzaczy z ruin. Po zabiciu wszystkich otrzymu
 
 #### Audiencja u Tartarona
 
-Torres nie wpuści nas do Tartarona, chyba że wykonamy dla niego zadania takie jak [Łowcy głów w](#łowcy-głów-w-ugarze) [Ugarze](#łowcy-głów-w-ugarze),[Mąka dla](#mąka-dla-ugaru) [Ugaru](#mąka-dla-ugaru),[Zbiór pomidorów](#zbiór-pomidorów),[Nadzorca](#nadzorca) i [Nielegalny handel](#nielegalny-handel) i [Łowcy lwów](#łowcy-lwów)
+Torres nie wpuści nas do Tartarona, chyba że wykonamy dla niego zadania takie jak [Łowcy głów w](#łowcy-głów-w-ugarze) [Ugarze](#łowcy-głów-w-ugarze), [Mąka dla](#mąka-dla-ugaru) [Ugaru](#mąka-dla-ugaru), [Zbiór pomidorów](#zbiór-pomidorów), [Nadzorca](#nadzorca) i [Nielegalny handel](#nielegalny-handel) i [Łowcy lwów](#łowcy-lwów)
 
 #### Zbiegli niewolnicy
 
-Gasparino każe nam odszukać zbiegłych niewolników. Lokalizacje niewolników
+Gasparino każe nam odszukać zbiegłych niewolników. Lokalizacje niewolników:
 
 Morris Na lewo od wyjścia z Ugaru, leży wśród stada brzytwiaków  
 Wilbert Niedaleko łowców lwów przy palmach  
@@ -478,13 +546,16 @@ Clark W kamiennym domku, którego pilnują dwie pantery
 
 Są dwa rozwiązania tego zadania.
 
-1. Odprowadzamy wszystkich niewolników do Gasparino, który daje nam nagrodę i kończy quest
+1. Odprowadzamy wszystkich niewolników do Gasparino, który daje nam nagrodę i kończymy quest.
 
-2. Po przeczytaniu notatki w ciele Morrisa i rozmowie z Pietem, który jest w kopalni Gasparino,  mamy możliwość objąć stronę koczowników. Jeśli się zgodzimy, zadanie psuje się, a my musimy udać się do Tamary i zdobyć zaufanie koczowników
+2. [Ratunek dla niewolników](#Ratunek-dla-niewolników)
 
-#### Psy łowców niewolników
+#### Ratunek dla niewolników
+Po przeczytaniu notatki w ciele Morrisa i rozmowie z Pietem, który jest w kopalni Gasparino, mamy możliwość objąć stronę koczowników. Jeśli się zgodzimy, [Zbiegli niewolnicy](Zbiegli-niewolnicy) psuje się, a my musimy udać się do Tamary i zdobyć zaufanie koczowników. Po zdobyciu zaufania, wracamy do Piet'a i odprowadzamy wszystkich niewolników do małej oazy za wieżą strażniczą wojowników Beliara. Na miejscu rozmawiazmy z Haram'em.
 
-Gasparino każe nam uważać na psy łowców niewolników, które musimy najzwyczajniej w świecie zabić. Po zabiciu 8 ogarów otrzymujemy wpis w dzienniku, a quest kończy się samoistnie
+#### Ogary łowców niewolników
+
+Gasparino każe nam uważać na ogary łowców niewolników, które musimy najzwyczajniej w świecie zabić. Po zabiciu 8 ogarów otrzymujemy wpis w dzienniku, a quest kończy się samoistnie.
 
 #### Łowcy głów w Ugarze
 
@@ -492,29 +563,29 @@ Torres zleca nam pozbycie się Berdochy, szefa pustynnych wojowników. Wychodzim
 
 #### Zbiór pomidorów
 
-Bahal potrzebuje kogoś, kto pozbiera dla niego pomidory z jego plantacji. Otrzymujemy klucz i zabijamy ogary oraz chrząszcze na plantacji.
+Bachal potrzebuje kogoś, kto pozbiera dla niego pomidory z jego plantacji. Otrzymujemy klucz i zabijamy ogary oraz chrząszcze na plantacji.
 
-Zbieramy pomidory z krzaków po czym wracamy do Bahala zdać mu relację. Odsyła nas żebyśmy napełnili butelki wodą i podlali grządki. Trzeba pochodzić po plantacji, aż nie dostaniemy wpisu w dzienniku. Nawet jeśli mamy wystarczającą ilość pomidorów, warto podlać grządki jeszcze raz i poczekać tydzień. Dostaniemy wtedy dodatkowe 270-300 pomidorów. Idziemy teraz do Pedro, którego zatrudniamy jako zbieracza pomidorów. Odbieramy od niego pomidory, idziemy do Bahala i kończymy questa. (Pomidorki odzyskamy w handlu, warto je kupić dla siły)
+Zbieramy pomidory z krzaków po czym wracamy do Bachala zdać mu relację. Odsyła nas żebyśmy napełnili butelki wodą i podlali grządki. Trzeba pochodzić po plantacji, aż nie dostaniemy wpisu w dzienniku. Nawet jeśli mamy wystarczającą ilość pomidorów, warto podlać grządki jeszcze raz i poczekać tydzień. Dostaniemy wtedy dodatkowe 270-300 pomidorów. Idziemy teraz do Pedro, którego zatrudniamy jako zbieracza pomidorów. Odbieramy od niego pomidory, idziemy do Bachala i kończymy questa. (Pomidorki odzyskamy w handlu, warto je kupić dla siły)
 
 #### Nadzorca
 
-Bahal nie otrzymał wieści od swojego nadzorcy już od dłuższego czasu. Udajemy się na teren w pobliżu plantacji, gdzie okazuje się, że nadzorcę zabiły potwory. Bierzemy i czytamy notatkę z jego ciała, po czym wracamy do Bahala. Ten zleca nam znalezienie nowego nadzorcy, którym jest Pedro. Uzgadniamy z nim warunki pracy, po czym wracamy do  Bahala i kończymy misje
+Bachal nie otrzymał wieści od swojego nadzorcy już od dłuższego czasu. Udajemy się na teren w pobliżu plantacji, gdzie okazuje się, że nadzorcę zabiły potwory. Bierzemy i czytamy notatkę z jego ciała, po czym wracamy do Bachala. Ten zleca nam znalezienie nowego nadzorcy, którym jest Pedro. Uzgadniamy z nim warunki pracy, po czym wracamy do  Bachala i kończymy misje
 
 #### Mąka dla Ugaru
 
-Torres chce abyśmy przynieśli mu 30 worków mąki. Musimy udać się do młyna Sancheza, który znajduje się obok Amarny. Sanchez nie wyda nam mąki, dopóki nie otrzymamy pozwolenia od Hassana, więc udajemy się do Amarny, gdzie strażnik nie chce nas wpuścić. Wracamy do Torresa po hasło, a następnie z powrotem idziemy do Amarny. Da on nam pozwolenie, jeśli zrobimy zadanie [Łowcy głów w Ugarze](#łowcy-głów-w-ugarze) i [Niebezpieczne karawany](#niebezpieczne-karawany). Stamtąd idziemy do Sancheza, a on udziela nam pozwolenia na zabranie mąki, z którą wracamy do Torresa.
+Torres chce abyśmy przynieśli mu 30 worków mąki. Musimy udać się do młyna Sancheza, który znajduje się obok Amarny. Sanchez nie wyda nam mąki, dopóki nie otrzymamy pozwolenia od Hassana, więc udajemy się do Amarny, gdzie strażnik nie chce nas wpuścić. Wracamy do Torresa po hasło, a następnie z powrotem idziemy do Amarny. Da on nam pozwolenie, jeśli zrobimy zadanie [Łowcy głów w Ugarze](#łowcy-głów-w-ugarze) i [Niebezpieczna karawana](#niebezpieczna-karawana). Stamtąd idziemy do Sancheza, a on udziela nam pozwolenia na zabranie mąki, z którą wracamy do Torresa.
 
 #### Nielegalny handel
 
-Torres jest zaniepokojony handlem bronią w Ugarze. Wysyła nas do Branco, który się wszystkiego wypiera, więc idziemy zapytać o to Czampoka. Czampok odsyła nas z powrotem do Branco, któremu kradniemy klucz i otwieramy jego skrzynie w noclegowni Bahala. Po przeczytaniu notatki wracamy do Branco i udajemy się z nim do kryjówki Humphreya. Robimy teraz zadania [Groźne Cieniostwory](#groźne-cieniostwory) i [Poszukiwacze skarbów](#poszukiwacze-skarbów), a po oddaniu złota Branco mówi nam, abyśmy śledzili osobę wychodzącą o 3 w nocy z miasta. Śledzimy Gero aż do końca jego trasy, otrzymujemy klucz do jaskini, zabijamy rabusiów i czytamy notatkę. Z notatką udajemy się do Torresa.
+Torres jest zaniepokojony handlem bronią w Ugarze. Wysyła nas do Branco, który się wszystkiego wypiera, więc idziemy zapytać o to Czampoka. Czampok odsyła nas z powrotem do Branco, któremu kradniemy klucz i otwieramy jego skrzynie w noclegowni Bachala. Po przeczytaniu notatki wracamy do Branco i udajemy się z nim do kryjówki Humphreya. Robimy teraz zadania [Niebezpieczne Cieniostwory](#niebezpieczne-cieniostwory) i [Łowca skarbów](#łowca-skarbów), a po oddaniu złota Branco mówi nam, abyśmy śledzili osobę wychodzącą o 3 w nocy z miasta. Śledzimy Gero aż do końca jego trasy, otrzymujemy klucz do jaskini, zabijamy rabusiów i czytamy notatkę. Z notatką udajemy się do Torresa.
 
-#### Poszukiwacze skarbów
+#### Łowca skarbów
 
 W ramach misji "Nielegalny handel" udajemy się z Branco do jaskini Humphreya. Po pokonaniu cieniostworów, musimy przespać się do 8 i wyruszamy z nimi do świątyni. Stamtąd wracamy do kamiennych filarów które minęliśmy i klikamy jeden z przycisków na nim, a następnie wskakujemy do "studzienki" i zmierzamy w głąb świątyni. W większości pomieszczeń otwiera je przycisk obok krat, poza ostatnim, jako że wtedy zginiemy. Wchodzimy do głównego pomieszczenia, zabijamy nieumarłych i wpuszczamy Humphreya. Następnie wracamy do podziemi i otwieramy kluczem wszystkie kraty i zbieramy sakiewki. Następnie wracamy do Humphreya zabijamy go i jego wspólnika i wracamy do Branco. Należy oddać mu co najmniej 500 sztuk złota, co kończy questa.
 
-#### Groźne cieniostwory
+#### Niebezpieczne cieniostwory
 
-Humphrey prosi nas o zabicie cieniostworów sprzed jaskini. Zabijamy je i wracamy do niego po nagrodę
+Humphrey prosi nas o zabicie cieniostworów sprzed jaskini. Zabijamy je i wracamy do niego po nagrodę.
 
 #### Łowcy lwów
 
@@ -534,7 +605,7 @@ Tabor prosi o przyniesienie 12 lwich skór i 6 skór pantery. Znajdziesz je w o
 
 Po przyniesieniu skór dla Tabora, możemy mu pomóc w poszukiwaniach lwa Aslana, który znajduje się w ruinach naprzeciw obozu łowców lwów. Prowadzimy tam Tabora, który zabija lwa, skórujemy go i oddajemy skórę Taborowi.
 
-#### Zaufanie koczowników
+#### Zaufanie
 
 Zadanie rozpoczyna się po rozmowie z Tamarą o ucieczce niewolników, a kończy się na zdobyciu zaufania Saida (Patrz [Koczownicy](#koczownicy)). Jest to zadanie wymagane, aby pchnąć zadanie [Potężne zaklęcie](#potężne-zaklęcie)
 
@@ -556,6 +627,10 @@ Po otrzymaniu pozwolenia na wejście do Aszdodu, musimy się udać do Alvareza, 
 
 ### Zadania poboczne
 
+#### Miejsce do spania w Ugarze
+
+W Ugarze szukamy noclegu, więc rozmawiamy z Rosko, który odsyła nas do Bachala. Niestety, potrzebujemy zgodę od Tartarona na spanie w noclegowni Bachala. Tartaron zezwoli na pobyt w noclegowni po wykonaniu [Księga Czarnego Maga](#Księga-Czarnego-Maga).
+
 #### Opuszczony Dom
 
 Karczmarz opowiada nam o opuszczonym domu niedaleko areny i magazynu. Można tam wejść przez dach, przechodząc po murze miasta. Na komodzie znajduje się klucz do pokoju, w którym jest dźwignia otwierająca piwnicę. Znajdujemy w niej ducha alchemika, który daje nam klucz do katakumb i prosi o zabicie maga Cagliostro, znajdującego się w grobowcu. Po zabiciu nieumarłego wracamy do alchemika, a zadanie się kończy.
@@ -564,15 +639,15 @@ Karczmarz opowiada nam o opuszczonym domu niedaleko areny i magazynu. Można tam
 
 Klaas stracił całe złoto z wyprawy grając w kości. Jeśli oddamy mu 2000 złota, otrzymamy od niego mapę na [wyspę Mendozy](sekcje/zadania/rozdzial_vi?id=wyspa-mendozy). Po transakcji misja się kończy. Wieści możemy przekazać Lordowi Baldwinowi, odblokowując tym samym zadanie [Wyspa Piratów](#wyspa-piratów). Wykonać je możemy dopiero w 6 rozdziale.
 
-#### Tytoń Bahala
+#### Tytoń Bachala
 
-Pedro prosi nas o przyniesienie po jednej sztuce specjalnego tytoniu Bahala, który znajduje się w jego domu. Oddajemy tytoń Pedro, a resztę wypalamy. W innym wypadku Bahal będzie na nas zły i trzeba będzie zapłacić mu grzywnę.
+Pedro prosi nas o przyniesienie po jednej sztuce specjalnego tytoniu Bachala, który znajduje się w jego domu. Oddajemy tytoń Pedro, a resztę wypalamy. W innym wypadku Bachal będzie na nas zły i trzeba będzie zapłacić mu grzywnę.
 
-#### Mirko lubi rzucać kości
+#### Gracz
 
 Mirko znajdujący się w gospodzie oferuje nam grę w kości. Zgadzamy się, ogrywamy go z pieniędzy i tym samym kończymy zadanie.
 
-#### Szpieg
+#### Donosiciel
 
 Wędrując po Ugarze zauważasz, że śledzi Cię asasyn o imieniu Abdallah. Zagadujemy do niego kilka razy, po czym dostajemy wpis, aby udać się z nim do karczmarza.
 
@@ -590,9 +665,9 @@ Po odesłaniu Abdallaha karczmarz prosi nas o pozbycie się Theo i innych palacz
 
 W nocy zostaniemy zaatakowani przez rabusiów. Musimy przeszukać miasto w poszukiwaniu innych skrytobójców oraz pozbyć się ich z katakumb, a wtedy zadanie zakończy się automatycznie.
 
-#### Morderstwo handlarza klejnotami
+#### Martwy handlarz klejnotami
 
-Po uzyskaniu zaufania Tartarona, Torres zleca nam zdemaskowanie zabójcy Ozyrysa. Udajemy się do karczmarza, który odsyła nas do  Aramisa, a następnie do Mansura. Kradniemy jego klucz (w jego domu na półce z winami), którym otwieramy skrzynie zawierającą zlecenie. Wracamy do Aramisa, a następnie udajemy się do tajnego przejścia w świątyni. Znajdziemy tam skrytobójców wraz z Assyrianem na czele. Z klejnotami wracamy do Torresa, któremu oddajemy(lub nie) klejnoty Ozyrysa.
+Po uzyskaniu zaufania Tartarona, Torres zleca nam zdemaskowanie zabójcy Ozyrysa. Udajemy się do karczmarza, który odsyła nas do  Aramisa, a następnie do Mansura. Kradniemy jego klucz (w jego domu na półce z winami), którym otwieramy skrzynie zawierającą zlecenie. Wracamy do Aramisa, a następnie udajemy się do tajnego przejścia w świątyni. Znajdziemy tam skrytobójców wraz z Assyrianem na czele. Z klejnotami wracamy do Torresa, któremu oddajemy (lub nie) klejnoty Ozyrysa.
 
 #### Obfity łup
 
@@ -602,7 +677,7 @@ Aramis mówi nam o skarbie handlarza Iskry, który znajduje się w piwnicy pod j
 
 Aramis mówi nam o skarbie Amarny, który znajduje się w wieży po lewo od wejścia. Po otwarciu sakiewki wracamy zdać relacje Aramisowi.
 
-#### Skarb w świątyni Aszdodu
+#### Skarb świątyni
 
 Aramis mówi nam o skarbie w świątyni Aszdodu. Musimy do tego pobić strażnika Shirkuha, a następnie udać się do podziemi i wejść do skarbca w jaskini z posągiem poszukiwacza. Po otrzymaniu wpisu w dzienniku wracamy do Aramisa.
 
@@ -638,9 +713,11 @@ Spis wejść i kluczy
 
 Strażnik twierdzy nie będzie chciał nas wpuścić, więc musimy udać się do Torresa(W trakcie misji "Mąka dla Ugaru), który poda nam hasło. Po otworzeniu krat zadanie kończy się automatycznie.
 
-#### Audiencja u Belasara
+#### Audiencja u Belazara
 
-Hassan nie wpuści nas do Belasara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko),[Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [Ruda dla Bajara](#ruda-dla-bajara), [Zwój przemiany w lwa](#zwój-przemiany-w-lwa), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży BelasaraŁowcy głów w Amarnie
+Hassan nie wpuści nas do Belazara, dopóki nie zdobędziemy zaufania mieszkańców Amarny. Musimy wykonać zadania takie jak [Pierścień Rokko](#pierścień-rokko)[o](#pierścień-rokko), [Ziarno dla Sancheza](#ziarno-dla-sancheza), [Łowcy głów w Amarnie](#łowcy-głów-w-amarnie), [Ruda Bajara](#Ruda-Bajara), [Zaklęcie przemiany](#Zaklęcie-przemiany), [Amulet Hassana](#amulet-hassana) oraz [Wiadomość dla Malika](#wiadomość-dla-malika). Po zdobyciu odpowiedniego uznania, otrzymamy klucz do wieży Belazara.
+
+#### Łowcy głów w Amarnie
 
 Hassan prosi nas o pozbycie się rozbójników Baruda, którzy znajdują się niedaleko obozu Saida. Po zabiciu Baruda wracamy do Hassana po nagrodę.
 
@@ -652,7 +729,7 @@ Hassan prosi nas o udanie się do Patary i zabranie amuletu ze skrzyni w domu Ab
 
 Rokko opowiada nam o pierścieniu, który zgubił w trakcie ucieczki przez oazę. Przynosimy pierścień, który leży niedaleko lwów, a zadanie się kończy.
 
-#### Ruda dla Bajara
+#### Ruda Bajara
 
 Bajar potrzebuje skrzyni rudy do swojej pracy. Udajemy się do Gasparino, który odsyła nas do Turana, który nie chce sprzedać swojej skrzyni. Wracamy do Gasparino, a następnie zagadujemy do Gero, który poleca nam zagadać z Bajarem. Otrzymujemy od niego sztylet, który pokazujemy Turanowi w zamian za skrzynie rudy. Wracamy z nią do Bajara, a zadanie się kończy.(Warto kupić skrzynie, jako że przyda się w innych misjach)
 
@@ -660,23 +737,23 @@ Bajar potrzebuje skrzyni rudy do swojej pracy. Udajemy się do Gasparino, który
 
 Po oddaniu Hassanowi amuletu, ten wysyła nas z listem do Malika w wieży wojowników Beliara. Malik odsyła nas do Torresa w Ugarze, u którego czekamy dzień, a następnie wracamy do Malika, gdzie czekamy kolejny dzień. Z ostatnim już listem wracamy z powrotem do Hassana i otrzymujemy nagrodę.
 
-#### Zwój przemiany w lwa
+#### Zaklęcie przemiany
 
 Kirios, adept znajdujący się na murach Amarny, zleca nam przyniesienie zwoju przemiany w lwa. Możemy go ukraść od Caine’a, kupić od Merkuriusa lub otrzymać w nagrodzie od Manuela. Niezależnie od rozwiązania, Kirios jest zadowolony i daje nam nagrodę.
 
 #### Ziarno dla Sancheza
 
-Sanchez potrzebuje 20 worków ziarna, które możemy u Bahala oraz zarządcy magazynu w Ugarze (lub ukraść mu klucz i wziąć z jego magazynu). Niezależnie od wybranego rozwiązania oddajemy mu worki i otrzymujemy nagrodę.
+Sanchez potrzebuje 20 worków ziarna, które możemy u Bachala oraz zarządcy magazynu w Ugarze (lub ukraść mu klucz i wziąć z jego magazynu). Niezależnie od wybranego rozwiązania oddajemy mu worki i otrzymujemy nagrodę.
 
-#### Niebezpieczne karawany
+#### Niebezpieczna karawana
 
 Sanchez zleca nam pozbycie się rozbójników obok mostu, między Amarną a Ugarem. Po ich zabiciu wracamy do Sancheza i odbieramy nagrodę.
 
 ### Zadania poboczne
 
-#### Bryłki rudy dla Bajara
+#### 12 bryłek rudy dla Bajara
 
-Jeśli uzyskaliśmy zaufanie Hassana, Bajar zgadza się nauczyć nas kowalstwa(jeśli jeszcze tego nie potrafimy). Po zdobyciu 12 bryłek magicznej rudy wracamy do Bajara i zyskujemy tym samym nowego nauczyciela kowalstwa.
+Jeśli uzyskaliśmy zaufanie Hassana, Bajar zgadza się nauczyć nas kowalstwa (jeśli jeszcze tego nie potrafimy). Po zdobyciu 12 bryłek magicznej rudy wracamy do Bajara i zyskujemy tym samym nowego nauczyciela kowalstwa.
 
 #### Handel niewolnikami
 
@@ -688,35 +765,33 @@ odsyła nas z kwitkiem do Hassana. Uzyskujemy od niego hasło, udajemy się do w
 
 2. Zabieramy niewolników do obozu Saida i odbieramy nagrodę u Merkuriusa
 
-#### Zlecenie morderstwa
+#### Próba zabójstwa
 
 > **Uwaga:** Nie warto się spieszyć z tym zadaniem, ze względu na dużą ilość mordowania. Jeśli zabijemy zbyt wielu asasynów, wszyscy staną się wrodzy.
 
-Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlecenie. Zaoferował on nam 2000 złota za zabójstwo kupca Haruna. Udajemy się do jego obozu, który jest pod drogą między Ugarem, a Amarną. Są dwa rozwiązania tego questa
+Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlecenie. Zaoferuje on nam 2000 złota za zabójstwo kupca Haruna. Udajemy się do jego obozu, który jest pod drogą między Ugarem, a Amarną. Są dwa rozwiązania tego questa:
 
-1. Zabijamy Haruna i jego świtę i wracamy po nagrodę
+1. Zabijamy Haruna i jego świtę i wracamy po nagrodę (Nie polecam, tracimy sporo innych misji).
 
-(Nie polecam, tracimy sporo innych misji)
-
-2. Na zlecenie Haruna dowiadujemy się kto jest zabójcą. Wracamy do Sadika, ale on nie chce nam nic powiedzieć, więc kradniemy i czytamy jego list. Okazuje się że Joachim jest pośrednikiem w zleceniu, więc dogadujemy się z nim i spotykamy o północy na placu targowym. Prowadzi on nas do zleceniodawców, co okazuje się pułapką. Zabijamy trójkę skrytobójców, a kluczem Joachima otwieramy skrzynie na piętrze hotelu Iskry. Po przeczytaniu notatki, dowiadujemy się że trzeba przeszukać resztę skrzyń w noclegowni. W skrzyni Iskry znajdujemy notatkę wskazującą na jego winę. Teraz znowu mamy dwa wyjścia
+2. Na zlecenie Haruna dowiadujemy się kto jest zabójcą. Wracamy do Sadika, ale on nie chce nam nic powiedzieć, więc kradniemy i czytamy jego list. Okazuje się że Joachim jest pośrednikiem w zleceniu, więc dogadujemy się z nim i spotykamy o północy na placu targowym. Prowadzi on nas do zleceniodawców, co okazuje się pułapką. Zabijamy trójkę skrytobójców, a kluczem Joachima otwieramy skrzynie na piętrze hotelu Iskry. Po przeczytaniu notatki, dowiadujemy się że trzeba przeszukać resztę skrzyń w noclegowni. W skrzyni Iskry znajdujemy notatkę wskazującą na jego winę. Teraz znowu mamy dwa wyjścia:
 
 1. Idziemy do Iskry, który ucieka do kopalni rudy, aby uniknąć aresztowania. Po odnalezieniu go możemy go zabić lub puścić wolno. Na koniec wracamy do Haruna.
 
 1. Wracamy do Haruna, który sam wyciąga konsekwencje z Iskry i otrzymujemy nagrodę.
 
-#### Kufer Belasara
+#### Kufer Belazara
 
-Jeśli dostaniemy się do wieży Belasara i ograbimy jego skrzynię, ten nas przyłapie i zażąda 1000 sztuk złota. Nie mamy innego wyjścia niż zapłata, więć to robimy, a quest się kończy.
+Jeśli dostaniemy się do wieży Belazara i ograbimy jego skrzynię, ten nas przyłapie i zażąda 1000 sztuk złota. Nie mamy innego wyjścia niż zapłata, więć to robimy, a quest się kończy.
 
-#### Wielka brama na przełęczy
+#### Wielkie wrota Przełęczy
 
 W skrzyni Tartarona, do której klucz ma on sam, znajduje się klucz na przełęcz Ishtar. Idziemy na przełęcz i otwieramy bramę przełącznikiem, znajdującym się w wieży obok bramy. Zagadujemy do Kabira, a quest się kończy.
 
 #### Towary z Ishtar
 
 Karim, kupiec z Amarny prosi nas o rozprowadzenie jego towarów z Ishtar po całym Varancie. Możemy wytargować maksymalnie 250 sztuk złota, inaczej misja przepadnie.  
-Udajemy się do Soraba i odbieramy skrzynie z piwnicy. Teraz idziemy do Iskry w Ugarze, Ortegi w Aszdodzie, Belasara w Amarnie oraz Malika w wieży strażników Beliara.  
-Po bezsensownej wędrówce ze skrzynią dla Belasara, wracamy do Karima i odbieramy nagrodę
+Udajemy się do Soraba i odbieramy skrzynie z piwnicy. Teraz idziemy do Iskry w Ugarze, Ortegi w Aszdodzie, Belazara w Amarnie oraz Malika w wieży strażników Beliara.  
+Po bezsensownej wędrówce ze skrzynią dla Belazara, wracamy do Karima i odbieramy nagrodę.
 
 #### Złoto Zoraba
 
@@ -742,7 +817,7 @@ Lester prosi nas o odnalezienie wszystkich członków bractwa (Gor Na Ran, Gor 
 
 #### Mapa dla Diego
 
-Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy mapę i otrzymujemy nagrodę
+Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy mapę i otrzymujemy nagrodę.
 
 ## Zachodni Varant
 
@@ -750,19 +825,21 @@ Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy ma
 
 #### [Poszukiwania Xardasa w Varancie](#poszukiwania-xardasa-w-varancie)
 
-#### Rozbójnicy w czarnej wieży
+#### Rozbójnicy
 
-Gargaron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę (Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy)
+Gargoron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę. 
 
-#### Rośliny dla Dominika
+>Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy
 
-Dominik prosi nas o przyniesienie 12 specjalnych roślin, które rosną w jaskiniach w zachodnim Varancie. Po znalezieniu roślin wracamy do Dominika po nagrodę.
+#### Rośliny dla Dominikusa
+
+Dominikus prosi nas o przyniesienie 12 specjalnych roślin, które rosną w jaskiniach w zachodnim Varancie. Po znalezieniu roślin wracamy do Dominikusa po nagrodę.
 
 #### Niebezpieczna oaza
 
-Po przyniesieniu Dominikowi roślin, ten wysyła nas na poszukiwania jego kostura, który zgubił w oazie niedaleko przejścia na pustynię. Przy ścianie za oazą leży jego broń, z którą wracamy po nagrodę
+Po przyniesieniu Dominikusowi roślin, ten wysyła nas na poszukiwania jego kostura, który zgubił w oazie niedaleko przejścia na pustynię. Przy ścianie za oazą leży jego broń, z którą wracamy po nagrodę.
 
-#### Sekretna biblioteka
+#### Tajna biblioteka
 
 Uderus poszukuje posążków, które służą do otwarcia ukrytej biblioteki.
 
@@ -776,9 +853,9 @@ Drugi posążek posiadają gobliny, znajdujące się w jaskini na zachodzie. Po 
 
 #### Koczownicy
 
-Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczki z Bronią](#paczki-z-bronią), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce w świętym źródełku](#topielce-w-świętym-źródełku), [Skóry zębacza dla Bachrama](#skóry-zębacza-dla-bachrama), [Pustynni rozbójnicy Alego](#pustynni-rozbójnicy-alego)
+Aby zdobyć zaufanie Tamary, musimy zdobyć zaufanie Saida i reszty koczowników. Znajduje się on w swoim obozie niedaleko Amarny. Robimy wszystkie zadania w obozie takie jak [Paczka broni](#paczka-broni), [Polowanie na gryfy](#polowanie-na-gryfy), [Polowanie na pantery](#polowanie-na-pantery), [Ręka i serce Selimy](#ręka-i-serce-selimy), [Topielce przy świętym źródle](#topielce-przy-świętym-źródle), [Skóry zębaczy dla Bachrama](#skóry-zębaczy-dla-bachrama), [Pustynni rabusie Alego](#pustynni-rabusie-alego)
 
-#### Paczki z bronią
+#### Paczka broni
 
 Said prosi nas o przyniesienie mu 10 paczek z bronią. Można je znaleźć u kupców w Ugarze i Amarnie, a także w ich domach, magazynach i wieżach.
 
@@ -794,18 +871,17 @@ Szaban skarży się na pantery, które porywają jego kozy. Znajdują się one n
 
 Ruslan opowiada nam, że chciałbym poślubić Selime, ale jej ojciec nie chce na to pozwolić. Idziemy do Kamala, a następnie do jego żony Halimy. Następnie ponownie zagadujemy do Kamala, który każe zabić nam czarnego trolla z gór. Idziemy do Ruslana, a następnie zabić trolla, który znajduje się na wzniesieniu naprzeciw wejścia do obozu. Po zebraniu skóry i kłów wracamy do Kamala, a następnie wracamy do Ruslana, a misja się kończy..
 
-#### Topielce w świętym źródełku
+#### Topielce przy świętym źródle
 
 Nowicjusz Manuel prosi nas o zabicie topielcy, które zalęgły się przy jeziorku pod jaskinią wodną. Po pozbyciu się gadów, wracamy do Manuela i odbieramy nagrodę..
 
-#### Skóry zębacza dla Bachrama
+#### Skóry zębaczy dla Bachrama
 
-Bachram, przywódca myśliwych pod obozem Saida, prosi nas o pomoc w polowaniu. Musimy dostarczyć mu 12 skór pustynnych zębaczy, które kręcą się w okolicy.  
-Zabijamy zębacze i odnosimy skóry Bachramowi, tym samym kończąc zadanie..
+Bachram, przywódca myśliwych pod obozem Saida, prosi nas o pomoc w polowaniu. Musimy dostarczyć mu 12 skór pustynnych zębaczy, które kręcą się w okolicy. Zabijamy zębacze i odnosimy skóry Bachramowi, tym samym kończąc zadanie.
 
-#### Pustynni rozbójnicy Alego
+#### Pustynni rabusie Alego
 
-Kiedy poprosimy Saida o pomoc w odbiciu Aszdodu, zleca on nam pozbycie się wrogiego klanu rozbójników Alego. Znajduje się on między zniszczonym miastem, a wieżą Wojowników Beliara. Po wszystkim wracamy do Saida, który zgadza się udzielić nam pomocy..
+Kiedy poprosimy Saida o pomoc w odbiciu Aszdodu, zleca on nam pozbycie się wrogiego klanu rabusi Alego. Znajduje się on między zniszczonym miastem, a wieżą Wojowników Beliara. Po wszystkim wracamy do Saida, który zgadza się udzielić nam pomocy.
 
 #### Mag wody Merkurius
 
@@ -824,25 +900,25 @@ Merkurius zgadza się nauczyć nas języka starożytnych, ponieważ potrzebujemy
 
 #### Teleporty Varantu
 
-Merkurius zleca nam zebranie teleportów w Varancie. Musimy mu przynieść
+Merkurius zleca nam zebranie teleportów w Varancie. Musimy mu przynieść:
 
-Wybrzeże Varantu  - Niedaleko Prampeka przy drogowskazie  
+Wybrzeże Varantu - Niedaleko Prampeka przy drogowskazie  
 Przełęcz do Ishtar - W skrzyni w wieży przy bramie na przełęcz  
 Ugar - Do kupienia u Iskry w Ugarze  
 Amarna - Do kupienia u Karima w Amarnie  
 Wieża Wojowników Beliara - W skrzyni na parterze wieży  
-Obóz Saida - Dostajemy od MerkuriusaRuiny Tadmoru - W ruinach niedaleko GemnokaDolina Aszdodu - W wieży naprzeciwko przejścia do Aszdodu  
+Obóz Saida - Dostajemy od MerkuriusaRuiny Tadmoru - W ruinach niedaleko Gemnoka
+Dolina Aszdodu - W wieży naprzeciwko przejścia do Aszdodu  
 Obóz Nemrosha - W namiocie NemroshaŚwiątynia Aszdodu - Do kupienia u Alfonso  
 Po zebraniu owych teleportów wracamy do Merkuriusa i zadanie się kończy.
 
-#### Klątwa Tadmoru
+#### Klątwa z Tadmoru
 
 Po zabraniu tabliczki Akaschy ze świątyni, wokół pojawiło się wielu nieumarłych, których należy się pozbyć. Po zabiciu ich wszystkich wracamy do Merkuriusa i odbieramy nagrodę.
 
-#### Strażnicy wybrzeża
+#### Straż przybrzeżna
 
-Said zleca nam odbicie Patary z rąk asasynów. Najlepiej zrobić tą misje po wypowiedzeniu wojny asasynom, tak aby nie ponieść dodatkowych konsekwencji.  
-Po wszystkim wracamy do Saida, który uzyskuje dostęp do morza.
+Said zleca nam odbicie Patary z rąk asasynów. Najlepiej zrobić tą misje po wypowiedzeniu wojny asasynom, tak aby nie ponieść dodatkowych konsekwencji. Po wszystkim wracamy do Saida, który uzyskuje dostęp do morza.
 
 ## Wieża wojowników Beliara
 
@@ -850,11 +926,11 @@ Po wszystkim wracamy do Saida, który uzyskuje dostęp do morza.
 
 #### Skóry dla Amira
 
-Amir, przywódca grupy koczowników za wieżą Malika, prosi nas o dostarczenie mu 5 skór lwa i 1 skórę trolla. Powinniśmy je już mieć, a jeśli nie, to lwy są wszędzie w okolicy. Przynosimy mu skóry i zyskujemy nowego nauczyciela zręczności i siły
+Amir, przywódca grupy koczowników za wieżą Malika, prosi nas o dostarczenie mu 5 skór lwa i 1 skórę trolla. Powinniśmy je już mieć, a jeśli nie, to lwy są wszędzie w okolicy. Przynosimy mu skóry i zyskujemy nowego nauczyciela zręczności i siły.
 
-#### Wilki przy wieży
+#### Wilki wokół wieży
 
-Mervan prosi nas o pozbycie się pustynnych wilków które przebywają za wieżą Malika. Po zabiciu 12 wilków wracamy do Mervana po nagrodę.
+Merwan prosi nas o pozbycie się pustynnych wilków które przebywają za wieżą Malika. Po zabiciu 12 wilków wracamy do Merwana po nagrodę.
 
 #### Duchy zmarłych
 
@@ -866,8 +942,8 @@ Po oddaniu Hassanowi listu od Malika, zleca on nam przyniesienie mu specjalnego 
 
 #### Wieża wojowników Beliara
 
-Amir chciałby przejąć wieżę wojowników Beliara, ale nie ma do tego odpowiednich wojsk. Odbijamy wieżę(Nie wcześniej niż po zrobieniu wszystkich zadań dla asasynów) i wracamy z raportem do Amira..
+Amir chciałby przejąć wieżę wojowników Beliara, ale nie ma do tego odpowiednich wojsk. Odbijamy wieżę (Nie wcześniej niż po zrobieniu wszystkich zadań dla asasynów) i wracamy z raportem do Amira.
 
-#### Uwięziony koczownik
+#### Pojmany koczownik
 
-Przy okazji uwalniania wieży, otwieramy więzienie i wypuszczamy stamtąd koczownika. Rozmawiamy z nim ponownie w obozie Amira, co kończy nasze zadanie..
+Przy okazji uwalniania wieży, otwieramy więzienie i wypuszczamy stamtąd Imira. Rozmawiamy z nim ponownie w obozie Amira, co kończy nasze zadanie.

@@ -77,9 +77,25 @@ Bengara możemy znaleźć na farmie Onara. Wybijamy orków z jego farmy, i mówi
 
 Akila możemy znaleźć w jaskini nieopodal jego farmy, w której zdobywaliśmy śmierdzącą rybę z wątku gildii złodziei w Gothicu 2. Wybijamy orków z jego farmy, i mówimy mu, że jego farma jest wolna.
 
+#### Poprosić Gernota o pomoc
+Po wykonaniu [Orkowie na farmach](#orkowie-na-farmach) możemy poprosić Gernota o dodatkowe wsparcie, na które się zgodzi. Do naszego zespołu dołączają Harald, Ernst i Hawk.
+
+#### Posterunek w lesie
+Gernot proponuje byśmy założyli obóz w lesie lub jaskini między klasztorem a miastem, skąd moglibyśmy obserwować orków. Do zbadania mamy trzy miejsca. Pierwsze: duży las między latarnią a farmą Akila, przy kamiennym kręgu na drodze do mrocznego lasu. Drugie: na prawo za mostem przed tawerną jest ukryty parów ze spalonymi chatami i dobrym widokiem na miasto i drogę do klasztoru. Trzecie: przy drodze z miasta do farmy Akila jest duża dolina, a na jej końcu spora jaskinia. Po zbadaniu miejsc wracamy do latarni i informujemy Haralda, dokąd mają się udać.
+
+#### Posterunek w niebezpieczeństwie
+Harald powiedział, że w pobliżu naszego obozu kręci się oddział orków. Trzeba ich zlikwidować, zanim zdążą wezwać posiłki.
+
+#### Patrol orków
+
+Harald mówi nam, że między miastem a farmą Onara kręci się patrol orków. Musimy się go pozbyć, zanim odkryje nasz obóz. Po likwidacji zagrożenia ponownie rozmawiamy z Haraldem.
+
 #### Zwoje dla Lorda Andre
 
 Po zadaniu [Orkowie na farmach](#orkowie-na-farmach) musimy zdobyć magiczne zwoje od Pyrokara. W tym celu, aby uzyskać klucz do klasztoru musimy wykonać zadanie [Niebezpieczna jaskinia](#niebezpieczna-jaskinia). Gdy już pogadamy w klasztorze z Pyrokarem, to otrzymamy listę składników, którą potrzebujemy zdobyć. Gdy już wszystko zdobędziemy i dostarczymy, czekamy jeden dzień, a pod otrzymaniu zwojów idziemy je oddać Lordowi Andre.
+
+#### Strażnicy mostu
+Harald uważa, że siły orków na moście między karczmą a miastem muszą zniknąć. Po wyeliminowaniu wrogów, zdajemy mu raport.
 
 #### Zaginiony nowicjusz
 
@@ -251,6 +267,9 @@ Lokalizacja tomów V i VI:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zw1dMh3chms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Skrzynia w obserwatorium
+Na najniższym poziomie wieży, w piwnicy, znajdziemy skrzynię z dosyć skomplikowanym zamkiem. Jeśli nie dam rady jej teraz otworzyć, musimy tutaj wrócić później. Po otwarciu skrzyni znajdujemy notatkę od Xardasa, która odnosi się do księgi znalezionej w tej samej skrzyni. Wynika z niej, że na Khorinis musi być jakieś wulkaniczne miejsce, gdzie możemy znaleźć obsydian. Wygląda na to, że do ów miejsca da się dotrzeć tylko przy pomocy zwoju przemiany w krwiopijcę.
+
 #### Księgi Xardasa z zaklęciami przywołania
 
 W [obserwatorium](#obserwatorium) znajdziemy kolejne 5 ksiąg przywoływania, które czytamy, zabijamy moby, a następnie oddajemy je Sejanowi.
@@ -260,6 +279,10 @@ W [obserwatorium](#obserwatorium) znajdziemy kolejne 5 ksiąg przywoływania, k
 Zadanie dostaniemy w trakcie wykonywania [Obserwatorium](#obserwatorium). Sejan wysyła nas byśmy poszli do grobowca paladynów po kamień duszy. Dojdziemy tam kierując się od obserwatorium ścieżką w dół i skręcając w prawo do zamkniętych wrót. Na końcu grobowca, otwierając skrzynkę, możemy zauważyć, że jest pusta. Nagle pojawia się czarny mag Cyon, z którym mieliśmy już kontakt na Adarmos. Po pokonaniu go wracamy do Sejana.
 
 ### Zadania poboczne
+
+#### Proroctwo
+
+Abuyin co rozdział (zaczynajac od szóstego) może nam powróżyć. Po ostatniej przepowiedni kończy się zadanie.
 
 #### Niebezpieczne warany
 
@@ -371,7 +394,7 @@ To zadanie może zostać zakończone, gdy nie wydaliśmy Tarroka przy rozmowie z
 
 Rangar, w starym obozowisku Dextera, opowiada nam krótko swoją historię. Gdy postanowiliśmy mu pomóc, to idziemy pogadać z paladynami Jestanem oraz Salfordem. Nic istotnego nie udało się jednak uzyskać, mimo wszystko wracamy do Rangara. Postanawiasz więc doprowadzić do kłótni rycerzy. Pytasz się Rangara, czy ma może jakiś pomysł. Mówi ci o kuszy Salforda. W celu wykonania misji, trzeba kradzieżą kieszonkową ukraść klucz do kufra Jestena, podrzucić kuszę Salforda z kufra obok, a następnie powiedzieć o kuszy Salfordowi. O całości idziesz powiedzieć potem Rangarowi.
 
-#### Znajdź Gekarda
+#### Poszukiwania Gekarda
 
 Wulfgar prosi nas, abyśmy znaleźli strażnika miejskiego Gekarda. Znajdujemy go w chacie Erola, po czym on daje nam kilka małych zadań. Po wykonaniu wszystkich, Gekard udaje się do latarni Dextera, a my wracamy do Wulfagara.
 
@@ -445,7 +468,7 @@ Spencer zleca nam zdobycie serca ognistego golema. Znajdziemy je w jaskini pełn
 
 Spencer zleca nam znalezienie magicznego kostura. Znajdziemy go w bibliotece w Jarkendarze, a po zdobyciu go wracamy do Spencera.
 
-#### Piracki wrak na bagnach
+#### Piracki wrak na bagnie
 
 Spencer zleca nam znalezienie personalnej rzeczy kapitana. Idziemy na statek widmo, zabijamy nieumarłych i wchodzimy do kajuty kapitana, gdzie znajdujemy jego miecz. Z mieczem wracamy do Spencera i zadanie się kończy.
 

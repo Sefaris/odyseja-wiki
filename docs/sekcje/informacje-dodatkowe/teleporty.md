@@ -46,7 +46,7 @@
 | Do wieży Xardasa          | Stolik w bibliotece na szczycie wieży                                                              |
 | Do gospody Orlana         | Sprzedaje Orlan / [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - misja na cmentarzu |
 | Do obozu na farmie Onara  | Andre przy pierwszym spotkaniu                                                                     |
-| Na północ Khorinis        | Leżę Czarnego Trolla                                                                               |
+| Na północ Khorinis        | Leże Czarnego Trolla                                                                               |
 | Na przełęcz               | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - druga odnoga jaskini Próby Ognia     |
 | Do majątku ziemskiego     | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - wysepka z topielcami obok Erola      |
 | Do klasztoru              | [Runy Tarroka](sekcje/zadania/rozdzial_iii?id=runy-tarroka) - jaskinia pod mostem na wykopaliska   |
@@ -60,11 +60,27 @@
 | Do siedliska goblinów     | Skrzynia obok Spencera w wiosce goblinów                                                           |
 | Na statek widmo           | Wnęka w skałach przy zejściu na bagna obok statku [[SCREEN]](images/JYPlcVd.jpg)                   |
 
+## Górnicza Dolina
+
+| Cel teleportacji          | Lokalizacja runy                                                                                   |
+| ------------------------- | -------------------------------------------------------------------------------------------------- |
+| Do przełęczy GD           | Sprzedaje Pat                                                                                      |
+| Do starej Xardasa         | nie wiem                                                                                           |
+| Do cmentarzyska orków     | W kieszeni Orka strażnika grobowców (pilnuje wejścia do cmentarza)                                 |
+| Do świątyni Śniącego      | Od Xardasa podczas [Zło w Świątyni Śniącego](sekcje/zadania/rozdzial_vi?id=zło-w-Świątyni-Śniącego)|
+| Do Ur-Shaka               | Przy jego namiocie leży                                                                            |
+| Do obozu orków za murami  | W kieszeni Pułkownika orków                                                                       |
+| Do starego klasztoru      | W kieszeni Kościanego maga                                                                         |
+| Do obozu sekciarzy        | nie wiem                                                                                           |
+| Do Wolnej kopalni         | Sprzedaje Sharky                                                                                   |
+| Do Nowego Obozu           | Sprzedaje Pat                                                                                      |
+| Do zamku                  | W siedzibie Magów Ognia w zamku                                                                    |
+
 ## Jarkendar
 
 | Cel teleportacji       | Lokalizacja runy                            |
 | ---------------------- | ------------------------------------------- |
-| Do druida Kiliana      | Skrzynia za kapliczką Adanosa przy Kilianie |
+| Do druida Kiliana      | Skrzynia za kapliczką Adanosa przy Killianie|
 | Do jaskini ogrów       | Sprzedaje druid Killian                     |
 | Do obozu piratów Grega | Za chatą Skipa                              |
 
@@ -135,6 +151,7 @@
 | -------------------- | --------------------------------------------------- |
 | Do obozu buntowników | Sprzedaje Paddy w obozie Aidana                     |
 | Do wieży strażniczej | Skrzynia w wieży strażniczej / Zwłoki na polu bitwy |
+| Do nadmorskiej fortecy | W kieszeni orka pułkownika w fortecy              |
 
 ## Gota
 
@@ -172,3 +189,9 @@
 | Do wieży Xardasa            | Kominek w Wieży Xardasa    |
 | Do ruin Auraratu            | Skrzynia w piwnicy Xardasa |
 | Na północne tereny Nordmaru | Skrzynia w piwnicy Xardasa |
+
+### Wyspa Irdorath
+
+| Cel teleportacji            | Lokalizacja runy           |
+| --------------------------- | -------------------------- |
+| Do czarnego zamku           | W kieszeni Baal Handshar'a |

@@ -8,13 +8,15 @@ Na tej stronie znajdziesz kompletną solucję do modyfikacji _Gothic II: Odyseja
 
 ---
 
-## Osoby, które przyczyniły się do stworzenia solucji
+## Osoby, które przyczyniły się do stworzenia solucji i jej aktualizacji
 
 **Członkowie Teamu Sefaris:**
 
 - Buzka
 - Tulipan
 
+**Inni współtwórcy:**
+- Deetom554
 ---
 
 ## Jak aktualizować solucję

@@ -103,7 +103,7 @@ Po zbadaniu wysepki i odnalezieniu 5 dzienników w skrzyni na szczycie znajdujem
 
 **Wskazówki:**
 
-- Na tej wyspie nauczysz się ważnego przepisu (dostaniesz wpis w dzienniku po misji [Ważne zadanie Griseldy](#ważne-zadanie-griseldy)) i odkryjesz nową roślinę, z której będziesz robił zupki +1 siły
+- Na tej wyspie nauczysz się ważnego przepisu (dostaniesz wpis w dzienniku po misji [Ważne zadanie od Griseldy](#ważne-zadanie-od-griseldy)) i odkryjesz nową roślinę, z której będziesz robił zupki +1 siły
 - Istotną misją jest również [Pierścień szybkości](#pierścień-szybkości), jako że nieprędko wrócisz na tę wyspę, jeśli nie zacząłeś tej misji tutaj
 - Świerszczowa pokrzywa pojawia się dopiero po otrzymaniu misji od Griseldy
 - Przed odpłynięciem można pobić zarówno Oskara jak i Griselde, aby odzyskać pokrzywę i zupę
@@ -118,7 +118,7 @@ Gernot zleca nam zebranie informacji na wyspie na temat orkowej floty. Gadasz pr
 
 Oskar opowiada nam, że zniknęła kapliczka Innosa. Następnie udajemy się do Sandroka, który nas informuje o tym, że gdy postawimy posążek Innosa na piedestale w kamiennym kręgu, to kapliczka się pojawi i o tym, że widział jak Gyges się tam kręcił. Idziemy więc do niego.Po wykonaniu misji dowiadujemy się, że posążek, został zjedzony przez ścierwojady jednak nic takiego nie znajdujemy więc idziemy jeszcze raz do Gygesa, który mówi nam, że jedyną możliwością jest to, że posążek zleciał w dół przez dziurę niedaleko ścierwojadów. Skaczemy na sam dół i zaraz przy brzegu leży posążek, który odnosimy na piedestał. Wracamy po wszystkim do Oskara.
 
-#### Dostęp do zamku Sandroka
+#### Dostęp do twierdzy Sandroka
 
 Misja aktywuje się po dojściu do mostu, który obecnie jest podniesiony do góry, a przejście jest nieczynne. Oskar opowie ci o alternatywnej drodze. Misja kończy się po rozmowie z Sandrokiem.
 
@@ -146,7 +146,7 @@ Po znalezieniu kapliczki Gyges mówi, że zgubił swój kij pasterski. Po zgodze
 
 ### Zadania poboczne
 
-#### Ważne zadanie Griseldy
+#### Ważne zadanie od Griseldy
 
 Griselda chce byś się dowiedział co Oskar chce na obiad oraz następnie zebrał potrzebne składniki. Świerszczową pokrzywę znajdziemy nieopodal Gygesa, pod drzewem. Następnie wracając do Griseldy najlepiej wybrać opcje, że jesteś Gyges'em otrzymując tym sposobem 2 zupy ziołowe do siły. Oddając jedną z nich Oskarowi otrzymujesz dodatkowe 200 doświadczenia.
 
@@ -175,9 +175,9 @@ W piwnicy Sandroka możemy przeczytać na temat ukrytego skarbu Korofskiego.
 
 Zdobędziemy go dopiero na początku 4 rozdziału na rafie (Rozdział IV), na której znajdziemy Dandolo. Jeśli ominiemy grobowiec i wypłyniemy z raf, zadanie zakończy się niepowodzeniem.
 
-#### Adelina i Brosius
+#### Adelinda i Brosius
 
-Po wykonaniu zadania [Sandrok się nudzi](#sandrok-się-nudzi) dostaniemy dostęp do biblioteki pod twierdzą, w której jest książka potrzebną do wykonania tej misji dla Adeliny.
+Po wykonaniu zadania [Sandrok się nudzi](#sandrok-się-nudzi) dostaniemy dostęp do biblioteki pod twierdzą, w której jest książka potrzebną do wykonania tej misji dla Adelindy.
 
 #### Szczury w porcie
 
@@ -197,7 +197,7 @@ Po wykonaniu wszystkiego na wyspie można iść pożegnać się z Sandrokiem. Po
 - Dobrze jest ją jednak wbić tutaj na 60 i odebrać szpadę od Gernota przy zadaniu Stammler (można wspomóc się kapliczką)
 - Po wejściu na dziedziniec zamku, zajrzyj do wieży po lewo, a znajdziesz tam dobrą broń wymagającą zręczności
 - Pogadaj na starcie z Ambroziusem znajdującym się na plaży, na lewo od miejsca lądowania, po to by przyspieszyć jedną misję
-- Nie atakuj najemników orków znajdujących się w obozie za mostem, aż do ukończenia zadania [Negocjacje z Jacko](#negocjacje-z-jacko)
+- Nie atakuj najemników orków znajdujących się w obozie za mostem, aż do ukończenia zadania [Negocjacje z Jaco](#negocjacje-z-jaco)
 - Potrzebna nauka wyrywania serc oraz pozyskiwania skór. Uczą [myśliwi](#łuk-hansa)
 - Przydatna akrobatyka
 - Nie wchodź do kopalni srebra dopóki nie dostaniesz misji!
@@ -279,17 +279,17 @@ Zadanie kończy się w momencie zrobienia dwóch powyższych i zdaniu relacji Ja
 
 Pierwszą informację dostajemy już na samym starcie od karczmarza jednak dopiero po uzyskaniu zaufania Janusa, ten, opowiada nam kto posiada klucz do więzienia. Jest to Stefan. Potrzebujemy 45 zręczności by ukraść klucz do jego pokoju, a następnie kolejny, do więzienia, z jego skrzyni. Dowiadujemy się ciekawych rzeczy na temat Fulko i po rozprawieniu się z doradcą i rozmowie z Bruno wracamy do więźnia.
 
-#### Negocjacje z Jacko
+#### Negocjacje z Jaco
 
-Bruno prosi nas o to, abyśmy przekonali najemników orków, żeby opuścili Tamorę. W tym celu mamy porozmawiać z Jacko, który znajduje się niedaleko kryjówki Igora. Nie udało się nic wskórać (dobrze jest zabić jego i orka zaraz po rozmowie, aby potem nie męczyć się z nim w jego obozie) więc wracamy do Bruno.
+Bruno prosi nas o to, abyśmy przekonali najemników orków, żeby opuścili Tamorę. W tym celu mamy porozmawiać z Jaco, który znajduje się niedaleko kryjówki Igora. Nie udało się nic wskórać (dobrze jest zabić jego i orka zaraz po rozmowie, aby potem nie męczyć się z nim w jego obozie) więc wracamy do Bruno.
 
 #### Najemnicy orków
 
-Początkowy wpis dostajemy już od Stefana. Całość zadania wykonujemy dopiero po zadaniu [Negocjacje z Jacko](#negocjacje-z-jacko). Polega to na zabiciu wszystkich najemników na wyspie. Ich obozy znajdują się w następujących miejscach:
+Początkowy wpis dostajemy już od Stefana. Całość zadania wykonujemy dopiero po zadaniu [Negocjacje z Jaco](#negocjacje-z-jaco). Polega to na zabiciu wszystkich najemników na wyspie. Ich obozy znajdują się w następujących miejscach:
 
-1\. Przed wejściem do miasta, którzy pojawiają się po wzięciu zadania [Negocjacje z Jacko](#negocjacje-z-jacko)  
+1\. Przed wejściem do miasta, którzy pojawiają się po wzięciu zadania [Negocjacje z Jaco](#negocjacje-z-jaco)  
 2\. Przy ognisku niedaleko jeziorka naprzeciw bramy Tamory  
-3\. Nad jaskinią Igora (tam gdzie było spotkanie z Jacko)  
+3\. Nad jaskinią Igora (tam gdzie było spotkanie z Jaco)  
 4\. W lesie, niedaleko myśliwych.  
 5\. Przed i w [kopalni rudy](#kopalnia-rudy).  
 6\. W [wieży strażniczej](#wieża-strażnicza-tamory)  
@@ -416,7 +416,7 @@ Zadanie to otrzymamy tylko i wyłącznie, jeśli dojdziemy do misji w zamku, a n
 
 Gernot zleca nam misje by się dowiedzieć, w którym kierunku popłynęła orkowa flota. Zadanie kończy się po rozmowie z Roshem na wyspie.
 
-#### Piraci na Adarmos
+#### Piraci na Adarmosie
 
 Zadanie również dostajemy od Gernota i kończy po rozmowie z Roshem.
 
@@ -485,7 +485,7 @@ Gdy opuszczamy wioskę możemy zagadać o tym do starosty, który opowiada nam o
 
 Harald prosi nas byśmy dowiedzieli się informacji na temat orkowej floty od ludzi na pobliskim statku. Robimy tam potrzebne misje, by koniec końców dowiedzieć się od kapitana statku na temat floty orków. Z tymi informacjami wracamy do Haralda.
 
-#### Febra na statku
+#### Gorączka na pokładzie
 
 Jeden z marynarzy opowiada nam, że nie zostaniesz dopuszczony do kapitana jeśli nie wyleczysz Hansa. W tym celu idziemy do Wulfiasa by przygotował nam specjalny eliksir. O składniki możemy spytać Wolfganga, a tran znajdziemy na statku handlowym. Po przygotowaniu eliksiru i przy ponownej rozmowie z Hansem, mamy możliwość oddania specjalnej mikstury lub grogu.
 
@@ -503,7 +503,7 @@ Cała misja polega na rozmowie z Ahabem, marynarzami i Haraldem, by w końcu zdo
 
 **Wskazówki:**
 
-- Tutaj zdobędziesz wystarczającą ilość broni dla Hawka by zostać w końcu bosmanem i uzyskać lepszy pancerz.  
+- Tutaj zdobędziesz wystarczającą ilość broni dla Hawka by zostać w końcu bosmanem i uzyskać [lepszy pancerz](#lepszy-pancerz).  
   \-Na lewo od latarni zeskocz na polane poniżej. Znajdziesz na niej bardzo dobry miecz.  
   \-Wioskę odbij jako ostatnia rzecz na wyspie- Warto eksplorować wyspę z Dandolo, jako że radzi on sobie z większością przeciwników (tylko nie porywajcie się na orków i drzewce)
 - Jeżeli zginie ci myśliwy Enzo znajdujący się poza obozem, to nie przejmuj się. Nie jest do niczego potrzebny.
@@ -512,6 +512,9 @@ Cała misja polega na rozmowie z Ahabem, marynarzami i Haraldem, by w końcu zdo
 - [Gobliny-piraci](#gobliny-piraci)
 
 ### Zadania główne i powiązane
+
+#### Lepszy pancerz
+Quest informacyjny. Po zostaniu bosmanem możemy kupić nowy pancerz u Haralda.
 
 #### Poszukiwanie żywności
 
@@ -579,9 +582,9 @@ Następnie przejście do kopalni otwierasz niszcząc kamienie kilofem. Dajesz dr
 
 Po opuszczeniu wyspy Khorus Gernot każe obserwować morze. W tym celu udajemy się na maszt.
 
-#### Statek orków
+## Statek orków
 
-#### Więzień
+#### Niewolnik
 
 Po wygranej walce z orkami trafiasz na Martina, znanego nam członka straży miejskiej Khorinis. Nie opuści on jednak tego miejsca, jeśli nie znajdziemy mu jego cennego miecza. Znajduje się na dole pokładu w skrzyni. Oddajemy miecz i przyprowadzamy Martina na Albatrosa.
 

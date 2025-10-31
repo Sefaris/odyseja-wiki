@@ -65,11 +65,11 @@ Jonathan prosi Cię, abyś rozdał jedzenie kowalowi, oraz pięciu paladynom. Na
 
 #### Mięso dla Jonatana
 
-Jonatan potrzebuje 50 sztuk surowego mięsa. Zabijamy ogólnodostępne na wyspie zwierzęta i wracamy do niego z mięsem
+Jonatan potrzebuje 50 sztuk surowego mięsa. Zabijamy ogólnodostępne na wyspie zwierzęta i wracamy do niego z mięsem.
 
 #### Pomoc w polowaniu
 
-Klaus potrzebuje 50 sztuk surowego mięsa, których zdobycie zlecił mu zamkowy kucharz. Powinniśmy je już mieć, a jeśli nie, to pozbywamy się okolicznych ścierwojadów i wilków
+Klaus potrzebuje 50 sztuk surowego mięsa, których zdobycie zlecił mu zamkowy kucharz. Powinniśmy je już mieć, a jeśli nie, to pozbywamy się okolicznych ścierwojadów i wilków.
 
 #### Athanoskie wilki
 
@@ -130,7 +130,7 @@ Aby otrzymać zgodę od Herbrandta, musimy wykonać to zadanie. Mówi nam, że k
 
 #### Zdrajca
 
-Poboczne zadanie, które zakończymy razem ze [Zaginiona broń](#zaginiona-broń)
+Poboczne zadanie, które zakończymy razem ze [Zaginiona broń](#zaginiona-broń).
 
 #### Miecz paladyna
 
@@ -294,7 +294,7 @@ Lokalizacja klucza:
 
 ![Lokalizacja klucza](images/q5FtSNd.png)
 
-#### Dostawa jedzenia
+#### Pomoc w zaopatrzeniu
 
 Jutta prosi Cię, abyś przyniósł jej 12 rzep od farmera Johana. Johan mówi, że możesz je zebrać z pola. Wracamy do Jutty z rzepą, a ona mówi, żebyśmy poszli z nią do kucharza zamkowego Jonathana oraz przy okazji odebrali dwa tuziny ryb od rybaka Freda. Wykonujemy wszystkie polecenia i wracamy do Jutty. Możemy też po prostu oddać jej składniki, jeżeli mamy je przy sobie z innych źródeł.
 
