@@ -144,6 +144,8 @@
 | Do miasta Vengardu         | Zwłoki wodza orków w mieście ([Spisek](sekcje/zadania/rozdzial_vi?id=spisek)) |
 | Na statek                  | Lord Baldwin przy pierwszej wizycie                                           |
 | Do obozu za barierą        | Król Rhobar w 6r                                                              |
+| Do gospody najemników orków | Na półce w jednym z pokoi                                                    |
+| Do chatki Niko             | nie wiem                                                                      |
 
 ## Faring
 
@@ -152,8 +154,9 @@
 | Do obozu buntowników | Sprzedaje Paddy w obozie Aidana                     |
 | Do wieży strażniczej | Skrzynia w wieży strażniczej / Zwłoki na polu bitwy |
 | Do nadmorskiej fortecy | W kieszeni orka pułkownika w fortecy              |
+| Do wioski Adriana    | nie wiem                                            |
 
-## Gota
+## Gotha
 
 | Cel teleportacji             | Lokalizacja runy                                                             |
 | ---------------------------- | ---------------------------------------------------------------------------- |
@@ -162,6 +165,7 @@
 | Do obozu Gońców Leśnych      | Sprzedaje druid Melander                                                     |
 | Do kaplicy w ukrytej dolinie | Skrzynia przy kapliczce w Ukrytej Dolinie Borsuków                           |
 | Do karczmy w Monterze        | Skrzynia w karczmie                                                          |
+| Do Gorna w ruinach wieży     | nie wiem                                                                     |
 
 ## Nordmar
 
