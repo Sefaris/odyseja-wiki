@@ -332,7 +332,7 @@ Niko mogliśmy spotkać razem z Degenhartem (miejsce zaznaczone na mapie). Zgodz
 
 Niedaleko zamku buntowników z Faring mogliśmy spotkać farmera Melchiora, którego niepokoją dźwięki dochodzące z pola i słyszane w nocy. Okazuje się, że na polu spotykamy zwykłego szczura, którego należy pokonać. Po ponownej rozmowie z farmerem, ten nam nie wierzy i nie otrzymujemy wynagrodzenia.
 
-#### Zabłąkane owca
+#### Zabłąkane owce
 
 Po wykonaniu zadania [Farmer i potwór](#farmer-i-potwór), Melchior następnego dnia mówi nam, że uciekły jego owce przed wilkami. Zadanie kończy się po dostarczeniu trzech żywych owiec oraz zameldowaniu o jednej martwej. Owce są dobrze poukrywane i porozrzucane po okolicy.  
 ![](images/image1.png)
