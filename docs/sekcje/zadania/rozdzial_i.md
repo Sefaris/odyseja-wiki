@@ -124,7 +124,9 @@ Aby otrzymać zgodę od Herbrandta, musimy wykonać to zadanie. Mówi nam, że k
 2. Opływamy całą wyspę dookoła, aż nie zobaczymy kilku tratw i strażnika
 3. Wybijamy wszystkich przemytników
 4. Wchodzimy do jaskini i zabieramy miecze paladynów
-5. Wracamy do Herbrandta - zadanie się kończy
+5. Wracamy do Herbrandta
+6. Sprowadzamy do jaskini rycerza Gotfryda i dwóch rekrutów - Hinza i Kunza
+7. Meldujemy o wykonaniu zadania Herbrandta
 
 **Wskazówka:** Jeżeli brakuje mieczy, część z nich znajduje się w małej jaskini, gdzie walczyliśmy z Flintem.
 
@@ -138,11 +140,14 @@ W małej jaskini na wzgórzu goblinów znajdziemy beczki z bronią, a wśród ni
 
 #### Kryjówka przemytników
 
-To zadanie połączone z zadaniem [Zaginiona Broń](#zaginiona-broń). Opływając dookoła wyspę, zobaczymy przystań, a niedaleko niej bandytę. Wchodzimy do jaskini, zabijamy przemytników i zabieramy wszystko co do nich należało.
+To zadanie połączone z zadaniem [Zaginiona Broń](#zaginiona-broń). Opływając dookoła wyspę, zobaczymy przystań, a niedaleko niej bandytę. Wchodzimy do jaskini, zabijamy przemytników i zabieramy wszystko co do nich należało. Wracamy do Herbrandta i sprowadzamy do jaskini rycerza Gotfryda i dwóch rekrutów - Hinza i Kunza. Meldujemy Herbrandtowi o wykonaniu zadania.
 
 #### Alchemik
 
-Ralf opowie Ci o podejrzanym alchemiku, który pracuje dla Paladynów na zamku. Możesz się o niego zapytać u Bruno, Marboda, i innych paladynów, ale nie będą chcieli powiedzieć nic konkretnego. Dopiero w dalszym etapie na Athanos, po zakończeniu [podstawowego szkolenia](#podstawowe-szkolenie), oraz rozpoczęciu zadania [Nocna Warta](#nocna-warta), Bruno zapyta Cię, czy mógłbyś udać się do alchemika i przynieść mu parę mikstur. Dostajesz klucz do kwatery alchemika, która znajduje się na samym szczycie zamku. Od alchemika otrzymasz kilka innych zadań, które musisz ukończyć.
+Ralf opowie Ci o podejrzanym alchemiku, który pracuje dla Paladynów na zamku. Możesz o niego wypytać Bruno, Marboda lub nnych paladynów, jednak nikt nie zdradzi Ci żadnych konkretów. Dopiero w dalszym etapie na Athanos, po zakończeniu [podstawowego szkolenia](#podstawowe-szkolenie) i rozpoczęciu zadania [Nocna Warta](#nocna-warta), Bruno zleci quest [Mikstury](#Mikstury). W trakcie misji z miksturami zyskasz dostęp do alchemika.
+
+#### Mikstury
+Od Bruno dostajemy klucz od najwyższego piętra. Tam odbieramy mikstury od Sejana i zanosimy zleceniodawcy.
 
 #### Składniki dla Sejana
 
