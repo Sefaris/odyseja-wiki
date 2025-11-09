@@ -412,13 +412,9 @@ Zadanie to otrzymamy tylko i wyłącznie, jeśli dojdziemy do misji w zamku, a n
 
 ### Zadania główne i powiązane
 
-#### Wyspa Adarmos
-
-Gernot zleca nam misje by się dowiedzieć, w którym kierunku popłynęła orkowa flota. Zadanie kończy się po rozmowie z Roshem na wyspie.
-
 #### Piraci na Adarmosie
 
-Zadanie również dostajemy od Gernota i kończy po rozmowie z Roshem.
+Musimy zdobyć szacunek korsarzy i pogadać z Roshem.
 
 #### Kowal Wiko
 
