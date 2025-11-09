@@ -57,7 +57,7 @@ Na wybrzeżu, gdzie stacjonował Skip, znajdziemy parę osób którym udało si�
 
 Farim opowiada nam, że latarnia morska nad plażą została przejęta przez orków. Idziemy do latarni i wybijamy orków, wracamy do Farima.
 
-#### Orkowie na farmach
+#### Orkowie na farmie Onara
 
 Lord Andre mówi nam, aby przed odbiciem miasta Khorinis rozprawić się z mniejszymi oddziałami orków, którzy zajęli farmy. Wybijamy wszystkich orków na farmach Akila, Lobarta, Sekoba oraz Bengara, następnie informujemy o tym każdego z farmerów, i wracamy do Lorda Andre.
 
