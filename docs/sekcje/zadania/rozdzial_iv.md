@@ -185,7 +185,7 @@ Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_ii
 
 > **Uwaga:** Jeśli wybraliśmy ukrycie złodziei, w żadnym z questów nie idziemy do Wambo. Współpracujemy tylko ze złodziejami i przemytnikami.
 
-Quest ten pojawia się, jeśli zdecydujemy się nie wydawać Nagura i złodziei u Lorda Andre. Przebieg questów jest podobny co w misji [Gildia złodziei](#gildia-złodziei), z tą różnicą, że nie atakujemy Booze'a przy spotkaniu z nim i idziemy przy każdej misji takżed o Wambo. Wysyła Cię on do sekretnego pokoju, w którym schowany jest Rączka. Rozmawiamy z nim i próbujemy wyciągnąć od niego informacje o skarbie. Bijemy Rączkę i mamy do wyboru zabić go lub wydać do więzienia (Z innych rozwiązań Booze nie będzie zadowolony). Po wszystkim Booze udziela nam porad odnośnie do zarobku, a zadanie się kończy.
+Quest ten pojawia się, jeśli zdecydujemy się nie wydawać Nagura i złodziei u Lorda Andre. Przebieg questów jest podobny co w misji [Gildia złodziei](#gildia-złodziei), z tą różnicą, że nie atakujemy Booze'a przy spotkaniu z nim i idziemy przy każdej misji także do Wambo. Wysyła Cię on do sekretnego pokoju, w którym schowany jest Rączka. Rozmawiamy z nim i próbujemy wyciągnąć od niego informacje o skarbie. Bijemy Rączkę i mamy do wyboru zabić go lub wydać do więzienia (Z innych rozwiązań Booze nie będzie zadowolony). Po wszystkim Booze udziela nam porad odnośnie do zarobku, a zadanie się kończy.
 
 #### Plan Rengaru
 
