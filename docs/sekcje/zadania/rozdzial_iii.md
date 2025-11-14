@@ -442,7 +442,7 @@ Góry nad grobowcem: Teleportuje nas do niego teleport z grobowca
 
 #### Nieznana dolina
 
-W opuszczonej chacie nad wioską rybacką znajdziemy notatkę pustelnika, który mówi że przeniósł się do Jarkendaru. W Jarkendarze po rozmowie z Amenofisem zadanie się kończy.
+W opuszczonej chacie nad wioską rybacką znajdziemy notatkę pustelnika, który mówi że przeniósł się do Jarkendaru. W Jarkendarze po rozmowie z Eremitą zadanie się kończy.
 
 #### Admirał
 
