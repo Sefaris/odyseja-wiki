@@ -366,7 +366,7 @@ Wpis dostajesz, jeśli staniesz przed wejściem do piwnicy. Gra informuje, że n
 
 #### Królewskie szaty
 
-Izabela prosi nas, abyśmy dostarczyli jej królewską suknie. Dostaniemy ją dopiero w Vengardzie w ramach robienia misji [Nowicjusz za kratami](sekcje/zadania/rozdzial_vi?id=nowicjusz-za-kratami).
+Izabela prosi nas, abyśmy dostarczyli jej królewską suknie. Jedne zdobędziemy w zakładzie Boltara w Khorinis, drugie dostaniemy dopiero w Vengardzie w ramach robienia misji [Nowicjusz za kratami](sekcje/zadania/rozdzial_vi?id=nowicjusz-za-kratami).
 
 #### Martwy na bagnie
 
