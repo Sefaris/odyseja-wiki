@@ -345,7 +345,9 @@ Garvell mówi nam o tym, że zgubił swoją sakiewkę podczas przeprawy przez ba
 
 ![Lokalizacja sakiewki](images/album_MRrNE60_1.webp)
 
-Po odnalezieniu wracamy do Garvella i quest się kończy.## Pustynia Varantu
+Po odnalezieniu wracamy do Garvella i quest się kończy.
+
+## Pustynia Varantu
 
 ### Najważniejsze informacje
 
