@@ -10,7 +10,7 @@
 - Jeśli jeszcze go nie zrobiłeś, bardzo pomocny będzie tutaj [pierścień szybkości](sekcje/zadania/rozdzial_ii?id=pierścień-szybkości)
 - Do pewnej części Varantu otrzymasz dostęp dopiero w 5 rozdziale, więc nie próbuj tam przechodzić górami
 - Warto wykonać zadanie [Oszukany](#oszukany)
-- Po zebraniu starej kamiennej tabliczki z ruin Tadmoru, Asasyni staną się wrogo nastawieni.
+- Po zebraniu i przeczytaniu "kamiennej tablicy z świątyni" z ruin Tadmoru, Asasyni staną się wrogo nastawieni.
 
 ## Statek Wojenny Albatros
 
