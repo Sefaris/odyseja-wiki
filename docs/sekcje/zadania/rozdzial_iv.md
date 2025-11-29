@@ -277,14 +277,11 @@ Kilian opowiada nam o obozie piratów na plaży. Quest kończy się po rozmowie 
 
 #### Potężna broń
 
-Stojący na plaży pirat Rhen opowiada nam o potężnej broni, którą kapitan Greg przetrzymuje w swojej skrzyni na statku. Musimy się dostać na statek piratów (poniższe zadania), a następnie okraść Grega z klucza do kajuty. Wchodzimy do kajuty na statku, otwieramy skrzynie (ręcznie, nie quicklootem)  
-i okazuje się, że miecz został skradziony.
+Stojący na plaży pirat Rhen opowiada nam o potężnej broni, którą kapitan Greg przetrzymuje w swojej skrzyni na statku. Musimy się dostać na statek piratów (poniższe zadania), a następnie okraść Grega z klucza do kajuty. Wchodzimy do kajuty na statku, otwieramy skrzynie (ręcznie, nie quicklootem) i okazuje się, że miecz został skradziony.
 
 Rozmawiamy z Rhenem, który wysyła nas na północną plażę obok Samuela, w poszukiwaniu Monty'ego. Przeszukujemy jego zwłoki i wracamy do Rhena. Czytamy notatkę i idziemy do kanionu, w którym zabijamy poszukiwaczy obok teleportu. Z jednego z nich zdobywamy runę, która nas teleportuje do tajnego przejścia ulokowanego w skałkach na północnej plaży.
 
-Znajdujemy tam teleport, który teleportuje nas na nowy teren nad kanionem, gdzie pozbywamy się stada orków i poszukiwaczy. Po zabiciu imiennego poszukiwacza czytamy jego list, który nasyła nas na nowy trop. W tym momencie zadanie się urywa, a jego kontynuacja jest w 7r.
-
-Na Irdorath zabijamy posiadacza szpona, informujemy o tym Rhena, a quest się kończy.
+Znajdujemy tam teleport, który teleportuje nas na nowy teren nad kanionem, gdzie pozbywamy się stada orków i poszukiwaczy. Po zabiciu imiennego poszukiwacza czytamy jego list, który nasyła nas na nowy trop. W tym momencie zadanie się urywa. Szpon znajdziemy w kufrze hrabiego Garaksa w Vengardzie.
 
 #### Statek piratów
 
