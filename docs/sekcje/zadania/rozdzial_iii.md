@@ -493,6 +493,7 @@ Po ukończeniu zadania “Rytuał” idziemy ze Spencerem do jaskini, w której 
 
 ### Najważniejsze informacje
 
+- Zaleca się wykonywać zadanie w piątym rozdziale, po skończonym wątku przemytników, aby uniknąć zbędnego back-trackingu. Jeśli jednak Ci to nie przeszkadza, śmiało można i wcześniej.
 - Zaleca się nie gadać z NPC, jeśli weszliśmy do Jarkendaru inaczej niż przez Jaskinie Ogrów lub jaskinie z goblinami, jako że może to spowodować błędy.
 - Warto jak najszybciej udać się do Scatty'ego, który stoi przy portalu do Khorinis. Nauczy on nas kopania, a jak dobijemy do 100% w każdej dziedzinie, to otrzymamy 15 zręczności i siły.
 - Bandytów w miejscu gdzie byli magowie wody możemy zabić
