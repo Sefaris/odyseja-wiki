@@ -78,12 +78,15 @@ Bengara możemy znaleźć na farmie Onara. Wybijamy orków z jego farmy, i mówi
 Akila możemy znaleźć w jaskini nieopodal jego farmy, w której zdobywaliśmy śmierdzącą rybę z wątku gildii złodziei w Gothicu 2. Wybijamy orków z jego farmy, i mówimy mu, że jego farma jest wolna.
 
 #### Poprosić Gernota o pomoc
+
 Po wykonaniu [Orkowie na farmach](#orkowie-na-farmach) możemy poprosić Gernota o dodatkowe wsparcie, na które się zgodzi. Do naszego zespołu dołączają Harald, Ernst i Hawk.
 
 #### Posterunek w lesie
+
 Gernot proponuje byśmy założyli obóz w lesie lub jaskini między klasztorem a miastem, skąd moglibyśmy obserwować orków. Do zbadania mamy trzy miejsca. Pierwsze: duży las między latarnią a farmą Akila, przy kamiennym kręgu na drodze do mrocznego lasu. Drugie: na prawo za mostem przed tawerną jest ukryty parów ze spalonymi chatami i dobrym widokiem na miasto i drogę do klasztoru. Trzecie: przy drodze z miasta do farmy Akila jest duża dolina, a na jej końcu spora jaskinia. Po zbadaniu miejsc wracamy do latarni i informujemy Haralda, dokąd mają się udać.
 
 #### Posterunek w niebezpieczeństwie
+
 Harald powiedział, że w pobliżu naszego obozu kręci się oddział orków. Trzeba ich zlikwidować, zanim zdążą wezwać posiłki.
 
 #### Patrol orków
@@ -95,6 +98,7 @@ Harald mówi nam, że między miastem a farmą Onara kręci się patrol orków. 
 Po zadaniu [Orkowie na farmach](#orkowie-na-farmach) musimy zdobyć magiczne zwoje od Pyrokara. W tym celu, aby uzyskać klucz do klasztoru musimy wykonać zadanie [Niebezpieczna jaskinia](#niebezpieczna-jaskinia). Gdy już pogadamy w klasztorze z Pyrokarem, to otrzymamy listę składników, którą potrzebujemy zdobyć. Gdy już wszystko zdobędziemy i dostarczymy, czekamy jeden dzień, a pod otrzymaniu zwojów idziemy je oddać Lordowi Andre.
 
 #### Strażnicy mostu
+
 Harald uważa, że siły orków na moście między karczmą a miastem muszą zniknąć. Po wyeliminowaniu wrogów, zdajemy mu raport.
 
 #### Zaginiony nowicjusz
@@ -268,6 +272,7 @@ Lokalizacja tomów V i VI:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zw1dMh3chms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Skrzynia w obserwatorium
+
 Na najniższym poziomie wieży, w piwnicy, znajdziemy skrzynię z dosyć skomplikowanym zamkiem. Jeśli nie dam rady jej teraz otworzyć, musimy tutaj wrócić później. Po otwarciu skrzyni znajdujemy notatkę od Xardasa, która odnosi się do księgi znalezionej w tej samej skrzyni. Wynika z niej, że na Khorinis musi być jakieś wulkaniczne miejsce, gdzie możemy znaleźć obsydian. Wygląda na to, że do ów miejsca da się dotrzeć tylko przy pomocy zwoju przemiany w krwiopijcę.
 
 #### Księgi Xardasa z zaklęciami przywołania
@@ -355,6 +360,14 @@ Po ułaskawieniu Fellana opowiada nam, że przydałoby się, by ktoś pobił Ger
 #### Złoto Jory
 
 Po ucieczce uchodźców z kanałów, możemy spotkać Jorę przy latarnii morskiej. Opowiada nam o tym, że został obrabowany przez Rengaru. Samego Rengaru znajdziemy w obozie na północy. Po rozmowie i po tym, jak go dogonimy, przeprowadzamy z nim rozmowę. Możemy zdradzić Jorę i rozpocząć wątek [Gildii Złodziei](sekcje/zadania/rozdzial_v?id=gildia-złodziei) (warto) lub odzyskać dla niego złoto.
+
+#### Plan Rengaru
+
+Po dołączeniu do gildii złodziei, Rengaru opowiada nam, że Jora ukrył dodatkowo cenne rzeczy, które należy zdobyć. By dowiedzieć się czegoś więcej, to udajemy się do Moe. Targujemy się z nim i płacimy 40 sztuk złota, po czym odsyła nas do Kardifa. U Kardifa będziemy w stanie uzyskać więcej informacji, po wybraniu odpowiedniej opcji dialogowej, za darmo. Mówi nam, gdzie możemy znaleźć skarb. W tym celu musimy okraść Jorę z klucza, a w porcie, gdzie stacjonował zawsze Martin, otwieramy jego skrzynię i wracamy do Rengaru.
+
+#### Stara zbroja paladyna
+
+W kufrze Jory znaleźliśmy dodatkowo zbroje paladyna. Rengaru nic sensownego nie może z nią zrobić więc pozwala nam ją zatrzymać. Daje nam jednak poradę, że możemy kogoś wrobić w posiadanie paladyńskiego ekwipunku. W tym celu należy pogadać z Hanną, która opowiada nam o denerwującym Valentino. Po rozmowie z nim Roland dochodzi do wniosku, że można podrzucić zbroję do jego kufra. Możemy to wykonać jednak dopiero w 4 rozdziale, po wyzwoleniu miasta (przy okazji zadania [Krwawe Puchary](#krwawe-puchary)). Wtedy dopiero odblokuje się nam możliwość kradzieży klucza i podrzucenia zbroi do jego kufra.
 
 #### Odtrutka
 
@@ -475,3 +488,97 @@ Spencer zleca nam znalezienie personalnej rzeczy kapitana. Idziemy na statek wid
 #### Skarb w bagnie
 
 Po ukończeniu zadania “Rytuał” idziemy ze Spencerem do jaskini, w której wykopujemy skarb, po czym zabijamy nieumarłych, a zadanie się kończy.
+
+## Jarkendar
+
+### Najważniejsze informacje
+
+- Zaleca się nie gadać z NPC, jeśli weszliśmy do Jarkendaru inaczej niż przez Jaskinie Ogrów lub jaskinie z goblinami, jako że może to spowodować błędy.
+- Warto jak najszybciej udać się do Scatty'ego, który stoi przy portalu do Khorinis. Nauczy on nas kopania, a jak dobijemy do 100% w każdej dziedzinie, to otrzymamy 15 zręczności i siły.
+- Bandytów w miejscu gdzie byli magowie wody możemy zabić
+- Droga do Jarkendaru poniżej:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ctwtvThMqks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Zadania główne i powiązane
+
+#### Zły duch
+
+Druid Kilian opowiada nam o złym duchu żyjącym na bagnach. Duchem jest Admirał Spencer, którego zabijamy po zrobieniu dla niego zadań.
+
+#### Jaskinia ogrów
+
+Druid Kilian prosi nas o oczyszczenie jaskini łączącej Khorinis z Jarkendarem. Po zabiciu wszystkich ogrów idziemy po nagrodę do Kiliana
+
+#### Obóz piratów
+
+Kilian opowiada nam o obozie piratów na plaży. Quest kończy się po rozmowie z Gregiem
+
+#### Potężna broń
+
+Stojący na plaży pirat Rhen opowiada nam o potężnej broni, którą kapitan Greg przetrzymuje w swojej skrzyni na statku. Musimy się dostać na statek piratów (poniższe zadania), a następnie okraść Grega z klucza do kajuty. Wchodzimy do kajuty na statku, otwieramy skrzynie (ręcznie, nie quicklootem) i okazuje się, że miecz został skradziony.
+
+Rozmawiamy z Rhenem, który wysyła nas na północną plażę obok Samuela, w poszukiwaniu Monty'ego. Przeszukujemy jego zwłoki i wracamy do Rhena. Czytamy notatkę i idziemy do kanionu, w którym zabijamy poszukiwaczy obok teleportu. Z jednego z nich zdobywamy runę, która nas teleportuje do tajnego przejścia ulokowanego w skałkach na północnej plaży.
+
+Znajdujemy tam teleport, który teleportuje nas na nowy teren nad kanionem, gdzie pozbywamy się stada orków i poszukiwaczy. Po zabiciu imiennego poszukiwacza czytamy jego list, który nasyła nas na nowy trop. W tym momencie zadanie się urywa. Szpon znajdziemy w kufrze hrabiego Garaksa w Vengardzie.
+
+#### Statek piratów
+
+Greg nie chce wpuścić nas na statek, więc musimy pomóc mu znaleźć Skipa, który szpieguje orków w innej części doliny. Kiedy znajdziemy i odprowadzimy Skipa, Greg zgadza się wpuścić nas na statek.
+
+#### Skip
+
+Greg zleca nam odszukanie Skipa w Jarkendarze. Znajduje się on w świątyni u bandytów, w pomieszczeniu naprzeciw wejścia. Należy go odprowadzić do kamieni teleportujących przed piramidą na wykopaliskach, a następnie wejść w teleport do kanionu i doprowadzić go do obozu. Po wszystkim zdajemy relacje Gregowi i quest się kończy.
+
+#### Moc kamieni ogniskujących
+
+Greg zleca nam to zadanie po wysłaniu nas na poszukiwania Skipa. Naszym zadaniem jest aktywowanie 5 piedestałów teleportacyjnych, znanych nam z podstawki.  
+Teleport w kanionie: Kamień ma szaman ork w głębi kanionu  
+Teleport do wykopalisk: Kamień ma bandyta Crimson  
+Teleport do Eremity/Bagna/Bandytów: Kamienie mają orkowie przewodniczący grupom orków znajdującym się w okolicy.
+
+#### Teleport do kanionu
+
+Greg zleca nam przeszukanie kanionu w poszukiwaniu kamienia ogniskującego. Posiada go ork szaman w obozie przed biblioteką. Z kamieniem udajemy się do Grega, a następnie aktywujemy znany nam z podstawki teleport obok jeziorka.
+
+> Quest kończy się już przy rozmowie z Gregiem.
+
+#### Spory w obozie piratów
+
+Nataniel skarży się nam, że Francis faworyzuje niektórych pracowników. Rozmawiamy z Francisem, ale niczego się nie dowiadujemy.
+
+Wracamy do Nathaniela, który wysyła nas do Lucasa i Smythe'a. Następnie idziemy do Elvricha, po czym zagada nas kowal Kendrick, który zaoferuje nam pomoc, po skończeniu zadania [Kopalnia złota bandytów.](#kopalnia-złota-bandytów)
+
+Po ukończeniu zadania gadamy z Kendrickiem, okradamy Elvricha, czytamy notatkę i konfrontujemy Francisa. Mówimy o tym Natanielowi, a zadanie się kończy
+
+#### Kopalnia złota bandytów
+
+Kowal Kendrick prosi Cię o znalezienie bandyty Scatty'ego, który stoi przed portalem od strony Jarkendaru. Po wyczyszczeniu obozu bandytów z orków zgadza się on pomóc w eksploatacji kopalni, ale musimy go tam odprowadzić. Idziemy teraz do Kendricka i quest zostaje zakończony.
+
+#### Gra w kości z Francisem
+
+Francis proponuje nam grę w kości. Ogrywamy go ze złota, a quest się kończy.
+
+#### Trunek dla Brandona
+
+Brandon zgadza się nas uczyć, tylko pod warunkiem, że przyniesiemy mu Szybkiego Śledzia. Powinniśmy już mieć kilka w ekwipunku, a jeśli nie, to Samuel chętnie nam je sprzeda. Quest się kończy po przyniesieniu mu alkoholu.
+
+#### Polowanie na aligatory
+
+Jack Aligator proponuje nam zakład polegający na zabiciu aligatorów z kotliny. Po zabiciu wszystkich gadów udajemy się do Jacka i odbieramy nagrodę
+
+#### Kryjówka aligatorów
+
+Po ukończeniu poprzedniego questa, Jack zleca nam znalezienie leża aligatorów. Znajduje się ono w miejscu, gdzie leżał martwy pirat w podstawce. Po wytępieniu aligatorów wracamy do Jacka i zadanie się kończy.
+
+#### Łupy Piratów
+
+Pirat Jenkins sprzedaje nam mapę skarbów zakopanych w Jarkendarze. Po wykopaniu wszystkich skarbów dostaniemy wpis i udajemy się z powrotem do Jenkinsa i odbieramy nagrodę.
+
+#### Nagroda dla znalazcy
+
+Garvell mówi nam o tym, że zgubił swoją sakiewkę podczas przeprawy przez bagna. Sakiewka leży obok jednego z drzew na bagnie między Khorinis, a wioską rybacką. Lokalizacja poniżej:
+
+![Lokalizacja sakiewki](images/album_MRrNE60_1.webp)
+
+Po odnalezieniu wracamy do Garvella i quest się kończy.

@@ -25,6 +25,7 @@
 Teleportujemy się do sali tronowej króla za pomocą runy otrzymanej od Baldwina. Należy porozmawiać z Królem, a następnie z zarządzcą. Ponownie rozmawiamy z Królem i teleportujemy się z powrotem na statek.
 
 #### Zlecenie zarządcy
+
 Zarządca potrzebuje 12 skrzyń z rudą, 30 bochenków chleba, 300 bełtów, 20 eliksirów leczniczych i 20 zwojów kuli ognia.
 
 #### Sztorm
@@ -98,12 +99,15 @@ Po zakończeniu prac przy kadłubie przejmujemy obowiązki Svena i idziemy na ry
 > Podczas łowienia może pęknąć żyłka. Wtedy udajemy się do Wolfganga, który sprzedaje nową. Po naprawie sprzętu wracamy na łowisko. Gdy złowimy 12 kolorowych ryb, ponownie zanosimy je do Albina, a następnie wracamy do Halvara.
 
 #### Kokosy
+
 Po podejściu do palmy otrzymujemy zadanie zebrania kokosów. Przydatny będzie autoloot lub free aiming. Po zebraniu kokosa quest zostaje zaliczony.
 
 #### Jakby zapadł się pod ziemię
+
 Halvar informuje nas, że zaginął Ernst. Przy beczkach nad rzeką, niedaleko łowiska, znajdujemy ślady stóp. Podążając ich tropem, docieramy do drzewa z plamą krwi, a kawałek dalej leży martwy dzik i łuk Ernsta. Wracamy z informacjami do Halvara, po czym ponownie udajemy się na miejsce. Od dzika przechodzimy przez bagna i przy skale znajdujemy kolejny ślad. Kierujemy się kamienną ścieżką w górę i po krótkiej wędrówce odnajdujemy szablę Ernsta. Idziemy dalej prosto, a gdy pojawi się nowy wpis w dzienniku, cofamy się do krzaków, które mijaliśmy wcześniej. Stojąc przodem do ściany, po lewej stronie znajdujemy klucz i przełącznik. Aktywujemy go, by wejść do jaskini, gdzie więziony jest Ernst. W drugiej komorze atakuje nas porywacz – nie zabijamy go, tylko obezwładniamy. Po krótkiej rozmowie zamykamy pustelnika w klatce i wracamy do Halvara, by zgłosić wykonanie zadania.
 
 #### Beczki z wodą pitną
+
 Po zgodzeniu się na pomoc Ernstowi wracamy nad rzekę i przenosimy beczki na plażę. Po trzech kursach informujemy Halvara o wykonaniu zadania i kończymy misję.
 
 #### Szalony pustelnik
@@ -120,9 +124,11 @@ Po ukończeniu zadania [Szalony pustelnik](#szalony-pustelnik) i rozmowie z Dust
 Halvar zaprasza nas na ognisko, które odbędzie się przy namiocie o 20:00. Podczas spotkania rozmawiamy z towarzyszami i w międzyczasie zbieramy gałęzie, aby podtrzymać ogień.
 
 #### Niebezpieczne bagno
+
 Zadanie informacyjne, które kończy się po wypłynięciu z wyspy.
 
 #### Bagienna ferba
+
 Na bagnach dopada nas gorączka, więc udajemy się do Halvara, który odsyła nas do Wulfiasa. Niestety, mag pokładowy nie ma odpowiedniego lekarstwa. Uleczyć nas może dopiero Merkurius w Varancie lub mikstura kupiona od Bachala.
 
 > Po złapaniu ferby najlepiej wczytać grę, ponieważ choroba ustawia manę na poziomie 20 punktów, niezależnie od naszej maksymalnej wartości.
@@ -188,22 +194,16 @@ Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_ii
 
 Quest ten pojawia się, jeśli zdecydujemy się nie wydawać Nagura i złodziei u Lorda Andre. Przebieg questów jest podobny co w misji [Gildia złodziei](#gildia-złodziei), z tą różnicą, że nie atakujemy Booze'a przy spotkaniu z nim i idziemy przy każdej misji także do Wambo. Wysyła Cię on do sekretnego pokoju, w którym schowany jest Rączka. Rozmawiamy z nim i próbujemy wyciągnąć od niego informacje o skarbie. Bijemy Rączkę i mamy do wyboru zabić go lub wydać do więzienia (Z innych rozwiązań Booze nie będzie zadowolony). Po wszystkim Booze udziela nam porad odnośnie do zarobku, a zadanie się kończy.
 
-#### Plan Rengaru
-
-Po dołączeniu do gildii, Rengaru opowiada nam, że Jora ukrył dodatkowo cenne rzeczy, które należy zdobyć. By dowiedzieć się czegoś więcej, to udajemy się do Moe. Targujemy się z nim i płacimy 40 sztuk złota, po czym odsyła nas do Kardifa. U Kardifa będziemy w stanie uzyskać więcej informacji, po wybraniu odpowiedniej opcji dialogowej, za darmo. Mówi nam, gdzie możemy znaleźć skarb. W tym celu musimy okraść Jorę z klucza, a w porcie, gdzie stacjonował zawsze Martin, otwieramy jego skrzynię i wracamy do Rengaru.
-
-#### Stara zbroja paladyna
-
-W kufrze Jory znaleźliśmy dodatkowo zbroje paladyna. Rengaru nic sensownego nie może z nią zrobić więc pozwala nam ją zatrzymać. Daje nam jednak poradę, że możemy kogoś wrobić w posiadanie paladyńskiego ekwipunku. W tym celu należy pogadać z Hanną, która opowiada nam o denerwującym Valentino. Po rozmowie z nim Roland dochodzi do wniosku, że można podrzucić zbroję do jego kufra. Możemy to wykonać jednak dopiero w 4 rozdziale, po wyzwoleniu miasta (przy okazji zadania [Krwawe Puchary](#krwawe-puchary)). Wtedy dopiero odblokuje się nam możliwość kradzieży klucza i podrzucenia zbroi do jego kufra.
-
 #### Włamanie do Lutero
 
 Nagur zleca nam przyniesienie mu cennej szkatułki Lutero. Należy go okraść i wziąć szkatułkę ze skrzyni w jego domu. O północy spotykamy Nagura w kanałach i oddajemy mu szkatułkę. Po kilku dniach można odebrać nagrodę i zakończyć zadanie.
 
 #### Piwnica koszar
+
 W trakcie nauki o włamywaniu, Mike mówi nam o mysiej albo szczurzej norze, przez którą można się dostać do piwnicy koszar. Dziura znajduje się za krzakami przy schodach prowadzących do koszar od strony morza. W piwnicy znajdziemy kuferek, który wymaga specjalnego wytrychu, 250 zręczności i 5 poziomu otwierania. Po wytworzeniu wytrychu i opróżnieniu skrzyni, quest zostaje zaliczony.
 
 #### Skarbiec miasta Khorinis
+
 Po nauczeniu się otwierania zamków na 5. poziomie otrzymamy zadanie polegające na okradzeniu skarbca Khorinis. Udajemy się do skarbca, którego strzeże Gekard. Sprawdzamy zamek, okradamy strażnika z klucza do skrzyni i rzucamy na niego zaklęcie strachu. Następnie opróżniamy skrzynię i czekamy jeden dzień. Następnego dnia zaklęcie snu zaczyna działać na strażnika. Przed włamaniem wykonujemy wytrych do skarbca na stole warsztatowym. Idziemy do skarbca, usypiamy Gekarda i okradamy Khorinis. Potem czekamy kolejny dzień i rozmawiamy z Wambo, który niczego nie podejrzewa. Zadanie ukończone.
 
 KONTYNUACJA WĄTKU W 5R [SPECJALNA RYBA](sekcje/zadania/rozdzial_v?id=specjalna-ryba)
@@ -249,101 +249,6 @@ Po skończonej robocie wracamy do Pyrokara i odbieramy nagrodę.
 #### Siedem roślin
 
 Neoras prosi nas o przyniesienie 7 ognistych pokrzyw, które już zapewne mamy. Oddajemy mu je i odbieramy nagrodę.
-
-## Jarkendar
-
-### Najważniejsze informacje
-
-- Część zadań (głównie tych związanych z Widzącym) rozpoczniesz dopiero w 4-5R. Dlatego zalecamy wejście tam w 4 rozdziale (a najlepiej w 5) po wątku z [przemytnikami](#kryjówka-przemytników).
-- Zaleca się nie gadać z NPC, jeśli weszliśmy do Jarkendaru inaczej niż przez Jaskinie Ogrów lub jaskinie z goblinami, jako że może to spowodować błędy.
-- Warto jak najszybciej udać się do Scatty'ego, który stoi przy portalu do Khorinis. Nauczy on nas kopania, a jak dobijemy do 100% w każdej dziedzinie, to otrzymamy 15 zręczności i siły.
-- Bandytów w miejscu gdzie byli magowie wody możemy zabić
-- Droga do Jarkendaru poniżej:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ctwtvThMqks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Zadania główne i powiązane
-
-#### Zły duch
-
-Druid Kilian opowiada nam o złym duchu żyjącym na bagnach. Duchem jest Admirał Spencer, którego zabijamy po zrobieniu dla niego zadań.
-
-#### Jaskinia ogrów
-
-Druid Kilian prosi nas o oczyszczenie jaskini łączącej Khorinis z Jarkendarem. Po zabiciu wszystkich ogrów idziemy po nagrodę do Kiliana
-
-#### Obóz piratów
-
-Kilian opowiada nam o obozie piratów na plaży. Quest kończy się po rozmowie z Gregiem
-
-#### Potężna broń
-
-Stojący na plaży pirat Rhen opowiada nam o potężnej broni, którą kapitan Greg przetrzymuje w swojej skrzyni na statku. Musimy się dostać na statek piratów (poniższe zadania), a następnie okraść Grega z klucza do kajuty. Wchodzimy do kajuty na statku, otwieramy skrzynie (ręcznie, nie quicklootem) i okazuje się, że miecz został skradziony.
-
-Rozmawiamy z Rhenem, który wysyła nas na północną plażę obok Samuela, w poszukiwaniu Monty'ego. Przeszukujemy jego zwłoki i wracamy do Rhena. Czytamy notatkę i idziemy do kanionu, w którym zabijamy poszukiwaczy obok teleportu. Z jednego z nich zdobywamy runę, która nas teleportuje do tajnego przejścia ulokowanego w skałkach na północnej plaży.
-
-Znajdujemy tam teleport, który teleportuje nas na nowy teren nad kanionem, gdzie pozbywamy się stada orków i poszukiwaczy. Po zabiciu imiennego poszukiwacza czytamy jego list, który nasyła nas na nowy trop. W tym momencie zadanie się urywa. Szpon znajdziemy w kufrze hrabiego Garaksa w Vengardzie.
-
-#### Statek piratów
-
-Greg nie chce wpuścić nas na statek, więc musimy pomóc mu znaleźć Skipa, który szpieguje orków w innej części doliny. Kiedy znajdziemy i odprowadzimy Skipa, Greg zgadza się wpuścić nas na statek.
-
-#### Skip
-
-Greg zleca nam odszukanie Skipa w Jarkendarze. Znajduje się on w świątyni u bandytów, w pomieszczeniu naprzeciw wejścia. Należy go odprowadzić do kamieni teleportujących przed piramidą na wykopaliskach, a następnie wejść w teleport do kanionu i doprowadzić go do obozu. Po wszystkim zdajemy relacje Gregowi i quest się kończy.
-
-#### Moc kamieni ogniskujących
-
-Greg zleca nam to zadanie po wysłaniu nas na poszukiwania Skipa. Naszym zadaniem jest aktywowanie 5 piedestałów teleportacyjnych, znanych nam z podstawki.  
-Teleport w kanionie: Kamień ma szaman ork w głębi kanionu  
-Teleport do wykopalisk: Kamień ma bandyta Crimson  
-Teleport do Eremity/Bagna/Bandytów: Kamienie mają orkowie przewodniczący grupom orków znajdującym się w okolicy.
-
-#### Teleport do kanionu
-
-Greg zleca nam przeszukanie kanionu w poszukiwaniu kamienia ogniskującego. Posiada go ork szaman w obozie przed biblioteką. Z kamieniem udajemy się do Grega, a następnie aktywujemy znany nam z podstawki teleport obok jeziorka.
-
-> Quest kończy się już przy rozmowie z Gregiem.
-
-#### Spory w obozie piratów
-
-Nataniel skarży się nam, że Francis faworyzuje niektórych pracowników. Rozmawiamy z Francisem, ale niczego się nie dowiadujemy.
-
-Wracamy do Nathaniela, który wysyła nas do Lucasa i Smythe'a. Następnie idziemy do Elvricha, po czym zagada nas kowal Kendrick, który zaoferuje nam pomoc, po skończeniu zadania [Kopalnia złota bandytów.](#kopalnia-złota-bandytów)
-
-Po ukończeniu zadania gadamy z Kendrickiem, okradamy Elvricha, czytamy notatkę i konfrontujemy Francisa. Mówimy o tym Natanielowi, a zadanie się kończy
-
-#### Kopalnia złota bandytów
-
-Kowal Kendrick prosi Cię o znalezienie bandyty Scatty'ego, który stoi przed portalem od strony Jarkendaru. Po wyczyszczeniu obozu bandytów z orków zgadza się on pomóc w eksploatacji kopalni, ale musimy go tam odprowadzić. Idziemy teraz do Kendricka i quest zostaje zakończony.
-
-#### Gra w kości z Francisem
-
-Francis proponuje nam grę w kości. Ogrywamy go ze złota, a quest się kończy.
-
-#### Trunek dla Brandona
-
-Brandon zgadza się nas uczyć, tylko pod warunkiem, że przyniesiemy mu Szybkiego Śledzia. Powinniśmy już mieć kilka w ekwipunku, a jeśli nie, to Samuel chętnie nam je sprzeda. Quest się kończy po przyniesieniu mu alkoholu.
-
-#### Polowanie na aligatory
-
-Jack Aligator proponuje nam zakład polegający na zabiciu aligatorów z kotliny. Po zabiciu wszystkich gadów udajemy się do Jacka i odbieramy nagrodę
-
-#### Kryjówka aligatorów
-
-Po ukończeniu poprzedniego questa, Jack zleca nam znalezienie leża aligatorów. Znajduje się ono w miejscu, gdzie leżał martwy pirat w podstawce. Po wytępieniu aligatorów wracamy do Jacka i zadanie się kończy.
-
-#### Łupy Piratów
-
-Pirat Jenkins sprzedaje nam mapę skarbów zakopanych w Jarkendarze. Po wykopaniu wszystkich skarbów dostaniemy wpis i udajemy się z powrotem do Jenkinsa i odbieramy nagrodę.
-
-#### Nagroda dla znalazcy
-
-Garvell mówi nam o tym, że zgubił swoją sakiewkę podczas przeprawy przez bagna. Sakiewka leży obok jednego z drzew na bagnie między Khorinis, a wioską rybacką. Lokalizacja poniżej:
-
-![Lokalizacja sakiewki](images/album_MRrNE60_1.webp)
-
-Po odnalezieniu wracamy do Garvella i quest się kończy.
 
 ## Pustynia Varantu
 
@@ -553,6 +458,7 @@ Są dwa rozwiązania tego zadania.
 2. [Ratunek dla niewolników](#Ratunek-dla-niewolników)
 
 #### Ratunek dla niewolników
+
 Po przeczytaniu notatki w ciele Morrisa i rozmowie z Pietem, który jest w kopalni Gasparino, mamy możliwość objąć stronę koczowników. Jeśli się zgodzimy, [Zbiegli niewolnicy](Zbiegli-niewolnicy) psuje się, a my musimy udać się do Tamary i zdobyć zaufanie koczowników. Po zdobyciu zaufania, wracamy do Piet'a i odprowadzamy wszystkich niewolników do małej oazy za wieżą strażniczą wojowników Beliara. Na miejscu rozmawiazmy z Haram'em.
 
 #### Ogary łowców niewolników
@@ -777,9 +683,9 @@ Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlece
 
 2. Na zlecenie Haruna dowiadujemy się kto jest zabójcą. Wracamy do Sadika, ale on nie chce nam nic powiedzieć, więc kradniemy i czytamy jego list. Okazuje się że Joachim jest pośrednikiem w zleceniu, więc dogadujemy się z nim i spotykamy o północy na placu targowym. Prowadzi on nas do zleceniodawców, co okazuje się pułapką. Zabijamy trójkę skrytobójców, a kluczem Joachima otwieramy skrzynie na piętrze hotelu Iskry. Po przeczytaniu notatki, dowiadujemy się że trzeba przeszukać resztę skrzyń w noclegowni. W skrzyni Iskry znajdujemy notatkę wskazującą na jego winę. Teraz znowu mamy dwa wyjścia:
 
-1. Idziemy do Iskry, który ucieka do kopalni rudy, aby uniknąć aresztowania. Po odnalezieniu go możemy go zabić lub puścić wolno. Na koniec wracamy do Haruna.
+3. Idziemy do Iskry, który ucieka do kopalni rudy, aby uniknąć aresztowania. Po odnalezieniu go możemy go zabić lub puścić wolno. Na koniec wracamy do Haruna.
 
-1. Wracamy do Haruna, który sam wyciąga konsekwencje z Iskry i otrzymujemy nagrodę.
+4. Wracamy do Haruna, który sam wyciąga konsekwencje z Iskry i otrzymujemy nagrodę.
 
 #### Kufer Belazara
 
@@ -829,9 +735,9 @@ Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy ma
 
 #### Rozbójnicy
 
-Gargoron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę. 
+Gargoron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę.
 
->Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy
+> Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy
 
 #### Rośliny dla Dominikusa
 
