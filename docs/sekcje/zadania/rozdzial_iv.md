@@ -186,7 +186,7 @@ Na koniec udajemy się do Haralda i powiadamiamy go o naszym sukcesie.
 
 #### Gildia Złodziei
 
-Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_iii?id=złoto-jory), możemy dołączyć (lub odrzucić ofertę) do gildii złodziei. Jeżeli zdecydujemy się dołączyć w rozdziale 3 możemy wykonać tylko [Plan Rengaru](#plan-rengaru). Więcej zadań odblokujemy dopiero w rozdziale 4 od Nagura. Dodatkowym wymogiem jest wyzwolenie miasta. Dodatkowe zadania w 4 rozdziale to: [Skarbiec miasta Khorinis](#Skarbiec-miasta-Khorinis) [Piwnica koszar](#piwnica-koszar) [Włamanie do Lutero](#włamanie-do-lutero) (po tym zadaniu mamy alternatywną ścieżkę zadań - [Pomiędzy złodziejami](#pomiędzy-złodziejami) - po czym zadanie z gildią złodziei może się wcześniej zakończyć), po której ogarniają nas wyrzuty sumienia i możemy wydać gildię Lordowi Andre. Ten jednak nie ma czasu, więc udajemy się z tym do Wambo i twoim zadaniem będzie znaleźć tożsamość [przywódcy](#gildia-złodziei) oraz [pasera](#paser). Będziecie się spotykać po godzinie 20:00, w jaskini z teleportem obok cmentarza Martwej Harpii. [Specjalna ryba](sekcje/zadania/rozdzial_v?id=specjalna-ryba), [Kryjówka przemytników](#kryjówka-przemytników), [Kontrabanda](#kontrabanda), [Grzyby dla Krugera](#grzyby-dla-krugera), [Tania ryżówka](#tania-ryżówka), [Kusząca oferta](#kusząca-oferta), [Krwawe puchary](#krwawe-puchary), [Bart sprawia kłopoty](#bart-sprawia-kłopoty), [Test odwagi](#test-odwagi), [Topór bandyty”](#topór-bandyty). Po wykonaniu zadań dla przemytników dostaniemy od Nagura zadanie [Okradnięcie Lorda Andre](#okradnięcie-lorda-andre). Kolejne zadania dostaniemy dopiero w 5 rozdziale, a dokładniej po odblokowaniu dostępu do [Aszdod](sekcje/zadania/rozdzial_v?id=aszdod). Nagur powie nam, że [szef przemytników oczekuje](#gildia-złodziei) na nas w ich kryjówce. Spotykamy tam Booze’a, któremu wcześniej wręczyliśmy piwo w kanalizacji. Twoim zadaniem obecnie jest zabicie wszystkich. Z ciała szefa przemytników zabieramy klucz do kufra oraz drzwi do jego pokoju. Dom znajduje się w przejściu do części gdzie mieszka Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę. Przy okazji w domu mogliśmy rozpocząć, po przeczytaniu notatki, zadanie [Zamknięty pokó](#zamknięty-pokój)j”
+Po oszczędzeniu Rengaru podczas misji [Złoto Jory](sekcje/zadania/rozdzial_iii?id=złoto-jory), możemy dołączyć (lub odrzucić ofertę) do gildii złodziei. Jeżeli zdecydujemy się dołączyć w rozdziale 3 możemy wykonać tylko [Plan Rengaru](#plan-rengaru). Więcej zadań odblokujemy dopiero w rozdziale 4 od Nagura. Dodatkowym wymogiem jest wyzwolenie miasta. Dodatkowe zadania w 4 rozdziale to: [Skarbiec miasta Khorinis](#Skarbiec-miasta-Khorinis) [Piwnica koszar](#piwnica-koszar) [Włamanie do Lutero](#włamanie-do-lutero) (po tym zadaniu mamy alternatywną ścieżkę zadań - [Pomiędzy złodziejami](#pomiędzy-złodziejami) - po czym zadanie z gildią złodziei może się wcześniej zakończyć), po której ogarniają nas wyrzuty sumienia i możemy wydać gildię Lordowi Andre. Ten jednak nie ma czasu, więc udajemy się z tym do Wambo i twoim zadaniem będzie znaleźć tożsamość [przywódcy](#gildia-złodziei) oraz [pasera](#paser). Będziecie się spotykać po godzinie 20:00, w jaskini z teleportem obok cmentarza Martwej Harpii. [Specjalna ryba](#specjalna-ryba), [Kryjówka przemytników](#kryjówka-przemytników), [Kontrabanda](#kontrabanda), [Grzyby dla Krugera](#grzyby-dla-krugera), [Tania ryżówka](#tania-ryżówka), [Kusząca propozycja](#kusząca-propozycja), [Krwawe puchary](#krwawe-puchary), [Bart sprawia kłopoty](#bart-sprawia-kłopoty), [Test odwagi](#test-odwagi), [Topór bandyty”](#topór-bandyty). Po wykonaniu zadań dla przemytników dostaniemy od Nagura zadanie [Okradnięcie Lorda Andre](#okradnięcie-lorda-andre). Kolejne zadania dostaniemy dopiero w 5 rozdziale, a dokładniej po odblokowaniu dostępu do [Aszdod](sekcje/zadania/rozdzial_v?id=aszdod). Nagur powie nam, że [szef przemytników oczekuje](#gildia-złodziei) na nas w ich kryjówce. Spotykamy tam Booze’a, któremu wcześniej wręczyliśmy piwo w kanalizacji. Twoim zadaniem obecnie jest zabicie wszystkich. Z ciała szefa przemytników zabieramy klucz do kufra oraz drzwi do jego pokoju. Dom znajduje się w przejściu do części gdzie mieszka Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę. Przy okazji w domu mogliśmy rozpocząć, po przeczytaniu notatki, zadanie [Zamknięty pokó](#zamknięty-pokój)j”
 
 #### Pomiędzy złodziejami
 
@@ -206,7 +206,7 @@ W trakcie nauki o włamywaniu, Mike mówi nam o mysiej albo szczurzej norze, prz
 
 Po nauczeniu się otwierania zamków na 5. poziomie otrzymamy zadanie polegające na okradzeniu skarbca Khorinis. Udajemy się do skarbca, którego strzeże Gekard. Sprawdzamy zamek, okradamy strażnika z klucza do skrzyni i rzucamy na niego zaklęcie strachu. Następnie opróżniamy skrzynię i czekamy jeden dzień. Następnego dnia zaklęcie snu zaczyna działać na strażnika. Przed włamaniem wykonujemy wytrych do skarbca na stole warsztatowym. Idziemy do skarbca, usypiamy Gekarda i okradamy Khorinis. Potem czekamy kolejny dzień i rozmawiamy z Wambo, który niczego nie podejrzewa. Zadanie ukończone.
 
-KONTYNUACJA WĄTKU W 5R [SPECJALNA RYBA](sekcje/zadania/rozdzial_v?id=specjalna-ryba)
+KONTYNUACJA WĄTKU W 5R [SPECJALNA RYBA](#specjalna-ryba)
 
 #### Włamanie do Herolda
 
@@ -217,6 +217,74 @@ Znajdujemy tam mapę skarbów, która prowadzi do X'a na polanie nad słonecznym
 #### Zakopane skarby
 
 Zadanie aktywuje się automatycznie po przeczytaniu mapy z domu Herolda, a kończy się po wykopaniu go.
+
+#### Specjalna ryba
+
+Nagur opowiada nam o specjalnych rybach, w których złodzieje przenoszą informacje.Idziemy się przespać, następnie gadamy z Nagurem, po czym idziemy do Halvora, który daje nam ryby.
+
+1. WSPÓŁPRACA ZE STRAŻĄ Otwieramy ryby i idziemy z rybami do Wambo, aby dowiedzieć się, jak je zszyć. Następnie idziemy do Nagura, który mówi nam o Wainie.
+
+2. DROGA ZŁODZIEI Idziemy z rybami do Nagura, który mówi nam, że wiadomość jest od Waine'a, szefa przemytników.
+
+#### Jaskinia przemytników
+
+Zadania są powiązane z [Gildia złodziei](sekcje/zadania/rozdzial_iv?id=gildia-złodziei)
+
+Po zadaniu [Specjalne ryby](#specjalna-ryba) Nagur daje nam mapę i klucz do jaskini przemytników, która znajduje się na nowych terenach w górach naprzeciw kapliczki Innosa przy farmie Lobarta. Musimy ubrać zbroje, która nie jest pancerzem żołnierza, ani pancerzem bandytów.
+
+Po wejściu do jaskini rozmawiamy z Waine'em, który zleca nam pomóc innym przemytnikom.
+
+a) Robimy zadania wymienione poniżej
+
+b) Mówimy Waine'owi, że zrobiliśmy wszystko, a ten każe nam zapłacić i przymyka oko na nasze lenistwo.
+
+Otrzymujemy zadanie [Krwawe Puchary](#krwawe-puchary), a kiedy je zrobimy, Waine odsyła nas do Nagura, gdzie zadanie się kończy.
+
+#### Kusząca propozycja
+
+Baloro oferuje nam potężna broń, pod warunkiem że przyniesiemy mu jedzenie. Możemy odmówić lub przynieść mu jedzenie. Niezależnie od naszej decyzji, okazuje się, że nas oszukał i broni nie dostaniemy. Możemy wyzwać go na pojedynek i odzyskać jedzenie, aczkolwiek nie wolno go zabijać.
+
+#### Topór bandyty
+
+Eddi potrzebuje pomocy aby wykuć lekki topór na kowadle. Po dostarczeniu potrzebnych materiałów, otrzymujemy od niego przepis, by wykonać topór. Po wykuciu należy naostrzyć go na osełce i oddać.
+
+#### Bart sprawia problemy
+
+Jeśli Bart zagada nas odpowiednią ilość razy rozpocznie się walka. Po pokonaniu go i rozmowie, zadanie się kończy.
+
+#### Test odwagi
+
+Przemytnik Josh opowiada nam o groźnym piekielnym ogarze, który przebywa w lesie przed jaskinią. Musimy go zabić i przynieść jego pazur Joshowi. Zadanie się kończy, a my otrzymujemy kolejną misję
+
+#### Kontrabanda
+
+Przemytnik Josh wysyła nas do jaskini w kotlinie obok Wieży Xardasa, abyśmy przynieśli mu dwie skrzynie z kontrabandą. Rozprawiamy się z poszukiwaczami i jaszczuroczłekami, po czym oddajemy mu skrzynie.
+
+#### Grzyby dla gospodarza
+
+Przemytnik Kruger zleca nam zebranie 10 leśnych smardzów i 12 surojadek, na jego specjalną zupę. Oba rodzaje grzybów można znaleźć w lesie przed jaskinią.  
+Przynosimy Krugerowi składniki i zadanie się kończy.
+
+#### Tania ryżówka
+
+Przemytnik Brady zleca nam sprzedanie Kardifowi 10 butelek taniego bimbru. Kardiff nie chce kupić alkoholu po wysokiej cenie.
+
+a) Kradniemy Krugerowi przepis na zupę, czytamy go, a następnie oddajemy Kardifowi. Ten jest zadowolony i kupuje alkohol.
+
+b) Sprzedajemy alkohol po niższej cenie i odbieramy marne pieniądze.
+
+Niezależnie od wyboru wracamy do Brady’ego, a tutaj zadanie się kończy.
+
+#### Handel z bandytami
+
+Rivers chce żebyśmy przeprowadzili negocjacje handlowe z bandytą Udo, którego możemy spotkać w lesie świerkowym. W tym celu dostajemy specjalny strój, w którym musimy iść. Uwaga, aby nie przekroczyć ceny  
+Po wszystkim wracamy do Riversa.
+
+#### Krwawe Puchary
+
+Po zdobyciu zaufania przemytników Waine Zleca nam przyniesienie 6 krwawych pucharów umiejscowionych w górnym mieście Khorinis.
+
+Znajdują się one kolejno w Domu Sędziego, Domu Lariusa, Domu Fernando, Domu Valentino, Domu Boltara (Handlarz ubraniami obok Salandrila) oraz u Lehmara. Puchary odnosimy Waine'owi i możemy odebrać nagrodę.
 
 #### Gra w kości w Khorinis
 

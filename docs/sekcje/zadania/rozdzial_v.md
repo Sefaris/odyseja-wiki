@@ -13,74 +13,6 @@
 
 ### Zadania główne i powiązane
 
-#### Specjalna ryba
-
-Nagur opowiada nam o specjalnych rybach, w których złodzieje przenoszą informacje.Idziemy się przespać, następnie gadamy z Nagurem, po czym idziemy do Halvora, który daje nam ryby.
-
-1. WSPÓŁPRACA ZE STRAŻĄ Otwieramy ryby i idziemy z rybami do Wambo, aby dowiedzieć się, jak je zszyć. Następnie idziemy do Nagura, który mówi nam o Wainie.
-
-2. DROGA ZŁODZIEI Idziemy z rybami do Nagura, który mówi nam, że wiadomość jest od Waine'a, szefa przemytników.
-
-#### Jaskinia przemytników
-
-Zadania są powiązane z [Gildia złodziei](sekcje/zadania/rozdzial_iv?id=gildia-złodziei)
-
-Po zadaniu [Specjalne ryby](#specjalna-ryba) Nagur daje nam mapę i klucz do jaskini przemytników, która znajduje się na nowych terenach w górach naprzeciw kapliczki Innosa przy farmie Lobarta. Musimy ubrać zbroje, która nie jest pancerzem żołnierza, ani pancerzem bandytów.
-
-Po wejściu do jaskini rozmawiamy z Waine'em, który zleca nam pomóc innym przemytnikom.
-
-a) Robimy zadania wymienione poniżej
-
-b) Mówimy Waine'owi, że zrobiliśmy wszystko, a ten każe nam zapłacić i przymyka oko na nasze lenistwo.
-
-Otrzymujemy zadanie [Krwawe Puchary](#krwawe-puchary), a kiedy je zrobimy, Waine odsyła nas do Nagura, gdzie zadanie się kończy.
-
-#### Kusząca propozycja
-
-Baloro oferuje nam potężna broń, pod warunkiem że przyniesiemy mu jedzenie. Możemy odmówić lub przynieść mu jedzenie. Niezależnie od naszej decyzji, okazuje się, że nas oszukał i broni nie dostaniemy. Możemy wyzwać go na pojedynek i odzyskać jedzenie, aczkolwiek nie wolno go zabijać.
-
-#### Topór bandyty
-
-Eddi potrzebuje pomocy aby wykuć lekki topór na kowadle. Po dostarczeniu potrzebnych materiałów, otrzymujemy od niego przepis, by wykonać topór. Po wykuciu należy naostrzyć go na osełce i oddać.
-
-#### Bart sprawia problemy
-
-Jeśli Bart zagada nas odpowiednią ilość razy rozpocznie się walka. Po pokonaniu go i rozmowie, zadanie się kończy.
-
-#### Test odwagi
-
-Przemytnik Josh opowiada nam o groźnym piekielnym ogarze, który przebywa w lesie przed jaskinią. Musimy go zabić i przynieść jego pazur Joshowi. Zadanie się kończy, a my otrzymujemy kolejną misję
-
-#### Kontrabanda
-
-Przemytnik Josh wysyła nas do jaskini w kotlinie obok Wieży Xardasa, abyśmy przynieśli mu dwie skrzynie z kontrabandą. Rozprawiamy się z poszukiwaczami i jaszczuroczłekami, po czym oddajemy mu skrzynie.
-
-#### Grzyby dla gospodarza
-
-Przemytnik Kruger zleca nam zebranie 10 leśnych smardzów i 12 surojadek, na jego specjalną zupę. Oba rodzaje grzybów można znaleźć w lesie przed jaskinią.  
-Przynosimy Krugerowi składniki i zadanie się kończy.
-
-#### Tania ryżówka
-
-Przemytnik Brady zleca nam sprzedanie Kardifowi 10 butelek taniego bimbru. Kardiff nie chce kupić alkoholu po wysokiej cenie.
-
-a) Kradniemy Krugerowi przepis na zupę, czytamy go, a następnie oddajemy Kardifowi. Ten jest zadowolony i kupuje alkohol.
-
-b) Sprzedajemy alkohol po niższej cenie i odbieramy marne pieniądze.
-
-Niezależnie od wyboru wracamy do Brady’ego, a tutaj zadanie się kończy.
-
-#### Handel z bandytami
-
-Rivers chce żebyśmy przeprowadzili negocjacje handlowe z bandytą Udo, którego możemy spotkać w lesie świerkowym. W tym celu dostajemy specjalny strój, w którym musimy iść. Uwaga, aby nie przekroczyć ceny  
-Po wszystkim wracamy do Riversa.
-
-#### Krwawe Puchary
-
-Po zdobyciu zaufania przemytników Waine Zleca nam przyniesienie 6 krwawych pucharów umiejscowionych w górnym mieście Khorinis.
-
-Znajdują się one kolejno w Domu Sędziego, Domu Lariusa, Domu Fernando, Domu Valentino, Domu Boltara (Handlarz ubraniami obok Salandrila) oraz u Lehmara. Puchary odnosimy Waine'owi i możemy odebrać nagrodę.
-
 #### Spotkanie z szefem
 
 > **Uwaga:** Podczas tego zadania rozpoczniemy bardzo ważny wątek [Widzący](#widzący), poprzez przeczytanie kartki w skrzyni w kanałach.
@@ -110,6 +42,7 @@ Jak zabijemy Booze i przekażemy informacje Nagurowi to zostaniemy szefem gildii
 Po zabiciu Booze'a czytamy notatkę z jego ciała i idziemy do jednego domu, który znajduje się w przejściu do części górnego miasta, gdzie mieszkają Lutero i Salandril. Na piętrze znajduje się szafka, a na jej boku przycisk, który otwiera przejście na poddasze. Znajduje się tam skrzynia zawierająca notatkę mówiąca o tym, że Gerbrandt jest paserem. Mówimy o tym Wambo, który wysyła nas do Lorda Andre. Pozwala on nam na aresztowanie Gerbrandta, po czym wracamy do Andre i odbieramy nagrodę.
 
 #### Osąd
+
 Gildia Złodziei będzie sądzona. My jesteśmy wezwani jako świadkowie w sądzie. Wezwanie przekaże nam w ratuszu Cornelius. Zeznania mmamy złożyć jutro o godzinie 13 w górnym mieście, na placu po prawej stronie, przed domem sędziego. Jeśli nie zjawimy się bez usprawiedliwienia, to zostaniemy ukarani grzywną. Po przesłuchaniu udajemy się do Lorda Andre. W domu sędziego znajdziemy klucz do wieży nr 9 a w samej wieży list, z którym możemy iść do sędziego lub Andre. Sędzia będzie chciał nas przekupić eliksirem siły (zadanie zostanie zepsute), lecz my przekupni nie jesteśmy. Odmawiamy i idziemy do Lorda Andre.
 
 #### Zamknięty pokój
@@ -230,6 +163,7 @@ Krazmaz zleca nam pozbycie się topielców z bocznego korytarza jaskini. Po zab
 Almansor nie będzie chciał z nami rozmawiać, więc udajemy się do jego sługi Alvaresa, który zleca nam zdobycie uznania miejscowych. Robimy misje [Myśliwi w Aszdodzie](#myśliwi-w-aszdodzie), [Kradzież w Aszdodzie](#kradzież-w-aszdodzie), [Arena w Aszdodzie](#arena-w-aszdodzie) oraz [Tangrok i Krushok](#tangrok-i-krushok), po czym zgadza się on na rozmowę z czarnym magiem.
 
 #### Zaginiona lustrzana tarcza
+
 Quest dostaniemy jeśli mamy w ekwipunku **Almanach opętanych Skelrona**. Nie musimy ubiegać o uznanie miejscowych a znaleźć fragmenty lustrzanej tarczy. Trzy kawałki znajdują się w jaskini lawy, niedaleko wioski rybackiej w Khorinis. Czwarty w skarbcu klasztornym, ostatni na cmentarzu obok karczmy Orlana.
 
 #### Kradzież w Aszdodzie
@@ -291,6 +225,7 @@ Harun, którego obóz mieści się pod Ugarem, zleca nam pozbycie się okoliczny
 Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się grupki rozbójników nad jego obozem. Zabijamy rabusiów i wracamy do Haruna po nagrodę.
 
 #### Karawana
+
 Rabuś Mustafa chce napaść na karawanę kupca Haruna. Musimy ją odnaleźć i przekazać informację Mustafie. Następnie zabieramy Achmeda i jego ludzi na rabunek. Po udanym napadzie meldujemy się u Mustafy.
 
 > Igranie z Asasynami jest nierozsądne przed zakończeniem spraw w Aszdod. Lepiej poczekać z questem.
@@ -302,12 +237,15 @@ Po otrzymaniu pozwolenia na wejście do Świątyni Aszdodu, musimy wykonać misj
 Po rozprawieniu się z zadaniami udajemy się do Amru i robimy dla niego zadanie [Prasmok](#prasmok). Po tym zadaniu nauczy on nas języka czarnych magów, którego koniecznie się uczymy. Udajemy się teraz do Almansora i kradniemy mu klucz do biblioteki. Przechodzimy przez bibliotekę dostając się do kolejnych pomieszczeń za pomocą przełączników, a quest kończy się po przeczytaniu ostatniej księgi.
 
 #### Kości szkieletów
+
 Almansor chce, abyśmy przynieśli mu 24 kości szkieletów. Nieumarli zazwyczaj przebywają w starych ruinach lub jaskiniach. Po dostarczeniu kości, quest zostaje zaliczony.
 
 #### Serca ognistych golemów
+
 Charon chce, abyśmy przynieśli mu 5 serc ognistych golemów. Golemy można spotkać na pustyni i w górach. Po dostarczeniu serc, quest zostaje zaliczony.
 
 #### Upiorne demony
+
 Belazar chce, abyśmy zabili 7 upiornych demonów pustyni. Można je znaleźć gdzieś pomiędzy Przełęczą, a wieżą strażniczą wojowników Beliara. Po przekazaniu informacji o ich zabiciu, quest zostaje zaliczony.
 
 #### Prasmok
