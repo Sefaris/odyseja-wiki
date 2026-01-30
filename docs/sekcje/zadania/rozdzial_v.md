@@ -172,7 +172,7 @@ Suef skarży się nam na znikające bagienne ziele. Oskarża on niewolnika Ferna
 
 #### Tangrok i Krushok
 
-Tangrok, ork znajdujący się przy wejściu do Doliny Aszdodu opowiada nam o ulubieńcu Shak-Arosha. Udajemy się do Krushoka w głównym domu w Aszdodzie, a następnie wracamy do Tangroka. Ten odsyła nas do orka myśliwego, Wambeka, któremu dajemy 4 butelki rumu. Po upiciu orka wysyła on nas do Czampoka w Ugarze. Czampok zleca nam zabicie aligatorów w jeziorku niedaleko łowców lwów. Przynosimy mu trofea z gadów, a on daje nam dowód na zdradę Krushoka. Z listem idziemy do Shak-Arosha, który degraduje Krushoka z jego pozycji. Wracamy do Tangroka, a na tym zadanie się kończy.
+Rozmawiamy z Tangrokiem przy wejściu do Doliny Aszdodu, po czym idziemy do Krushoka w głównym domu w Aszdodzie i wracamy do Tangroka. Następnie zostajemy wysłani do Wambeka, który początkowo nic nie mówi. Po informacji od Tangroka, że Wambek lubi wypić, dajemy mu 4 butelki rumu. Upity ork odsyła nas do Czampoka w Ugarze. Dla Czampoka zabijamy aligatory w jeziorku koło łowców lwów i przynosimy mu 12 zębów, za co otrzymujemy dowód zdrady Krushoka. Z listem idziemy do Shak-Arosha, który degraduje Krushoka. Wracamy do Tangroka, koniec zadania.
 
 > Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, który nas zaatakuje, więc go zabijamy.
 
