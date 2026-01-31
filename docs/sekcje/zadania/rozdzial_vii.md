@@ -30,7 +30,7 @@ Zadanie rozpoczyna się po dotarciu do twierdzy Baal Handshara i kończy się po
 
 #### Zdrada Ganeluna
 
-Gdy przechodzimy przez ostatni teleport na wyspie trafiamy na Ganeluna. Okazuje się, że jest zdrajcą. Po pokonaniu go należy zameldować o tym Lordowi Baldwinowi (sprawdź też [Potężna broń](sekcje/zadania/rozdzial_iv?id=potężna-broń) oraz [Szpon Beliara](sekcje/zadania/rozdzial_iv?id=szpon-beliara))
+Gdy przechodzimy przez ostatni teleport na wyspie trafiamy na Ganeluna. Okazuje się, że jest zdrajcą. Po pokonaniu go należy zameldować o tym Lordowi Baldwinowi.
 
 ## Athanos
 
