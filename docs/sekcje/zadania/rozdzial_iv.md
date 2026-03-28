@@ -484,7 +484,7 @@ Po otrzymaniu pozwolenia na wejście na pustynię Gor Assur prosi o odnalezieni
 
 #### Artefakty
 
-Nemrosh zleca nam przeszukanie ruin Tadmoru w poszukiwaniu kolorowych kamiennych tabliczek. <img src="tabliczkinemrosh.png" />
+Nemrosh zleca nam przeszukanie ruin Tadmoru w poszukiwaniu kolorowych kamiennych tabliczek. ![](images/tabliczkinemrosh.png)
 
 1. Czerwona Zasypane ruiny z przełącznikiem w środku
 2. Fioletowa Ruiny z ognistym golemem i przełącznikiem na zewnątrz
