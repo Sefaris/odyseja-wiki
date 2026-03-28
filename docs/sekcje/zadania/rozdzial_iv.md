@@ -486,11 +486,11 @@ Po otrzymaniu pozwolenia na wejście na pustynię Gor Assur prosi o odnalezieni
 
 Nemrosh zleca nam przeszukanie ruin Tadmoru w poszukiwaniu kolorowych kamiennych tabliczek. ![](images/tabliczkinemrosh.png)
 
-1. Czerwona Zasypane ruiny z przełącznikiem w środku
-2. Fioletowa Ruiny z ognistym golemem i przełącznikiem na zewnątrz
-3. Niebieska Na szczycie piramidy, przełącznik jest na zewnątrz
-4. Zielona W przysypanej wieży z mumią w środku
-5. Żółta Na dachu małych ruin obok piramidy
+1. Czerwona - zasypane ruiny z przełącznikiem znajdującym się wewnątrz.
+2. Fioletowa - ruiny z ognistym golemem; przełącznik umieszczony na zewnątrz.
+3. Niebieska - na szczycie piramidy, przełącznik znajduje się na zewnątrz.
+4. Zielona - w przysypanej wieży, w której znajduje się mumia.
+5. Żółta - na dachu niewielkich ruin obok piramidy.
 
 Po zebraniu tabliczek udajemy się do Gemnoka, który odsyła nas do Nemrosha, gdzie zadanie się kończy.
 
