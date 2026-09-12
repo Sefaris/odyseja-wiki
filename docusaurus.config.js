@@ -38,7 +38,7 @@ module.exports = {
         {type: 'search', position: 'right'},
       ],
     },
-    docs: {sidebar: {hideable: false, autoCollapseCategories: false}},
+    docs: {sidebar: {hideable: false, autoCollapseCategories: true}},
     tableOfContents: {minHeadingLevel: 2, maxHeadingLevel: 4},
     prism: {theme: themes.vsDark, darkTheme: themes.vsDark, additionalLanguages: ['ini', 'powershell']},
   },

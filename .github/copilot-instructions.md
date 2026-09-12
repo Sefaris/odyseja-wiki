@@ -5,6 +5,7 @@ Strona używa Docusaurusa. Treść solucji znajduje się w docs/sekcje/zadania, 
 - Zachowuj całą treść i sens opisów zadań. Nie dopisuj niezweryfikowanych informacji o grze.
 - Tytuł rozdziału jest w front matter. Hierarchia: H2 lokalizacja, H3 informacje lub grupa zadań, H4 nazwa zadania. Nie używaj H5 ani H6.
 - Zachowuj jawne identyfikatory nagłówków {#id}; każdy musi być unikalny na stronie. Linkuj do istniejącej strony i zadania.
+- Rozdziały w lewym menu rozwijają lokalizacje H2 i grupy H3. `sidebars.js` pobiera ich nazwy i kotwice z dokumentów; nie utrzymuj osobnej listy wysp i nie dodawaj do tego menu pojedynczych zadań H4.
 - Zwykłą treść zapisuj w .md, pliki używające komponentu Video w .mdx. Format jest wykrywany według rozszerzenia.
 - Ostrzeżenia pozostają cytatami > **Uwaga:**, wskazówki tekstem lub listami. Nie dodawaj do treści zadań ramek, ikon, dodatkowych metadanych ani separatorów między zadaniami.
 - Obrazy trzymaj lokalnie; Markdown automatycznie obsługuje powiększanie. Video zapewnia przycisk odtwarzania i odnośnik do YouTube.
