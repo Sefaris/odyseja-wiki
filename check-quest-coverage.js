@@ -1,6 +1,6 @@
 /**
  * Skrypt weryfikujący pokrycie zadań w dokumentacji Markdown
- * Porównuje zadania z parser/quests.json z zadaniami w plikach docs/sekcje/zadania/*.md
+ * Porównuje zadania z parser/quests.json z zadaniami w plikach docs/sekcje/zadania/*.md i *.mdx
  */
 
 const fs = require("fs");
@@ -27,7 +27,7 @@ function getMarkdownFiles() {
 
   return fs
     .readdirSync(DOCS_DIR)
-    .filter((file) => file.endsWith(".md"))
+    .filter((file) => /\.mdx?$/.test(file))
     .map((file) => path.join(DOCS_DIR, file));
 }
 
@@ -41,7 +41,10 @@ function extractQuestTitlesFromMarkdown(filePath) {
 
   if (matches) {
     for (const match of matches) {
-      const title = match.replace(/^####\s+/, "").trim();
+      const title = match.replace(/^####\s+/, "")
+        .replace(/\s*\{#[^}]+\}\s*$/, "")
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+        .trim();
       questTitles.add(title);
     }
   }

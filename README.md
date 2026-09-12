@@ -1,34 +1,21 @@
-# Gothic II: Odyseja - Wiki
+# Gothic II: Odyseja — Wiki
 
-Ten projekt zawiera solucję do Gothic II: Odyseja od [Team Sefaris](https://sefaris.eu) oraz Bractwo Gothica. Solucję można znaleźć także pod adresem [https://odyseja.mody.sefaris.eu](https://odyseja.mody.sefaris.eu)
+Solucja od [Team Sefaris](https://sefaris.eu) oraz Bractwa Gothica, dostępna na [odyseja.mody.sefaris.eu](https://odyseja.mody.sefaris.eu). Strona korzysta z Docusaurusa.
 
-## Instalacja oraz wymagania
+## Uruchamianie
 
-Aby dokonywać zmian lokalnie należy zainstalować:
+Wymagane Node.js 24 i pnpm 11.19.0.
 
-- Node.js
-
-Po zainstalowaniu należy wykonać komendę:
-
-```
-$ npm install
+```sh
+pnpm install --frozen-lockfile
+pnpm start
 ```
 
-W odpowiednim katalogu należy wpisać następującą komendę:
+Podgląd: `http://localhost:3000`. Kontrola przed wysłaniem zmian: `pnpm check`.
 
-```
-$ npm run docs
-```
+## Edycja
 
-Domyślnie projekt uruchamia się pod adresem: `http://localhost:3000`.
-
-## Użyte biblioteki
-
-- https://docsify.js.org
-
-## Dokonywanie zmian
-
-Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach występujących w tym repozytorium, utwórz forka, dokonaj zmian, a następnie w utwórz Pull Requesta. Nie zapomnij dopisać się w sekcji [Autorzy](#Autorzy)!
+Zadania: `docs/sekcje/zadania/`, teleporty: `docs/sekcje/informacje-dodatkowe/teleporty.md`, strona główna: `docs/README.mdx`, menu: `sidebars.js`. Rozdziały z filmami używają `.mdx`, pozostałe dokumenty `.md`. Zachowuj identyfikatory nagłówków `{#nazwa-zadania}`. Poprawki zgłaszaj przez Pull Request.
 
 ## Autorzy
 
