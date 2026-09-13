@@ -6,15 +6,21 @@ slug: /solucja/rozdzial-iv/
 
 ## Najważniejsze informacje {#najwazniejsze-informacje}
 
-> Otrzymałeś właśnie dostęp do swobodnego powrotu na poprzednie wyspy. Nie atakuj orków i asasynów, dopóki nie skończysz z nimi zadań. Po wykonaniu zadań dla Saida i zaakceptowaniu jego oferty, asasyni i orkowie stają się agresywni.
+:::warning Uwaga
 
-**Wskazówki:**
+Otrzymałeś właśnie dostęp do swobodnego powrotu na poprzednie wyspy. Nie atakuj orków i asasynów, dopóki nie skończysz z nimi zadań. Po wykonaniu zadań dla Saida i zaakceptowaniu jego oferty, asasyni i orkowie stają się agresywni.
+
+:::
+
+:::tip Wskazówka
 
 - Warto zaglądnąć na poprzednie wyspy
 - Jeśli jeszcze go nie zrobiłeś, bardzo pomocny będzie tutaj [pierścień szybkości](/solucja/rozdzial-ii/#pierscien-szybkosci)
 - Do pewnej części Varantu otrzymasz dostęp dopiero w 5 rozdziale, więc nie próbuj tam przechodzić górami
 - Warto wykonać zadanie [Oszukany](/solucja/rozdzial-iv/#oszukany)
 - Po zebraniu i przeczytaniu "kamiennej tablicy z świątyni" z ruin Tadmoru, Asasyni staną się wrogo nastawieni.
+
+:::
 
 ## Statek Wojenny Albatros {#statek-wojenny-albatros}
 
@@ -84,9 +90,14 @@ W rozmowie z Halvarem na wyspie możemy zgodzić się pomóc przy naprawie Albat
 
 Udajemy się do Dandolo, który stoi po lewej stronie na końcu pomostu. Po rozmowie z nim ścinamy drzewo obok i ponownie zagadujemy. Dandolo prowadzi nas na kolejną wycinkę. Ścinamy drzewo, wycinamy pnie i znowu z nim rozmawiamy. Po czterech ściętych drzewach idziemy do łuparki, a następnie do strugnicy. Gdy drewno będzie gotowe, wracamy do Halvara.
 
-> Podczas wycinki może pęknąć trzonek topora. Aby go naprawić, potrzebujemy solidnej gałęzi i ostrza. Gałąź znajdziemy w obozie drwali. Po zebraniu wracamy na statek i naprawiamy topór przy stole warsztatowym, po czym kontynuujemy pracę.
+:::tip Wskazówka
 
-> Podczas wycinki może stępić się nasz topór, więc ostrzymy go na osełce i wracamy do zadania.
+Podczas wycinki może pęknąć trzonek topora. Aby go naprawić, potrzebujemy solidnej gałęzi i ostrza. Gałąź znajdziemy w obozie drwali. Po zebraniu wracamy na statek i naprawiamy topór przy stole warsztatowym, po czym kontynuujemy pracę.
+
+
+Podczas wycinki może stępić się nasz topór, więc ostrzymy go na osełce i wracamy do zadania.
+
+:::
 
 #### Zabezpieczenie tartaku {#zabezpieczenie-tartaku}
 
@@ -100,7 +111,11 @@ Do naprawy kadłuba potrzebujemy 3 długich, 4 średnich i 4 krótkich desek. Id
 
 Po zakończeniu prac przy kadłubie przejmujemy obowiązki Svena i idziemy na ryby. Po złowieniu 12 kolorowych ryb zanosimy je do Albina.
 
-> Podczas łowienia może pęknąć żyłka. Wtedy udajemy się do Wolfganga, który sprzedaje nową. Po naprawie sprzętu wracamy na łowisko. Gdy złowimy 12 kolorowych ryb, ponownie zanosimy je do Albina, a następnie wracamy do Halvara.
+:::tip Wskazówka
+
+Podczas łowienia może pęknąć żyłka. Wtedy udajemy się do Wolfganga, który sprzedaje nową. Po naprawie sprzętu wracamy na łowisko. Gdy złowimy 12 kolorowych ryb, ponownie zanosimy je do Albina, a następnie wracamy do Halvara.
+
+:::
 
 #### Kokosy {#kokosy}
 
@@ -137,7 +152,11 @@ Zadanie informacyjne, które kończy się po wypłynięciu z wyspy.
 
 Na bagnach dopada nas gorączka, więc udajemy się do Halvara, który odsyła nas do Wulfiasa. Niestety, mag pokładowy nie ma odpowiedniego lekarstwa. Uleczyć nas może dopiero Merkurius w Varancie lub mikstura kupiona od Bachala.
 
-> Po złapaniu ferby najlepiej wczytać grę, ponieważ choroba ustawia manę na poziomie 20 punktów, niezależnie od naszej maksymalnej wartości.
+:::warning Uwaga
+
+Po złapaniu ferby najlepiej wczytać grę, ponieważ choroba ustawia manę na poziomie 20 punktów, niezależnie od naszej maksymalnej wartości.
+
+:::
 
 ## Tamora {#tamora}
 
@@ -196,7 +215,11 @@ Po oszczędzeniu Rengaru podczas misji [Złoto Jory](/solucja/rozdzial-iii/#zlo
 
 #### Pomiędzy złodziejami {#pomiedzy-zlodziejami}
 
-> **Uwaga:** Jeśli wybraliśmy ukrycie złodziei, w żadnym z questów nie idziemy do Wambo. Współpracujemy tylko ze złodziejami i przemytnikami.
+:::warning Uwaga
+
+Jeśli wybraliśmy ukrycie złodziei, w żadnym z questów nie idziemy do Wambo. Współpracujemy tylko ze złodziejami i przemytnikami.
+
+:::
 
 Quest ten pojawia się, jeśli zdecydujemy się nie wydawać Nagura i złodziei u Lorda Andre. Przebieg questów jest podobny co w misji [Gildia złodziei](/solucja/rozdzial-iv/#gildia-zlodziei), z tą różnicą, że nie atakujemy Booze'a przy spotkaniu z nim i idziemy przy każdej misji także do Wambo. Wysyła Cię on do sekretnego pokoju, w którym schowany jest Rączka. Rozmawiamy z nim i próbujemy wyciągnąć od niego informacje o skarbie. Bijemy Rączkę i mamy do wyboru zabić go lub wydać do więzienia (Z innych rozwiązań Booze nie będzie zadowolony). Po wszystkim Booze udziela nam porad odnośnie do zarobku, a zadanie się kończy.
 
@@ -749,7 +772,11 @@ odsyła nas z kwitkiem do Hassana. Uzyskujemy od niego hasło, udajemy się do w
 
 #### Próba zabójstwa {#proba-zabojstwa}
 
-> **Uwaga:** Nie warto się spieszyć z tym zadaniem, ze względu na dużą ilość mordowania. Jeśli zabijemy zbyt wielu asasynów, wszyscy staną się wrodzy.
+:::warning Uwaga
+
+Nie warto się spieszyć z tym zadaniem, ze względu na dużą ilość mordowania. Jeśli zabijemy zbyt wielu asasynów, wszyscy staną się wrodzy.
+
+:::
 
 Jeśli odprowadziliśmy niewolników do Ugaru, Sadik zaproponuje nam pewne zlecenie. Zaoferuje on nam 2000 złota za zabójstwo kupca Haruna. Udajemy się do jego obozu, który jest pod drogą między Ugarem, a Amarną. Są dwa rozwiązania tego questa:
 
@@ -811,7 +838,11 @@ Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy ma
 
 Gargoron prosi nas o zabicie rozbójników w starej wieży Xardasa. Po zabiciu ich wracamy do paladyna po nagrodę.
 
-> Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy
+:::tip Wskazówka
+
+Warto otworzyć tajemne przejście do skrzyni, do której klucz znajduje się na podłodze w piwnicy
+
+:::
 
 #### Rośliny dla Dominikusa {#rosliny-dla-dominikusa}
 

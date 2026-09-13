@@ -6,12 +6,15 @@ slug: /solucja/rozdzial-v/
 
 ## Najważniejsze informacje {#najwazniejsze-informacje}
 
-> W tym rozdziale odwiedzisz wiele lokacji. Pamiętaj o dobrym przygotowaniu przed trudnymi zadaniami.
+:::tip Wskazówka
 
-**Wskazówki:**
+W tym rozdziale odwiedzisz wiele lokacji. Pamiętaj o dobrym przygotowaniu przed trudnymi zadaniami.
+
 
 - Zadania są powiązane z poprzednimi rozdziałami
 - Zwróć uwagę na zadania wyzwoleń
+
+:::
 
 ## Khorinis {#khorinis}
 
@@ -19,7 +22,11 @@ slug: /solucja/rozdzial-v/
 
 #### Spotkanie z szefem {#spotkanie-z-szefem}
 
-> **Uwaga:** Podczas tego zadania rozpoczniemy bardzo ważny wątek [Widzący](/solucja/rozdzial-v/#widzacy), poprzez przeczytanie kartki w skrzyni w kanałach.
+:::tip Wskazówka
+
+Podczas tego zadania rozpoczniemy bardzo ważny wątek [Widzący](/solucja/rozdzial-v/#widzacy), poprzez przeczytanie kartki w skrzyni w kanałach.
+
+:::
 
 Po skończeniu zadań w jaskini przemytników, idziemy do:
 
@@ -39,7 +46,11 @@ Po pobiciu Rączki i uzyskaniu jego klucza oraz mapy, mamy możliwość zdobycia
 
 Jak zabijemy Booze i przekażemy informacje Nagurowi to zostaniemy szefem gildii. Od teraz raz na tydzień możemy odebrać część doli z włamań i kradzieży. Po około 12 razach quest kończy się.
 
-> **Uwaga:** Poniższe questy dostępne są tylko jeśli od początku graliśmy po stronie straży.
+:::info Informacja
+
+Poniższe questy dostępne są tylko jeśli od początku graliśmy po stronie straży.
+
+:::
 
 #### Paser {#paser}
 
@@ -71,7 +82,11 @@ Po zakończeniu zadań w jaskini przemytników, Nagur zleca nam kradzież listu 
 
 Zabieramy stamtąd rzeczy, czytamy list i idziemy do Nagura, który każe nam odnieść list z powrotem do skrzyni. Po wszystkim wracamy do Nagura i odbieramy nagrodę.
 
-> **Uwaga:** Na tym kończy się wątek Gildii Złodziei.
+:::info Informacja
+
+Na tym kończy się wątek Gildii Złodziei.
+
+:::
 
 ## Jarkendar {#jarkendar}
 
@@ -178,7 +193,11 @@ Suef skarży się nam na znikające bagienne ziele. Oskarża on niewolnika Ferna
 
 Rozmawiamy z Tangrokiem przy wejściu do Doliny Aszdodu, po czym idziemy do Krushoka w głównym domu w Aszdodzie i wracamy do Tangroka. Następnie zostajemy wysłani do Wambeka, który początkowo nie mówi nam nic ciekawego. Po informacji od Tangroka, że Wambek lubi wypić, wybieramy opcję „Daj cztery butelki” (łącznie musimy mieć 5 w eq). Upity ork odsyła nas do Czampoka w Ugarze. Dla Czampoka zabijamy aligatory w jeziorku koło łowców lwów i przynosimy mu 12 zębów, za co otrzymujemy dowód zdrady Krushoka. Z listem idziemy do Shak-Arosha, który degraduje Krushoka. Wracamy do Tangroka, koniec zadania.
 
-> Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, który nas zaatakuje, więc go zabijamy.
+:::tip Wskazówka
+
+Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, który nas zaatakuje, więc go zabijamy.
+
+:::
 
 #### Rabujący orkowie {#rabujacy-orkowie}
 
@@ -232,7 +251,11 @@ Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się gr
 
 Rabuś Mustafa chce napaść na karawanę kupca Haruna. Musimy ją odnaleźć i przekazać informację Mustafie. Następnie zabieramy Achmeda i jego ludzi na rabunek. Po udanym napadzie meldujemy się u Mustafy.
 
-> Igranie z Asasynami jest nierozsądne przed zakończeniem spraw w Aszdod. Lepiej poczekać z questem.
+:::warning Uwaga
+
+Igranie z Asasynami jest nierozsądne przed zakończeniem spraw w Aszdod. Lepiej poczekać z questem.
+
+:::
 
 #### Nauka czarnej magii {#nauka-czarnej-magii}
 

@@ -4,7 +4,7 @@ description: "Runy teleportacyjne w Odysei: położenie, wymagane zadania oraz t
 slug: /teleporty/
 ---
 
-> Kompletna lista wszystkich run teleportacyjnych w grze Gothic 2: Odyseja, pogrupowanych według lokacji.
+Kompletna lista wszystkich run teleportacyjnych w grze Gothic 2: Odyseja, pogrupowanych według lokacji.
 
 ## Athanos {#athanos}
 
