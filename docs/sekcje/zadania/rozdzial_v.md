@@ -20,7 +20,9 @@ W tym rozdziale odwiedzisz wiele lokacji. Pamiętaj o dobrym przygotowaniu przed
 
 ### Zadania główne i powiązane {#zadania-glowne-i-powiazane}
 
-#### Spotkanie z szefem {#spotkanie-z-szefem}
+#### Poznaj szefa {#spotkanie-z-szefem}
+
+W starszych opisach: „Spotkanie z szefem”.
 
 :::tip Wskazówka
 
@@ -44,7 +46,7 @@ Po pobiciu Rączki i uzyskaniu jego klucza oraz mapy, mamy możliwość zdobycia
 
 #### To ja jestem szefem! {#to-ja-jestem-szefem}
 
-Jak zabijemy Booze i przekażemy informacje Nagurowi to zostaniemy szefem gildii. Od teraz raz na tydzień możemy odebrać część doli z włamań i kradzieży. Po około 12 razach quest kończy się.
+Jak zabijemy Booze i przekażemy informacje Nagurowi to zostaniemy szefem gildii. Nagur wypłaca nam dolę raz na 7 dni. Po 10 wypłatach kończy się możliwość odbierania zysków. Kolejna rozmowa o doli zamyka zadanie.
 
 :::info Informacja
 
@@ -173,9 +175,35 @@ Otrzymujemy zwój przemiany w czarnego goblina, przemieniamy się i idziemy poro
 
 Krazmaz zleca nam pozbycie się topielców z bocznego korytarza jaskini. Po zabiciu 10 stworów wracamy do Krazmaza i zadanie się kończy.
 
+## Pustynia Varantu {#pustynia-varantu}
+
+### Zadania główne i powiązane {#pustynia-varantu-zadania-glowne-i-powiazane}
+
+#### Wojownik z Nordmaru {#wojownik-z-nordmaru}
+
+Po uzyskaniu [dostępu do świątyni Aszdodu](/solucja/rozdzial-v/#dostep-do-swiatyni) wracamy do Hakkona na pustyni. W rozmowie kończącej [Obcych wojowników](/solucja/rozdzial-iv/#obcy-wojownicy) zgadzamy się pomóc uwolnić Larsa z rąk rozbójników.
+
+Hakkon prowadzi nas do przeciwników, a następnie do starej wieży, gdzie uwięziono jego przyjaciela. Możemy zaatakować wspólnie lub zostawić Hakkona i najpierw rozpoznać obóz samemu. Uwalniamy Larsa, rozmawiamy z nim, a na koniec informujemy Hakkona o uwolnieniu przyjaciela.
+
+:::tip Wskazówka
+
+Warto poczekać z atakiem do zdobycia pancerza rozbójnika i ukończenia [Karawany](/solucja/rozdzial-v/#karawana), zadania z Mustafą.
+
+:::
+
 ## Aszdod/Varant {#aszdodvarant}
 
 ### Zadania główne i powiązane {#aszdodvarant-zadania-glowne-i-powiazane}
+
+#### Dostęp do świątyni {#dostep-do-swiatyni}
+
+Zadanie rozpoczynamy u strażnika świątyni w Aszdodzie. Do środka wpuści nas dopiero za zgodą Almansora. Jest to osobny etap od [dostępu do doliny Aszdodu](/solucja/rozdzial-iv/#dostep-do-aszdod).
+
+1. Zdobywamy zaufanie Alvareza i uzyskujemy [audiencję u Almansora](/solucja/rozdzial-v/#audiencja-u-almansora). Rozmawiamy z nim o wejściu do świątyni.
+2. Wracamy do Tartarona w Ugarze po dopuszczenie do Wielkich Prób. Jeśli odmawia, rozwijamy znajomość magii i ponownie prosimy o dopuszczenie.
+3. Zaliczamy próby: [Kości szkieletów](/solucja/rozdzial-v/#kosci-szkieletow) u Almansora, [Serca ognistych golemów](/solucja/rozdzial-v/#serca-ognistych-golemow) u Charona oraz [Upiorne demony](/solucja/rozdzial-v/#upiorne-demony) u Belazara.
+4. Po ukończeniu wszystkich trzech prób wracamy do Tartarona po awans i szatę czarnego maga.
+5. Ponownie rozmawiamy z Almansorem. Jego zgoda na wejście zamyka zadanie. Zakładamy szatę maga asasynów i kontynuujemy rozpoznanie [Świątyni Aszdodu](/solucja/rozdzial-iv/#swiatynia-aszdodu).
 
 #### Audiencja u Almansora {#audiencja-u-almansora}
 
@@ -203,7 +231,7 @@ Kiedy udamy się w stronę grobowca Baal Handshara, napotkamy tam Krushoka, któ
 
 Czampok zleca nam pozbycie się oddziału orków rozbójników, który mieści się na urwisku między Ugarem, a Amarną. Po zabiciu szabrowników wracamy do Czampoka.
 
-#### Myśliwi w Aszdodzie {#mysliwi-w-aszdodzie}
+#### Myśliwi z Aszdodu {#mysliwi-w-aszdodzie}
 
 Kupiec Selim zleca nam rozeznać się w sytuacji myśliwych w dolinie. Udajemy się do Lopeza, Sarbosa i orka Wambeka. Lopez chce, abyśmy przynieśli mu 12 skór pustynnych wilków, Sarbos potrzebuje 20 skór pustynnych zębaczy, a Wambek 30 sztuk surowego mięsa. Odnosimy myśliwym trofea. Po wszystkim wracamy do Selima z zamówieniem na strzały a zadanie się kończy..
 
@@ -245,7 +273,7 @@ Harun, którego obóz mieści się pod Ugarem, zleca nam pozbycie się okoliczny
 
 #### Rozbójnicy w górach {#rozbojnicy-w-gorach}
 
-Po pomyślnym zakończeniu interesów z Harunem, prosi on nas o pozbycie się grupki rozbójników nad jego obozem. Zabijamy rabusiów i wracamy do Haruna po nagrodę.
+Harun prosi o pozbycie się grupki rozbójników nad jego obozem. Pomoc przeciw bandytom i [głodnym pełzaczom](/solucja/rozdzial-v/#glodne-pelzacze) przyjmujemy w jednej rozmowie; nie trzeba wcześniej zakończyć jego interesów handlowych w Aszdodzie. Za każde z tych dwóch zleceń oferuje 250 sztuk złota, a po negocjacji 300. Zabijamy rabusiów i wracamy do Haruna po ustaloną nagrodę.
 
 #### Karawana {#karawana}
 
@@ -327,9 +355,23 @@ Po podjęciu decyzji o odbiciu Ugaru, Tamara zleca nam pozbycie się w pierwszej
 
 Tamara zleca nam znalezienie jej braci, aby pomogli nam odbić Ugar. Bahram znajduje się pod obozem Saida, wśród myśliwych, a Amir w wieży wojowników Beliara.
 
-#### Wyzwolenie Aszdodu / Szturm na Aszdod {#wyzwolenie-aszdodu-szturm-na-aszdod}
+#### Wyzwolenie Aszdodu {#wyzwolenie-aszdodu-szturm-na-aszdod}
 
-Jeśli zdecydowaliśmy się poprosić Saida o pomoc w odbiciu Aszdodu, ten wysyła nas na przełęcz do Aszdodu, aby porozmawiać z jego bratankiem Gaudarem. Wraz z nim odbijamy miasto i świątynie, po czym pojawia się komunikat na ekranie, po którym rozmawiamy z Gaudarem i Saidem.
+Zadanie rozpoczynamy u Merkuriusa, deklarując zamiar wyzwolenia Aszdodu spod władzy asasynów. Miasto jest silnie strzeżone. Jeśli chcemy wsparcia koczowników, rozmawiamy z Saidem i organizujemy [Szturm na Aszdod](/solucja/rozdzial-v/#szturm-na-aszdod); przeszkodą w uzyskaniu pomocy jest wrogi klan [Alego](/solucja/rozdzial-iv/#pustynni-rabusie-alego).
+
+Odbijamy miasto i świątynię. Po komunikacie o wyzwoleniu wracamy z raportem do Merkuriusa, który rozlicza to zadanie i daje nam nagrodę. Jeśli walczyliśmy z ludźmi Saida, osobno rozliczamy u niego wspólny szturm.
+
+#### Szturm na Aszdod {#szturm-na-aszdod}
+
+To wątek organizacji pomocy koczowników w [Wyzwoleniu Aszdodu](/solucja/rozdzial-v/#wyzwolenie-aszdodu-szturm-na-aszdod). Prosimy Saida o wsparcie, a po jego zgodzie idziemy na przełęcz do Aszdodu spotkać się z jego bratankiem Gaudarem i wojownikami. Rozmowa z Gaudarem przed walką rozpoczyna zadanie szturmu.
+
+:::warning Uwaga
+
+Jawny sojusz z Saidem sprawia, że przebranie przestaje chronić nas przed asasynami. Przed rozpoczęciem ataku kończymy sprawy wymagające ich zaufania.
+
+:::
+
+Uzgadniamy atak z Gaudarem i kolejno zdobywamy tunel, miasto oraz świątynię. Po komunikacie o wyzwoleniu rozmawiamy z Gaudarem i wracamy do Saida, który zamyka zadanie szturmu. Zgodnie z jego prośbą informujemy też Merkuriusa, aby zamknąć osobne „Wyzwolenie Aszdodu”.
 
 #### Rozliczenie się z Hakamem {#rozliczenie-sie-z-hakamem}
 
@@ -349,11 +391,11 @@ Ismael mówi nam, że został wyrzucony ze swojego plemienia. Rozmawiamy o tym z
 
 #### Wyzwolenie Amarny {#wyzwolenie-amarny}
 
-Said zleca nam odbicie Amarny. Po pokonaniu asasynów wraz z Ruslanem i innymi, rozmawiamy z Saidem, po czym zadanie się kończy.
+Niewolnik Stan prosi o wyzwolenie Amarny i odsyła po pomoc do Saida. Wsparcie koczowników organizujemy w osobnym zadaniu [Szturm na Amarnę](/solucja/rozdzial-v/#szturm-na-amarne). Po pokonaniu asasynów i komunikacie o zdobyciu twierdzy wracamy z raportem do Saida, który zamyka zadanie.
 
 #### Szturm na Amarnę {#szturm-na-amarne}
 
-Said zleca nam odbicie Amarny. Daje nam do pomocy Ruslana i kilku koczowników, którzy będą czekać na nas przy górskiej ścieżce. Idziemy z nimi do Amarny, pozbywamy się asasynów aż do komunikatu na ekranie. Po wszystkim rozmawiamy z Ruslanem i Saidem.
+Podczas [Wyzwolenia Amarny](/solucja/rozdzial-v/#wyzwolenie-amarny), zleconego przez Stana, prosimy Saida o wsparcie. Gdy się zgodzi, rozpoczyna się osobne zadanie szturmu. Rozmawiamy z Rusłanem, który wraz z kilkoma koczownikami czeka na nas na szczycie górskiej ścieżki w pobliżu Amarny. Dajemy sygnał do ataku, idziemy z nimi do twierdzy i pozbywamy się asasynów aż do komunikatu o wyzwoleniu. Po wszystkim rozmawiamy z Rusłanem i Saidem; raport u Saida zamyka również ten wątek.
 
 #### Obóz orków na zachodzie {#oboz-orkow-na-zachodzie}
 

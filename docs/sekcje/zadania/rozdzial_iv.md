@@ -36,7 +36,7 @@ Teleportujemy się do sali tronowej króla za pomocą runy otrzymanej od Baldwin
 
 #### Zlecenie zarządcy {#zlecenie-zarzadcy}
 
-Zarządca potrzebuje 12 skrzyń z rudą, 30 bochenków chleba, 300 bełtów, 20 eliksirów leczniczych i 20 zwojów kuli ognia.
+Zarządca potrzebuje 10 skrzyń z rudą, 30 bochenków chleba, 300 bełtów, 20 eliksirów leczniczych (konkretnie „Eliksir leczniczy”, `ItPo_Health_03`) i 20 zwojów kuli ognia. Jest to dodatkowa dostawa, po przekazaniu skrzyń przewiezionych dla króla.
 
 #### Sztorm {#sztorm}
 
@@ -148,7 +148,7 @@ Halvar zaprasza nas na ognisko, które odbędzie się przy namiocie o 20:00. Pod
 
 Zadanie informacyjne, które kończy się po wypłynięciu z wyspy.
 
-#### Bagienna ferba {#bagienna-ferba}
+#### Bagienna febra {#bagienna-ferba}
 
 Na bagnach dopada nas gorączka, więc udajemy się do Halvara, który odsyła nas do Wulfiasa. Niestety, mag pokładowy nie ma odpowiedniego lekarstwa. Uleczyć nas może dopiero Merkurius w Varancie lub mikstura kupiona od Bachala.
 
@@ -215,13 +215,17 @@ Po oszczędzeniu Rengaru podczas misji [Złoto Jory](/solucja/rozdzial-iii/#zlo
 
 #### Pomiędzy złodziejami {#pomiedzy-zlodziejami}
 
+Zadanie pojawia się, gdy decydujemy się nie wydać Nagura i złodziei Lordowi Andre. Wybieramy wtedy współpracę z gildią: wykonujemy zlecenia złodziei i przemytników, a po dotarciu do Booze'a nie atakujemy go.
+
 :::warning Uwaga
 
-Jeśli wybraliśmy ukrycie złodziei, w żadnym z questów nie idziemy do Wambo. Współpracujemy tylko ze złodziejami i przemytnikami.
+W tej ścieżce nie zgłaszamy kolejnych zleceń Wambowi. Donoszenie straży należy do wariantu infiltracji opisanego w zadaniu [Gildia złodziei](/solucja/rozdzial-iv/#gildia-zlodziei). Współpraca z gildią prowadzi natomiast do zleceń od Nagura i Booze'a.
 
 :::
 
-Quest ten pojawia się, jeśli zdecydujemy się nie wydawać Nagura i złodziei u Lorda Andre. Przebieg questów jest podobny co w misji [Gildia złodziei](/solucja/rozdzial-iv/#gildia-zlodziei), z tą różnicą, że nie atakujemy Booze'a przy spotkaniu z nim i idziemy przy każdej misji także do Wambo. Wysyła Cię on do sekretnego pokoju, w którym schowany jest Rączka. Rozmawiamy z nim i próbujemy wyciągnąć od niego informacje o skarbie. Bijemy Rączkę i mamy do wyboru zabić go lub wydać do więzienia (Z innych rozwiązań Booze nie będzie zadowolony). Po wszystkim Booze udziela nam porad odnośnie do zarobku, a zadanie się kończy.
+Booze daje nam klucz do sekretnego pokoju w kanałach i poleca przesłuchać Rączkę. W pierwszym pomieszczeniu pociągamy za żelazny pierścień, a w kolejnym szukamy drugiego pierścienia na kolumnie; warto mieć pochodnię. Otwieramy przejście do więźnia, rozmawiamy z nim o ukrytej rudzie, a po pobiciu zabieramy jego mapę.
+
+Możemy zabić Rączkę albo, po odmowie zabicia go w rozmowie z Booze'em, pozostawić go w zamknięciu. Wracamy z mapą do Booze'a. Uwolnienie Rączki powoduje wrogość Booze'a i kończy współpracę z gildią. Jeśli zachowamy jej zaufanie, na koniec pytamy Booze'a o dalsze zlecenia: udziela nam porad dotyczących zarobku i zamyka zadanie.
 
 #### Włamanie do Lutero {#wlamanie-do-lutero}
 
@@ -235,7 +239,7 @@ W trakcie nauki o włamywaniu, Mike mówi nam o mysiej albo szczurzej norze, prz
 
 Po nauczeniu się otwierania zamków na 5. poziomie otrzymamy zadanie polegające na okradzeniu skarbca Khorinis. Udajemy się do skarbca, którego strzeże Gekard. Sprawdzamy zamek, okradamy strażnika z klucza do skrzyni i rzucamy na niego zaklęcie strachu. Następnie opróżniamy skrzynię i czekamy jeden dzień. Następnego dnia zaklęcie snu zaczyna działać na strażnika. Przed włamaniem wykonujemy wytrych do skarbca na stole warsztatowym. Idziemy do skarbca, usypiamy Gekarda i okradamy Khorinis. Potem czekamy kolejny dzień i rozmawiamy z Wambo, który niczego nie podejrzewa. Zadanie ukończone.
 
-KONTYNUACJA WĄTKU W 5R [SPECJALNA RYBA](/solucja/rozdzial-iv/#specjalna-ryba)
+Dalszy etap, [Specjalna ryba](/solucja/rozdzial-iv/#specjalna-ryba), jest dostępny u Nagura od IV rozdziału po spełnieniu warunków poprzednich rozmów.
 
 #### Włamanie do Herolda {#wlamanie-do-herolda}
 
@@ -343,9 +347,21 @@ Pyrokar mówi nam o Poszukiwaczach, którzy powrócili do Khorinis. Zadanie koń
 Pyrokar mówi nam o Kościanych Wojownikach, którzy ulokowali się w podziemnej bibliotece klasztoru. Rozmawiamy z Talomonem, a następnie pozbywamy się nieumarłych z piwnicy.\
 Po skończonej robocie wracamy do Pyrokara i odbieramy nagrodę.
 
-#### Siedem roślin {#siedem-roslin}
+#### Ogniste pokrzywy dla Neorasa {#siedem-roslin}
+
+W starszych opisach: „Siedem roślin”.
 
 Neoras prosi nas o przyniesienie 7 ognistych pokrzyw, które już zapewne mamy. Oddajemy mu je i odbieramy nagrodę.
+
+## Wybrzeże Varantu {#wybrzeze-varantu}
+
+### Zadania poboczne {#wybrzeze-varantu-zadania-poboczne}
+
+#### Szakale {#szakale}
+
+Jake, strażnik korsarzy w ruinach świątyni na wybrzeżu Varantu, prosi o pozbycie się szakali z okolicy. Możemy zgodzić się na zapłatę 50 sztuk złota albo najpierw odmówić, aby uzyskać ofertę 100 sztuk złota. Wynagrodzenie odbieramy po wykonaniu zadania.
+
+Zabijamy szakale w pobliżu ruin i wracamy do Jake'a z raportem. Rozmowa i odbiór ustalonej zapłaty kończą zadanie.
 
 ## Pustynia Varantu {#pustynia-varantu}
 
@@ -363,7 +379,7 @@ Pancerz koczowników sprzeda nam Said w jego obozie. Po zdobyciu pancerza asasyn
 
 #### Świątynia Aszdodu {#swiatynia-aszdodu}
 
-Baldwin zleca nam dostanie się do świątyni Aszdodu. Jest to zadanie główne Varantu, które kończy się wraz z dostaniem się do Aszdodu.
+Baldwin zleca nam dostanie się do świątyni Aszdodu. To główne zadanie wywiadowcze Varantu. [Wejście do doliny](/solucja/rozdzial-iv/#dostep-do-aszdod) i [dostęp do samej świątyni](/solucja/rozdzial-v/#dostep-do-swiatyni) stanowią kolejne etapy. Wątek prowadzi do ustalenia zagrożenia ze strony Baal Handshara i raportu Baldwinowi przed odpłynięciem z Varantu.
 
 #### Dostęp do Aszdod {#dostep-do-aszdod}
 
@@ -401,9 +417,7 @@ Zadanie polegające na odprowadzeniu Prampeka do obozu orków przy kanionie. Wys
 
 #### Obcy wojownicy {#obcy-wojownicy}
 
-Zadanie zaczyna się od Hakkona, który siedzi przy palmach na skraju pustyni. Zleci nam misje dopiero wtedy, gdy otrzymamy dostęp do świątyni Aszdodu.
-
-Prowadzi nas do obozu rabusiów, gdzie zabijamy przeciwników i uwalniamy jego przyjaciela, na czym zadanie się kończy. (Warto poczekać z tym zadaniem, aż do zdobycia pancerza rozbójnika i ukończenia [zadania z Mustafą](/solucja/rozdzial-v/#karawana))
+Zadanie rozpoczyna pierwsza rozmowa z małomównym Hakkonem, który siedzi przy palmach na skraju pustyni. Poznajemy go już w IV rozdziale. Dopiero po uzyskaniu [dostępu do świątyni Aszdodu](/solucja/rozdzial-v/#dostep-do-swiatyni) wracamy do niego i dowiadujemy się o losie jego towarzysza. Zgoda na pomoc Larsowi zamyka „Obcych wojowników” i rozpoczyna osobne zadanie [Wojownik z Nordmaru](/solucja/rozdzial-v/#wojownik-z-nordmaru), opisane w V rozdziale.
 
 #### Zew przodków {#zew-przodkow}
 
@@ -425,15 +439,17 @@ Po spotkaniu Pajka w świątyni niedaleko miejsca, gdzie siedzi Ernst, możemy p
 
 W ruinach klasztoru nieopodal wejścia do Aszdodu, po prawej stronie głównego budynku znajduje się skrzynia z kluczem. Na najwyższym piętrze w centralnej części jest kolejna skrzynia, a następna w środku. Ostatnia jest w piwnicy i zawiera ornament do otwarcia trumny ze skarbem.
 
-#### Poszukiwania skarbów w świątyni wahadeł {#poszukiwania-skarbow-w-swiatyni-wahadel}
+#### Poszukiwanie skarbu w świątyni z wahadłem {#poszukiwania-skarbow-w-swiatyni-wahadel}
 
 Na końcu kanionu lwów znajduje się teleport, który prowadzi nas przed drzwi świątyni wahadeł. Dostaniemy się tam dopiero w ramach zadania [Niebiańska Tarcza](/solucja/rozdzial-v/#niebianska-tarcza) Po przejściu kilku pomieszczeń znajdziemy wrak statku, a w nim trumnę, w której znajduje się skarb.
 
-#### Poszukiwanie skarbu w ruinach {#poszukiwanie-skarbu-w-ruinach}
+#### Poszukiwanie skarbu w ruinach domu {#poszukiwanie-skarbu-w-ruinach}
 
 W skrzyni na małej wysepce (Zadanie [Wymiana klucza za rum](/solucja/rozdzial-iv/#wymiana-klucza-za-rum)) znajdujemy mapę, która prowadzi nas do skarbu w ruinach. Znajdujemy go, a zadanie się kończy.
 
-#### Poszukiwanie skarbu w przybrzeżnej jaskini {#poszukiwanie-skarbu-w-przybrzeznej-jaskini}
+#### Poszukiwanie skarbu na plaży {#poszukiwanie-skarbu-w-przybrzeznej-jaskini}
+
+W starszych opisach: „Poszukiwanie skarbu w przybrzeżnej jaskini”.
 
 Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest na dnie kanionu w jaskini łączącej Patarę z pustynia. Wykopujemy skarb i zadanie się kończy.
 
@@ -443,13 +459,17 @@ Po zakupie mapy u Amada dowiadujemy się o skarbie, który jest w przeklętej ko
 
 Zabijamy szkielety, wykopujemy skarb i na tym misja się kończy
 
-#### Poszukiwania skarbu w jaskini wodnej {#poszukiwania-skarbu-w-jaskini-wodnej}
+#### Poszukiwanie skarbu nad jaskinią {#poszukiwania-skarbu-w-jaskini-wodnej}
+
+W starszych opisach: „Poszukiwania skarbu w jaskini wodnej”.
 
 Po przeczytaniu notatki z martwego człowieka przy wyjściu z jaskini łączącej Patarę z pustynią, dowiadujemy się o skarbie zakopanym w jaskini wodnej.
 
 Jest to jaskinia nad źródłem, które jest po lewej stronie od wejścia na pustynię. Kiedy będziemy mogli tam wejść(Zadanie [Tajemnicza jaskinia](/solucja/rozdzial-iv/#tajemnicza-jaskinia))
 
-#### Skarb Saladyna {#skarb-saladyna}
+#### Łup Saladyna {#skarb-saladyna}
+
+W starszych opisach: „Skarb Saladyna”.
 
 1. W jaskini z lampartami pod obozem orków banitów, znajdujących się między Amarną, a Ugarem znajdziemy notatkę, która prowadzi nas do opuszczonego domu, w którym znajdujemy notatkę, w której dowiadujemy się gdzie jest skarb. Idziemy we wskazane miejsce, zabijamy asasyna, a misja się kończy
 
@@ -537,7 +557,13 @@ Gemnok prosi nas o pozbycie się pełzaczy z ruin. Po zabiciu wszystkich otrzymu
 
 #### Audiencja u Tartarona {#audiencja-u-tartarona}
 
-Torres nie wpuści nas do Tartarona, chyba że wykonamy dla niego zadania takie jak [Łowcy głów w](/solucja/rozdzial-iv/#lowcy-glow-w-ugarze) [Ugarze](/solucja/rozdzial-iv/#lowcy-glow-w-ugarze), [Mąka dla](/solucja/rozdzial-iv/#maka-dla-ugaru) [Ugaru](/solucja/rozdzial-iv/#maka-dla-ugaru), [Zbiór pomidorów](/solucja/rozdzial-iv/#zbior-pomidorow), [Nadzorca](/solucja/rozdzial-iv/#nadzorca) i [Nielegalny handel](/solucja/rozdzial-iv/#nielegalny-handel) i [Łowcy lwów](/solucja/rozdzial-iv/#lowcy-lwow)
+Zadanie rozpoczynamy rozmową z Hektorem przed siedzibą Tartarona. Aby uzyskać audiencję, pracujemy na swoją reputację w Ugarze, wykonując zadania takie jak [Łowcy głów w Ugarze](/solucja/rozdzial-iv/#lowcy-glow-w-ugarze), [Mąka dla Ugaru](/solucja/rozdzial-iv/#maka-dla-ugaru), [Zbiór pomidorów](/solucja/rozdzial-iv/#zbior-pomidorow), [Nadzorca](/solucja/rozdzial-iv/#nadzorca), [Nielegalny handel](/solucja/rozdzial-iv/#nielegalny-handel) i [Łowcy lwów](/solucja/rozdzial-iv/#lowcy-lwow). Następnie pytamy Torresa, czy nasza reputacja jest już wystarczająca, i rozmawiamy z Tamarą przed spotkaniem z Tartaronem.
+
+#### Zwiadowca w Varancie {#zwiadowca-w-varancie}
+
+W Ugarze, na placu szubienicy, rozmawiamy z Dandolo przebranym za przodownika karawany. Chce spotkać się dyskretnie w ruinach niedaleko handlarza suknem. Umawiamy się tam o 3:00 w nocy; uważamy na bandytów grasujących po mieście.
+
+Podczas spotkań Dandolo udziela wskazówek o Ugarze, jego mieszkańcach i ważnych budynkach; możemy otrzymać od niego mapę miasta. Po zakończeniu misji w Varancie informujemy go, że może wrócić na statek. Przed [atakiem na Ugar](/solucja/rozdzial-v/#wyzwolenie-ugaru) trzeba przekazać mu tę wiadomość.
 
 #### Zbiegli niewolnicy {#zbiegli-niewolnicy}
 
@@ -550,7 +576,7 @@ Clark W kamiennym domku, którego pilnują dwie pantery
 
 Są dwa rozwiązania tego zadania.
 
-1. Odprowadzamy wszystkich niewolników do Gasparino, który daje nam nagrodę i kończymy quest.
+1. Rozliczamy u Gasparina los wszystkich czterech zbiegów. Morris nie żyje — zgłaszamy znalezienie jego ciała. Pozostałych trzech można odprowadzić, jeśli żyją; dostępne są także odpowiedzi o ich śmierci lub ucieczce. Po rozliczeniu zbiegów odbieramy nagrodę.
 
 2. [Ratunek dla niewolników](/solucja/rozdzial-iv/#ratunek-dla-niewolnikow)
 
@@ -696,7 +722,7 @@ Po zdobyciu zaufania Tartarona, Gasparino prosi nas o pozbycie się pełzaczy z 
 
 #### Katakumby Ugaru {#katakumby-ugaru}
 
-Zadanie to otrzymujemy po pierwszym wejściu do katakumb. Polega ono na skompletowaniu wszystkich kluczy do wejść do katakumb Ugaru
+Zadanie otrzymujemy podczas rozmowy z duchem alchemika, który przekazuje nam klucz do krypty. Samo odkrycie wejścia do katakumb nie rozpoczyna tego zadania. Następnie kompletujemy klucze do pozostałych wejść do katakumb Ugaru.
 
 Spis wejść i kluczy
 
@@ -711,6 +737,18 @@ Spis wejść i kluczy
 5. Mroczna uliczka w świątyni - Klucz ma Mansur, zdobywamy podczas misji [Morderstwo handlarza klejnotami](/solucja/rozdzial-iv/#martwy-handlarz-klejnotami)
 
 6. Piwnica Tartarona - Klucz do katakumb ma Tartaron, a do samej piwnicy Karim
+
+#### Poszukiwanie skarbu koło Aszdodu {#poszukiwanie-skarbu-kolo-aszdodu}
+
+Zadanie możemy rozpocząć już w IV rozdziale, kupując od Amada w Ugarze mapę skarbów nr 1 i ją czytając. Drugim sposobem jest przeczytanie listu martwego niewolnika znalezionego przy Aszdodzie.
+
+Wskazówki prowadzą w góry koło Aszdodu. Przy jaskiniach, którymi można opuścić miasto, szukamy podejścia po lewej stronie. Na górze jest mała dolina ukryta za krzakami. Wykopanie znajdującego się tam skarbu kończy zadanie. Późniejsze dotarcie do Aszdodu jest etapem poszukiwań; pierwszą wskazówkę możemy otrzymać i odczytać już w Ugarze.
+
+#### Poszukiwanie skarbu na Zachodnim Varancie {#poszukiwanie-skarbu-na-zachodnim-varancie}
+
+Kupujemy u Amada w Ugarze mapę skarbów nr 7 i ją czytamy. Alternatywny początek to znalezienie kartki i mapy u Beltrofa, przywódcy rozbójników z mrocznej wieży w [zachodnim Varancie](/solucja/rozdzial-iv/#zachodni-varant), oraz przeczytanie wskazówki.
+
+Udajemy się do doliny za przejściem do Ishtar. Na jej północnym zachodzie szukamy jaskini zamieszkanej przez gobliny, wskazanej na mapie. Wydobywamy skarb, co kończy zadanie.
 
 ## Amarna i przełęcz {#amarna-i-przelecz}
 
@@ -808,13 +846,15 @@ Dowiadujemy się od Zoraba, że został on okradziony przez Hulama i Sadika. J
 
 #### Dom Zoraba {#dom-zoraba}
 
-Przy robieniu zadania [Towary z Ishtar](/solucja/rozdzial-iv/#towary-z-ishtar) dostajemy się do domu Zoraba. Jeśli ukradniemy z niego cokolwiek, misja wchodzi w życie, a Sorab staje się do nas agresywnie nastawiony, pod warunkiem że mamy coś z "rzeczy Zoraba" w ekwipunku. Zadanie kończy się, kiedy pogadamy z nim nie mając żadnej z jego rzeczy.
+Zadanie rozpoczynamy, wypytując Zoraba o niego samego i jego dom. Dowiadujemy się, że przechowuje zapasy żywności dla garnizonu na przełęczy. Dziennik zaleca odłożyć kradzież do czasu wizyty w świątyni Aszdodu, ponieważ Zorab może się nam jeszcze przydać. Do domu dostajemy się również podczas zadania [Towary z Ishtar](/solucja/rozdzial-iv/#towary-z-ishtar).
+
+Zabranie oznaczonych zapasów Zoraba zamyka ten wątek wpisem o zdobytym łupie. Dopiero gdy Zorab wykryje kradzież, rozpoczyna się osobne zadanie [Kradzież u Zoraba](/solucja/rozdzial-iv/#kradziez-u-zoraba).
 
 #### Kradzież u Zoraba {#kradziez-u-zoraba}
 
-Sorab jest na nas zły i będzie nas atakował za każdym razem jak z nim porozmawiamy, chyba że pozbędziemy się towarów Zoraba z ekwipunku.
+To osobne zadanie, które rozpoczyna się po wykryciu kradzieży przez Zoraba, a nie przy pierwszej rozmowie o [jego domu](/solucja/rozdzial-iv/#dom-zoraba). Zorab staje się wrogi i może atakować nas przy kolejnych rozmowach, jeśli nadal mamy jego towary.
 
-Zadanie kończy się po rozmowie z nim i udowodnieniu że jesteśmy niewinni
+Pozbywamy się wszystkich oznaczonych rzeczy Zoraba z ekwipunku, na przykład je sprzedając. Chodzi o jego zapasy, a nie o zwykłe przedmioty tego samego rodzaju. Po wpisie w dzienniku o pozbyciu się towarów wracamy do Zoraba bez żadnej z tych rzeczy i zaprzeczamy oskarżeniu. Rozmowa zamyka zadanie.
 
 #### Bezimienny bohater {#bezimienny-bohater}
 
@@ -832,7 +872,9 @@ Diego potrzebuje mapy doliny Tadmoru, którą można kupić u Amada. Oddajemy ma
 
 ### Zadania główne i powiązane {#zachodni-varant-zadania-glowne-i-powiazane}
 
-#### [Poszukiwania Xardasa w Varancie](/solucja/rozdzial-iv/#poszukiwania-xardasa-w-varancie) {#poszukiwania-xardasa-w-varancie}
+#### Poszukiwanie Xardasa w Varancie — kontynuacja {#poszukiwania-xardasa-w-varancie}
+
+Kontynuacja zadania [Poszukiwanie Xardasa w Varancie](/solucja/rozdzial-iii/#poszukiwania-xardasa-w-varancie), które rozpoczynamy u Sejana w Khorinis w III rozdziale. W zachodnim Varancie szukamy śladów Xardasa w jego wieży; pełny opis i wskazówki dotyczące klucza oraz ukrytej skrzyni znajdują się pod powyższym odsyłaczem.
 
 #### Rozbójnicy {#rozbojnicy}
 
@@ -894,7 +936,7 @@ Bachram, przywódca myśliwych pod obozem Saida, prosi nas o pomoc w polowaniu. 
 
 #### Pustynni rabusie Alego {#pustynni-rabusie-alego}
 
-Kiedy poprosimy Saida o pomoc w odbiciu Aszdodu, zleca on nam pozbycie się wrogiego klanu rabusi Alego. Znajduje się on między zniszczonym miastem, a wieżą Wojowników Beliara. Po wszystkim wracamy do Saida, który zgadza się udzielić nam pomocy.
+Said wspomina o klanie Alego podczas próby zdobycia jego zaufania, po rozmowie z Tamarą. To ta sama rozmowa, w której żąda paczek broni. Rabusie przebywają między zniszczonym miastem a wieżą Wojowników Beliara. Pozbywamy się wrogiego klanu i wracamy z raportem do Saida. Usunięcie zagrożenia pozwala zabiegać o pomoc jego ludzi; zadania nie otrzymujemy dopiero podczas wyzwalania Aszdodu.
 
 #### Mag wody Merkurius {#mag-wody-merkurius}
 
@@ -902,9 +944,11 @@ Zadanie informacyjne zawierające istotne informacje dla wątku głównego; Zacz
 
 #### Boski artefakt {#boski-artefakt}
 
-Merkurius prosi nas o zatrzymanie orkowych wykopalisk w ruinach Tadmoru. Możemy odebrać to zadanie po zebraniu kamienia ogniskującego z dna kanionu w ramach zadania "Nemrosh". Po dostaniu się do świątyni za pomocą teleportu w jaskini, przechodzimy przez labirynt, przebijając się przez hordy nieumarłych, po czym czytamy pulpity i tabliczkę ze skrzyni. Pokazujemy ją Bezimiennemu, Merkuriusowi, a na koniec oddajemy Hakoonowi.
+Merkurius prosi nas o zatrzymanie orkowych wykopalisk w ruinach Tadmoru. Zadanie możemy otrzymać już podczas rozmowy z Merkuriusem o wykopaliskach orków. Zdobycie kamienia ogniskującego z dna kanionu w ramach zadania „Nemrosh” i uruchomienie teleportu to dalsze etapy. Jeśli pominęliśmy wcześniejszą rozmowę, wejście przez teleport również może rozpocząć ten wątek. Po dostaniu się do świątyni za pomocą teleportu w jaskini, przechodzimy przez labirynt, przebijając się przez hordy nieumarłych, po czym czytamy pulpity i tabliczkę ze skrzyni. Pokazujemy ją Bezimiennemu, Merkuriusowi, a na koniec oddajemy Hakoonowi.
 
-#### Stare kamienne tablice {#stare-kamienne-tablice}
+#### Pradawne kamienne tabliczki {#stare-kamienne-tablice}
+
+W starszych opisach: „Stare kamienne tablice”.
 
 Merkurius zgadza się nauczyć nas języka starożytnych, ponieważ potrzebujemy tej wiedzy do dowiedzenia się gdzie jest artefakt z Tadmoru. Aby nas uczył, musimy:\
 \-Wejść do 5 rozdziału i nauczyć się języka czarnych magów\
